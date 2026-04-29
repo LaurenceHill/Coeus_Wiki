@@ -17,7 +17,7 @@ this directory tree.
 - [[Invent and Wander]] — Jeff Bezos with Walter Isaacson, 2020 (primary)
 - [[The Bezos Letters]] — Steve Anderson, 2019 (secondary commentary)
 - [[Berkshire Chairman's Letters]] — Warren E. Buffett, 1977 onward
-  (ingestion in progress; 1977–2010 letters read so far)
+  (ingestion in progress; 1977–2014 letters read so far)
 
 ## Concepts
 
@@ -52,6 +52,8 @@ this directory tree.
 - [[Gotrocks Family and Frictional Costs]] — Buffett's allegory for how financial intermediaries extract aggregate investor returns; four layers of Helpers; Newton's Fourth Law; 2-and-20 arithmetic (2005–2006)
 - [[Great, Good and Gruesome]] — Buffett's three-category business quality taxonomy: savings-account analogy; See's as the Great exemplar; FlightSafety as Good; airlines as Gruesome (2007)
 - [[Leverage and Liquidity]] — Buffett's "Life and Debt" framework: zero-multiplier argument; credit as oxygen; $10B floor / $20B customary cash; crisis capital deployment (2010)
+- [[concepts/Investment Categories]] — Buffett's three-category taxonomy: currency-based instruments (most dangerous), non-productive assets, and productive assets; why equities beat gold and bonds over long periods (2011)
+- [[concepts/ABCs of Business Decay]] — Arrogance, Bureaucracy, Complacency: the three forces that erode durable businesses; Berkshire's structural antidotes; only a vigilant CEO can prevent them (2014)
 
 ### Holding and selling
 

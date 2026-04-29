@@ -2,7 +2,10 @@
 
 **Source:** [[Berkshire Chairman's Letters]] — 1979 letter,
 "Long Term Results" section (first formulation as the *investor's
-misery index*); developed across the 1980 and 1981 letters.
+misery index*); developed across the 1980 and 1981 letters;
+extended in the 2011 letter ("The Basic Choices for Investors")
+with 46-year purchasing-power data and the invisible-vs-visible
+tax comparison.
 
 ## Summary
 
@@ -183,6 +186,14 @@ picture distort. *"Real income"* is the concept that survives;
 *"earnings per share"* in nominal dollars during high inflation is
 not.
 
+## The 46-year measurement (2011)
+
+The 2011 letter's investment-categories essay supplies the longest available quantification of the inflation tax's damage. Between 1965 and 2011 — the period since Buffett took over Berkshire — the dollar lost 86% of its purchasing power. Over the same period, continuously rolling US Treasury bills returned 5.7% annually. A taxable investor paying 25% income tax on that yield received 4.3% after explicit tax. The inflation rate over the period consumed the remaining 4.3 percentage points of real return. Net real return: zero. *"It's noteworthy that the implicit inflation 'tax' was more than triple the explicit income tax that our investor probably thought of as his main burden."*
+
+The asymmetry the 2011 letter highlights is that the explicit income tax is visible, contested, and the subject of continuous policy debate; the inflation tax is invisible, automatic, and rarely discussed in those terms. Both are real deductions from the investor's real wealth. Their relative magnitudes, at the interest rates and inflation rates of the 1965–2011 period, inverted common intuition entirely. This is the same argument the early letters made in the context of the 1970s inflation spike, now supported by nearly five decades of data.
+
+The 2011 letter also restates the conclusion for the present: bond yields of the early 2010s offered no meaningful protection against inflation. Buffett's formulation — *"bonds promoted as offering risk-free returns are now priced to deliver return-free risk"* — is the sharpest single inversion of the standard description. The nominal return exists; the real return does not. See [[Investment Categories]] for the full taxonomy of why currency-based instruments are in this structural position.
+
 ## Where this connects to Fisher
 
 Fisher's [[Stocks and Inflation]] argument — written in 1960 in
@@ -207,3 +218,6 @@ qualified-yes; the qualifications matter.
 - [[Stocks and Inflation]]
 - [[Free Cash Flow Over Earnings]] — Bezos's argument for the right
   earnings unit, related in spirit
+- [[Investment Categories]] — the 2011 taxonomy placing currency-based
+  instruments in the most-dangerous category precisely because of the
+  inflation-tax mechanism

@@ -1,7 +1,7 @@
 # Insurance Float
 
 **Source:** [[Berkshire Chairman's Letters]] — 1997 and 1998 letters;
-extended in 2000, 2001, 2002, 2004, 2006, and 2010 letters
+extended in 2000, 2001, 2002, 2004, 2006, 2010, and 2011–2014 letters
 
 ## Summary
 
@@ -182,10 +182,10 @@ as well' spells trouble in any business, but none more so than insurance." NICO'
 voluntary 85% premium contraction over thirteen years (described above) is the
 paradigmatic example of the fourth commandment functioning correctly.
 
-## Float growth: the record (1967–2010)
+## Float growth: the record (1967–2014)
 
-Float has grown from $20 million in 1967 to $65.8 billion at year-end 2010,
-compounding at roughly 25% annually for over four decades. The cost of that
+Float has grown from $20 million in 1967 to $83.9 billion at year-end 2014,
+compounding at roughly 20% annually for nearly five decades. The cost of that
 float, in aggregate over the period, has been well below zero in most years —
 Berkshire has actually been *paid* to hold other people's money across the
 full run. Individual years have been terrible: 1984 (float cost 19%), 2001
@@ -194,8 +194,8 @@ losses from Katrina, Rita, and Wilma produced a meaningful float cost).
 These bad years are built into the long-run average and do not alter the
 structural conclusion.
 
-By 2010, Berkshire had recorded eight consecutive years of underwriting
-profit, with cumulative underwriting gains of $17 billion over that run.
+By 2014, Berkshire had recorded twelve consecutive years of underwriting
+profit, with cumulative underwriting gains of $24 billion over that run.
 
 The float figures by year-end:
 
@@ -213,6 +213,10 @@ The float figures by year-end:
 - 2008: $58.5B ($21.1B Gen Re, $24.2B B-H Reinsurance, $8.5B GEICO, $4.7B Other); underwriting profit $2.792B
 - 2009: $61.9B ($21.0B Gen Re, $26.2B B-H Reinsurance, $9.6B GEICO, $5.1B Other); underwriting profit $1.559B
 - 2010: $65.8B ($20.0B Gen Re, $30.4B B-H Reinsurance, $10.3B GEICO, $5.1B Other); underwriting profit $2.013B
+- 2011: $70.6B ($19.7B Gen Re, $33.7B B-H Reinsurance, $11.2B GEICO, $6.0B Other); underwriting profit $0.248B
+- 2012: $73.1B ($20.1B Gen Re, $34.8B B-H Reinsurance, $11.6B GEICO, $6.6B Other); underwriting profit $1.625B — tenth consecutive year of profitability; cumulative $18.6B
+- 2013: $77.2B ($20.0B Gen Re, $37.2B B-H Reinsurance, $12.6B GEICO, $7.4B Other); underwriting profit $3.089B — eleventh consecutive year; cumulative $22B
+- 2014: $83.9B ($19.3B Gen Re, $42.5B B-H Reinsurance, $13.6B GEICO, $8.6B Other); underwriting profit $2.668B — twelfth consecutive year; cumulative $24B
 
 The 2002 letter notes the appropriate caveat about the 1% cost figure: no
 megacatastrophe occurred in 2002, which inflated the apparent underwriting

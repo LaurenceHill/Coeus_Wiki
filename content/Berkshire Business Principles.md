@@ -5,7 +5,9 @@ Manual*, written for the new shareholders inherited via the Blue Chip
 merger); extended in the 2005 and 2006 letters on debt discipline,
 moat management, and management succession; 2009 letter, operating
 constraints by inversion; 2010 letter, third component of intrinsic
-value and culture propagation.
+value and culture propagation; 2014 letter and Munger's Vice Chairman
+essay (CEO criteria, financial staying power, the Berkshire system,
+and the ABCs of business decay).
 
 ## Summary
 
@@ -308,6 +310,36 @@ The first two are familiar: investments per share (the value of the equity portf
 The historical illustration Buffett offers is Sears and Montgomery Ward versus Sam Walton. Both the established retailers and the Walton upstart were in the same business during the post-war period. The established businesses retained earnings; their retained earnings produced modest incremental returns. Walton retained earnings that produced the dominant American retailer of the late twentieth century. The per-share earnings in any given year would not have told an investor much about this difference — the distinction resided in the quality of reinvestment, which is a qualitative assessment rather than an accounting figure.
 
 The practical implication is a refinement of principle 9 in the Owner's Manual: the test of whether retained earnings earn their keep is not only whether market value eventually exceeds retained capital, but whether the underlying return on incremental capital deployed justifies the retention. A business trading at a high market-to-book ratio because of past retained-earnings quality may continue to be undervalued if its forward reinvestment opportunities are similarly attractive — the market may not yet be pricing in the third component. Conversely, a business whose reinvestment opportunities have deteriorated should return capital to shareholders through dividends or buybacks rather than destroying value through retention at declining marginal returns.
+
+## CEO criteria and financial staying power (2014)
+
+The 2014 letter's "Next 50 Years" section elaborates the Owner's Manual principles into their most explicit statement of what Berkshire looks for in a successor CEO and what financial architecture the company is committed to maintaining.
+
+The CEO criteria, stated in the 2014 letter: rational, calm, and decisive; possessing broad understanding of business and good insights into human behaviour; knowing one's limits ("I'm no genius, but I'm smart in spots and I stay around those spots" — Tom Watson Sr. of IBM); "all in for the company, not for himself"; immune to ego-driven pay comparisons with peers; capable of fighting off the [[ABCs of Business Decay]]; and possessing the "tone at the top" necessary to maintain Berkshire's culture. Character, in Buffett's framing, is not a soft criterion alongside analytical ability — it is the primary one. A CEO motivated by peer-compensation comparison will accept bureaucracy that inflates his organisation's prestige. A CEO who cannot face uncomfortable truths will drift toward arrogance. The structural protections of decentralisation and autonomy reduce the risk but cannot substitute for the CEO's character.
+
+Financial staying power, as articulated in 2014, rests on three pillars: first, a large and reliable stream of earnings from a diversified array of businesses; second, massive liquid assets (at minimum $20 billion, never pledged or encumbered in ways that could create sudden demands); and third, no significant near-term cash requirements — specifically, no short-term debt maturities of size and no derivative contracts requiring large potential collateral calls. The 2014 letter names the third pillar as the one most often neglected: companies that would easily meet pillars one and two still fail when they assume refinancing will always be available for maturing short-term obligations. September 2008 demonstrated what happens when that assumption proves false.
+
+## Munger's system: the 15-point taxonomy (2014)
+
+Munger's Vice Chairman essay in the 2014 annual report is the most complete external description of the Berkshire system ever published. Munger lists fifteen elements of the system as it was designed and operated under Buffett. Compressed:
+
+1. Berkshire would be a diffuse conglomerate, averse only to activities it could not make useful predictions about.
+2. Its top company would do almost all business through separately incorporated subsidiaries whose CEOs operate with very extreme autonomy.
+3. Almost nothing at headquarters except a tiny office suite with a Chairman, a CFO, and a few assistants.
+4. Subsidiaries would always prominently include casualty insurers expected to produce dependable underwriting gains and substantial float.
+5. No significant system-wide personnel, option, or retirement system — subsidiaries have their own, often different.
+6. The Chairman reserves only a few activities for himself: managing investments, choosing and compensating subsidiary CEOs, deploying surplus cash into acquisitions, being available to subsidiary CEOs on demand, writing the annual report, and being "an exemplar in a culture that would work well for customers, shareholders, and other incumbents for a long time."
+7. New subsidiaries would usually be bought with cash, not stock.
+8. No dividends so long as a dollar retained creates more than a dollar of market value.
+9. New subsidiaries should be purchased at a fair price for a good business the Chairman could understand, with a good CEO expected to stay.
+10. CEOs chosen for trustworthiness, skill, energy, and love for the business.
+11. Berkshire would almost never sell a subsidiary.
+12. Berkshire would almost never transfer a subsidiary's CEO to another unrelated subsidiary.
+13. Berkshire would never force a subsidiary CEO to retire on account of age.
+14. Little debt outstanding; virtually perfect creditworthiness under all conditions; easy cash availability.
+15. Always user-friendly to a prospective seller of a large business; prompt attention; complete confidentiality.
+
+Munger's diagnosis of why the system worked is worth noting separately: Buffett's decision to limit his activities to a few kinds and to maximise his attention to them for fifty years was, in Munger's word, a *lollapalooza*. The comparison is to John Wooden concentrating virtually all playing time on his seven best players. Munger also identifies the biggest category of Berkshire mistakes as errors of omission — not buying Walmart when it was "sure to work out enormously well." The net worth shortfall from missed purchases he estimates at least $50 billion.
 
 ## Contradictions
 

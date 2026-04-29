@@ -1,7 +1,9 @@
 # Investment vs Speculation
 
 **Source:** [[Berkshire Chairman's Letters]] — 2000 letter, "Investments"
-section (canonical formulation); reinforced in 2001 letter.
+section (canonical formulation); reinforced in 2001 letter; extended in
+2013 letter (farmland and real estate examples; productivity focus vs.
+price-change focus; macro irrelevance).
 
 ## Summary
 
@@ -170,6 +172,16 @@ that the price offered for the bird in hand is low relative to the birds
 expected in the bush — but that inference requires a view about the birds,
 not a mechanical comparison of ratios. The ratio is a clue, not an answer.
 
+## The productivity test and macro irrelevance (2013)
+
+The 2013 letter's investment essay restates the investment/speculation distinction through two personal examples — a Nebraska farm bought from the FDIC in 1986 and a New York retail property bought from the RTC in 1993 — and arrives at the same conclusion from a different direction. Both purchases were made at approximately 10% unleveraged current yields. Neither required predicting the macroeconomic environment of the following years. Buffett explicitly notes that he has no memory of the 1987 or 1994 headlines, and that their content was irrelevant to both decisions: *"corn would keep growing in Nebraska and students would flock to NYU."*
+
+The 2013 formulation of the investment/speculation distinction is the sharpest single-sentence version in the corpus: *"If you instead focus on the prospective price change of a contemplated purchase, you are speculating."* The positive version of the test: investment is focusing exclusively on the future productive output of the asset and asking whether that output, at the purchase price, represents adequate return. Price-change focus — buying because prices have been rising and therefore might continue to rise — is the definition of speculation regardless of the asset class. *"The fact that a given asset has appreciated in the recent past is never a reason to buy it."*
+
+The 2013 letter also addresses the practical advice for investors who lack the ability to estimate specific businesses' earning power. The know-nothing investor's correct response is not speculation but passive ownership of a diversified cross-section: *"A low-cost S&P 500 index fund will achieve this goal."* Even more concretely, Buffett's own will instructs the trustee to hold 90% in a very low-cost S&P 500 index fund and 10% in short-term government bonds — the simplest available implementation of the productive-assets preference without requiring any ability to evaluate individual businesses. This advice sits entirely within the investment frame: the index investor is buying a claim on the future productive output of American business, not speculating on price movements.
+
+The macro-irrelevance point merits its own emphasis. Buffett's 54-year record of never foregoing an attractive purchase because of macro or political environment or the views of others is not a coincidence; it is a direct consequence of the investment/speculation distinction. Macro and political environments affect Mr. Market's moods; they do not change the productive output of the farm or the student population at NYU. The investor who uses macro concerns as reasons to avoid purchase at attractive prices is allowing Mr. Market's irrationality to infect his own thinking.
+
 ## Contradictions
 
 The framework is in tension with the academic efficient-market position,
@@ -195,3 +207,6 @@ standing [[Active vs Passive Investing]] tension page (planned).
   at prices far below the bush's fair value
 - [[Look-Through Earnings]] — the correct lens for counting birds across
   fractional ownership structures
+- [[Investment Categories]] — the 2011 taxonomy showing that the
+  investment/speculation distinction applies across all asset classes,
+  not just equities

@@ -6,8 +6,10 @@ Wells Fargo discussion and portfolio-buying-posture section (the food-price
 analogy and contrarian-thinking correction); 1997 letter, "How We Think
 About Market Fluctuations" section (the hamburger analogy and net-buyer
 logic); 2008 and 2009 letters (crisis capital allocation and approval
-as enemy of investing). Graham's original formulation appears in *The
-Intelligent Investor* (1949); Buffett cites Graham explicitly and
+as enemy of investing); 2013 letter (moody-neighbour farm extension;
+"climate of fear is your friend when investing"). Graham's original
+formulation appears in *The Intelligent Investor* (1949); Buffett cites
+Graham explicitly and
 reproduces the parable in full.
 
 ## Summary
@@ -186,6 +188,16 @@ Berkshire deployed $15.5 billion in 25 days during the post-Lehman panic
 — rates available during those days "would have been unavailable in normal
 markets."
 
+## The moody neighbour and the farm (2013)
+
+The 2013 letter's investment essay extends the Mr. Market parable into its most tangible form. Buffett describes owning a 400-acre farm adjacent to a neighbour who, daily, shouts out a price at which he will either buy the farm or sell his own. The neighbour's moods swing widely. On some days the price is ridiculously low; on others it is absurdly high. The farmer's rational response is simple: buy when the price is ridiculously low and there is spare cash available, ignore the daily shouts otherwise, and certainly never let the neighbour's mood determine whether the farm itself is managed well or poorly.
+
+The stock investor is in an identical position, but with one specific advantage the farmer does not have: minute-to-minute valuations. For most investors this advantage is squandered — the availability of continuous quotations transforms liquidity *"from the unqualified benefit it should be to a curse."* The investor who can sit quietly for decades owning a farm becomes frenetic when exposed to a stream of stock quotations and commentators delivering an implied message of *"Don't just sit there, do something."*
+
+The 2013 letter's most compressed formulation of the Mr. Market principle: *"A climate of fear is your friend when investing; a euphoric world is your enemy."* The sequence parallels 1990's "optimism is the enemy" but takes the positive form: fear, which creates the low prices from which Mr. Market's buy signals emerge, is not a problem to be endured but a condition to be exploited. During the financial panic of late 2008, Buffett gave no thought to selling his farm or his New York real estate; the same discipline should have applied, and did apply for Berkshire, to the equity portfolio.
+
+The letter also makes explicit what was implicit in earlier formulations: macro analysis is not an input to this process. *"Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important."* Mr. Market's moods are often driven by macroeconomic fear or enthusiasm. The investor who responds to macroeconomic signals — rather than to the relationship between price and the underlying productivity of the asset — has handed back the advantage that Mr. Market's irrationality creates.
+
 ## The EMT parallel
 
 Buffett explicitly links the Mr. Market parable to his critique of Efficient
@@ -249,3 +261,8 @@ positions, Mr. Market's euphoric moods are genuine selling triggers.
   bad mood to avoid re-evaluating a deteriorating thesis
 - [[Leverage and Liquidity]] — the financial architecture that enables
   acting at scale when Mr. Market panics
+- [[Investment Categories]] — the 2011 framework explaining why productive
+  assets are genuinely safer over long periods despite price volatility
+- [[Investment vs Speculation]] — the distinction between focusing on the
+  asset's productivity (investment) and focusing on Mr. Market's moods
+  (speculation)

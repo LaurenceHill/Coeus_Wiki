@@ -7,7 +7,10 @@ proportionate redemptions and the Washington Post case); reinforced
 1985 (Capital Cities/ABC structure, the WPC *triple dip*); 1997 letter,
 "A Confession" section (stock-only merger aggregate record); 2007 letter
 (Dexter shoes as issuance cautionary tale); 2009 letter (BNSF
-stock-for-stock analysis and counterfeit-money argument).
+stock-for-stock analysis and counterfeit-money argument); 2011 letter
+(IBM buyback counter-intuition; long-term holders should prefer low
+prices); 2012 letter (repurchase limit raised to 120% of book value;
+capital allocation hierarchy).
 
 ## Summary
 
@@ -302,6 +305,16 @@ should hire a second advisor to make the case against the proposed acquisition,
 with its fee contingent on the deal not going through. Absent this drastic
 remedy, our recommendation in respect to the use of advisors remains: 'Don't
 ask the barber whether you need a haircut.'"*
+
+## The IBM buyback counter-intuition (2011)
+
+The 2011 letter contains the clearest statement of why long-term shareholders should *want* a company they own to buy back shares at low prices rather than high ones. Buffett uses IBM as the worked example. If IBM spends $50 billion on buybacks over five years at an average price of $200, it retires 250 million shares and Berkshire's ownership stake in a smaller share count rises. If the price averages $300, IBM retires only 167 million shares and Berkshire's stake grows less. In the fifth year, assuming the same earnings, Berkshire's share would be $100 million higher under the "disappointing" low-price scenario — and eventually worth roughly $1.5 billion more.
+
+The logic generalises: *"If you are going to be a net buyer of stocks in the future, either directly with your own money or indirectly (through your ownership of a company that is repurchasing shares), you are hurt when stocks rise. You benefit when stocks swoon."* Buffett traces his own conversion to this view to Chapter 8 of Ben Graham's *The Intelligent Investor*: *"Immediately the scales fell from my eyes, and low prices became my friend."* The emotional resistance — most shareholders take comfort in rising prices — is the specific behavioural error the IBM example is designed to correct. Talking up the stock of a company one owns while that company is conducting buybacks is actively harmful to long-term holders, not helpful.
+
+## Repurchase limit and the 2012 refinement
+
+The 2011 letter announced Berkshire would repurchase its own shares at up to 110% of book value. The brief window of purchases — $67 million before the price rose above the limit — demonstrated the discipline was genuine. The 2012 letter raised the limit to 120% after concluding that 110% was too conservative: intrinsic value exceeded book value by a sufficient margin that purchases up to 120% still represented genuine value creation for continuing shareholders. The 2012 letter also clarified the first law of capital allocation: *"what is smart at one price is dumb at another."* The limit is not a formula but a judgment anchored to intrinsic value; if intrinsic value were to deteriorate, the limit would need revisiting. And the minimum liquidity threshold — $20 billion in cash equivalents — acts as an absolute constraint: Berkshire will not repurchase shares if doing so would breach this floor.
 
 ## What this isn't
 

@@ -2,7 +2,9 @@
 
 **Source:** [[Common Stocks and Uncommon Profits]] — Chapter 7, "The
 Dividend Factor in Common Stock Investing"; Part Three, "Developing an
-Investment Philosophy" (the long shadow of dividends)
+Investment Philosophy" (the long shadow of dividends); extended in
+[[Berkshire Chairman's Letters]] — 2012 letter, "Dividends" section
+(sell-off arithmetic and capital allocation hierarchy).
 
 ## Summary
 
@@ -123,17 +125,27 @@ the Food Machinery Corporation investment — initiated during the
 Depression and held for decades — is his primary illustration of the
 mathematics it produces.
 
+## Buffett's sell-off arithmetic vs. dividend policy (2012)
+
+The 2012 letter contains the most detailed mathematical treatment of dividends in the Berkshire corpus, and it reaches the same conclusion as Fisher by a different route. Buffett constructs a worked example: two shareholders each owning half of a business with $2 million of net worth, earning 12% on tangible net worth, and trading at 125% of book value. Under a dividend policy paying out one-third of earnings, the investor receives $40,000 in year one and watches dividends and share value grow at 8% annually. Under a "sell-off" policy — retaining all earnings and the investor selling 3.2% of shares each year — the investor receives the same $40,000 in cash but ends up after ten years with more total capital *and* more annual cash than the dividend policy would have delivered. The arithmetic advantage compounds over time because retained earnings continue to earn 12% on an ever-larger base.
+
+Two structural reasons reinforce the arithmetic. First, dividends impose a single cash-out rate on all shareholders regardless of their individual preferences: a 40% payout policy frustrates both the investor who wants 30% and the one who wants 50%. The sell-off policy lets each shareholder calibrate their own withdrawal. Second, dividends create a tax event on the full cash receipt, whereas the sell-off policy taxes only the gain portion of each disposal. For a long-term holder with a low cost basis, this difference is substantial.
+
+Phil Fisher's restaurant analogy — approvingly cited in the 2012 letter — provides the practical design rule: *"you can successfully run a restaurant that serves hamburgers or, alternatively, one that features Chinese food. But you can't switch capriciously between the two and retain the fans of either."* Dividend policy, once set, should be clear and consistent. Capricious changes — cutting then restoring, paying then suspending — destroy shareholder confidence regardless of the underlying economics.
+
+## The capital allocation hierarchy (2012)
+
+The 2012 letter also states Berkshire's capital allocation priority order explicitly. A profitable company should first examine reinvestment opportunities in its existing businesses. If those are exhausted or insufficient, it should seek unrelated acquisitions that will increase per-share intrinsic value. If no acquisition is available at a sensible price, it should repurchase its own shares when they trade at a meaningful discount to intrinsic value — *"the surest way to use funds intelligently: it's hard to go wrong when you're buying dollar bills for 80¢ or less."* Dividends come last, as the residual when no other deployment passes the test.
+
+This hierarchy is not hostile to dividends — Buffett explicitly says he applauds Berkshire's investees when they pay consistent and growing dividends, and that he loves repurchases at appropriate prices. The hierarchy is a statement about sequencing: dividends are appropriate when the prior three uses of capital have been genuinely exhausted, and inappropriate as a first call on earnings that could be reinvested at superior rates.
+
 ## Related
 
-- [[Common Stocks and Uncommon Profits]] — the source
-- [[Free Cash Flow Over Earnings]] — Bezos's parallel argument: the
-  management team that optimises for dividends or reported earnings
-  rather than reinvestment is choosing the wrong objective
-- [[Look-Through Earnings]] — Buffett's related argument about accounting
-  for retained earnings in minority-held businesses
-- [[Fifteen Points]] — the qualitative checklist for identifying companies
-  with genuine reinvestment opportunities
-- [[Concentration vs Diversification]] — the portfolio structure within
-  which the dividend argument operates
-- [[Long-Term Thinking]] — the time horizon within which retained
-  earnings compounding is the dominant value driver
+- [[Common Stocks and Uncommon Profits]] — the primary source; Fisher's original argument from the investor's standpoint
+- [[Berkshire Chairman's Letters]] — the 2012 letter for the full sell-off arithmetic
+- [[Issuance and Buyback Discipline]] — the third step in the capital allocation hierarchy; when and how repurchases make sense
+- [[Free Cash Flow Over Earnings]] — Bezos's parallel argument: the management team that optimises for dividends or reported earnings rather than reinvestment is choosing the wrong objective
+- [[Look-Through Earnings]] — Buffett's related argument about accounting for retained earnings in minority-held businesses
+- [[Fifteen Points]] — the qualitative checklist for identifying companies with genuine reinvestment opportunities
+- [[Concentration vs Diversification]] — the portfolio structure within which the dividend argument operates
+- [[Long-Term Thinking]] — the time horizon within which retained earnings compounding is the dominant value driver

@@ -672,6 +672,113 @@ A future contradiction page can pull tensions out where they are real.
   constraints), [[Institutional Imperative]] (newspaper test, culture
   propagation), [[Investment Risk vs Beta]] (Black-Scholes extended).
 
+- **2011** — the investment-categories essay is the standout analytical
+  contribution. Buffett divides all investments into three types: currency-based
+  instruments (most dangerous; inflation silently confiscates purchasing power;
+  *"bonds promoted as offering risk-free returns are now priced to deliver
+  return-free risk"*; the invisible inflation tax across 1965–2011 was more
+  than triple the explicit income tax); non-productive assets, anchored by gold
+  (*"neither of these assets will produce anything... their buyers... are
+  counting on a greater fool"*; 170,000 tonnes of gold would fill a cube
+  19-metres on a side worth $9.6 trillion — equivalent to all American cropland
+  plus 16 Exxon Mobils, with $1 trillion of pocket change); and productive
+  assets — businesses, farms, and real estate — whose real output exists
+  regardless of currency regime. This is the strongest statement in the corpus
+  of why equities are structurally superior to monetary instruments over long
+  periods. The IBM buyback counter-intuition is developed for the first time:
+  IBM has repurchased roughly 7% of its shares per year; a long-term holder
+  should therefore prefer a *lower* IBM stock price — cheaper buybacks retire
+  more shares, compounding per-share earnings faster. *"The logic is simple
+  but often overlooked."* Ted Weschler joins Todd Combs as the second new
+  CIO hire. Float reaches $70.6B; ninth consecutive year of underwriting profit.
+  New pages: [[Investment Categories]].
+  Updates: [[Inflation Tax]] (46-year purchasing-power data),
+  [[Issuance and Buyback Discipline]] (IBM buyback counter-intuition),
+  [[Insurance Float]] ($70.6B, ninth year).
+
+- **2012** — the dividend vs. sell-off arithmetic letter. The centrepiece
+  section demolishes the intuition that dividends are inherently superior to
+  a sell-off policy. A worked example shows that two investors — one in a
+  dividend-paying company, one selling 3.2% of shares per year — begin
+  identically; after ten years of 10% business growth, the sell-off investor
+  holds more shares (89.3% of original vs 86.1%) and has received more cash.
+  The structural advantages of the sell-off policy are stated precisely: the
+  shareholder has control over timing and therefore over tax treatment (sell-off
+  gains attract capital gains tax only on appreciation, whereas dividends attract
+  income tax on the full amount); and the shareholder is not forced to take cash
+  when it suits the company rather than the shareholder. Phil Fisher's restaurant
+  analogy applied: diners who prefer dividends are like restaurant-goers who
+  insist on choosing from the menu what the kitchen sends out. The capital
+  allocation hierarchy is laid out in full: reinvest in the business first
+  (highest and best use when returns exceed cost of capital), then bolt-on
+  acquisitions, then repurchases (only below intrinsic value), and dividends
+  only as a residual of last resort. The repurchase limit is raised from 110%
+  to 120% of book value — the first law of capital allocation: *"what is smart
+  at one price is dumb at another."* The $20B liquidity floor is affirmed as
+  an absolute constraint on any repurchase programme. Float reaches $73.1B;
+  tenth consecutive year of underwriting profit; cumulative underwriting gains
+  $18.6B over the run. Updates: [[concepts/Dividends]] (sell-off arithmetic,
+  capital allocation hierarchy), [[Issuance and Buyback Discipline]]
+  (120% limit, $20B floor), [[Insurance Float]] ($73.1B, tenth year).
+
+- **2013** — the investment essay contains Buffett's most tangible statement
+  of the investment/speculation distinction. Two real personal purchases anchor
+  the argument: a 400-acre Nebraska farm bought from the FDIC in 1986 at
+  approximately 10% unleveraged yield (*"I needed no unusual knowledge or
+  intelligence to conclude that the investment had no risk"*), and a New York
+  retail property bought from the RTC in 1993 at similar terms. Neither
+  required a macro view. The lesson: *"Forming macro opinions or listening to
+  the macro or market predictions of others is a waste of time. Indeed, it is
+  dangerous because it may blur your vision of the facts that are truly
+  important."* The Mr. Market framework is extended via a moody-neighbour farm
+  analogy: a neighbour who shouts daily prices should be ignored unless his
+  price is wildly attractive; *"a climate of fear is your friend when investing;
+  a euphoric world is your enemy."* The sharpest single-sentence version of the
+  investment/speculation distinction in the corpus: *"If you instead focus on
+  the prospective price change of a contemplated purchase, you are speculating."*
+  The 90/10 will instruction: Buffett's trustee is directed to hold 90% of assets
+  in a very low-cost S&P 500 index fund and 10% in short-term government bonds
+  — the know-nothing investor's correct response to productive-assets preference.
+  The letter also contains a tribute to Ben Graham, whose *Intelligent Investor*
+  is described as the best book on investing ever written, and whose Mr. Market
+  and Margin of Safety chapters remain the most important. Float reaches $77.2B;
+  eleventh consecutive year of underwriting profit; cumulative underwriting gains
+  $22B. Updates: [[Mr. Market]] (moody-neighbour extension, macro irrelevance),
+  [[concepts/Investment vs Speculation]] (productivity test, 90/10 instruction),
+  [[Insurance Float]] ($77.2B, eleventh year).
+
+- **2014** — the fiftieth-anniversary letter. Buffett writes an analytical
+  retrospective on what has driven Berkshire's performance since 1964; Munger
+  writes a separate Vice Chairman's letter diagnosing the same from outside.
+  The ABCs of business decay are named: Arrogance (the belief that prior
+  success grants immunity from competitive reality; GM, IBM, Sears, and US Steel
+  as monuments to this error), Bureaucracy (organisational self-preservation
+  instincts that crowd out economic reasoning; Berkshire's extreme
+  decentralisation as the antidote — no committees, no departments, no
+  approval chains beyond the CEO for operating matters), and Complacency
+  (the daily neglect of the moat that accumulates invisibly; *"widening the
+  moat"* is the explicit counter-discipline). Buffett argues only a vigilant
+  CEO can prevent the ABCs from taking hold, and that character matters more
+  than analytical ability: *"Charlie and I look for companies that have all
+  of Charlie's 15 business points. But we also look for a manager who is
+  energetic, rational, calm, and knows his/her own limits — all in for the
+  company, not for personal enrichment."* The three pillars of financial staying
+  power are stated: reliable streams of earnings from multiple sources, massive
+  liquid assets at all times, and no near-term cash demands from operations or
+  from debt maturities — the third pillar being the most frequently neglected
+  by otherwise sound managements. Munger's Vice Chairman essay provides the
+  most concentrated single-document list of what made Berkshire work: 15
+  elements spanning culture, structure, capital allocation, talent selection,
+  and incentive design. His own diagnosis of why the system succeeded is that
+  Buffett concentrated extreme ability on a small set of activities over 50
+  years — a *lollapalooza* of reinforcing advantages. Errors of omission
+  acknowledged: *"Our biggest mistakes have been errors of omission, not
+  commission. The Walmart example: we saw it and didn't buy it. That mistake
+  probably cost us $50B."* New pages: [[concepts/ABCs of Business Decay]].
+  Updates: [[Berkshire Business Principles]] (CEO criteria, financial staying
+  power, Munger's 15-point system, errors of omission),
+  [[Insurance Float]] ($83.9B, twelfth year, cumulative $24B).
+
 ## Related
 
 - [[Buffett's Four Criteria]]
@@ -693,10 +800,13 @@ A future contradiction page can pull tensions out where they are real.
 - [[Growth vs Value False Dichotomy]] — 1992 letter (explicit naming)
 - [[Investment Risk vs Beta]] — 1993 letter
 - [[Circle of Competence]] — 1996 letter
-- [[Insurance Float]] — 1997, 1998, and 2001 letters
-- [[Investment vs Speculation]] — 1999 letter
+- [[Insurance Float]] — 1997, 1998, 2001, and 2011–2014 letters
+- [[Investment vs Speculation]] — 1999 and 2013 letters
 - [[Earnings Integrity]] — 1998 letter (option expensing, earnings management)
 - [[Great, Good and Gruesome]] — 2007 letter
+- [[Investment Categories]] — 2011 letter
+- [[concepts/Dividends]] — 2012 letter (sell-off arithmetic, capital allocation hierarchy)
+- [[concepts/ABCs of Business Decay]] — 2014 letter and Munger essay
 - [[Leverage and Liquidity]] — 2010 "Life and Debt" section
 - [[Fifteen Points]] — Fisher's analogous selection checklist
 - [[Invent and Wander]] — Bezos's analogous primary source
