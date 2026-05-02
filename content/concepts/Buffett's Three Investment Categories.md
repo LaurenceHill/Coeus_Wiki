@@ -76,8 +76,8 @@ dramatically cheap relative to its earning power and competitive position.
 Workouts are investments whose return is driven by a specific corporate
 event rather than by the market's general reassessment of a business.
 The prototypical workout is a merger: if Company A announces it will
-acquire Company B at $40/share and Company B is trading at $36, the
-investor can buy Company B and earn the $4 spread when the deal closes.
+acquire Company B at $$40/share and Company B is trading at $$36, the
+investor can buy Company B and earn the $$4 spread when the deal closes.
 The relevant questions are the probability the deal closes, the expected
 time to close, and whether alternative uses of the capital produce a
 higher expected return.
@@ -138,8 +138,8 @@ large holder can unlock the value through corporate action.
 and water supply business, acquired at a significant discount to book
 value — a classic cigar-butt. After accumulating a controlling interest,
 Buffett brought in Harry Bottle as manager. Bottle's achievement over
-two years was comprehensive: he reduced inventory from $4 million to
-$1 million, eliminated marginal product lines, cut receivables, sold
+two years was comprehensive: he reduced inventory from $$4 million to
+$$1 million, eliminated marginal product lines, cut receivables, sold
 non-essential assets, and redeployed the liberated capital into
 marketable securities managed by Buffett. The business that had been
 earning a poor return on a large capital base was restructured so that
@@ -157,7 +157,7 @@ time-consuming: Dempster required substantial management attention
 from Buffett across two years.
 
 **Berkshire Hathaway (acquired 1962):** First purchased in November 1962
-at $7.60/share (average cost $14.86), originally as a Generals position
+at $$7.60/share (average cost $$14.86), originally as a Generals position
 and then consolidated into a Controls position. The textile business was
 the cigar-butt: declining, capital-intensive, with a workforce that
 Buffett described as hard-working and willing to improve, but facing

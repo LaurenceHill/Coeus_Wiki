@@ -64,7 +64,7 @@ not materially better than chance on the questions that matter most (recession
 timing, rate inflection points, currency turning points).
 
 The admission extends to Berkshire's own timing mistakes. Buffett has noted
-explicitly that he bought $16 billion of securities at terrible prices in
+explicitly that he bought $$16 billion of securities at terrible prices in
 September 2008, missed the March 2009 bottom, and missed the March 2020
 bottom — all cases where macro reading or market timing would have helped.
 His conclusion is not "I should try harder to time markets" but "we have not
@@ -118,9 +118,9 @@ technical ones, reprice with inflation.
 **2. A wonderful business with pricing power and low capital needs** — the
 ideal is a business that can raise prices without losing customers and does
 not need to reinvest at inflated capital costs to maintain its economics.
-See's Candies was the teaching case: approximately $7–9 million of tangible
-assets at the time of acquisition generated $30 million in revenues, and by
-the time revenues reached $300 million only $40 million of tangible capital was
+See's Candies was the teaching case: approximately $$7–9 million of tangible
+assets at the time of acquisition generated $$30 million in revenues, and by
+the time revenues reached $$300 million only $$40 million of tangible capital was
 required. The pricing power is the key variable; capital intensity is the
 killer.
 

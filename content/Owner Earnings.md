@@ -31,8 +31,8 @@ would have appeared had Berkshire not acquired it) and Company N ("new"
 Scott Fetzer as reported after Berkshire's acquisition premium triggered
 purchase-price accounting adjustments).
 
-Company O shows reported earnings of $40.2 million. Company N shows
-$28.6 million. Both companies are identical in every economic sense —
+Company O shows reported earnings of $$40.2 million. Company N shows
+$$28.6 million. Both companies are identical in every economic sense —
 same sales, same wages, same taxes, same competitive position. The
 difference is purely accounting: the acquisition premium required
 write-ups of inventory and fixed assets, producing larger depreciation
@@ -46,7 +46,7 @@ identical for both companies, because their actual competitive and capital
 requirements are identical. Under current conditions, Buffett estimates that
 the maintenance capital expenditure requirement (c) is approximately equal
 to historical-cost depreciation (b), which means owner earnings are close
-to the Company O reported earnings of $40.2 million. The owner who reads
+to the Company O reported earnings of $$40.2 million. The owner who reads
 the Company N GAAP number and concludes the business is worth less
 than Company O has been misled by accounting, not informed by economics.
 
@@ -135,15 +135,15 @@ front-loaded cost — the cash goes out first, before any benefit arrives:
 > anyone care to argue that the recording of the expense in years two through
 > ten would be simply a bookkeeping formality?"_
 
-The analogy is structurally exact. A company that buys a machine for $1
+The analogy is structurally exact. A company that buys a machine for $$1
 million today has already paid the cash; the subsequent depreciation charges
 are the accounting recognition of a cost that occurred at acquisition, not
 new costs. Adding those charges back to earnings implies that the original
 cash outlay was free — which is false. The 2002 letter also flags the
-FlightSafety illustration: the company spends $162 million on simulators
-against an annual depreciation charge of $95 million — capex running at 1.7×
-the depreciation charge. Anyone adding back the $95 million depreciation to
-reach "cash flow" is ignoring a net cash drain of $67 million annually
+FlightSafety illustration: the company spends $$162 million on simulators
+against an annual depreciation charge of $$95 million — capex running at 1.7×
+the depreciation charge. Anyone adding back the $$95 million depreciation to
+reach "cash flow" is ignoring a net cash drain of $$67 million annually
 relative to what GAAP depreciation implies, even before growth capex is
 considered.
 
@@ -171,14 +171,14 @@ of owner earnings in practice through the See's Candies case study.
 
 **The capital efficiency numbers stated plainly.** At multiple meetings Buffett
 gives the See's figures in a form that makes the owner-earnings concept
-concrete. At acquisition in 1972: approximately $30 million revenues and
-approximately $7–9 million in tangible net assets. (The 1991 Chairman's
-Letter specifies "tangible net worth of $7 million"; Buffett at annual
-meetings has cited approximately $9 million in tangible assets — the
+concrete. At acquisition in 1972: approximately $$30 million revenues and
+approximately $$7–9 million in tangible net assets. (The 1991 Chairman's
+Letter specifies "tangible net worth of $$7 million"; Buffett at annual
+meetings has cited approximately $$9 million in tangible assets — the
 difference likely reflects net worth vs. gross tangible assets, or
-measurement date.) By the time revenues had grown to roughly $300
-million: approximately $40 million tangible net assets required. Cumulative
-pre-tax profits extracted over the holding period: more than $1.5 billion.
+measurement date.) By the time revenues had grown to roughly $$300
+million: approximately $$40 million tangible net assets required. Cumulative
+pre-tax profits extracted over the holding period: more than $$1.5 billion.
 
 The arithmetic of owner earnings at its best: every dollar of incremental
 revenue over the holding period required essentially no additional capital

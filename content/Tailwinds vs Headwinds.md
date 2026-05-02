@@ -179,12 +179,12 @@ is taking on water.
 
 The 1985 letter also includes the most-detailed worked example in
 the corpus: _Burlington Industries._ In 1964 Burlington had sales
-of $1.2 billion against Berkshire's $50 million; it was the
-industry leader; its stock sold at $60 to Berkshire's $13.
+of $$1.2 billion against Berkshire's $$50 million; it was the
+industry leader; its stock sold at $$60 to Berkshire's $$13.
 Burlington committed to staying in textiles and over 1964–1985
-deployed roughly $3 billion of capital expenditure (more than
-$200 per share on the original $60 stock). On a 2-for-1 split-
-adjusted basis its stock by 1985 stood at $34, almost unchanged
+deployed roughly $$3 billion of capital expenditure (more than
+$$200 per share on the original $$60 stock). On a 2-for-1 split-
+adjusted basis its stock by 1985 stood at $$34, almost unchanged
 in nominal terms — and the CPI had more than tripled, leaving
 each share commanding about one-third of the purchasing power it
 had carried in 1964. The capital was rationally deployed within
@@ -210,12 +210,12 @@ on tiptoes does not let anyone see the parade better; it just
 makes everyone's calves sore.
 
 The 1985 textile-machinery auction is the bookend. Equipment
-that originally cost about $13 million and had a current book
-value of $866,000 — and that could have been replaced new for
-$30–50 million — sold at auction for gross proceeds of $163,122,
-a sum less than the cost of removal. Looms bought for $5,000 in
-1981 found no takers at $50 and were finally sold for scrap at
-$26 each. _"The economic goodwill attributable to two paper
+that originally cost about $$13 million and had a current book
+value of $$866,000 — and that could have been replaced new for
+$$30–50 million — sold at auction for gross proceeds of $$163,122,
+a sum less than the cost of removal. Looms bought for $$5,000 in
+1981 found no takers at $$50 and were finally sold for scrap at
+$$26 each. _"The economic goodwill attributable to two paper
 routes in Buffalo — or a single See's candy store — considerably
 exceeds the proceeds we received from this massive collection of
 tangible assets."_ The line ties the headwinds-vs-tailwinds

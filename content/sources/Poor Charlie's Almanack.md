@@ -23,7 +23,7 @@ and applied systematically as a checklist. This claim is not made abstractly. It
 is demonstrated on live problems: the USC commencement case study works
 through microeconomics and psychology to explain Wal-Mart; the Coca-Cola
 thought experiment (Talk 4) uses Pavlovian conditioning, social proof, and
-scale economics to derive a $2 trillion business plan from first principles.
+scale economics to derive a $$2 trillion business plan from first principles.
 
 ## The eleven talks
 
@@ -58,9 +58,9 @@ annum advantage from holding vs. trading).
 The five problem-solving notions: (1) decide big "no-brainer" questions first;
 (2) numerical fluency; (3) [[concepts/Inversion]]; (4) multidisciplinary
 elementary wisdom; (5) lollapalooza effects. Then the Coca-Cola thought
-experiment: starting with $2 million in Atlanta in 1884, demonstrate how
+experiment: starting with $$2 million in Atlanta in 1884, demonstrate how
 combining Pavlovian conditioning, operant conditioning, social proof, and
-scale economics would produce a $2 trillion business by 2034. The
+scale economics would produce a $$2 trillion business by 2034. The
 demonstration simultaneously shows how psychology explains Coke's success
 and how academia fails to explain it.
 

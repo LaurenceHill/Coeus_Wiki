@@ -77,10 +77,10 @@ this directory tree.
 - [[Investment vs Speculation]] — Aesop's birds-in-the-bush formula; investment is what an asset produces vs what the next buyer pays; growth as a valuation component not a style (1999)
 - [[Gotrocks Family and Frictional Costs]] — Buffett's allegory for how financial intermediaries extract aggregate investor returns; four layers of Helpers; Newton's Fourth Law; 2-and-20 arithmetic (2005–2006)
 - [[Great, Good and Gruesome]] — Buffett's three-category business quality taxonomy: savings-account analogy; See's as the Great exemplar; FlightSafety as Good; airlines as Gruesome (2007)
-- [[Leverage and Liquidity]] — Buffett's "Life and Debt" framework: zero-multiplier argument; credit as oxygen; $10B floor / $20B customary cash; crisis capital deployment (2010)
+- [[Leverage and Liquidity]] — Buffett's "Life and Debt" framework: zero-multiplier argument; credit as oxygen; $$10B floor / $$20B customary cash; crisis capital deployment (2010)
 - [[concepts/Investment Categories]] — Buffett's three-category taxonomy: currency-based instruments (most dangerous), non-productive assets, and productive assets; why equities beat gold and bonds over long periods (2011)
 - [[concepts/ABCs of Business Decay]] — Arrogance, Bureaucracy, Complacency: the three forces that erode durable businesses; Berkshire's structural antidotes; only a vigilant CEO can prevent them (2014)
-- [[concepts/American Tailwind]] — Buffett's 2018 essay: $114.75 invested in the S\&P in 1942 worth $606,811 by 2019 (5,288x); gold over the same period worth $4,200; the structural case for owning productive American businesses across generations
+- [[concepts/American Tailwind]] — Buffett's 2018 essay: $$114.75 invested in the S\&P in 1942 worth $$606,811 by 2019 (5,288x); gold over the same period worth $$4,200; the structural case for owning productive American businesses across generations
 - [[concepts/Compounding and Retained Earnings]] — Buffett's 2019 and 2022 account of how retained earnings compound invisibly; the Coca-Cola and American Express case study; "the weeds wither away as the flowers bloom"
 - [[concepts/Munger's Mental Models]] — Charlie Munger's 2022 aphorism collection: inversion, patience, zero-multiplier, voting/weighing machine, and the partnership principle; supplemented with the psychological system from [[sources/Psychology of Human Misjudgment]] and the five problem-solving notions from [[sources/Poor Charlie's Almanack]]
 - [[concepts/Lollapalooza Effect]] — Munger's Tendency #25: non-linear confluences of multiple psychological tendencies producing extreme outcomes; includes the Coca-Cola thought experiment as the positive lollapalooza case (Talk 4)
@@ -88,7 +88,7 @@ this directory tree.
 - [[concepts/Latticework of Mental Models]] — Munger's central framework: ~80–90 models from many disciplines arranged so they interact; the bridge analogy; pilot training standard; lollapalooza as the primary reason the latticework produces non-linear results; self-teaching programme
 - [[concepts/Advantages of Scale]] — Munger's five-category microeconomic taxonomy: geometric advantages; advertising scale (P\&G, Wrigley); informational advantages; social proof (Coke); purchasing advantages (Wal-Mart); the Sears case study and "surfing" concept
 - [[concepts/Important and Knowable]] — Buffett/Munger's two-by-two macro filter: focus only on what is both important and knowable; macro as important-but-unknowable; interest rates as gravity; inflation hedges ranked; LTCM as knowability failure (2024 annual meetings synthesis)
-- [[concepts/See's Candies as Teaching Business]] — the acquisition that changed Berkshire's investment framework; ignorance removal; $9M → $40M tangible assets, $1.5B+ pre-tax extracted; royalty ideal; learning chain to Coca-Cola; regional limitations; pricing power test (2024 annual meetings synthesis)
+- [[concepts/See's Candies as Teaching Business]] — the acquisition that changed Berkshire's investment framework; ignorance removal; $$9M → $$40M tangible assets, $$1.5B+ pre-tax extracted; royalty ideal; learning chain to Coca-Cola; regional limitations; pricing power test (2024 annual meetings synthesis)
 
 ### Holding and selling
 
@@ -136,7 +136,7 @@ this directory tree.
   companies provide genuine inflation protection; ownership of assets is not enough
 - [[Institutional Buying]] — structural concentration of institutional demand
   on a small number of stocks; the stilts dynamic and the edge-of-acceptance opportunity
-- [[Cigar Butt to Compounder]] — Buffett's partnership era as the cigar-butt phase; Sleep's parallel evolution; Berkshire origin at $7.60/share (1962) to permanent compounder
+- [[Cigar Butt to Compounder]] — Buffett's partnership era as the cigar-butt phase; Sleep's parallel evolution; Berkshire origin at $$7.60/share (1962) to permanent compounder
 - [[Inflation Tax]] — Buffett's investor's-misery-index argument (1979–1981)
 
 ## Contradictions and tensions

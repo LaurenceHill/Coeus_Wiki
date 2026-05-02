@@ -28,7 +28,7 @@ A chart reproduced in the 2012 letter (from the Franklin Institute's
 1927 recommendation of Ford for the Elliott Cresson Medal) shows
 production volume rising from zero to just over two million cars per
 annum between 1908 and 1924, while the price to consumers fell from
-roughly $950 to roughly $300. Ford did not extract the scale benefit
+roughly $$950 to roughly $$300. Ford did not extract the scale benefit
 as margin; he lowered prices, which expanded the addressable market,
 which allowed further scale, which supported further price reductions.
 

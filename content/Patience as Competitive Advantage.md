@@ -186,8 +186,8 @@ in [[Selling vs Holding Forever]].
 illustrations of patience as a competitive advantage in practice.
 
 **NICO's 85% contraction: patience as underwriting weapon.** National
-Indemnity Company shrank its premium volume from a peak of roughly $366
-million in 1986 to approximately $54 million by 1999 — an 85% contraction.
+Indemnity Company shrank its premium volume from a peak of roughly $$366
+million in 1986 to approximately $$54 million by 1999 — an 85% contraction.
 The contraction was not a business failure; it was a deliberate refusal to
 write insurance at prices that did not compensate for the risk. Buffett's
 summary: _"The most important thing in insurance is underwriting discipline.

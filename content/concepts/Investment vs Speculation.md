@@ -68,7 +68,7 @@ Aesop framework makes the attack precise:
 This is not a rhetorical point. Growth requires capital to produce, and the
 test for whether that growth is worth paying for is whether the discounted
 value of the additional cash flows exceeds the capital invested to produce
-them. A business that requires $1 of reinvestment for every $0.90 of future
+them. A business that requires $$1 of reinvestment for every $$0.90 of future
 value it creates destroys value by growing, even when reported earnings are
 rising. The Aesop framework surfaces this because it forces the question of
 how many birds will ultimately emerge, not merely how fast the flock is

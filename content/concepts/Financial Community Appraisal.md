@@ -96,9 +96,9 @@ this situation.
 ## Company G and the 400% gain
 
 Fisher's illustration of a correctly re-rated company: Company G was
-regarded as ordinary, earning $1 per share and trading at ten times earnings.
+regarded as ordinary, earning $$1 per share and trading at ten times earnings.
 Over two years, through a combination of new products and improved
-margins, the company grew earnings to $1.82 while competitors in the same
+margins, the company grew earnings to $$1.82 while competitors in the same
 industry showed declining profits. The financial community re-appraised the
 company, the P/E moved from 10x to 22x, and the stock rose 400%. The
 underlying business improvements had been in progress for some time
@@ -176,14 +176,14 @@ this is empirical rather than theoretical.
 The Raychem Corporation: in 1975–76, Raychem was hit by two setbacks
 — the failure of a major research project (the Stilan polymer) and a planned
 management reorganisation that temporarily reduced earnings. The stock
-fell from over $42 to approximately $15. The Raychem management was
+fell from over $$42 to approximately $$15. The Raychem management was
 forthcoming about both developments, explaining the temporary nature of
 the earnings impact to any investor who asked. On January 26, 1978, at a
 public meeting attended by representatives of all interested institutions and
 brokers, senior management laid out in unusual detail the company's
 prospects, problems, and current status. Over the following year or two,
 earnings grew exactly as described at that meeting, and the stock more than
-doubled from the meeting-day price of $23. Yet in the weeks immediately
+doubled from the meeting-day price of $$23. Yet in the weeks immediately
 following the meeting, the stock showed no particular movement. Investors
 who were present, who heard the same presentation, and who had access to
 the same information the management provided, did not act on it — because

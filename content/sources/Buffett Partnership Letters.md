@@ -65,8 +65,8 @@ Compounding" letter (January 1963) with the Columbus and Mona Lisa
 mathematical illustrations.
 
 **1964–1965:** Berkshire Hathaway first mentioned explicitly as a
-Controls position (acquired November 1962 at $7.60/share, average cost
-$14.86). Ground Rules formalised in writing. Ground Rule 7 (the 40%
+Controls position (acquired November 1962 at $$7.60/share, average cost
+$$14.86). Ground Rules formalised in writing. Ground Rule 7 (the 40%
 concentration ceiling) introduced. True conservatism vs. conventionalism
 distinction developed.
 
@@ -114,7 +114,7 @@ all right over the long term, so will the stock."_
 
 **Existing pages substantially updated from this source:**
 
-- [[Cigar Butt to Compounder]] — Berkshire origin story ($7.60/share, 1962),
+- [[Cigar Butt to Compounder]] — Berkshire origin story ($$7.60/share, 1962),
   Dempster Mill case, the capital-redeployment narrative, "businesses not stocks"
 - [[Concentration]] — Ground Rule 7 (the 40% ceiling), the unnamed 40%
   position, BPL-specific arguments for concentration

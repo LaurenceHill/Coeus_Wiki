@@ -18,7 +18,7 @@ returns, and the intermediaries have been multiplying.
 
 The setup: imagine that all American corporations are permanently owned by a
 single family, the Gotrocks. Generation after generation, the family grows
-richer at the rate the underlying businesses earn — currently about $700
+richer at the rate the underlying businesses earn — currently about $$700
 billion per year after tax. No money is lost to trading, no fees leave the
 family. The aggregate gain is the aggregate business earnings. _"In the
 Gotrocks household everyone grows wealthier at the same pace, and all is
@@ -63,10 +63,10 @@ each year regardless of performance; twenty per cent of profits is taken when
 the manager succeeds. The worked example: a manager who achieves a gross
 return of 10% in a year keeps 3.6 percentage points — two off the top plus
 20% of the residual 8 points — leaving only 6.4 percentage points for the
-investor. On a $3 billion fund, this delivers the manager $108 million, even
+investor. On a $$3 billion fund, this delivers the manager $$108 million, even
 if an index fund returned 15% to investors in the same period and charged a
 token fee. The investor underperforms the market by 8.6 percentage points
-and pays $108 million for the privilege.
+and pays $$108 million for the privilege.
 
 _"The inexorable math of this grotesque arrangement is certain to make the
 Gotrocks family poorer over time than it would have been had it never heard
@@ -127,7 +127,7 @@ The Gotrocks allegory is a theoretical argument. Beginning in the 2016
 letter and concluding in the 2017 letter, Buffett presents a decade-long
 controlled experiment that converts the theory into data.
 
-On 19 December 2007, Buffett made a $500,000 wager with investment firm
+On 19 December 2007, Buffett made a $$500,000 wager with investment firm
 Protégé Partners: a single, virtually cost-free S\&P 500 index fund against
 five hand-selected funds-of-funds, each of which in turn held interests in
 more than 200 underlying hedge funds. The 200-plus hedge funds were managed

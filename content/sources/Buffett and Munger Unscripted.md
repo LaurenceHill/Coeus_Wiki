@@ -38,7 +38,7 @@ two decades).
 Graham to Fisher to quality businesses.
 
 **Part 2 — Valuation:** Intrinsic value as DCF of future cash flows; owner
-earnings; the Coca-Cola $40 (1919) compounding calculation; why valuation
+earnings; the Coca-Cola $$40 (1919) compounding calculation; why valuation
 cannot be reduced to a formula; interest rates as gravity to asset prices.
 
 **Part 3 — Capital Allocation:** See's Candies as the teaching business;
@@ -75,16 +75,16 @@ important-but-unknowable; interest rates as gravity; inflation hedges ranked;
 gold critique; zero interest rates; LTCM Russian roulette analysis.
 
 **Part 11 — See's Candies / Coca-Cola / Brands:** Full teaching chain;
-near-miss anecdote ("$100K more, we'd have walked"); $9M → $40M tangible
-asset efficiency; $1.5B+ pre-tax taken out; Coke $40 (1919) compounding;
+near-miss anecdote ("$$100K more, we'd have walked"); $$9M → $$40M tangible
+asset efficiency; $$1.5B+ pre-tax taken out; Coke $$40 (1919) compounding;
 "royalty on somebody else's sales during inflation"; Gillette 1939 radio.
 
 **Part 12 — GEICO:** State Farm origin story; two key variables (PIFs +
 underwriting profit per policy); telematics lesson; "4× stockholder capital
-behind each $1 of premium"; Ben Graham's GEICO as >50% lifetime returns.
+behind each $$1 of premium"; Ben Graham's GEICO as >50% lifetime returns.
 
 **Part 13 — Other Topics:** Best years (50% annual, 1950–60); derivatives;
-short selling; airlines (history + COVID); banking (Wells Fargo at $9);
+short selling; airlines (history + COVID); banking (Wells Fargo at $$9);
 Henry Singleton; private equity J-curve abuse; index funds.
 
 **Appendix — National Indemnity 25-year data:** Underwriting margin detail
@@ -100,7 +100,7 @@ markets; five best margin years = five highest volume years.
 
 **Heavily reinforced concepts (significant updates from this source):**
 
-- [[concepts/Insurance Float]] — $164B (2022)/$171B (2024) float arc, NICO data, Gen Re, Ajit
+- [[concepts/Insurance Float]] — $$164B (2022)/$$171B (2024) float arc, NICO data, Gen Re, Ajit
 - [[concepts/Incentive-Caused Bias]] — stock options, EBITDA corruption
 - [[concepts/Earnings Integrity]] — EBITDA four-meeting critique, goodwill
 - [[concepts/Circle of Competence]] — edge awareness, tech misses/gets
@@ -134,7 +134,7 @@ rather shrink 80% than write business at inadequate prices."_
 _"Ignorance removal is the main thing we've done at Berkshire."_
 — Buffett on See's Candies and business education
 
-_"If they'd asked $100,000 more for See's, we'd have walked away. That's
+_"If they'd asked $$100,000 more for See's, we'd have walked away. That's
 how dumb we were."_
 — Buffett on the 1972 acquisition
 
@@ -151,7 +151,7 @@ _"Macro is important, but it's not knowable. We focus on things that are
 both important and knowable."_
 — Buffett/Munger on economic forecasting
 
-_"We've never been good at \[market timing]. We bought $16 billion at
+_"We've never been good at \[market timing]. We bought $$16 billion at
 terrible prices in September 2008. We missed March 2009. We missed
 March 2020."_
 — Buffett

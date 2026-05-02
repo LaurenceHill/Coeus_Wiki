@@ -23,11 +23,11 @@ See's delivered.
 
 ## The Acquisition and the Near-Miss
 
-Berkshire acquired See's Candy Shops in January 1972 for $25 million.
-At the time, See's had roughly $29–30 million in annual revenues and
-approximately $7–9 million in tangible net assets. (The 1991 Chairman's Letter
-specifies "tangible net worth of $7 million"; Buffett at annual meetings has
-cited approximately $9 million in tangible assets — the difference likely
+Berkshire acquired See's Candy Shops in January 1972 for $$25 million.
+At the time, See's had roughly $$29–30 million in annual revenues and
+approximately $$7–9 million in tangible net assets. (The 1991 Chairman's Letter
+specifies "tangible net worth of $$7 million"; Buffett at annual meetings has
+cited approximately $$9 million in tangible assets — the difference likely
 reflects net worth vs. gross tangible assets, or the precise measurement date.)
 The pre-tax return on tangible equity was therefore exceptional — but neither
 Buffett nor Munger fully appreciated what that meant at the time of purchase.
@@ -35,7 +35,7 @@ Buffett nor Munger fully appreciated what that meant at the time of purchase.
 Buffett's admission, made publicly at multiple annual meetings, is
 remarkable for its frankness:
 
-_"If they'd asked $100,000 more for See's, we'd have walked away.
+_"If they'd asked $$100,000 more for See's, we'd have walked away.
 That's how dumb we were."_
 
 The intellectual framework for understanding why See's was worth far more
@@ -49,14 +49,14 @@ that forced the new framework into being.
 The See's numbers, stated plainly across multiple Berkshire communications,
 are among the most instructive in Buffett's public record:
 
-- **1972 (acquisition):** ~$30M revenues, ~$9M tangible net assets
-- **By the time revenues reached ~$300M:** ~$40M tangible net assets required
-- **Cumulative pre-tax profits taken out:** more than $1.5 billion
+- **1972 (acquisition):** ~$$30M revenues, ~$$9M tangible net assets
+- **By the time revenues reached ~$$300M:** ~$$40M tangible net assets required
+- **Cumulative pre-tax profits taken out:** more than $$1.5 billion
 
-This means that from $9 million of tangible capital, Berkshire extracted
-more than $1.5 billion in cash over roughly five decades — while the
+This means that from $$9 million of tangible capital, Berkshire extracted
+more than $$1.5 billion in cash over roughly five decades — while the
 business itself continued to grow and remained as competitive as before.
-The tangible capital base grew only modestly (from $9M to ~$40M) despite
+The tangible capital base grew only modestly (from $$9M to ~$$40M) despite
 revenues growing tenfold. The difference between what the business earned
 and what it needed to retain was available entirely for redeployment.
 
@@ -139,22 +139,22 @@ The explicit teaching sequence Buffett and Munger describe:
 
 **↓ learned**
 
-**Coca-Cola (1988, $1B+ initial position)** → _the same lesson at planetary scale_
+**Coca-Cola (1988, $$1B+ initial position)** → _the same lesson at planetary scale_
 
-Coca-Cola in 1988 had roughly $40 of tangible assets per $100 of revenues —
+Coca-Cola in 1988 had roughly $$40 of tangible assets per $$100 of revenues —
 similar to See's in structure, but global in scope, with distribution in
 virtually every country on earth. The intrinsic value was not in the
 factories or trucks but in the brand: a "share of mind" asset that
 reproduced itself through every purchase occasion.
 
-Buffett's Coca-Cola case: one share of Coca-Cola at $40 in 1919 (adjusted
-for the Depression-era price collapse to ~$19) would have compounded to
+Buffett's Coca-Cola case: one share of Coca-Cola at $$40 in 1919 (adjusted
+for the Depression-era price collapse to ~$$19) would have compounded to
 extraordinary wealth by 2024 even through two world wars, the Depression,
 sugar rationing, New Coke, and every other disaster. The business earned
 its returns not through asset accumulation but through the compounding
 of brand value — the same mechanism See's demonstrated at small scale.
 
-The Coca-Cola calculation Buffett presents: the $40 share, compounded
+The Coca-Cola calculation Buffett presents: the $$40 share, compounded
 at Coca-Cola's actual historical return including dividends reinvested,
 produces a figure in the millions by the time he describes it. Every period
 of disruption was a buying opportunity, not a reason to sell.
@@ -183,7 +183,7 @@ elsewhere. This is what Berkshire has done.
 The limitation matters as an analytical lesson: not all competitive
 advantages are infinitely extensible. Assessing the _geographic scope_ of
 a moat is as important as assessing its _depth_. A deep regional moat is
-still highly valuable — See's cumulative $1.5B+ makes this clear — but
+still highly valuable — See's cumulative $$1.5B+ makes this clear — but
 it must be assessed correctly rather than assumed to be something it is not.
 
 ## Related

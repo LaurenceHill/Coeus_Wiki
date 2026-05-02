@@ -101,8 +101,8 @@ catastrophic. It also explains how great businesses become unassailable.
 Munger's Coca-Cola thought experiment (Talk 4 of the Almanack) is the most
 fully worked positive example in the corpus.
 
-Starting with $2 million in Atlanta in 1884, Munger demonstrates that reaching
-$2 trillion by 2034 requires not a single brilliant strategy but a combination
+Starting with $$2 million in Atlanta in 1884, Munger demonstrates that reaching
+$$2 trillion by 2034 requires not a single brilliant strategy but a combination
 of reinforcing forces, each amplifying the others:
 
 - **Operant conditioning** — the product provides real rewards (calories,
@@ -118,7 +118,7 @@ of reinforcing forces, each amplifying the others:
 - **Autocatalysis** — each unit of volume strengthens the system's ability to
   produce more volume; the forces feed each other
 
-No single factor produces $2 trillion. But when all five operate simultaneously
+No single factor produces $$2 trillion. But when all five operate simultaneously
 and in mutual reinforcement — when the product literally tastes good, when
 the brand is everywhere, when social proof makes it the default choice, when
 scale makes competitors unable to match the advertising reach, and when all

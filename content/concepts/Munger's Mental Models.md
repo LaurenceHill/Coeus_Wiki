@@ -240,7 +240,7 @@ underpin the rest of the talks.
 **1. Decide the big "no-brainer" questions first.** Before engaging the hard
 parts of any problem, identify the questions whose answers are obvious and
 whose implications are large. In the Coca-Cola thought experiment: it is
-immediately obvious that a generic beverage will never reach $2 trillion, so
+immediately obvious that a generic beverage will never reach $$2 trillion, so
 the first move must be to build a protected trademark. That single decision
 shapes everything else. The technique prevents analytic effort from being
 wasted on refinements when the major structural choices are still open.
@@ -251,7 +251,7 @@ phrase, "like a one-legged man in an ass-kicking contest." The Coca-Cola
 thought experiment demonstrates this: Munger immediately calculates how
 many eight-ounce servings of water are consumed globally each day, what
 fraction Coke could realistically capture, and what profit-per-serving would
-be required to reach $2 trillion. The numerical check disciplines the analysis
+be required to reach $$2 trillion. The numerical check disciplines the analysis
 and catches inconsistencies early.
 
 **3. Invert always.** See the full treatment at [[concepts/Inversion]]. After

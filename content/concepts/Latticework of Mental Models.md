@@ -136,7 +136,7 @@ same outcome, the result is non-linear and often extreme. A single cause
 produces a modest effect. Three or four causes acting in concert produce
 something that appears out of proportion to any individual factor.
 
-Munger's Coca-Cola thought experiment (Talk 4) demonstrates this. The $2
+Munger's Coca-Cola thought experiment (Talk 4) demonstrates this. The $$2
 trillion result comes not from any single clever idea but from the combination
 of Pavlovian conditioning (brand association), operant conditioning (the
 product's actual rewards), social proof (ubiquity generating social proof),

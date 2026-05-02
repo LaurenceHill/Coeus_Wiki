@@ -88,7 +88,7 @@ of its market. Therefore, every startup should start with a very small market."_
 This is the strategic corollary of the monopoly thesis. A large market is
 almost always a bad choice for a startup: it either lacks a good starting point
 or it is crowded with competition. A startup that claims it will capture 1% of
-a $100 billion market has disclosed that it has no idea how to dominate
+a $$100 billion market has disclosed that it has no idea how to dominate
 anything. The better question is: what is the smallest market we can own
 entirely?
 
@@ -97,7 +97,7 @@ markets — not a leap to a different business. Amazon started with books
 (standardised, easy to ship, with enthusiastic buyers for obscure titles), then
 expanded to CDs, videos, software, and eventually everything. eBay started
 with Beanie Baby obsessives before becoming the general auction marketplace.
-Tesla started with a $109,000 electric sports car for wealthy early adopters
+Tesla started with a $$109,000 electric sports car for wealthy early adopters
 before attempting the mass-market Model S.
 
 The practical danger Thiel identifies is the temptation to define the market

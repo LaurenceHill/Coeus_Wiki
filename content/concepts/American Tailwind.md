@@ -12,13 +12,13 @@ across generations. The argument is not rhetorical patriotism — it is a
 quantified claim about what long-term ownership of American businesses has
 delivered and why it is likely to continue delivering.
 
-The anchor figure: $114.75, invested in a no-fee S\&P 500 index fund in
+The anchor figure: $$114.75, invested in a no-fee S\&P 500 index fund in
 March 1942 when Buffett made his first stock purchase at age eleven, would
-have been worth $606,811 on 31 January 2019, dividends reinvested. That is
-a gain of 5,288-fold over 77 years. A tax-exempt institution investing $1
-million in 1942 would have grown it to approximately $5.3 billion. The same
+have been worth $$606,811 on 31 January 2019, dividends reinvested. That is
+a gain of 5,288-fold over 77 years. A tax-exempt institution investing $$1
+million in 1942 would have grown it to approximately $$5.3 billion. The same
 institution paying only 1% of assets annually to "helpers" — investment
-managers and consultants — would have received $2.65 billion instead. That
+managers and consultants — would have received $$2.65 billion instead. That
 one-percentage-point annual drag, compounded over 77 years at the actual
 return of 11.8% reduced to 10.8%, cuts the terminal wealth roughly in half.
 The cost of the helpers, modest-sounding in isolation, is enormous across
@@ -26,8 +26,8 @@ time.
 
 ## The gold comparison
 
-The same $114.75 invested in 3¼ ounces of gold in 1942 would have been
-worth approximately $4,200 in 2019 — less than 1% of what the S\&P index
+The same $$114.75 invested in 3¼ ounces of gold in 1942 would have been
+worth approximately $$4,200 in 2019 — less than 1% of what the S\&P index
 fund returned. This comparison matters because the gold argument in 1942
 seemed plausible: the country had just entered a war, the national debt was
 growing, currency risk was real. The rational case for gold as "protection"
@@ -40,9 +40,9 @@ might note that our country's national debt has increased roughly 400-fold
 during the last of my 77-year periods. That's 40,000%! Suppose you had
 foreseen this increase and panicked at the prospect of runaway deficits and
 a worthless currency. To 'protect' yourself, you might have eschewed stocks
-and opted instead to buy 3¼ ounces of gold with your $114.75. And what would
+and opted instead to buy 3¼ ounces of gold with your $$114.75. And what would
 that supposed protection have delivered? You would now have an asset worth
-about $4,200 — less than 1% of what would have been realised from a simple
+about $$4,200 — less than 1% of what would have been realised from a simple
 unmanaged investment in American business. The magical metal was no match
 for the American mettle."_
 
@@ -120,7 +120,7 @@ helpers extract that drag.
 
 The 2022 letter offers an unusual proof of the tailwind argument from the
 direction of taxation. During the decade ending in 2021, Berkshire paid
-$32 billion in federal corporate income taxes — almost exactly one-tenth
+$$32 billion in federal corporate income taxes — almost exactly one-tenth
 of one percent of all money the Treasury collected from all sources over
 that period. Put differently: if there were roughly 1,000 American
 companies matching Berkshire's tax contribution, no other businesses and
@@ -155,11 +155,11 @@ COVID-19 period. The 2021 letter returns to the Cities Service example
 from the 2019 letter: Buffett made his first stock purchase on 11 March
 1942, three months after Pearl Harbor, when the Dow had closed at 99. The
 correct course was to invest, not to withdraw, in a period of acute
-national crisis. The 77-year outcome — the same $114.75 compounding to
-$606,811 — was the answer.
+national crisis. The 77-year outcome — the same $$114.75 compounding to
+$$606,811 — was the answer.
 
 The 2020 letter supplements this with a structural argument: Berkshire's
-four "jewels" (insurance float, BNSF, Apple, BHE) and $154 billion in
+four "jewels" (insurance float, BNSF, Apple, BHE) and $$154 billion in
 domestic fixed assets make it simultaneously the largest owner of fixed
 assets of any American company and deeply embedded in the country's
 infrastructure. _"The babies being born in America today are the luckiest
@@ -167,7 +167,7 @@ crop in history."_
 
 ## The record-shattering tax payment and the capitalism argument (2024)
 
-The 2024 letter extends the tailwind argument into new empirical territory. In 2024, Berkshire paid $26.8 billion in federal income taxes — the largest single-year corporate tax payment in American history, approximately 5% of all corporate income tax collected by the US Treasury. By way of scale: a company sending the Treasury a $1 million cheque every twenty minutes, without pause, throughout all 366 days of 2024, would still have finished the year in arrears.
+The 2024 letter extends the tailwind argument into new empirical territory. In 2024, Berkshire paid $$26.8 billion in federal income taxes — the largest single-year corporate tax payment in American history, approximately 5% of all corporate income tax collected by the US Treasury. By way of scale: a company sending the Treasury a $$1 million cheque every twenty minutes, without pause, throughout all 366 days of 2024, would still have finished the year in arrears.
 
 This figure is the capstone of the sixty-year compounding story. In 1965, Berkshire paid no income tax at all — an embarrassment that had prevailed for nearly a decade. The business was headed, as Buffett puts it, "for the ash can." Sixty years later the same company, still trading under the Berkshire Hathaway name, had become the Treasury's single largest corporate contributor. The journey was made possible by one policy: shareholders forgoing dividends, reinvesting rather than consuming, and allowing the compounding to run.
 

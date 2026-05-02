@@ -145,8 +145,8 @@ unprecedented for a public-company chairman: a printed
 will consider. The 1982 list — refined slightly each year through
 the 1980s and beyond — has six items:
 
-1. Large purchases (initially at least $5 million of after-tax
-   earnings; raised in the 1985 letter to $10 million).
+1. Large purchases (initially at least $$5 million of after-tax
+   earnings; raised in the 1985 letter to $$10 million).
 2. Demonstrated consistent earning power. _"Future projections are
    of little interest to us, nor are 'turn-around' situations."_
 3. Businesses earning good returns on equity while employing
@@ -166,7 +166,7 @@ deal sourcing: discussing terms before there is a price to anchor
 them on.
 
 The 1985 letter adds three things to the standing ad. It raises
-the minimum profit threshold to $10 million, reflecting Berkshire's
+the minimum profit threshold to $$10 million, reflecting Berkshire's
 growing capital base. It opens the door to stock-funded
 transactions — _"will consider issuance of stock when we receive
 as much in intrinsic business value as we give"_ — under the
@@ -227,7 +227,7 @@ rate for incremental capital they use and credited at an equally high
 rate for capital they return to headquarters. The result is that it is
 in every manager's financial interest to send excess cash to Omaha.
 _"The product of this money's-not-free approach is definitely visible
-at Scott Fetzer"_ — earnings grew from $40M in 1986 to $79M in 1994
+at Scott Fetzer"_ — earnings grew from $$40M in 1986 to $$79M in 1994
 while capital employed stayed modest. See [[Owner Earnings]].
 
 ## The 1995 extension: no strategic plan as competitive advantage
@@ -315,7 +315,7 @@ the ideal home for ISCAR."_ Buffett met the management team in November; a few
 hours convinced him that, if a deal were possible, _"we would be teaming up
 with extraordinarily talented managers who could be trusted to run the business
 after a sale with all of the energy and dedication that they had exhibited
-previously."_ Berkshire purchased 80% for $4 billion in July 2006; the
+previously."_ Berkshire purchased 80% for $$4 billion in July 2006; the
 Wertheimer family retained 20%.
 
 The business description Buffett offers is intentionally modest about its
@@ -337,7 +337,7 @@ Berkshire's preference for businesses with pricing power rooted in genuine
 value delivered rather than market position inherited.
 
 The TTI acquisition from the same year reinforces the permanent-home lesson
-from a different angle. Paul Andrews, who built TTI from $112,000 to $1.3
+from a different angle. Paul Andrews, who built TTI from $$112,000 to $$1.3
 billion in 35 years, rejected both a strategic buyer — whose _"pursuit of
 synergies"_ would have dismantled what Andrews had built — and a private equity
 firm, which _"would very likely load the company with debt and then flip it as

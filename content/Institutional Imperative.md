@@ -323,9 +323,9 @@ your treasure is, there will your heart be also."_ Applied to directors: the
 relevant question is not whether a director receives consulting fees, legal
 fees, or supply-contract revenues _from this company_, but whether the
 director fee income itself constitutes "treasure." A director whose annual
-board income is $100,000 and whose total annual income is $110,000 is
-dependent in a way that matters; a director whose board income is $100,000
-out of $3 million of total income is not dependent in any meaningful sense.
+board income is $$100,000 and whose total annual income is $$110,000 is
+dependent in a way that matters; a director whose board income is $$100,000
+out of $$3 million of total income is not dependent in any meaningful sense.
 The formal "independence" label has confused the measurement instrument with
 the quantity being measured.
 
@@ -334,7 +334,7 @@ does not name. Buffett recounts having first-hand knowledge of a major
 acquisition proposal — favoured by management, blessed by the company's
 investment banker, offered at a price above the company's recent trading
 range — that was blocked by a subset of directors who each received
-approximately $100,000 annually in board and committee fees. The non-managing
+approximately $$100,000 annually in board and committee fees. The non-managing
 directors blocking the deal owned little stock except for shares received from
 the company; their open-market purchases had been nominal even though the
 stock had long traded below the acquisition price. In other words, these
@@ -344,12 +344,12 @@ same meeting at which the acquisition was rejected, the board voted itself a
 significant increase in directors' fees.
 
 _"I don't know which directors opposed letting shareholders see the offer. But
-I do know that $100,000 is an important portion of the annual income of some
+I do know that $$100,000 is an important portion of the annual income of some
 of those deemed 'independent,' clearly meeting the Matthew 6:21 definition of
 'treasure.' If the deal had gone through, these fees would have ended."_
 
 Berkshire's own board, by contrast, meets all four tests Buffett considers
-meaningful: every director is a member of a family owning at least $4 million
+meaningful: every director is a member of a family owning at least $$4 million
 of company stock; none of those shares were acquired through options or
 grants; no director receives committee, consulting, or board fees that are
 more than a tiny portion of their annual income; and no directors' and
@@ -365,19 +365,19 @@ Inc. and receives options on 1% of the company.
 
 Fred's rational self-interest under a fixed-price ten-year option is to skip
 dividends entirely and use all of Stagnant's earnings to repurchase shares.
-The arithmetic: assume Stagnant earns $1 billion annually on $10 billion of
-net worth, or $10 per share on 100 million shares. Over ten years of
+The arithmetic: assume Stagnant earns $$1 billion annually on $$10 billion of
+net worth, or $$10 per share on 100 million shares. Over ten years of
 retained earnings and repurchases at a constant P/E of 10, the share count
-falls to 38.7 million and earnings per share rise to $25.80. The stock
-appreciates 158%. Fred collects $158 million on his 1% option — _"despite
+falls to 38.7 million and earnings per share rise to $$25.80. The stock
+appreciates 158%. Fred collects $$158 million on his 1% option — _"despite
 the business itself improving not at all."_ More strikingly, Fred could have
-made more than $100 million even if Stagnant's earnings _fell_ 20% during
+made more than $$100 million even if Stagnant's earnings _fell_ 20% during
 the period.
 
 Fred can also enrich himself by deploying retained earnings into
 disappointing projects: even if the initiatives produce only a 5% return,
 the retained capital drives up the option value. At a constant P/E of 10,
-Fred still pockets $63 million. His shareholders are poorer; the option
+Fred still pockets $$63 million. His shareholders are poorer; the option
 has delivered apparent "alignment."
 
 The mathematical problem is conceptually simple: a fixed-price option gives
@@ -441,7 +441,7 @@ mechanism distinct from, but continuous with, the 2002 boardroom
 atmosphere critique.
 
 The 2019 argument begins with director incentives. Directors are
-typically paid $250,000 to $300,000 annually or more in cash and stock —
+typically paid $$250,000 to $$300,000 annually or more in cash and stock —
 a sum that, for many, constitutes a significant portion of their
 household income. This creates an obvious interest in maintaining the
 directorial relationship. The people most likely to become directors, and

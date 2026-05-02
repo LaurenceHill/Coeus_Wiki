@@ -18,7 +18,7 @@ The critique runs on two tracks: option expensing, where accounting convention f
 
 Standard accounting, as of the 1998 letter, ignored the cost of stock options when calculating earnings. Buffett identifies this as "an Alice-in-Wonderland outcome." Options are compensation. Compensation is an expense. Expenses belong in earnings calculations. The logic is unanswerable, and he poses it as three questions: _"If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And if expenses shouldn't go into the calculation of earnings, where in the world should they go?"_
 
-The absurdity is made vivid by analogy. Suppose Berkshire, rather than paying cash for its $190 million GEICO advertising budget, paid the media in ten-year at-the-money Berkshire options. Would anyone argue that no advertising cost had been incurred? Bishop Berkeley — the philosopher who wondered whether a tree falling unobserved made a sound — would believe that an expense unseen by an accountant does not exist. Buffett does not share this faith.
+The absurdity is made vivid by analogy. Suppose Berkshire, rather than paying cash for its $$190 million GEICO advertising budget, paid the media in ten-year at-the-money Berkshire options. Would anyone argue that no advertising cost had been incurred? Bishop Berkeley — the philosopher who wondered whether a tree falling unobserved made a sound — would believe that an expense unseen by an accountant does not exist. Buffett does not share this faith.
 
 The practical consequence for Berkshire's investment process is material: _"The earning revisions that Charlie and I have made for options in recent years have frequently cut reported per-share figures by 5%, with 10% not all that uncommon. On occasion, the downward adjustment has been so great that it has affected our portfolio decisions, causing us either to make a sale or to pass on a stock purchase we might otherwise have made."_ This is not a theoretical complaint — it is a standing haircut applied to reported earnings before any valuation work begins.
 
@@ -227,12 +227,12 @@ holds a ten-year fixed-price option on 1% of the company.
 
 Fred's rational self-interest under this plan is to skip dividends entirely
 and repurchase shares with all retained earnings. The arithmetic: Stagnant
-earns $1 billion annually on $10 billion of net worth, or $10 per share on
+earns $$1 billion annually on $$10 billion of net worth, or $$10 per share on
 100 million shares. Over ten years of compounding repurchases at a constant
 P/E of 10, shares outstanding fall to 38.7 million, earnings per share rise
-to $25.80, and the stock appreciates 158%. Fred collects $158 million on his
+to $$25.80, and the stock appreciates 158%. Fred collects $$158 million on his
 1% option — _"despite the business itself improving not at all."_ Fred could
-have collected more than $100 million even if Stagnant's earnings fell 20%
+have collected more than $$100 million even if Stagnant's earnings fell 20%
 during the period.
 
 The mechanism is fundamental, not technical. A fixed-price option is a free
@@ -278,9 +278,9 @@ The integrity standard Buffett applies to other companies' reporting he applies 
 
 The ConocoPhillips error is described in the 2008 letter as a _"major mistake of commission."_ Berkshire purchased a large position in ConocoPhillips when oil and gas prices were near their peak in 2008. Buffett did not anticipate the subsequent sharp decline in energy prices. The loss was substantial and the transaction was unforced — no deadline, no competitive pressure, no external compulsion. Berkshire bought a commodity business at cyclical peak prices using a judgment that turned out to be badly wrong. The confession is direct about cause: it was a mistake of Buffett's own making, not market misfortune. The distinction matters because an investor who attributes forced errors to bad luck, and bad luck to his own cleverness, is setting himself up for a pattern of uncorrected mistakes.
 
-The Irish banks mistake in the same 2008 letter is starker. Berkshire invested approximately $244 million in Irish bank equity. By the time the 2008 letter was written, the position was worth approximately $27 million — an 89% loss in a very short period. Buffett calls these _"unforced errors"_: investments that were not compelled by any circumstance, where the analysis was simply wrong. The Irish banking sector was far more leveraged to the property bubble than Berkshire's analysis had credited, and the subsequent collapse was severe. The lesson drawn is not unique to banking — it is about the failure to weight catastrophic downside scenarios heavily enough when making concentrated investments in leveraged institutions.
+The Irish banks mistake in the same 2008 letter is starker. Berkshire invested approximately $$244 million in Irish bank equity. By the time the 2008 letter was written, the position was worth approximately $$27 million — an 89% loss in a very short period. Buffett calls these _"unforced errors"_: investments that were not compelled by any circumstance, where the analysis was simply wrong. The Irish banking sector was far more leveraged to the property bubble than Berkshire's analysis had credited, and the subsequent collapse was severe. The lesson drawn is not unique to banking — it is about the failure to weight catastrophic downside scenarios heavily enough when making concentrated investments in leveraged institutions.
 
-The GEICO credit card episode in the 2009 letter is a smaller but instructive case. GEICO launched a credit card programme that Buffett endorsed. The programme lost approximately $50 million before being wound down. When asked what he had learned from the experience, Buffett offered a deliberately self-deprecating answer: _"I was just older."_ The honest reading is that the loss was a product of overconfidence in GEICO's brand advantage extending to an unrelated financial product, and that no analytical insight had been achieved — only the negative evidence that the venture did not work. Claiming to have "learned a lesson" when one has simply lost money is a form of self-serving narrative. The more honest formulation acknowledges that sometimes the chief lesson is that the decision was wrong, full stop.
+The GEICO credit card episode in the 2009 letter is a smaller but instructive case. GEICO launched a credit card programme that Buffett endorsed. The programme lost approximately $$50 million before being wound down. When asked what he had learned from the experience, Buffett offered a deliberately self-deprecating answer: _"I was just older."_ The honest reading is that the loss was a product of overconfidence in GEICO's brand advantage extending to an unrelated financial product, and that no analytical insight had been achieved — only the negative evidence that the venture did not work. Claiming to have "learned a lesson" when one has simply lost money is a form of self-serving narrative. The more honest formulation acknowledges that sometimes the chief lesson is that the decision was wrong, full stop.
 
 Taken together, the three confessions illustrate that the earnings-integrity standard is not a spectator sport. A manager who demands honest reporting from other companies but soft-pedals or rationalises his own investment errors is applying a selective standard. Buffett's willingness to call unforced errors by their name — and to refrain from constructing flattering narratives around them — is the personal version of the same discipline he advocates for corporate accounting.
 
@@ -316,18 +316,18 @@ option's cost.
 A new GAAP rule taking effect in 2018 required companies to include
 unrealised gains and losses on equity holdings in net income — not merely in
 other comprehensive income. For most companies, the effect is modest.
-For Berkshire, with a $173 billion equity portfolio at year-end 2018, the
-effect was substantial: quarterly net income could swing by $10 billion or
+For Berkshire, with a $$173 billion equity portfolio at year-end 2018, the
+effect was substantial: quarterly net income could swing by $$10 billion or
 more on the basis of stock price movements entirely unrelated to operating
 performance.
 
 The 2017 letter warned this was coming and described the anticipated result:
 _"For analytical purposes, Berkshire's 'bottom line' will be useless."_ The
 2018 results confirmed the prediction. In the first and fourth quarters,
-Berkshire reported GAAP losses of $1.1 billion and $25.4 billion
+Berkshire reported GAAP losses of $$1.1 billion and $$25.4 billion
 respectively. In the second and third quarters, it reported GAAP profits of
-$12 billion and $18.5 billion. Behind these gyrations, operating earnings
-from Berkshire's businesses exceeded their 2016 high of $17.6 billion by
+$$12 billion and $$18.5 billion. Behind these gyrations, operating earnings
+from Berkshire's businesses exceeded their 2016 high of $$17.6 billion by
 41%. The two numbers — GAAP net income and operating earnings — were moving
 in entirely different directions across the same year.
 
@@ -341,8 +341,8 @@ based on changes in intrinsic business value.
 
 The 2018 letter also delivers the most memorable compressed formulation of
 the adjusted-earnings critique. Berkshire's acquisition-related amortisation
-of $1.4 billion is, in Buffett's assessment, mostly not a real economic cost
-and should be added back by investors. But Berkshire's depreciation of $8.4
+of $$1.4 billion is, in Buffett's assessment, mostly not a real economic cost
+and should be added back by investors. But Berkshire's depreciation of $$8.4
 billion _understates_ true economic cost, because real maintenance capex
 exceeds the accounting charge. Abraham Lincoln's rhetorical question gets
 applied: _"If you call a dog's tail a leg, how many legs does it have?"_
@@ -367,15 +367,15 @@ the mark-to-market rule introduced in 2018 were as follows:
 
 | Quarter | Operating Earnings | GAAP Earnings Required to Report |
 |---|---|---|
-| Q1 | $7.0B | $5.5B |
-| Q2 | $9.3B | ($43.8B) |
-| Q3 | $7.8B | ($2.7B) |
-| Q4 | $6.7B | $18.2B |
+| Q1 | $$7.0B | $$5.5B |
+| Q2 | $$9.3B | ($$43.8B) |
+| Q3 | $$7.8B | ($$2.7B) |
+| Q4 | $$6.7B | $$18.2B |
 
 The two columns move in opposite directions and bear no consistent
 relationship to each other. Operating earnings were relatively smooth
-and record-high for the year; GAAP earnings swung from a $43.8 billion
-loss in Q2 to an $18.2 billion profit in Q4. _"The GAAP earnings are
+and record-high for the year; GAAP earnings swung from a $$43.8 billion
+loss in Q2 to an $$18.2 billion profit in Q4. _"The GAAP earnings are
 100% misleading when viewed quarterly or even annually."_ The swings
 represent movements in Berkshire's equity portfolio, not changes in
 operating performance.
@@ -401,7 +401,7 @@ from the 2002 letter (see above) remain the practical toolkit.
 
 ## "Worse-than-useless" and the Galileo formulation (2023)
 
-The 2023 letter provides the most unsparing single-letter indictment of GAAP earnings in the corpus. Berkshire's operating earnings for 2023 were $37.4 billion. The GAAP figure for the same year was $96 billion — more than double, driven entirely by unrealised gains on the equity portfolio under the mark-to-market rule introduced in 2018. The prior year's GAAP figure had been a loss of $23 billion on the same operating base of $30.9 billion.
+The 2023 letter provides the most unsparing single-letter indictment of GAAP earnings in the corpus. Berkshire's operating earnings for 2023 were $$37.4 billion. The GAAP figure for the same year was $$96 billion — more than double, driven entirely by unrealised gains on the equity portfolio under the mark-to-market rule introduced in 2018. The prior year's GAAP figure had been a loss of $$23 billion on the same operating base of $$30.9 billion.
 
 Buffett's characterisation: _"worse-than-useless 'net income' figure."_ The Galileo reference is deliberate: when told his discovery that the Earth moved around the sun contradicted Church doctrine, Galileo is said to have muttered under his breath "and yet it moves." Buffett's analogue is that he is required by regulation to report GAAP net income, which is mandated but wrong as an indicator of economic performance, and yet Berkshire's operating earnings remain the only reliable measure — and move independently of whatever GAAP requires.
 
@@ -409,18 +409,18 @@ The 2023 letter also states directly what prior letters had only implied: _"EBIT
 
 ## Operating earnings record (2024)
 
-The 2024 letter reports operating earnings of $47.4 billion for the year — a record, up from $37.4 billion in 2023. The two-year comparison is presented in a segment table:
+The 2024 letter reports operating earnings of $$47.4 billion for the year — a record, up from $$37.4 billion in 2023. The two-year comparison is presented in a segment table:
 
 | Segment | 2024 | 2023 |
 |---|---|---|
-| Insurance-underwriting | $9.0B | $5.4B |
-| Insurance-investment income | $13.7B | $9.6B |
-| BNSF | $5.0B | $5.1B |
-| BHE | $3.7B | $2.3B |
-| Other controlled businesses | $13.1B | $13.4B |
-| Non-controlled businesses | $1.5B | $1.8B |
-| Other | $1.4B | ($0.2B) |
-| **Total operating earnings** | **$47.4B** | **$37.4B** |
+| Insurance-underwriting | $$9.0B | $$5.4B |
+| Insurance-investment income | $$13.7B | $$9.6B |
+| BNSF | $$5.0B | $$5.1B |
+| BHE | $$3.7B | $$2.3B |
+| Other controlled businesses | $$13.1B | $$13.4B |
+| Non-controlled businesses | $$1.5B | $$1.8B |
+| Other | $$1.4B | ($$0.2B) |
+| **Total operating earnings** | **$$47.4B** | **$$37.4B** |
 
 The 2024 letter notes that despite the record aggregate figure, 53% of Berkshire's 189 operating businesses reported a decline in earnings. The headline is a function of insurance performance (GEICO underwriting turnaround under Todd Combs) and investment income (Treasury bill yields on the cash position), not uniform improvement across the portfolio. This honest decomposition is consistent with the earnings-integrity standard: the headline figure is real, but its components deserve scrutiny.
 

@@ -159,7 +159,7 @@ effort. It is often better to pass entirely than to reach.
 The annual meetings are candid about Berkshire's specific technology
 misses and the reasoning behind them.
 
-**Google:** Buffett was present for GEICO's experience paying $10–11 per
+**Google:** Buffett was present for GEICO's experience paying $$10–11 per
 click for search-engine advertising that worked extraordinarily well.
 He met the Google founders. He still did not buy — he could not satisfy
 himself that he understood the durability of the competitive position a

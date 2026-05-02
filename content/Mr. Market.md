@@ -184,7 +184,7 @@ financial architecture that makes crisis deployment possible.
 
 The 2009 letter also offers the most compressed version of the rain-gold
 maxim: _"When it's raining gold, reach for a bucket, not a thimble."_
-Berkshire deployed $15.5 billion in 25 days during the post-Lehman panic
+Berkshire deployed $$15.5 billion in 25 days during the post-Lehman panic
 — rates available during those days "would have been unavailable in normal
 markets."
 
@@ -309,7 +309,7 @@ principle, hard to maintain at 50% down.
 
 **Market timing admissions.** The annual meetings contain Buffett's most
 candid confessions about his own failure to exploit Mr. Market's moods:
-_"We have not been good at timing."_ Specific instances: he deployed $16
+_"We have not been good at timing."_ Specific instances: he deployed $$16
 billion at what turned out to be terrible prices in September 2008 (before
 markets fell further); he missed the March 2009 bottom (when prices were
 lower); he missed the March 2020 bottom. The lesson he draws is not "try
