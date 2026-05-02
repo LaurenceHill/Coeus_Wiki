@@ -12,9 +12,9 @@ Masters, 2014, Chapters 3–5.
 
 Buffett's 1991 letter contains his most formal and precise distinction
 between two categories of business that produce radically different
-investor outcomes. An *economic franchise* is a business whose
+investor outcomes. An _economic franchise_ is a business whose
 structural position entitles it to earn above-average returns
-indefinitely; a *business* in the more ordinary sense earns
+indefinitely; a _business_ in the more ordinary sense earns
 exceptional returns only under specific conditions that do not last.
 
 The formal definition of an economic franchise, stated in the 1991
@@ -28,18 +28,18 @@ Where they do not, the franchise has pricing power; where they do,
 competition compresses margins toward cost.
 
 The franchise/business distinction has a critical asymmetry that
-Buffett explicitly states: *"franchises can tolerate mismanagement.
+Buffett explicitly states: _"franchises can tolerate mismanagement.
 Inept managers may diminish a franchise's profitability, but they
-cannot inflict mortal damage."* A business — one that lacks genuine
-pricing power — *"can be killed by poor management."* This asymmetry
+cannot inflict mortal damage."_ A business — one that lacks genuine
+pricing power — _"can be killed by poor management."_ This asymmetry
 has large implications for how much the investor should pay for the
 management team versus paying for the structural position.
 
 ## The business in contrast
 
 Against the franchise, Buffett defines the ordinary business: one
-that *"earns exceptional profits only if it is the low-cost operator
-or if supply of its product or service is tight."* Neither condition
+that _"earns exceptional profits only if it is the low-cost operator
+or if supply of its product or service is tight."_ Neither condition
 is structurally durable. Tight supply attracts new entrants until
 margins compress. Low-cost leadership requires continuous operational
 excellence and is always at risk of being replicated by a better-run
@@ -72,12 +72,12 @@ variable, not structurally growing — discounted at the same rate is
 worth approximately 10 times after-tax earnings (roughly 6.5 times
 pre-tax). The same dollar of current earnings is worth less than
 half as much when it belongs to a cyclical business than when it
-belongs to a franchise. As Buffett notes: *"Dollars are dollars
+belongs to a franchise. As Buffett notes: _"Dollars are dollars
 whether they are derived from the operation of media properties or
 of steel mills. What in the past caused buyers to value a dollar of
 earnings from media far higher than a dollar from steel was that the
 earnings of a media property were expected to constantly grow...
-whereas steel earnings clearly fell in the bob-around category."*
+whereas steel earnings clearly fell in the bob-around category."_
 
 This arithmetic has a direct implication for how investors should
 read price-earnings multiples. A "high" P/E multiple on a genuine
@@ -98,19 +98,19 @@ television had three channels), and pricing was unregulated.
 By 1991, two of these conditions were eroding. Consumer choices for
 information and entertainment had proliferated — cable, VHS, the
 early internet, direct mail — while total available demand had not
-grown. As Buffett writes: *"500 million American eyeballs and a
+grown. As Buffett writes: _"500 million American eyeballs and a
 24-hour day are all that's available. The result is that competition
 has intensified, markets have fragmented, and the media industry has
-lost some — though far from all — of its franchise strength."*
+lost some — though far from all — of its franchise strength."_
 
 The valuation consequence follows directly from the math above.
 When the financial community revised its assumption from "perpetual
 6% growth" to "bob-around," the justified multiple on media earnings
 fell from approximately 25x to approximately 10x. The actual earnings
 had not yet collapsed; but the expectation of their character had
-changed, and that was enough to produce a massive rerating. *"A
+changed, and that was enough to produce a massive rerating. _"A
 seemingly modest shift in assumptions reduces the property's valuation
-to [40% of what it was before]."*
+to \[40% of what it was before]."_
 
 This example is the applied case for [[Financial Community Appraisal]]:
 the appraisal shift preceded the earnings shift, and investors who
@@ -125,24 +125,24 @@ The 1991 letter provides the richest worked example of the franchise
 category in the corpus — the twenty-year retrospective on See's
 Candy, purchased in January 1972.
 
-The nominal asking price was \$40 million for 100% ownership; with
-excess cash of \$10 million, the true offering price was \$30 million.
-At the time, See's had tangible net worth of \$7 million. *"Charlie
+The nominal asking price was $40 million for 100% ownership; with
+excess cash of $10 million, the true offering price was $30 million.
+At the time, See's had tangible net worth of $7 million. _"Charlie
 and I, not yet fully appreciative of the value of an economic
-franchise, looked at the company's mere \$7 million of tangible net
-worth and said \$25 million was as high as we would go (and we meant
-it). Fortunately, the sellers accepted our offer."*
+franchise, looked at the company's mere $7 million of tangible net
+worth and said $25 million was as high as we would go (and we meant
+it). Fortunately, the sellers accepted our offer."_
 
-Over the twenty years from 1972 to 1991: See's sales grew from \$29
-million to \$196 million; pre-tax profits grew from \$4.2 million to
-\$42.4 million; and the net worth required to run the business grew
-only modestly — from \$7 million to \$25 million, meaning that just
-\$18 million of incremental capital had been required over twenty
-years. The remaining \$410 million of pre-tax profits were distributed
+Over the twenty years from 1972 to 1991: See's sales grew from $29
+million to $196 million; pre-tax profits grew from $4.2 million to
+$42.4 million; and the net worth required to run the business grew
+only modestly — from $7 million to $25 million, meaning that just
+$18 million of incremental capital had been required over twenty
+years. The remaining $410 million of pre-tax profits were distributed
 to Berkshire for deployment elsewhere.
 
 The key insight Buffett identifies as the basis for the purchase:
-*"We saw that the business had untapped pricing power."* This is the
+_"We saw that the business had untapped pricing power."_ This is the
 franchise recognition point — the identification, before the market
 had recognised it, that the pricing power was structural rather than
 contingent. See's customers, in the relevant geography, did not
@@ -155,7 +155,7 @@ The See's case also illustrates the capital-efficiency dimension of
 the franchise category. A franchise does not need to retain capital
 to grow its intrinsic value; the value is in the pricing power, not
 in the physical assets. A franchise's reported earnings are, in
-Fisher's term, *"freely-distributable earnings"* — they can be paid
+Fisher's term, _"freely-distributable earnings"_ — they can be paid
 out without impairing the business's future earning capacity, because
 the future earning capacity rests on customer perception, not on
 machines and inventory.
@@ -166,7 +166,7 @@ The 1995 letter restates the franchise/business distinction in the most
 memorable compressed form in the corpus, prompted by Berkshire's
 acquisition of R.C. Willey Home Furnishings.
 
-*"Retailing is a tough business. During my investment career, I have
+_"Retailing is a tough business. During my investment career, I have
 watched a large number of retailers enjoy terrific growth and superb
 returns on equity for a period, and then suddenly nosedive, often all
 the way into bankruptcy. This shooting-star phenomenon is far more
@@ -174,13 +174,13 @@ common in retailing than it is in manufacturing or service businesses.
 In part, this is because a retailer must stay smart, day after day.
 Your competitor is always copying and then topping whatever you do.
 Shoppers are meanwhile beckoned in every conceivable way to try a
-stream of new merchants. In retailing, to coast is to fail."*
+stream of new merchants. In retailing, to coast is to fail."_
 
-Against this Buffett describes the opposite type: *"there is what I
+Against this Buffett describes the opposite type: _"there is what I
 call the have-to-be-smart-once business. For example, if you were
 smart enough to buy a network TV station very early in the game, you
 could put in a shiftless and backward nephew to run things, and the
-business would still do well for decades."* The mismanagement-tolerance
+business would still do well for decades."_ The mismanagement-tolerance
 asymmetry from the 1991 definition is here given its most vivid
 illustration: the franchise is the business whose structural advantages
 are durable enough to survive bad management for years; the
@@ -206,9 +206,9 @@ no sensible observer would doubt that they will hold or strengthen their
 positions worldwide for an investment lifetime.
 
 The counterpart category is the "Impostors" — companies riding high but
-vulnerable to competitive attack. *"For every Inevitable, there are dozens
+vulnerable to competitive attack. _"For every Inevitable, there are dozens
 of Impostors, companies now riding high but vulnerable to competitive
-attacks."* Berkshire's concession is direct: Charlie and I can identify
+attacks."_ Berkshire's concession is direct: Charlie and I can identify
 only a few Inevitables after a lifetime of looking. "Nifty Fifty" or
 "Twinkling Twenty" lists of Inevitables are illusory; the category is
 genuinely rare.
@@ -216,9 +216,9 @@ genuinely rare.
 The reason for the rarity is also stated: leadership alone provides no
 certainties. General Motors, IBM, and Sears had all enjoyed long periods
 of seeming invincibility before their structural advantages eroded.
-*"Though some industries or lines of business exhibit characteristics
+_"Though some industries or lines of business exhibit characteristics
 that endow leaders with virtually insurmountable advantages...most do
-not."* The Inevitable is the exception, not the rule, and its
+not."_ The Inevitable is the exception, not the rule, and its
 identification requires distinguishing structural durability from
 temporary leadership.
 
@@ -226,27 +226,27 @@ The 1996 letter adds a failure mode that is specific to this category:
 loss of focus. Coke grew shrimp; Gillette explored for oil. Management
 that becomes bored with its wonderful base business and pursues
 acquisitions in unrelated areas can dissipate the franchise's value for
-years before the damage becomes visible. *"Loss of focus is what most
+years before the damage becomes visible. _"Loss of focus is what most
 worries Charlie and me when we contemplate investing in businesses that
-in general look outstanding."*
+in general look outstanding."_
 
 The preference Buffett states, applicable to any investor choosing
-between a highly probable great outcome and a certain good one: *"I
-would rather be certain of a good result than hopeful of a great one."*
+between a highly probable great outcome and a certain good one: _"I
+would rather be certain of a good result than hopeful of a great one."_
 This is the franchise identification heuristic in its most condensed
 form.
 
 ## The most valuable and the hardest to find
 
 Buffett's aside in the 1992 letter is the cleanest statement of what
-makes the franchise category valuable to find: *"Leaving the question
+makes the franchise category valuable to find: _"Leaving the question
 of price aside, the best business to own is one that over an extended
 period can employ large amounts of incremental capital at very high
-rates of return."* This is the intersection of franchise and
+rates of return."_ This is the intersection of franchise and
 reinvestment opportunity — a franchise that can also deploy retained
 earnings at high rates, rather than distributing them, is a
-compounder. *"Unfortunately, the first type of business is very hard
-to find: Most high-return businesses need relatively little capital."*
+compounder. _"Unfortunately, the first type of business is very hard
+to find: Most high-return businesses need relatively little capital."_
 
 This last observation explains much of the portfolio structure of
 both Buffett and Sleep. See's Candy distributed its earnings because
@@ -257,9 +257,9 @@ that justifies a very long, near-permanent hold.
 
 ## Thiel's parallel: the monopoly thesis from the builder's side (2014)
 
-Buffett's franchise analysis describes how to *identify* a business with
+Buffett's franchise analysis describes how to _identify_ a business with
 durable competitive advantage once it exists. Thiel's [[Creative Monopoly]]
-argument in *Zero to One* describes how such a business gets *built* in the
+argument in _Zero to One_ describes how such a business gets _built_ in the
 first place. The two frameworks are complementary, not competing, and the
 overlap illuminates both.
 
@@ -272,12 +272,12 @@ or network good enough that no adequate substitute can plausibly exist? They
 are approaching the same business reality from different vantage points.
 
 The most important point of contact is the last-mover advantage, which Thiel
-states as: *"To succeed, you must study the endgame before everything else."*
+states as: _"To succeed, you must study the endgame before everything else."_
 This is precisely Sleep's [[Destination Analysis]] logic transposed to the
 operator's chair. A business with a well-specified terminal state — dominant
 in a large market with compounding structural advantages — is one that, on
 Buffett's analysis, justifies a 25× earnings multiple. On Thiel's analysis,
-the goal is to be the *last* major competitor in a space, not the first.
+the goal is to be the _last_ major competitor in a space, not the first.
 Both Buffett and Thiel are describing the same thing: the business that has
 escaped competition and earns durable returns because the structural position
 is genuinely hard to replicate.

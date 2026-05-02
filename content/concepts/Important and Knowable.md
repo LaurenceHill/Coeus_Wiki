@@ -14,8 +14,8 @@ exclusively on the first box and consciously ignore the second.
 The practical target of the framework is macroeconomic forecasting. Buffett
 and Munger's consistent position across three decades is that macroeconomic
 variables — GDP growth, interest rate direction, inflation trajectory,
-currency movements, election outcomes — are *important* in the sense that
-they affect everything, but they are *not knowable* with sufficient precision
+currency movements, election outcomes — are _important_ in the sense that
+they affect everything, but they are _not knowable_ with sufficient precision
 or consistency to be a sound basis for investment decisions. The correct
 response to an important-but-unknowable question is not to try harder to
 answer it. It is to design your investment approach so that the question does
@@ -51,8 +51,8 @@ productive, but it rarely determines long-run investment outcomes.
 
 Buffett's specific statements across many meetings form a consistent doctrine:
 
-*"Macro is important, but it's not knowable. We focus on things that are both
-important and knowable."*
+_"Macro is important, but it's not knowable. We focus on things that are both
+important and knowable."_
 
 This is not false modesty or evasion. It is a considered position held
 through periods when Buffett had every incentive — social, financial,
@@ -64,7 +64,7 @@ not materially better than chance on the questions that matter most (recession
 timing, rate inflection points, currency turning points).
 
 The admission extends to Berkshire's own timing mistakes. Buffett has noted
-explicitly that he bought \$16 billion of securities at terrible prices in
+explicitly that he bought $16 billion of securities at terrible prices in
 September 2008, missed the March 2009 bottom, and missed the March 2020
 bottom — all cases where macro reading or market timing would have helped.
 His conclusion is not "I should try harder to time markets" but "we have not
@@ -74,9 +74,9 @@ been good at timing, and we shouldn't pretend otherwise." See also
 ## Interest Rates as Gravity
 
 One macro variable Buffett does discuss at length — not because it is
-predictable but because its *current level* is directly usable in valuation
-— is the interest rate. His formulation: *"Interest rates are to asset prices
-what gravity is to matter."* The higher the rate, the greater the
+predictable but because its _current level_ is directly usable in valuation
+— is the interest rate. His formulation: _"Interest rates are to asset prices
+what gravity is to matter."_ The higher the rate, the greater the
 gravitational pull downward on the present value of future cash flows.
 
 This is not a forecast of where rates will go. It is a statement that the
@@ -93,8 +93,8 @@ gravity were unlike anything previously observed.
 Munger has a complementary way of stating the same idea, drawn from nautical
 metaphor:
 
-*"We're not predicting the currents that come. We're just figuring out how
-some things will swim in whatever currents arise."*
+_"We're not predicting the currents that come. We're just figuring out how
+some things will swim in whatever currents arise."_
 
 This is the positive version of the macro agnosticism. Rather than attempting
 to forecast the macro environment, the task is to find businesses and
@@ -118,9 +118,9 @@ technical ones, reprice with inflation.
 **2. A wonderful business with pricing power and low capital needs** — the
 ideal is a business that can raise prices without losing customers and does
 not need to reinvest at inflated capital costs to maintain its economics.
-See's Candies was the teaching case: approximately \$7–9 million of tangible
-assets at the time of acquisition generated \$30 million in revenues, and by
-the time revenues reached \$300 million only \$40 million of tangible capital was
+See's Candies was the teaching case: approximately $7–9 million of tangible
+assets at the time of acquisition generated $30 million in revenues, and by
+the time revenues reached $300 million only $40 million of tangible capital was
 required. The pricing power is the key variable; capital intensity is the
 killer.
 
@@ -150,9 +150,9 @@ questions are treated as knowable: Long-Term Capital Management in 1998.
 LTCM's models said a 25-standard-deviation event was essentially impossible.
 It happened. Buffett's formulation:
 
-*"When you play Russian roulette, it works 83.3% of the time. But 83.3%
+_"When you play Russian roulette, it works 83.3% of the time. But 83.3%
 is not good enough when you get no benefit from the risk — and you can
-lose everything."*
+lose everything."_
 
 The LTCM partners — among the most quantitatively sophisticated investors
 ever assembled — were treating macro correlations as knowable when they

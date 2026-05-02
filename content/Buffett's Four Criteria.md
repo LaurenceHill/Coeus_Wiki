@@ -31,7 +31,7 @@ and buying a business. The marketable-equity decision is treated as a
 fractional acquisition; the same criteria apply, just at smaller scale.
 The implication runs deep — a stock you would not want to own the
 entirety of is, by this test, a stock you should not own a fraction of.
-The framework is therefore as much a *posture* toward equity ownership as
+The framework is therefore as much a _posture_ toward equity ownership as
 a checklist for selecting it.
 
 ## What each criterion does
@@ -48,15 +48,15 @@ should operate where their depth is genuine.
 
 **Favourable long-term prospects.** Industry choice and durability. The
 1977 letter pairs this criterion with the textile-vs-insurance contrast:
-*"the importance of being in businesses where tailwinds prevail rather
-than headwinds."* See [[Tailwinds vs Headwinds]] for the standalone
+_"the importance of being in businesses where tailwinds prevail rather
+than headwinds."_ See [[Tailwinds vs Headwinds]] for the standalone
 treatment. The criterion is forward-looking — past results are evidence
 about prospects but not the criterion itself. A business with strong
 past results and deteriorating prospects fails this criterion even when
 it passes the others.
 
 **Honest and competent management.** The people-quality criterion.
-Notable that Buffett pairs the two — honesty *and* competence — as a
+Notable that Buffett pairs the two — honesty _and_ competence — as a
 joint requirement. Buffett's pairing implies neither alone is sufficient:
 honest but incompetent management cannot deliver; competent but dishonest
 management can deliver, but the value is captured by the operator rather
@@ -69,15 +69,15 @@ biographies. This criterion is the Buffett analogue to Fisher's
 Bezos's [[Missionaries vs Mercenaries]] heuristic.
 
 **Available at a very attractive price.** The valuation criterion. The
-word *very* matters — Buffett does not say "fair price" or "reasonable
+word _very_ matters — Buffett does not say "fair price" or "reasonable
 price." The framework treats price as a hurdle, not a fine adjustment. A
 business satisfying the first three criteria but only modestly priced
 does not meet the test. The criterion also implies a willingness to wait;
 businesses satisfying criteria 1–3 are not usually available at criterion-4
 prices. The 1977 letter's passage on welcoming lower market prices for
-stocks already owned — *"if their business experience continues to satisfy
+stocks already owned — _"if their business experience continues to satisfy
 us, we welcome lower market prices of stocks we own as an opportunity to
-acquire even more of a good thing at a better price"* — is the same idea
+acquire even more of a good thing at a better price"_ — is the same idea
 seen from the other direction.
 
 The 1981 letter sharpens the same point in the language of acquisition
@@ -100,7 +100,7 @@ but priced out of reach; in such years the discipline is to do nothing.
 The 1978 letter calls this out because 1978 was the opposite — a year
 in which the price criterion was unusually satisfied, so the volume
 of equity buying rose. The behavioural lesson is not that the criteria
-change in different markets but that *which* criterion is binding
+change in different markets but that _which_ criterion is binding
 changes; the investor's job is to recognise which one and act
 accordingly. Doing nothing because criterion 4 fails is itself an
 application of the framework, not a deviation from it.
@@ -113,16 +113,16 @@ governing Berkshire's selection — the 1982 letter publishes a
 matching set of conditions as a printed advertisement to potential
 acquisition counterparties. The list (refined 1985, 1986) is six
 items rather than four, but the structural correspondence is exact.
-The 1982 ad's *demonstrated consistent earning power* is criterion
+The 1982 ad's _demonstrated consistent earning power_ is criterion
 2 (favourable long-term prospects) restated as a measurable test;
-*future projections are of little interest to us, nor are
-'turn-around' situations* is the same criterion's rejection of the
-managerial-kiss myth. *Management in place* is criterion 3 in
+_future projections are of little interest to us, nor are
+'turn-around' situations_ is the same criterion's rejection of the
+managerial-kiss myth. _Management in place_ is criterion 3 in
 acquirer-side form: Berkshire admits it cannot supply management
 and therefore requires honest and competent management to be
-already there. *Simple businesses — if there's lots of technology,
-we won't understand it* is criterion 1 written in the negative.
-*An offering price* is criterion 4 made operationally enforceable —
+already there. _Simple businesses — if there's lots of technology,
+we won't understand it_ is criterion 1 written in the negative.
+_An offering price_ is criterion 4 made operationally enforceable —
 no exploratory conversations without a price, because the
 discipline of criterion 4 cannot be exercised against an unstated
 counterfactual.
@@ -194,10 +194,10 @@ Sleep does not restate a four-criteria framework, but his investment
 process across the [[Nomad Partnership Letters]] maps cleanly
 onto these four. Sleep's [[Destination Analysis]] is criterion
 2 (favourable long-term prospects) operationalised through a specific
-question: *where will the business be in twenty years?* Sleep's emphasis
+question: _where will the business be in twenty years?_ Sleep's emphasis
 on missionary management is criterion 3.
 [[Patience as Competitive Advantage]] is what makes criterion
-4 reachable — the willingness to wait until the price is *very*
+4 reachable — the willingness to wait until the price is _very_
 attractive, not merely fair.
 
 ## Related

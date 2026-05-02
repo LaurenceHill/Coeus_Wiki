@@ -71,20 +71,20 @@ corpus:
 > to enormous and whose impact can be negative as well as positive."
 
 The 1992 letter also argues that the term "value investing" is
-redundant: *"What is 'investing' if it is not the act of seeking value
+redundant: _"What is 'investing' if it is not the act of seeking value
 at least sufficient to justify the amount paid? Consciously paying
 more for a stock than its calculated value — in the hope that it can
 soon be sold for a still-higher price — should be labeled
-speculation."* The implication is that "growth investing" is only a
+speculation."_ The implication is that "growth investing" is only a
 coherent category if the growth has been paid for with additional
 value; otherwise it is speculation dressed as investment analysis.
 
 The unifying framework Buffett offers is John Burr Williams's
-discounted-cash-flow formula from *The Theory of Investment Value*
-(written over fifty years before the 1992 letter): *"The value of any
+discounted-cash-flow formula from _The Theory of Investment Value_
+(written over fifty years before the 1992 letter): _"The value of any
 stock, bond or business today is determined by the cash inflows and
 outflows — discounted at an appropriate interest rate — that can be
-expected to occur during the remaining life of the asset."* Note, as
+expected to occur during the remaining life of the asset."_ Note, as
 Buffett emphasises, that the formula is identical for stocks and bonds.
 The only distinction is that for equities the analyst must estimate the
 future "coupons" herself. Growth is simply one of the inputs to the
@@ -93,20 +93,20 @@ coupon estimate; it has no independent status.
 The 1992 letter delivers the counterexample that makes the point
 concrete: airline businesses. Investors have poured capital into the
 domestic airline industry to finance profitless growth for decades.
-*"For these investors, it would have been far better if Orville had
+_"For these investors, it would have been far better if Orville had
 failed to get off the ground at Kitty Hawk: The more the industry has
-grown, the worse the disaster for owners."* Growth destroys value when
-the incremental capital invested earns below its cost. *"Growth benefits
+grown, the worse the disaster for owners."_ Growth destroys value when
+the incremental capital invested earns below its cost. _"Growth benefits
 investors only when the business in point can invest at incremental
 returns that are enticing — in other words, only when each dollar used
 to finance the growth creates over a dollar of long-term market value.
 In the case of a low-return business requiring incremental funds,
-growth hurts the investor."*
+growth hurts the investor."_
 
 The 1992 letter also introduces Buffett's clearest statement of the
-purchase-discipline that flows from this framework: *"we believe this
+purchase-discipline that flows from this framework: _"we believe this
 margin-of-safety principle, so strongly emphasized by Ben Graham, to
-be the cornerstone of investment success."* The [[Margin of Safety]]
+be the cornerstone of investment success."_ The [[Margin of Safety]]
 page develops this further.
 
 The 1992 material fills out what was already implicit throughout the
@@ -117,9 +117,9 @@ investment (the goodwill is worth paying for) and a "growth" investment
 (the excess returns can be reinvested at the same high rate). Trying
 to classify it as one or the other distorts what is being bought.
 
-Buffett's oft-quoted formulation — *"it's far better to buy a
+Buffett's oft-quoted formulation — _"it's far better to buy a
 wonderful business at a fair price than a fair business at a wonderful
-price"* — is a direct statement of the dichotomy's failure. A "value"
+price"_ — is a direct statement of the dichotomy's failure. A "value"
 investor focused narrowly on current metrics will prefer the fair
 business at a wonderful price; the correct analysis prefers the
 wonderful business at a fair price, because the long-run compounding
@@ -127,8 +127,8 @@ of the wonderful business dominates.
 
 ## Fisher's argument
 
-Fisher does not use the growth-vs-value language — *Common Stocks
-and Uncommon Profits* predates the dichotomy's institutionalisation —
+Fisher does not use the growth-vs-value language — _Common Stocks
+and Uncommon Profits_ predates the dichotomy's institutionalisation —
 but his [[Fifteen Points]] are exclusively about business quality,
 management capability, and the ability to sustain growth. Fisher
 would have found the "value" label meaningless: if you buy a business

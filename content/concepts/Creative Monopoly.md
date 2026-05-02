@@ -4,7 +4,7 @@
 
 ## Summary
 
-The central argument of *Zero to One* is that competition destroys profits
+The central argument of _Zero to One_ is that competition destroys profits
 and monopoly is the condition of every successful business. This is stated
 as a matter of economic logic, not as a moral claim: under perfect
 competition, supply meets demand, prices fall to cost, and no firm earns
@@ -12,8 +12,8 @@ economic profit in the long run. The only firms that earn durable profits
 are those that have escaped competition — that is, monopolists.
 
 Thiel is careful to distinguish between two kinds of monopoly. An
-*extractive* monopoly corners an existing market and extracts rents without
-creating new value — the standard economists' villain. A *creative* monopoly
+_extractive_ monopoly corners an existing market and extracts rents without
+creating new value — the standard economists' villain. A _creative_ monopoly
 earns its position by building something genuinely new: it adds an entirely
 new category to the world, expands customer choice, and earns its profits
 as a reward for real innovation. Creative monopolies aren't just good for
@@ -21,8 +21,8 @@ their founders; they are, Thiel argues, engines for making the world better.
 The history of progress is a history of creative monopolies replacing
 incumbents.
 
-The practical corollary: *"If you want to create and capture lasting value,
-don't build an undifferentiated commodity business."* Every startup's
+The practical corollary: _"If you want to create and capture lasting value,
+don't build an undifferentiated commodity business."_ Every startup's
 foundational question is not "what product can we make?" but "what
 valuable company is nobody building?"
 
@@ -73,22 +73,22 @@ position to avoid regulatory scrutiny: Google frames itself as a small player
 in a vast technology market rather than a dominant force in search. Competitive
 firms exaggerate their uniqueness to seem more differentiated than they are.
 
-The tells are structural. Monopolists *expand* their market definition (search
+The tells are structural. Monopolists _expand_ their market definition (search
 engine ∪ mobile phones ∪ wearable computers ∪ self-driving cars) to make
-their share look small. Competitive firms *narrow* their market definition
+their share look small. Competitive firms _narrow_ their market definition
 (British food ∩ restaurants ∩ Palo Alto) to claim market leadership in a
 fictionally small segment. Neither description is honest. The investor's and
 founder's task is to see the actual competitive reality beneath the framing.
 
 ## Start small and monopolize
 
-*"Every startup is small at the start. Every monopoly dominates a large share
-of its market. Therefore, every startup should start with a very small market."*
+_"Every startup is small at the start. Every monopoly dominates a large share
+of its market. Therefore, every startup should start with a very small market."_
 
 This is the strategic corollary of the monopoly thesis. A large market is
 almost always a bad choice for a startup: it either lacks a good starting point
 or it is crowded with competition. A startup that claims it will capture 1% of
-a \$100 billion market has disclosed that it has no idea how to dominate
+a $100 billion market has disclosed that it has no idea how to dominate
 anything. The better question is: what is the smallest market we can own
 entirely?
 
@@ -97,23 +97,23 @@ markets — not a leap to a different business. Amazon started with books
 (standardised, easy to ship, with enthusiastic buyers for obscure titles), then
 expanded to CDs, videos, software, and eventually everything. eBay started
 with Beanie Baby obsessives before becoming the general auction marketplace.
-Tesla started with a \$109,000 electric sports car for wealthy early adopters
+Tesla started with a $109,000 electric sports car for wealthy early adopters
 before attempting the mass-market Model S.
 
 The practical danger Thiel identifies is the temptation to define the market
-as an intersection of smaller markets in order to *appear* dominant without
+as an intersection of smaller markets in order to _appear_ dominant without
 actually dominating anything. The genuine target is to be the last meaningful
-competitor in a space — the *last mover*, not the first.
+competitor in a space — the _last mover_, not the first.
 
 ## Last mover advantage
 
 First-mover advantage is a tactic, not a goal. What matters is generating
 cash flows far into the future; being first does nothing if someone else arrives
-later and displaces you. The goal is to be the *last* mover — to make the
+later and displaces you. The goal is to be the _last_ mover — to make the
 final great improvement in a market and then enjoy years or decades of
 monopoly profits.
 
-*"To succeed, you must study the endgame before everything else."* (Capablanca)
+_"To succeed, you must study the endgame before everything else."_ (Capablanca)
 
 This reframes the entire competitive analysis. Rather than asking how to
 enter a market, the question is what the market will look like in 10–20 years
@@ -157,8 +157,8 @@ are fundamentally alike. The Ellison/Siebel feud, the Gates/Schmidt
 platforms war, the dot-com pet-supply market — all examples of competition
 destroying value.
 
-*"If you can recognise competition as a destructive force instead of a sign of
-value, you're already more sane than most."*
+_"If you can recognise competition as a destructive force instead of a sign of
+value, you're already more sane than most."_
 
 ## Contradictions
 
@@ -166,8 +166,8 @@ Thiel's monopoly thesis is not in direct contradiction with the investor
 literature compiled elsewhere in this wiki — Buffett's [[Franchise vs Business Economics]],
 Sleep's [[Scale Economics Shared]], and Fisher's [[Fifteen Points]] all
 implicitly search for businesses with monopoly-like characteristics. The
-difference is perspective: Thiel describes how to *build* such a business;
-the investor literature describes how to *identify* one already built.
+difference is perspective: Thiel describes how to _build_ such a business;
+the investor literature describes how to _identify_ one already built.
 
 A genuine tension exists with conventional economics, which treats monopoly
 as a pathology. Thiel's response is that economists model static equilibria

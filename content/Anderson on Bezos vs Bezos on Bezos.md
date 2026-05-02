@@ -67,18 +67,18 @@ broader Bezos corpus.
 ### 3. The "wandering" framing is missing or flattened
 
 Bezos's 2018 letter, which gives [[Invent and Wander]] its
-title, makes a specific argument: that *guided non-linear
-exploration* is a mode that runs alongside efficient execution
+title, makes a specific argument: that _guided non-linear
+exploration_ is a mode that runs alongside efficient execution
 indefinitely, in different parts of the organisation, on
 different timescales. See [[Wandering]].
 
 Anderson's "Test → Build → Accelerate → Scale" cycle treats
-experimentation as a *phase* — the Test phase, before Build.
+experimentation as a _phase_ — the Test phase, before Build.
 This is a more comfortable framing for a how-to book aimed at
 small business owners, because it implies a clean linear
 progression. But it isn't what Bezos wrote. The 2018 letter
 is explicit: AWS, in 2018, was simultaneously a "Scale" business
-by Anderson's framework *and* still operating in wandering
+by Anderson's framework _and_ still operating in wandering
 mode internally on new product directions. The two modes
 coexist; they don't sequence.
 
@@ -118,7 +118,7 @@ contribution is genuine:
 - The decision-velocity material ([[Two-Way Doors]],
   [[Disagree and Commit]]) is accurately extracted.
 
-The book's value is as a *reading aid* to the letters, not as a
+The book's value is as a _reading aid_ to the letters, not as a
 freestanding framework. Used that way, it is useful. Used as a
 substitute for the letters, it gives a stretched and
 generalised version of what Bezos actually wrote.
@@ -136,7 +136,7 @@ For the careful reader:
    says, treat the generalisation as Anderson's interpretation,
    not Bezos's claim.
 4. Pay particular attention to the material in
-   [[Invent and Wander]] that has *no counterpart* in
+   [[Invent and Wander]] that has _no counterpart_ in
    Anderson — [[Regret Minimization Framework]],
    [[Gifts vs Choices]], [[Wandering]],
    [[Working Backward]], [[Six-Page Narratives]],

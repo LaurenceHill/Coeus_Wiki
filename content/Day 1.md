@@ -14,13 +14,13 @@ that follows.
 
 The canonical Bezos formulation, from the 2016 letter:
 
-> *"Day 2 is stasis. Followed by irrelevance. Followed by excruciating,
-> painful decline. Followed by death. And that is why it is always Day 1."*
+> _"Day 2 is stasis. Followed by irrelevance. Followed by excruciating,
+> painful decline. Followed by death. And that is why it is always Day 1."_
 
 The concept originates in the 1997 letter — Bezos's first — where he writes
-*"it is truly Day 1 for the Internet."* From that letter forward, every
-subsequent shareholder letter closed with the same note: *"As always, I
-attach a copy of our original 1997 letter. It remains Day 1."* The
+_"it is truly Day 1 for the Internet."_ From that letter forward, every
+subsequent shareholder letter closed with the same note: _"As always, I
+attach a copy of our original 1997 letter. It remains Day 1."_ The
 repetition is deliberate. Day 1 is not a historical claim about Amazon's age;
 it is a permanent operational posture that must be actively maintained.
 
@@ -29,8 +29,8 @@ it is a permanent operational posture that must be actively maintained.
 The 2016 letter is Bezos's most explicit treatment of what it takes to remain
 a Day 1 company. He identifies four:
 
-**Customer obsession.** *"Obsessive customer focus is by far the most
-protective of Day 1 vitality."* See [[Customer Obsession]] for the full
+**Customer obsession.** _"Obsessive customer focus is by far the most
+protective of Day 1 vitality."_ See [[Customer Obsession]] for the full
 treatment. The short version: as organisations grow, middle management
 becomes insulated from direct customer contact and begins managing via
 metrics and processes instead. Day 1 companies actively resist this by
@@ -39,16 +39,16 @@ downstream consequence of process compliance.
 
 **Sceptical view of proxies.** Processes, procedures, and metrics are
 proxies for outcomes. In a Day 1 company, they serve the outcome. In a
-Day 2 company, they *replace* it. An employee who refuses to solve a
+Day 2 company, they _replace_ it. An employee who refuses to solve a
 customer problem because "company policy doesn't allow it" has substituted
 the proxy for the principal. Bezos: the company must own the process, not
 the other way around. The skill is distinguishing good proxies (ones that
 genuinely point toward the underlying outcome) from bad ones (ones that
 have drifted away from it but haven't been questioned).
 
-**Eager adoption of external trends.** *"These big trends are not that hard
+**Eager adoption of external trends.** _"These big trends are not that hard
 to spot (they get talked and written about a lot), but they can be strangely
-hard for large organisations to embrace."* The mechanism is organisational
+hard for large organisations to embrace."_ The mechanism is organisational
 risk aversion: new trends look risky, and a Day 2 culture punishes risk-taking,
 so the organisation watches the trend approach without acting. Day 1 cultures
 embrace trends precisely because they are new and represent an opportunity
@@ -95,9 +95,9 @@ in updated forms throughout the organisation as a visible reminder of the
 original condition of constraint and resourcefulness. The 1997 letter is
 attached to every subsequent one.
 
-These are not decorative gestures. Bezos: *"It is designed to keep everyone
+These are not decorative gestures. Bezos: _"It is designed to keep everyone
 in the company focused on doing what is right in each situation, not just
-what is possible given Amazon's size and influence."* The cultural signals
+what is possible given Amazon's size and influence."_ The cultural signals
 serve as activation mechanisms for the four defences: they are prompts to
 ask the Day 1 question — what would we do here if we were still small,
 hungry, and entirely dependent on the customer's next decision to buy?
@@ -123,7 +123,7 @@ toward mediocre consensus and away from rational independent action. See
 [[Berkshire Business Principles]] for Buffett's treatment of how he
 structures Berkshire to resist this drift.
 
-Thiel's treatment in *Zero to One* converges on the same problem from the
+Thiel's treatment in _Zero to One_ converges on the same problem from the
 founder's perspective. The founding moment of a company — its Day 1 in
 Bezos's terminology — sets a pattern that is disproportionately difficult to
 correct later. Thiel's prescription for the founding period (small boards,

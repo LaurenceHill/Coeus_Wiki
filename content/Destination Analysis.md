@@ -131,12 +131,12 @@ weights the near term heavily will systematically undervalue them.
 ## Thiel's parallel: last mover advantage
 
 Thiel arrives at almost precisely Sleep's destination logic from the
-operator's side. In *Zero to One*, the argument is that first-mover advantage
-is a tactic, not a goal: *"What really matters is generating cash flows far
-into the future."* The goal is therefore to be the *last* mover — to make
+operator's side. In _Zero to One_, the argument is that first-mover advantage
+is a tactic, not a goal: _"What really matters is generating cash flows far
+into the future."_ The goal is therefore to be the _last_ mover — to make
 the final great improvement in a market and enjoy durable profits from that
-position. Thiel quotes Capablanca: *"To succeed, you must study the endgame
-before everything else."* Sleep's formulation — "the destination is more
+position. Thiel quotes Capablanca: _"To succeed, you must study the endgame
+before everything else."_ Sleep's formulation — "the destination is more
 important than the route" — is the investor-side translation of the same
 principle.
 

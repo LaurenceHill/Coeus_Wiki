@@ -53,7 +53,7 @@ acquisition boom of the 1980s, which Buffett observed closely, was filled
 with examples: companies with excess cash flow acquiring businesses at
 prices no rational analysis could justify, rationalised by studies prepared
 precisely to justify what the CEO had already decided to do (manifestation
-3).
+3\).
 
 Manifestation (3) — studies supporting leadership's cravings — is a
 description of institutional sycophancy. The CEO who wants to make an
@@ -86,22 +86,22 @@ behaviour rather than analysing it from within a corporation.
 
 The October 1967 partnership letter gives four reasons for reducing the
 partnership's performance target. The second reason is the most
-prescient: *"the securities markets are not the same as they were thirty
+prescient: _"the securities markets are not the same as they were thirty
 or even fifteen years ago. When I first started, the market was
 dominated by individuals, and the occasional institution. Today the
 market is dominated by institutional money — pension funds, mutual
 funds, insurance companies — and these institutions have, by and large,
-adopted a remarkably similar approach to their investment activities."*
+adopted a remarkably similar approach to their investment activities."_
 
 The approach Buffett describes is a textbook example of what manifestation
 (4) of the institutional imperative will later formally identify as
-mindless imitation: *"The big investment institutions are setting up
+mindless imitation: _"The big investment institutions are setting up
 operations, and the big mutual fund companies are talking about 'performance'
 — the ability to outperform the Dow in the short term. Short-term oriented
 investment activity on the part of large institutions in the stock market
 is not a new development. But it now dominates the market, and I believe
 it is destroying much of the long-term orientation that made the market
-profitable for the careful investor in earlier periods."*
+profitable for the careful investor in earlier periods."_
 
 The 1967 letter observes that this environment made the returns Buffett
 had achieved in the 1950s and early 1960s harder to replicate — not
@@ -172,30 +172,30 @@ The 1994 letter's compensation section is the most concrete description
 Buffett ever gave of what the imperative looks like in a specific
 management system, and of how to design against it.
 
-The central claim: *"alignment means being a partner in both directions,
+The central claim: _"alignment means being a partner in both directions,
 not just on the upside. Many 'alignment' plans flunk this basic test,
-being artful forms of 'heads I win, tails you lose.'"* The most common
+being artful forms of 'heads I win, tails you lose.'"_ The most common
 example is the standard stock option. An option is set at a fixed strike
 price and has a long term — typically ten years. During that period,
 retained earnings compound into the equity, increasing the intrinsic
 value of the shares without any management action. A manager holding a
 long-dated option thus benefits from the capital accumulation of the
-business even if they have merely *"tread water in his job."*
+business even if they have merely _"tread water in his job."_
 
 The second structural defect is the incentive this creates: when
 dividends are withheld, the options become more valuable (the retained
-earnings flow into share price). *"I have yet to see this vital point
+earnings flow into share price). _"I have yet to see this vital point
 spelled out in a proxy statement asking shareholders to approve an option
-plan."* The option-holder's interests are therefore materially misaligned
+plan."_ The option-holder's interests are therefore materially misaligned
 with the shareholder's on dividend policy.
 
 Berkshire's alternative for subsidiary managers (exemplified by Ralph
 Schey at Scott Fetzer): compensation tied directly to results in the
 area the manager controls, not to Berkshire overall. Managers are charged
 a high rate for incremental capital they employ and credited at an equally
-high rate for capital they release. The result: *"it pays Ralph — and pays
+high rate for capital they release. The result: _"it pays Ralph — and pays
 him well — to send to Omaha any cash he can't advantageously use in his
-business."* This is alignment in both directions. If the manager deploys
+business."_ This is alignment in both directions. If the manager deploys
 capital badly, the shortfall is costly to them as well as to Berkshire.
 If they return capital that Berkshire can deploy better, they are
 rewarded rather than penalised.
@@ -213,16 +213,16 @@ empire-build with, because capital has a cost.
 The 1997 and 1998 letters extend manifestation (3) — studies supporting
 leadership's cravings — into a sharper generalisation about the structure of
 advice in hierarchical organisations. The 1997 letter states it without
-qualification: *"If a CEO is enthused about a particularly foolish
+qualification: _"If a CEO is enthused about a particularly foolish
 acquisition, both his internal staff and his outside advisors will come up
 with whatever projections are needed to justify his stance. Only in fairy
-tales are emperors told that they are naked."*
+tales are emperors told that they are naked."_
 
 The 1998 letter provides the structural explanation for why this happens.
 Major auditing firms, at deal time, sometimes point out the possibilities
 for "accounting magic" — not because the firms are dishonest but because
 their economic interests align with the completion of the transaction.
-*"Whose bread I eat, his song I sing."* First-class people will frequently
+_"Whose bread I eat, his song I sing."_ First-class people will frequently
 stoop to third-class tactics when the analysis is blessed by authority and
 the incentives all point in the same direction.
 
@@ -243,13 +243,13 @@ treatment of corporate governance. The 2002 critique is not about law or
 regulation but about the social dynamics that make boards ineffective even
 when they are formally independent.
 
-Buffett names the problem directly: *"boardroom atmosphere."* Consider the
-practical impossibility: *"It's almost impossible, for example, in a
+Buffett names the problem directly: _"boardroom atmosphere."_ Consider the
+practical impossibility: _"It's almost impossible, for example, in a
 boardroom populated by well-mannered people, to raise the question of whether
 the CEO should be replaced. It's equally awkward to question a proposed
 acquisition that has been endorsed by the CEO, particularly when his inside
 staff and outside advisors are present and unanimously support his decision.
-(They wouldn't be in the room if they didn't.)"* The social dynamics of
+(They wouldn't be in the room if they didn't.)"_ The social dynamics of
 deference, which are appropriate in most contexts, become destructive when
 the issue is whether the person at the centre of the hierarchy deserves to
 remain there.
@@ -264,11 +264,11 @@ personal benefit for the challenger.
 The most damning empirical case is mutual fund boards. Federal law has
 mandated that at least 40–50% of investment company directors be independent
 since 1940. Over six decades, this structural requirement has produced
-essentially zero shareholder benefit: *"many thousands of investment-company
+essentially zero shareholder benefit: _"many thousands of investment-company
 boards meet annually to carry out the vital job of selecting who will manage
 the savings of the millions of owners they represent. Year after year the
 directors of Fund A select manager A, Fund B directors select manager B, etc.
-… in a zombie-like process that makes a mockery of stewardship."* A
+… in a zombie-like process that makes a mockery of stewardship."_ A
 nominally independent director whose moderate income is heavily dependent on
 director fees, and who hopes to be invited onto further boards, is not
 actually independent — directorial fees produce the same incentive capture
@@ -292,17 +292,17 @@ ordinary shareholders have.
 
 The 2002 letter's most direct attack is on executive compensation, which
 Buffett treats as the central test of whether governance reform is genuine or
-cosmetic: *"Managers will cheerfully agree to board 'diversity,' attest to
+cosmetic: _"Managers will cheerfully agree to board 'diversity,' attest to
 SEC filings and adopt meaningless proposals relating to process. What many
-will fight, however, is a hard look at their own pay and perks."*
+will fight, however, is a hard look at their own pay and perks."_
 
-Compensation committees have become *"tail-wagging puppy dogs meekly
+Compensation committees have become _"tail-wagging puppy dogs meekly
 following recommendations by consultants, a breed not known for allegiance
-to the faceless shareholders who pay their fees."* The incentive structure
+to the faceless shareholders who pay their fees."_ The incentive structure
 for compensation consultants is precisely the wrong one: their fees are paid
 by the company (effectively, by the CEO), and recommending higher pay pleases
-the client while recommending lower pay does not. *"If you can't tell whose
-side someone is on, they are not on yours."*
+the client while recommending lower pay does not. _"If you can't tell whose
+side someone is on, they are not on yours."_
 
 The aggregate outcome: CEOs have often amassed riches while their
 shareholders experienced financial disasters. Buffett traces the root cause
@@ -318,14 +318,14 @@ governance codes use. The formal definition is structural: a director is
 "independent" if they lack certain specific financial relationships with the
 company. Buffett argues this measure reliably points in the wrong direction.
 
-The biblical test is sharper. In Matthew 6:21, Jesus observed: *"For where
-your treasure is, there will your heart be also."* Applied to directors: the
+The biblical test is sharper. In Matthew 6:21, Jesus observed: _"For where
+your treasure is, there will your heart be also."_ Applied to directors: the
 relevant question is not whether a director receives consulting fees, legal
-fees, or supply-contract revenues *from this company*, but whether the
+fees, or supply-contract revenues _from this company_, but whether the
 director fee income itself constitutes "treasure." A director whose annual
-board income is \$100,000 and whose total annual income is \$110,000 is
-dependent in a way that matters; a director whose board income is \$100,000
-out of \$3 million of total income is not dependent in any meaningful sense.
+board income is $100,000 and whose total annual income is $110,000 is
+dependent in a way that matters; a director whose board income is $100,000
+out of $3 million of total income is not dependent in any meaningful sense.
 The formal "independence" label has confused the measurement instrument with
 the quantity being measured.
 
@@ -334,7 +334,7 @@ does not name. Buffett recounts having first-hand knowledge of a major
 acquisition proposal — favoured by management, blessed by the company's
 investment banker, offered at a price above the company's recent trading
 range — that was blocked by a subset of directors who each received
-approximately \$100,000 annually in board and committee fees. The non-managing
+approximately $100,000 annually in board and committee fees. The non-managing
 directors blocking the deal owned little stock except for shares received from
 the company; their open-market purchases had been nominal even though the
 stock had long traded below the acquisition price. In other words, these
@@ -343,13 +343,13 @@ had repeatedly declined to buy stock themselves at a fraction of $X. At the
 same meeting at which the acquisition was rejected, the board voted itself a
 significant increase in directors' fees.
 
-*"I don't know which directors opposed letting shareholders see the offer. But
-I do know that \$100,000 is an important portion of the annual income of some
+_"I don't know which directors opposed letting shareholders see the offer. But
+I do know that $100,000 is an important portion of the annual income of some
 of those deemed 'independent,' clearly meeting the Matthew 6:21 definition of
-'treasure.' If the deal had gone through, these fees would have ended."*
+'treasure.' If the deal had gone through, these fees would have ended."_
 
 Berkshire's own board, by contrast, meets all four tests Buffett considers
-meaningful: every director is a member of a family owning at least \$4 million
+meaningful: every director is a member of a family owning at least $4 million
 of company stock; none of those shares were acquired through options or
 grants; no director receives committee, consulting, or board fees that are
 more than a tiny portion of their annual income; and no directors' and
@@ -365,73 +365,73 @@ Inc. and receives options on 1% of the company.
 
 Fred's rational self-interest under a fixed-price ten-year option is to skip
 dividends entirely and use all of Stagnant's earnings to repurchase shares.
-The arithmetic: assume Stagnant earns \$1 billion annually on \$10 billion of
-net worth, or \$10 per share on 100 million shares. Over ten years of
+The arithmetic: assume Stagnant earns $1 billion annually on $10 billion of
+net worth, or $10 per share on 100 million shares. Over ten years of
 retained earnings and repurchases at a constant P/E of 10, the share count
-falls to 38.7 million and earnings per share rise to \$25.80. The stock
-appreciates 158%. Fred collects \$158 million on his 1% option — *"despite
-the business itself improving not at all."* More strikingly, Fred could have
-made more than \$100 million even if Stagnant's earnings *fell* 20% during
+falls to 38.7 million and earnings per share rise to $25.80. The stock
+appreciates 158%. Fred collects $158 million on his 1% option — _"despite
+the business itself improving not at all."_ More strikingly, Fred could have
+made more than $100 million even if Stagnant's earnings _fell_ 20% during
 the period.
 
 Fred can also enrich himself by deploying retained earnings into
 disappointing projects: even if the initiatives produce only a 5% return,
 the retained capital drives up the option value. At a constant P/E of 10,
-Fred still pockets \$63 million. His shareholders are poorer; the option
+Fred still pockets $63 million. His shareholders are poorer; the option
 has delivered apparent "alignment."
 
 The mathematical problem is conceptually simple: a fixed-price option gives
 the holder a free call on the automatic build-up in per-share value that
 occurs whenever earnings are retained. A board that wished to design a
 genuine alignment plan would set the strike price so that it rises each year
-to reflect retained earnings. Such options exist in theory but *"are almost
+to reflect retained earnings. Such options exist in theory but _"are almost
 never issued. Indeed, the very thought of options with strike prices that are
-adjusted for retained earnings seems foreign to compensation 'experts.'"*
+adjusted for retained earnings seems foreign to compensation 'experts.'"_
 
 Buffett notes that CEOs understand this arithmetic perfectly but do not
 disclose the dividend-withholding incentive in proxy materials seeking
-shareholder approval of option plans: *"I have yet to see this vital point
+shareholder approval of option plans: _"I have yet to see this vital point
 spelled out in a proxy statement asking shareholders to approve an option
-plan."*
+plan."_
 
 ## Ratchet, Ratchet and Bingo: the comparative-data trap (2005)
 
 The 2005 letter identifies the mechanism that perpetuates generous
 compensation even when no individual act of dishonesty occurs. Compensation
-committees have become *"slaves to comparative data."* The process is
+committees have become _"slaves to comparative data."_ The process is
 predictable: three or so directors — not chosen at random — are given a few
 hours of pay statistics before the board meeting showing average and above-
 average compensation at peer companies. The committee is told about new perks
 other managers are receiving. In this manner, yesterday's most generous
 arrangement becomes today's baseline; each ratchet upward becomes the floor
-for the next year's comparison. The firm Buffett names is *"Ratchet, Ratchet
-and Bingo"* — a fictional compression of the consultant industry whose
+for the next year's comparison. The firm Buffett names is _"Ratchet, Ratchet
+and Bingo"_ — a fictional compression of the consultant industry whose
 engagement depends on recommending higher pay.
 
 The correct standard, Buffett argues, is one that is indifferent to what other
 companies are doing and asks only what this manager's performance was. He
 invokes Hank Greenberg, the Detroit Tigers slugger and Buffett's boyhood hero.
 When Hank's son Steve, then a player's agent, asked what signing bonus to seek
-for an outfielder he was representing, Hank asked: *"What did he hit last
-year?"* When Steve answered ".246," Hank's comeback was immediate: *"Ask for
-a uniform."* Performance determines pay; the fact that other outfielders are
+for an outfielder he was representing, Hank asked: _"What did he hit last
+year?"_ When Steve answered ".246," Hank's comeback was immediate: _"Ask for
+a uniform."_ Performance determines pay; the fact that other outfielders are
 being paid well is irrelevant.
 
 ## CEO risk accountability and the alignment failure (2009)
 
-The 2009 letter contains Buffett's sharpest statement of the consequences when the institutional imperative operates at the level of risk management. The argument begins from a simple claim about accountability: *"A CEO must not delegate risk control. It's simply too important."* The institutional pressure runs in the opposite direction — chief risk officers, risk committees, and elaborate internal modelling systems serve partly as mechanisms by which CEOs can appear to be managing risk while actually delegating it. The imperative is to build structures that look like governance, not structures that produce accountability.
+The 2009 letter contains Buffett's sharpest statement of the consequences when the institutional imperative operates at the level of risk management. The argument begins from a simple claim about accountability: _"A CEO must not delegate risk control. It's simply too important."_ The institutional pressure runs in the opposite direction — chief risk officers, risk committees, and elaborate internal modelling systems serve partly as mechanisms by which CEOs can appear to be managing risk while actually delegating it. The imperative is to build structures that look like governance, not structures that produce accountability.
 
-The empirical case is damning. During the 2008 financial crisis, shareholders of major financial institutions saw their net worths largely obliterated — losses of 90% or more in cases that were not rare exceptions. The executives responsible for the risk decisions that produced those losses, in Buffett's phrase, *"largely went unscathed."* Golden parachutes, contractually guaranteed severance, and the absence of clawback provisions meant that the people who took the risk bore little of its downside. *"Meaningful sticks now need to be part of their employment picture."* The observation is an extension of manifestation (3) and the 1994 compensation critique into the specific domain of tail risk: a compensation structure that rewards risk-taking on the upside while insulating executives from catastrophic downside produces exactly the behaviour that causes catastrophes.
+The empirical case is damning. During the 2008 financial crisis, shareholders of major financial institutions saw their net worths largely obliterated — losses of 90% or more in cases that were not rare exceptions. The executives responsible for the risk decisions that produced those losses, in Buffett's phrase, _"largely went unscathed."_ Golden parachutes, contractually guaranteed severance, and the absence of clawback provisions meant that the people who took the risk bore little of its downside. _"Meaningful sticks now need to be part of their employment picture."_ The observation is an extension of manifestation (3) and the 1994 compensation critique into the specific domain of tail risk: a compensation structure that rewards risk-taking on the upside while insulating executives from catastrophic downside produces exactly the behaviour that causes catastrophes.
 
 The investor's implication is direct: a board that has not required personal, undelegated CEO accountability for risk decisions has not solved the institutional imperative in its most dangerous manifestation. The formal apparatus of risk management — the committee, the model, the report — can coexist with complete governance failure. What matters is whether the person with the authority to take the risks bears a meaningful share of the consequences when those risks detonate.
 
 ## The newspaper test and culture propagation (2010)
 
-The 2010 biennial manager memo — sent to all Berkshire subsidiary operators — contains the most compressed statement of Berkshire's ethical operating standard. Buffett's formulation: *"We can afford to lose money — even a lot of money. But we can't afford to lose reputation — even a shred of reputation."* The asymmetry is deliberate. Money is recoverable; reputation destroyed by an ethics failure in a business the size of Berkshire is not. The memo instructs managers to measure every act against a single test: would they be happy to have the action written about on the front page of a national newspaper in an article written by an unfriendly but intelligent reporter?
+The 2010 biennial manager memo — sent to all Berkshire subsidiary operators — contains the most compressed statement of Berkshire's ethical operating standard. Buffett's formulation: _"We can afford to lose money — even a lot of money. But we can't afford to lose reputation — even a shred of reputation."_ The asymmetry is deliberate. Money is recoverable; reputation destroyed by an ethics failure in a business the size of Berkshire is not. The memo instructs managers to measure every act against a single test: would they be happy to have the action written about on the front page of a national newspaper in an article written by an unfriendly but intelligent reporter?
 
-The operational instruction is the newspaper test's complement: *"hire well, manage little."* Berkshire's decentralised model works only if the people running subsidiaries are already operating to the standard the test describes, without needing surveillance. The institutional imperative in the governance literature is typically addressed through monitoring structures — audit committees, compliance programmes, reporting requirements. The Berkshire response is different: monitoring is unnecessary when the people being monitored have already internalised the standard. The memo's purpose is to articulate the standard explicitly, not to create a new enforcement apparatus.
+The operational instruction is the newspaper test's complement: _"hire well, manage little."_ Berkshire's decentralised model works only if the people running subsidiaries are already operating to the standard the test describes, without needing surveillance. The institutional imperative in the governance literature is typically addressed through monitoring structures — audit committees, compliance programmes, reporting requirements. The Berkshire response is different: monitoring is unnecessary when the people being monitored have already internalised the standard. The memo's purpose is to articulate the standard explicitly, not to create a new enforcement apparatus.
 
-Buffett borrows a structural observation from Churchill to explain why this matters at the organisational level: *"We shape our houses and then they shape us."* Corporate culture is not a declaration but an architecture. The practices, incentive structures, and selection criteria that constitute a company's daily operating reality produce the culture; mission statements and values posters do not. Berkshire's cultural architecture — no management fees charged to subsidiaries, no second-guessing of operating decisions, long tenures and no forced exits for successful managers — propagates a culture of owner-operator autonomy that no compliance programme could replicate.
+Buffett borrows a structural observation from Churchill to explain why this matters at the organisational level: _"We shape our houses and then they shape us."_ Corporate culture is not a declaration but an architecture. The practices, incentive structures, and selection criteria that constitute a company's daily operating reality produce the culture; mission statements and values posters do not. Berkshire's cultural architecture — no management fees charged to subsidiaries, no second-guessing of operating decisions, long tenures and no forced exits for successful managers — propagates a culture of owner-operator autonomy that no compliance programme could replicate.
 
 ## The boards of directors critique (2019)
 
@@ -441,7 +441,7 @@ mechanism distinct from, but continuous with, the 2002 boardroom
 atmosphere critique.
 
 The 2019 argument begins with director incentives. Directors are
-typically paid \$250,000 to \$300,000 annually or more in cash and stock —
+typically paid $250,000 to $300,000 annually or more in cash and stock —
 a sum that, for many, constitutes a significant portion of their
 household income. This creates an obvious interest in maintaining the
 directorial relationship. The people most likely to become directors, and
@@ -462,7 +462,7 @@ acquisition, the people present in the room at the board meeting are those
 who support it — the internal staff who prepared the projections, the
 outside advisors whose fees depend on the deal completing, and the CEO
 who initiated it. The critics of the acquisition are not in the room.
-*"Don't ask the barber whether you need a haircut"* (the 2009 letter's
+_"Don't ask the barber whether you need a haircut"_ (the 2009 letter's
 BNSF formulation) applies here with full force: the board is receiving
 a briefing from people whose interests are substantially aligned with
 a yes vote. The no-vote perspective, even when analytically stronger, is
@@ -482,7 +482,7 @@ prestige, and the social connections have the wrong ones.
 ## The connection to Munger's psychology
 
 The institutional imperative overlaps significantly with several of the
-psychological tendencies Munger documents in [[Psychology of Human
+psychological tendencies Munger documents in \[\[Psychology of Human
 Misjudgment]]. Manifestation (3) — studies supporting leadership's cravings
 — is a case of [[Incentive-Caused Bias]]: the analysts preparing the studies
 are paid by people whose craving they are supporting, and incentive-caused
@@ -544,8 +544,8 @@ preferences. The contracts themselves were the institutional inertia.
 **The seamless web of trust.** Buffett at annual meetings returns repeatedly
 to the concept of what makes Berkshire's operating model work: a culture
 in which managers behave well without monitoring because the culture itself
-selects for and reinforces trustworthy behaviour. His phrase: *"a seamless
-web of deserved trust."* This is the positive version of the institutional
+selects for and reinforces trustworthy behaviour. His phrase: _"a seamless
+web of deserved trust."_ This is the positive version of the institutional
 imperative: just as organisations can embed and propagate bad behaviour
 through structural incentives, they can embed and propagate good behaviour
 through the same mechanisms.

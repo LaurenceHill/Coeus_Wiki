@@ -23,7 +23,7 @@ to explain what he was observing. The second was strategic: Munger's method
 of collecting instances of bad judgement, then pondering ways to avoid such
 outcomes, led him naturally toward a systematic catalogue of failure modes.
 
-The influence of Robert Cialdini's *Influence* was the proximate trigger for
+The influence of Robert Cialdini's _Influence_ was the proximate trigger for
 reading psychology formally. Munger sent copies to all his children and gave
 Cialdini a share of Berkshire Class A stock in thanks. He then worked through
 three introductory psychology textbooks, found them inadequate in critical
@@ -141,9 +141,9 @@ read, and it is the most important new idea in the speech.
 
 24. **Reason-Respecting** — humans respond strongly to orders accompanied
     by reasons. Carl Braun's five-element rule: Who, What, Where, When, Why.
-    The latticework metaphor: *"Learning is most easily assimilated and used
+    The latticework metaphor: _"Learning is most easily assimilated and used
     when, lifelong, people consistently hang their experience on a latticework
-    of theory answering the question: Why?"* Dangerous byproduct: even
+    of theory answering the question: Why?"_ Dangerous byproduct: even
     meaningless reasons increase compliance.
 
 25. **Lollapalooza Tendency** — see [[Lollapalooza Effect]]. The most
@@ -154,11 +154,11 @@ read, and it is the most important new idea in the speech.
 
 The speech rewards slow reading with a checklist in hand. Munger's explicit
 instruction is that the system works best as a checklist — the McDonnell
-Douglas airliner-evacuation case study in the Q&A section demonstrates this,
+Douglas airliner-evacuation case study in the Q\&A section demonstrates this,
 walking through the disaster by calling the roll of tendencies and showing
 how each contributed.
 
-The Q&A section at the end is underread relative to the tendency-by-tendency
+The Q\&A section at the end is underread relative to the tendency-by-tendency
 treatment. It contains: Munger's answer on whether the system is tautological
 (yes, somewhat, and that's fine); a real-world multi-tendency case study;
 the paradox question (the more widely the system is known, the less effective

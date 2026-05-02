@@ -84,7 +84,7 @@ things Amazon could do for customers — building Prime, investing in
 fulfilment infrastructure, creating AWS — all required multi-year
 investment horizons before generating financial returns.
 
-The 1997 Amazon shareholder letter (the first in *Invent and Wander*)
+The 1997 Amazon shareholder letter (the first in _Invent and Wander_)
 establishes this as a first principle: "it's all about the long
 term." Bezos's framing is that short-term earnings optimisation and
 long-term customer value creation are in structural tension, and that
@@ -150,12 +150,12 @@ businesses run by managers (Buffett).
 ## Thiel's framing: last mover advantage
 
 Thiel's contribution to the long-term thinking argument is structural rather
-than financial or operational. In *Zero to One*, the argument is that first-
+than financial or operational. In _Zero to One_, the argument is that first-
 mover advantage — the standard strategic logic of competitive positioning —
 is a tactic, not a goal. What matters is not who enters a market first but
-who dominates it last. *"The goal is to be the last mover — to make the final
+who dominates it last. _"The goal is to be the last mover — to make the final
 great improvement in a market and then enjoy years or decades of monopoly
-profits."*
+profits."_
 
 The valuation implication Thiel draws is precise: a technology company's
 value lies primarily in cash flows expected ten to fifteen years in the

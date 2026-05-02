@@ -8,7 +8,7 @@ About Market Fluctuations" section (the hamburger analogy and net-buyer
 logic); 2008 and 2009 letters (crisis capital allocation and approval
 as enemy of investing); 2013 letter (moody-neighbour farm extension;
 "climate of fear is your friend when investing"). Graham's original
-formulation appears in *The Intelligent Investor* (1949); Buffett cites
+formulation appears in _The Intelligent Investor_ (1949); Buffett cites
 Graham explicitly and
 reproduces the parable in full.
 
@@ -87,27 +87,27 @@ The 1990 letter extends the Mr. Market framework with two passages
 that sharpen the practical instruction.
 
 The first is the food-price analogy, which gives the concept its most
-intuitive form: *"Investors who expect to be ongoing buyers of
+intuitive form: _"Investors who expect to be ongoing buyers of
 investments throughout their lifetimes should adopt a similar attitude
 toward market fluctuations; instead many illogically become euphoric
 when stock prices rise and unhappy when they fall. They show no such
 confusion in their reaction to food prices: Knowing they are forever
 going to be buyers of food, they welcome falling prices and deplore
-price increases."* Buffett's treatment of Wells Fargo stock during the
+price increases."_ Buffett's treatment of Wells Fargo stock during the
 1990 California real-estate panic is the applied case: the stock fell
 almost 50% within a few months, and Berkshire welcomed the decline
 because it allowed further purchases at panic prices.
 
 The second passage corrects the most common misreading of the
-contrarian position: *"The most common cause of low prices is pessimism
+contrarian position: _"The most common cause of low prices is pessimism
 — sometimes pervasive, sometimes specific to a company or industry. We
 want to do business in such an environment, not because we like
 pessimism but because we like the prices it produces. It's optimism
-that is the enemy of the rational buyer."* And immediately after: *"None
+that is the enemy of the rational buyer."_ And immediately after: _"None
 of this means, however, that a business or stock is an intelligent
 purchase simply because it is unpopular; a contrarian approach is just
 as foolish as a follow-the-crowd strategy. What's required is thinking
-rather than polling."* The Mr. Market parable does not license buying
+rather than polling."_ The Mr. Market parable does not license buying
 whatever is unloved; it licenses buying what is independently known to
 be undervalued and is unloved only because Mr. Market is depressed. The
 distinction requires an independent prior assessment of value — without
@@ -127,14 +127,14 @@ The answer is obvious. The market question is the same: if you expect to be
 a net buyer of stocks for the next five years, should you hope for a higher
 or lower market?
 
-*"Many investors get this one wrong. Even though they are going to be net
+_"Many investors get this one wrong. Even though they are going to be net
 buyers of stocks for many years to come, they are elated when stock prices
 rise and depressed when they fall. In effect, they rejoice because prices
-have risen for the 'hamburgers' they will soon be buying."*
+have risen for the 'hamburgers' they will soon be buying."_
 
 The editorial instruction Buffett offers for reading market news: when a
 headline says "Investors lose as market falls," edit it mentally to
-*"Disinvestors lose as market falls — but investors gain."* Every fall has a
+_"Disinvestors lose as market falls — but investors gain."_ Every fall has a
 buyer and a seller; what hurts one necessarily helps the other. Berkshire's
 own saving programme — retaining all earnings and reinvesting them — means
 that lower market prices are a standing advantage for its shareholders:
@@ -143,9 +143,9 @@ depressed than when they are elevated.
 
 The argument also runs through the investees: companies such as Coca-Cola,
 Washington Post, and Wells Fargo repurchased their own shares throughout
-the period. *"The repurchases that Coca-Cola, The Washington Post and Wells
+the period. _"The repurchases that Coca-Cola, The Washington Post and Wells
 Fargo made in past years at very low prices benefited Berkshire far more
-than do today's repurchases, made at loftier prices."* This completes the
+than do today's repurchases, made at loftier prices."_ This completes the
 mechanism: Mr. Market's depressed moods are not just buying opportunities
 for Berkshire directly but amplifiers for the compounding of every
 long-term holding through share repurchases.
@@ -157,25 +157,25 @@ the Mr. Market framework into operating principle. Two maxims from the 2008
 letter are worth preserving verbatim.
 
 The first is about the posture to take toward capital allocation in panics:
-*"When investing, pessimism is your friend, euphoria the enemy."* This
+_"When investing, pessimism is your friend, euphoria the enemy."_ This
 inverts the emotional response that markets typically produce. Falling prices
 feel bad; rising prices feel good. The Mr. Market framework insists these
 feelings are backwards for the net buyer of assets.
 
 The second goes further, addressing the social dimension of investment
 decisions — the desire for approval from peers, commentators, and the
-market itself: *"Approval is not the goal of investing. In fact, approval
+market itself: _"Approval is not the goal of investing. In fact, approval
 is often counter-productive because it sedates the brain and makes it less
 receptive to new facts or a re-examination of conclusions formed earlier.
 Beware the investment activity that produces applause; the great moves are
-usually greeted by yawns."* The observation cuts at the institutional
+usually greeted by yawns."_ The observation cuts at the institutional
 investor's structural problem: managing client relationships and
 managing capital are two different jobs, and optimising for the former
 tends to corrupt the latter.
 
 The 2009 letter extends this into the specific context of the 2008 crisis,
 where Berkshire had arranged its finances to be a capital supplier rather
-than a supplicant: *"A climate of fear is their best friend"* for investors
+than a supplicant: _"A climate of fear is their best friend"_ for investors
 who have maintained the ability to act. The essential precondition — surplus
 liquidity, no forced selling — is not separate from the Mr. Market posture
 but its practical enablement. The investor who cannot survive Mr. Market's
@@ -183,8 +183,8 @@ panic cannot profit from it. See [[Leverage and Liquidity]] for the
 financial architecture that makes crisis deployment possible.
 
 The 2009 letter also offers the most compressed version of the rain-gold
-maxim: *"When it's raining gold, reach for a bucket, not a thimble."*
-Berkshire deployed \$15.5 billion in 25 days during the post-Lehman panic
+maxim: _"When it's raining gold, reach for a bucket, not a thimble."_
+Berkshire deployed $15.5 billion in 25 days during the post-Lehman panic
 — rates available during those days "would have been unavailable in normal
 markets."
 
@@ -192,11 +192,11 @@ markets."
 
 The 2013 letter's investment essay extends the Mr. Market parable into its most tangible form. Buffett describes owning a 400-acre farm adjacent to a neighbour who, daily, shouts out a price at which he will either buy the farm or sell his own. The neighbour's moods swing widely. On some days the price is ridiculously low; on others it is absurdly high. The farmer's rational response is simple: buy when the price is ridiculously low and there is spare cash available, ignore the daily shouts otherwise, and certainly never let the neighbour's mood determine whether the farm itself is managed well or poorly.
 
-The stock investor is in an identical position, but with one specific advantage the farmer does not have: minute-to-minute valuations. For most investors this advantage is squandered — the availability of continuous quotations transforms liquidity *"from the unqualified benefit it should be to a curse."* The investor who can sit quietly for decades owning a farm becomes frenetic when exposed to a stream of stock quotations and commentators delivering an implied message of *"Don't just sit there, do something."*
+The stock investor is in an identical position, but with one specific advantage the farmer does not have: minute-to-minute valuations. For most investors this advantage is squandered — the availability of continuous quotations transforms liquidity _"from the unqualified benefit it should be to a curse."_ The investor who can sit quietly for decades owning a farm becomes frenetic when exposed to a stream of stock quotations and commentators delivering an implied message of _"Don't just sit there, do something."_
 
-The 2013 letter's most compressed formulation of the Mr. Market principle: *"A climate of fear is your friend when investing; a euphoric world is your enemy."* The sequence parallels 1990's "optimism is the enemy" but takes the positive form: fear, which creates the low prices from which Mr. Market's buy signals emerge, is not a problem to be endured but a condition to be exploited. During the financial panic of late 2008, Buffett gave no thought to selling his farm or his New York real estate; the same discipline should have applied, and did apply for Berkshire, to the equity portfolio.
+The 2013 letter's most compressed formulation of the Mr. Market principle: _"A climate of fear is your friend when investing; a euphoric world is your enemy."_ The sequence parallels 1990's "optimism is the enemy" but takes the positive form: fear, which creates the low prices from which Mr. Market's buy signals emerge, is not a problem to be endured but a condition to be exploited. During the financial panic of late 2008, Buffett gave no thought to selling his farm or his New York real estate; the same discipline should have applied, and did apply for Berkshire, to the equity portfolio.
 
-The letter also makes explicit what was implicit in earlier formulations: macro analysis is not an input to this process. *"Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important."* Mr. Market's moods are often driven by macroeconomic fear or enthusiasm. The investor who responds to macroeconomic signals — rather than to the relationship between price and the underlying productivity of the asset — has handed back the advantage that Mr. Market's irrationality creates.
+The letter also makes explicit what was implicit in earlier formulations: macro analysis is not an input to this process. _"Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important."_ Mr. Market's moods are often driven by macroeconomic fear or enthusiasm. The investor who responds to macroeconomic signals — rather than to the relationship between price and the underlying productivity of the asset — has handed back the advantage that Mr. Market's irrationality creates.
 
 ## The EMT parallel
 
@@ -287,11 +287,11 @@ toward market prices, not a substitute for re-evaluating the business itself.
 the Mr. Market idea that do not appear in the Chairman's Letters.
 
 **The psychotic drunk (2012).** The fullest annual meeting formulation of Mr.
-Market's character: *"Think of the stock market as a very obliging fellow — a
+Market's character: _"Think of the stock market as a very obliging fellow — a
 psychotic drunk who comes to you every day and offers to buy your farm or sell
 you his farm at different prices, and you don't have to listen to him. He's
 the most obliging money-making place in the world. You just don't have to
-respond when he's drunk or psychotic."* The addition of "psychotic" to the
+respond when he's drunk or psychotic."_ The addition of "psychotic" to the
 "manic-depressive" language of the Letters is meaningful — it captures not
 just mood swings but the disconnection from reality that characterises extreme
 market moves. The "most obliging money-making place in the world" framing is
@@ -309,7 +309,7 @@ principle, hard to maintain at 50% down.
 
 **Market timing admissions.** The annual meetings contain Buffett's most
 candid confessions about his own failure to exploit Mr. Market's moods:
-*"We have not been good at timing."* Specific instances: he deployed \$16
+_"We have not been good at timing."_ Specific instances: he deployed $16
 billion at what turned out to be terrible prices in September 2008 (before
 markets fell further); he missed the March 2009 bottom (when prices were
 lower); he missed the March 2020 bottom. The lesson he draws is not "try

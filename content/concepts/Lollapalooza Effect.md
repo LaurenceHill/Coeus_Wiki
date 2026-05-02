@@ -2,10 +2,10 @@
 
 **Source:** [[sources/Psychology of Human Misjudgment]] — Tendency #25 (the
 final and most original); elaborated through the McDonnell Douglas case study
-in the Q&A section. [[sources/Poor Charlie's Almanack]] — the Milgram
+in the Q\&A section. [[sources/Poor Charlie's Almanack]] — the Milgram
 experiment analysis (Talk 3); the Coca-Cola thought experiment as a positive
-lollapalooza case (Talk 4); the Talk 4 formulation: *"really big effects,
-lollapalooza effects, will often come only from large combinations of factors."*
+lollapalooza case (Talk 4); the Talk 4 formulation: _"really big effects,
+lollapalooza effects, will often come only from large combinations of factors."_
 
 ## Summary
 
@@ -18,8 +18,8 @@ describing how the other twenty-four interact rather than operating
 independently.
 
 Munger is explicit that this concept did not appear in any psychology
-textbook he read: *"This tendency was not in any of the psychology texts I
-once examined, at least in any coherent fashion, yet it dominates life."*
+textbook he read: _"This tendency was not in any of the psychology texts I
+once examined, at least in any coherent fashion, yet it dominates life."_
 The absence is not a minor oversight. It is, in Munger's view, the
 psychology profession's central failure — studying tendencies in isolation,
 one at a time, in controlled experiments, while avoiding the messiness of
@@ -70,10 +70,10 @@ communicated that the behaviour was acceptable), doubt-avoidance (the
 experiment framing that made stopping feel like the disruptive choice),
 inconsistency-avoidance (having started, stopping would require
 acknowledging past actions were wrong), and reciprocation (the experimental
-setup created a sense of commitment to the project). *"Almost any intelligent
+setup created a sense of commitment to the project). _"Almost any intelligent
 person with my checklist of psychological tendencies in his hand would, by
 simply going down the checklist, have seen that Milgram's experiment involved
-about six powerful psychological tendencies acting in confluence."* It took
+about six powerful psychological tendencies acting in confluence."_ It took
 over a thousand published psychology papers to reach roughly the same
 understanding that the checklist approach would have provided immediately.
 
@@ -101,8 +101,8 @@ catastrophic. It also explains how great businesses become unassailable.
 Munger's Coca-Cola thought experiment (Talk 4 of the Almanack) is the most
 fully worked positive example in the corpus.
 
-Starting with \$2 million in Atlanta in 1884, Munger demonstrates that reaching
-\$2 trillion by 2034 requires not a single brilliant strategy but a combination
+Starting with $2 million in Atlanta in 1884, Munger demonstrates that reaching
+$2 trillion by 2034 requires not a single brilliant strategy but a combination
 of reinforcing forces, each amplifying the others:
 
 - **Operant conditioning** — the product provides real rewards (calories,
@@ -118,7 +118,7 @@ of reinforcing forces, each amplifying the others:
 - **Autocatalysis** — each unit of volume strengthens the system's ability to
   produce more volume; the forces feed each other
 
-No single factor produces \$2 trillion. But when all five operate simultaneously
+No single factor produces $2 trillion. But when all five operate simultaneously
 and in mutual reinforcement — when the product literally tastes good, when
 the brand is everywhere, when social proof makes it the default choice, when
 scale makes competitors unable to match the advertising reach, and when all
@@ -175,9 +175,9 @@ making the decisions.
 
 ## The checklist as the primary antidote
 
-Munger's proposed defence is explicit: *"almost any intelligent person with
+Munger's proposed defence is explicit: _"almost any intelligent person with
 my checklist of psychological tendencies in his hand would, by simply going
-down the checklist, have seen"* what the experts missed. The checklist
+down the checklist, have seen"_ what the experts missed. The checklist
 works because it forces enumeration of tendencies that would otherwise be
 processed unconsciously. Each tendency on the list is an opportunity to ask:
 is this operating here? When several answers are yes and they all point in
@@ -186,18 +186,18 @@ the same direction, the Lollapalooza warning light should activate.
 The checklist approach connects to Munger's broader framework of the
 latticework of mental models: the person who has internalised many models
 from many disciplines can recognise compound effects that the specialist,
-who has only one or two models, will miss. *"To a man with only a hammer,
-every problem looks pretty much like a nail."* The Lollapalooza Effect is
+who has only one or two models, will miss. _"To a man with only a hammer,
+every problem looks pretty much like a nail."_ The Lollapalooza Effect is
 the proof that hammers are not enough.
 
 ## Contradictions and tensions
 
 The Lollapalooza Effect appears to contradict the standard rational-actor
-framework of economics. Munger acknowledges this directly in the Q&A section:
-*"I will now confidently predict that, despite Camerer's experimental
+framework of economics. Munger acknowledges this directly in the Q\&A section:
+_"I will now confidently predict that, despite Camerer's experimental
 outcome, most economics and corporate finance professors who still believe
 in the 'hard-form efficient market hypothesis' will retain their original
-belief."* The confident prediction is itself an illustration of
+belief."_ The confident prediction is itself an illustration of
 Inconsistency-Avoidance Tendency — the very effect that the efficient-market
 professors, were they to apply Munger's checklist, would be required to
 recognise in themselves.

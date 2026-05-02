@@ -20,8 +20,8 @@ are named explicitly as the three pillars whose payoffs financed everything
 else. The asymmetric-bet posture is not optional if you want to build an
 enduring business at Amazon's scale; it is structural.
 
-**Fisher's position** — stated in *Common Stocks and Uncommon Profits*
-and the *Five Don'ts* as summarised in [[Five Don'ts and Five More Don'ts]]
+**Fisher's position** — stated in _Common Stocks and Uncommon Profits_
+and the _Five Don'ts_ as summarised in [[Five Don'ts and Five More Don'ts]]
 — is that the investor should never buy into a promotional company.
 Fisher's definition is a company whose current stock price reflects hope for
 future breakthroughs rather than demonstrated operating results, and whose
@@ -44,7 +44,7 @@ future experiments that have not yet proven themselves. Amazon in 1999
 was a company where the core book business was profitable at the unit
 level but was being diluted by aggressive reinvestment, and the new ventures
 were not yet identifiable as the three pillars they would become. Fisher
-would have needed to evaluate the *portfolio* of experiments in progress —
+would have needed to evaluate the _portfolio_ of experiments in progress —
 not just the current results — and Fisher's framework was not built to price
 that kind of optionality.
 
@@ -61,7 +61,7 @@ of building the core that will make the experiments viable.
 
 Bezos is not advocating that a company run large speculative bets without
 a profitable core to absorb the failures. He is explicit in the 2015 letter
-that the strategy works *because* of the three pillars — the large winners
+that the strategy works _because_ of the three pillars — the large winners
 create the cash flow that makes the losing experiments affordable. Without
 that cash flow, the losing bets accumulate into ruin. This is Fisher's Don't,
 restated from the inside: the promotional company Fisher warns investors

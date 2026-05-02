@@ -136,8 +136,8 @@ Munger arrived at an overlapping set through systematic psychological
 analysis. The correspondences are precise enough to be worth mapping:
 
 **Denial** corresponds to Munger's Tendency #11: Simple, Pain-Avoiding
-Psychological Denial. Munger's formulation: *"The reality is too painful to
-bear, so one distorts the facts until they become bearable."* Sleep's
+Psychological Denial. Munger's formulation: _"The reality is too painful to
+bear, so one distorts the facts until they become bearable."_ Sleep's
 description of the investor who expands the investment thesis to accommodate
 disconfirming evidence rather than updating the position is the same
 mechanism applied to portfolio management. The expanding narrative is the
@@ -147,9 +147,9 @@ reality.
 **Anchoring** corresponds primarily to Munger's Tendency #5: Inconsistency-
 Avoidance. The brain resists changing prior conclusions — including the
 implicit conclusion embedded in the purchase price that the investment was
-worth what was paid. Munger: *"The human mind tends strongly toward the same
-sort of result [as a human egg after fertilisation] — once one thing gets in,
-there's an automatic shut-off device."* Deprival-Superreaction (#14) also
+worth what was paid. Munger: _"The human mind tends strongly toward the same
+sort of result \[as a human egg after fertilisation] — once one thing gets in,
+there's an automatic shut-off device."_ Deprival-Superreaction (#14) also
 contributes: the prospect of crystallising a loss triggers disproportionate
 emotional resistance, making the rational action (adding to a sound position
 at a lower price, or cutting a deteriorated one) feel intolerable.
@@ -158,9 +158,9 @@ at a lower price, or cutting a deteriorated one) feel intolerable.
 brain registers contrast rather than absolute values, which means that small
 sequential deteriorations — each one presenting low contrast to the prior
 state — fail to trigger re-evaluation. Munger's boiling-frog formulation:
-*"When a man's steps are consecutively taken toward disaster, with each step
+_"When a man's steps are consecutively taken toward disaster, with each step
 being very small, the brain's Contrast-Misreaction Tendency will often let
-the man go too far toward disaster to be able to avoid it."* A business that
+the man go too far toward disaster to be able to avoid it."_ A business that
 drifts is a slow-heating pot; the investor who relies on the feel of the
 water rather than a thermometer (a formal re-evaluation of the thesis) will
 notice too late.

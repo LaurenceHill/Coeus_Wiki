@@ -7,9 +7,9 @@ class.
 ## Summary
 
 Bezos's most philosophical piece of writing. The argument: there
-is a difference between *gifts* (capacities given to you,
+is a difference between _gifts_ (capacities given to you,
 unearned — intelligence, talent, family, opportunity) and
-*choices* (what you do with those capacities). Gifts are easy
+_choices_ (what you do with those capacities). Gifts are easy
 because they are given. Choices can be hard. The quality of a
 life is determined more by the choices than the gifts.
 
@@ -18,8 +18,8 @@ grandfather. As a clever ten-year-old, Bezos calculated the
 years his smoking grandmother was taking off her life and
 announced the figure proudly. His grandmother burst into tears.
 His grandfather pulled the car over and, after a long silence,
-said: *"Jeff, one day you'll understand that it's harder to be
-kind than clever."*
+said: _"Jeff, one day you'll understand that it's harder to be
+kind than clever."_
 
 Bezos's distillation:
 
@@ -40,7 +40,7 @@ The connection isn't decorative. The concrete bridges:
 
 - **[[Customer Obsession]]** is a choice, not a gift. Caring
   about customers in a way that survives quarterly margin
-  pressure requires *choosing* to care, repeatedly, when not
+  pressure requires _choosing_ to care, repeatedly, when not
   caring would be easier. Bezos's framing makes this
   visible.
 - **[[Long-Term Thinking]]** is a choice. The gift is the
@@ -55,7 +55,7 @@ The connection isn't decorative. The concrete bridges:
   choices matter more than gifts.
 - **[[Regret Minimization Framework]]** is explicitly about
   choices. The 80-year-old Bezos at the end of life is
-  evaluating the *choices* the younger Bezos made, not the
+  evaluating the _choices_ the younger Bezos made, not the
   gifts.
 
 ## The Princeton speech's questions
@@ -83,13 +83,13 @@ as choice. They are unusually direct for a commencement speech:
 
 Most of these have direct business analogues:
 
-- *Bluff it out when wrong vs apologise* — the executive
+- _Bluff it out when wrong vs apologise_ — the executive
   failure mode underneath [[Disagree and Commit]]'s opposite.
-- *Cynic vs builder* — the disposition split underneath
+- _Cynic vs builder_ — the disposition split underneath
   [[Day 1]] and [[Wandering]].
-- *Play it safe vs be swashbuckling* — the disposition
+- _Play it safe vs be swashbuckling_ — the disposition
   underneath [[Big Winners Pay for Many Experiments]].
-- *Clever at the expense of others vs kind* — the human
+- _Clever at the expense of others vs kind_ — the human
   property underneath [[Missionaries vs Mercenaries]].
 
 The speech is making the case that the operating principles
@@ -129,9 +129,9 @@ The investor's translation of gifts-vs-choices is roughly:
 The gift-rich business with poor choices is a deteriorating
 asset, no matter how strong the starting position. The
 gift-modest business with excellent choices is the
-[[Alert Corporate Management]] case — Fisher's *Pioneer
-Metals* type. Watching the *choices* over time is more
-informative than watching the *gifts*.
+[[Alert Corporate Management]] case — Fisher's _Pioneer
+Metals_ type. Watching the _choices_ over time is more
+informative than watching the _gifts_.
 
 ## Connection to Munger
 

@@ -36,9 +36,9 @@ the time — will produce whatever it produces, and the realistic
 expectation is that it will be somewhat inferior.
 
 The asymmetry compounds. A position that produces 20% per annum
-for ten years turns \$1 into \$6.19. A replacement that produces 10%
-per annum for the same period turns \$1 into \$2.59. The difference
-— \$3.60 per dollar originally invested — is the reinvestment cost
+for ten years turns $1 into $6.19. A replacement that produces 10%
+per annum for the same period turns $1 into $2.59. The difference
+— $3.60 per dollar originally invested — is the reinvestment cost
 of a sale that seemed modest at the time. Over a full investment
 career, repeated instances of this decision produce dramatically
 different outcomes.

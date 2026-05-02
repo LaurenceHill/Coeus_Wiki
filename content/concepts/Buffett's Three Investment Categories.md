@@ -76,18 +76,18 @@ dramatically cheap relative to its earning power and competitive position.
 Workouts are investments whose return is driven by a specific corporate
 event rather than by the market's general reassessment of a business.
 The prototypical workout is a merger: if Company A announces it will
-acquire Company B at \$40/share and Company B is trading at \$36, the
-investor can buy Company B and earn the \$4 spread when the deal closes.
+acquire Company B at $40/share and Company B is trading at $36, the
+investor can buy Company B and earn the $4 spread when the deal closes.
 The relevant questions are the probability the deal closes, the expected
 time to close, and whether alternative uses of the capital produce a
 higher expected return.
 
 Workouts serve two functions in the partnership structure. First, they
-produce returns that are largely *uncorrelated* with the stock market.
+produce returns that are largely _uncorrelated_ with the stock market.
 When the Dow falls 15%, the spread in a pending acquisition deal narrows
 or widens based on deal-specific factors, not market psychology. This
 makes Workouts a genuine diversifier against Generals in down markets.
-Second, they provide an *arbitrage* return that can be calculated
+Second, they provide an _arbitrage_ return that can be calculated
 roughly in advance, giving the portfolio a component of more predictable
 income.
 
@@ -138,8 +138,8 @@ large holder can unlock the value through corporate action.
 and water supply business, acquired at a significant discount to book
 value — a classic cigar-butt. After accumulating a controlling interest,
 Buffett brought in Harry Bottle as manager. Bottle's achievement over
-two years was comprehensive: he reduced inventory from \$4 million to
-\$1 million, eliminated marginal product lines, cut receivables, sold
+two years was comprehensive: he reduced inventory from $4 million to
+$1 million, eliminated marginal product lines, cut receivables, sold
 non-essential assets, and redeployed the liberated capital into
 marketable securities managed by Buffett. The business that had been
 earning a poor return on a large capital base was restructured so that
@@ -157,7 +157,7 @@ time-consuming: Dempster required substantial management attention
 from Buffett across two years.
 
 **Berkshire Hathaway (acquired 1962):** First purchased in November 1962
-at \$7.60/share (average cost \$14.86), originally as a Generals position
+at $7.60/share (average cost $14.86), originally as a Generals position
 and then consolidated into a Controls position. The textile business was
 the cigar-butt: declining, capital-intensive, with a workforce that
 Buffett described as hard-working and willing to improve, but facing
@@ -166,7 +166,7 @@ of good management could overcome. The strategy over the 1960s was
 the same as Dempster's: redeploy capital from the low-returning textile
 operation into higher-returning businesses. National Indemnity Company
 (insurance) and Illinois National Bank and Trust of Rockford were the
-first beneficiaries of this redeployment. See [[Cigar Butt to
+first beneficiaries of this redeployment. See \[\[Cigar Butt to
 Compounder]] for the full arc.
 
 ## The four-way split (1966)
@@ -195,11 +195,11 @@ As the partnership grew, the portfolio weight in Generals had to fall
 — not because Generals became less attractive analytically, but because
 the partnership had grown too large to acquire meaningful positions in
 small, statistically cheap companies without moving the price against
-itself. This is the *capital size constraint* that Buffett cites explicitly
+itself. This is the _capital size constraint_ that Buffett cites explicitly
 in the 1967 and 1969 letters as a structural reason for dissolution.
 The cigar-butt Generals category is inherently capacity-constrained.
 
-Controls, by contrast, become *more* natural as capital grows: you need
+Controls, by contrast, become _more_ natural as capital grows: you need
 scale to accumulate a controlling interest in a meaningful business. The
 Berkshire era that began in 1965 is in many ways just the Controls category
 pursued at scale — except that the Controls Buffett began acquiring after

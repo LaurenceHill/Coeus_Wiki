@@ -123,7 +123,7 @@ or challenge what the conversations suggested.
 
 ## Fisher's own critique and its resolution
 
-In *Paths to Wealth Through Common Stocks* (1960), Fisher acknowledges what he regards as the principal weakness of the scuttlebutt method: it is too slow. Identifying the right informants, arranging introductions, conducting conversations, and cross-checking what each source says against what others have said takes months when done thoroughly. In a market where investment opportunities can be recognised and priced by others in a matter of weeks, this lag is a genuine disadvantage. A solo analyst working the method correctly may find that by the time he has assembled a full picture, the price has already moved.
+In _Paths to Wealth Through Common Stocks_ (1960), Fisher acknowledges what he regards as the principal weakness of the scuttlebutt method: it is too slow. Identifying the right informants, arranging introductions, conducting conversations, and cross-checking what each source says against what others have said takes months when done thoroughly. In a market where investment opportunities can be recognised and priced by others in a matter of weeks, this lag is a genuine disadvantage. A solo analyst working the method correctly may find that by the time he has assembled a full picture, the price has already moved.
 
 Fisher's proposed solution in 1960 was a structural one: teams of geographically distributed specialists who collectively cover the full landscape of informants for a particular industry. Rather than one analyst in New York making two trips a year "around the country," Fisher envisioned a team with one member in each major geographic centre of an industry, each maintaining dense networks of contacts in their region. The collective contacts of such a team would allow the scuttlebutt picture to be assembled in days rather than months. Cross-checking across team members would also reduce the influence of any individual's biases or prejudices.
 
@@ -151,8 +151,8 @@ do not appear in the Chairman's Letters.
 
 **The silver bullet method.** Buffett has described at annual meetings a
 thought experiment he has applied when evaluating a company's competitive
-position: *"If I could only ask one person one question to determine whether
-to invest in this company, what would that question be?"* The discipline
+position: _"If I could only ask one person one question to determine whether
+to invest in this company, what would that question be?"_ The discipline
 forces analytical priorities. For a branded consumer goods company, the
 question might be about pricing power. For a financial services firm,
 about the consistency of underwriting discipline over a full cycle. For a

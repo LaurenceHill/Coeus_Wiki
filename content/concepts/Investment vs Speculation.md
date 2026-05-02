@@ -21,9 +21,9 @@ questions:
 > emerge and how many will there be? What is the risk-free interest rate
 > (which we consider to be the yield on long-term U.S. bonds)?
 
-*"If you can answer these three questions, you will know the maximum value of
+_"If you can answer these three questions, you will know the maximum value of
 the bush — and the maximum number of the birds you now possess that should
-be offered for it."* The formula applies to farms, oil royalties, bonds,
+be offered for it."_ The formula applies to farms, oil royalties, bonds,
 stocks, lottery tickets, and manufacturing plants. Neither the steam engine,
 nor the harnessing of electricity, nor the creation of the automobile changed
 it one iota, nor will the Internet.
@@ -31,16 +31,16 @@ it one iota, nor will the Internet.
 ## The distinction: investment versus speculation
 
 An investment, in this framework, is the purchase of an asset based on what
-the asset will *produce* — dividends, earnings, cash flows — over its life.
-A speculation is the purchase of an asset based on what the *next person will
-pay* for it. Buffett states the distinction without any judgment about
+the asset will _produce_ — dividends, earnings, cash flows — over its life.
+A speculation is the purchase of an asset based on what the _next person will
+pay_ for it. Buffett states the distinction without any judgment about
 legality or morality:
 
-> *"Speculation — in which the focus is not on what an asset will produce
+> _"Speculation — in which the focus is not on what an asset will produce
 > but rather on what the next fellow will pay for it — is neither illegal,
 > immoral nor un-American. But it is not a game in which Charlie and I wish
 > to play. We bring nothing to the party, so why should we expect to take
-> anything home?"*
+> anything home?"_
 
 The practical implication is that speculation is a zero-sum game among
 participants, while investment is a positive-sum claim on productive assets.
@@ -54,7 +54,7 @@ The 2000 letter contains one of Buffett's most direct attacks on the
 growth/value taxonomy that had come to dominate investment discourse. The
 Aesop framework makes the attack precise:
 
-> *"Common yardsticks such as dividend yield, the ratio of price to earnings
+> _"Common yardsticks such as dividend yield, the ratio of price to earnings
 > or to book value, and even growth rates have nothing to do with valuation
 > except to the extent they provide clues to the amount and timing of cash
 > flows into and from the business. Indeed, growth can destroy value if it
@@ -63,12 +63,12 @@ Aesop framework makes the attack precise:
 > later years. Market commentators and investment managers who glibly refer
 > to 'growth' and 'value' styles as contrasting approaches to investment are
 > displaying their ignorance, not their sophistication. Growth is simply a
-> component — usually a plus, sometimes a minus — in the value equation."*
+> component — usually a plus, sometimes a minus — in the value equation."_
 
 This is not a rhetorical point. Growth requires capital to produce, and the
 test for whether that growth is worth paying for is whether the discounted
 value of the additional cash flows exceeds the capital invested to produce
-them. A business that requires \$1 of reinvestment for every \$0.90 of future
+them. A business that requires $1 of reinvestment for every $0.90 of future
 value it creates destroys value by growing, even when reported earnings are
 rising. The Aesop framework surfaces this because it forces the question of
 how many birds will ultimately emerge, not merely how fast the flock is
@@ -82,13 +82,13 @@ Sleep and Fisher.
 Buffett acknowledges that knowing Aesop's formula is necessary but
 insufficient; inserting numbers is where the difficulty lies.
 
-> *"Using precise numbers is, in fact, foolish; working with a range of
+> _"Using precise numbers is, in fact, foolish; working with a range of
 > possibilities is the better approach. Usually, the range must be so wide
-> that no useful conclusion can be reached."*
+> that no useful conclusion can be reached."_
 
-But: *"Occasionally, though, even very conservative estimates about the
+But: _"Occasionally, though, even very conservative estimates about the
 future emergence of birds reveal that the price quoted is startlingly low
-in relation to value."* He calls this phenomenon the IBT — Inefficient Bush
+in relation to value."_ He calls this phenomenon the IBT — Inefficient Bush
 Theory — a deliberate parody of Efficient Market Theory. When the IBT
 condition obtains, the investor does not need brilliance or blinding insights.
 He needs general understanding of business economics, the ability to think
@@ -106,7 +106,7 @@ The 2000 letter offers the most memorable description of what happens to
 rational investors during a speculative boom. With the dotcom bubble at its
 peak, Buffett describes the mechanism:
 
-> *"Nothing sedates rationality like large doses of effortless money. After
+> _"Nothing sedates rationality like large doses of effortless money. After
 > a heady experience of that kind, normally sensible people drift into
 > behavior akin to that of Cinderella at the ball. They know that
 > overstaying the festivities — that is, continuing to speculate in companies
@@ -115,7 +115,7 @@ peak, Buffett describes the mechanism:
 > they nevertheless hate to miss a single minute of what is one helluva
 > party. Therefore, the giddy participants all plan to leave just seconds
 > before midnight. There's a problem, though: They are dancing in a room in
-> which the clocks have no hands."*
+> which the clocks have no hands."_
 
 The mechanism is not stupidity; it is the impossibility of coordinating exit
 in a room where the timing signal is invisible. Every speculator plans to
@@ -129,7 +129,7 @@ feature of speculation, not of investment.
 The 2000 letter gives a structural account of why the late 1990s bubble was
 not merely irrational exuberance but active wealth transfer:
 
-> *"By shamelessly merchandising birdless bushes, promoters have in recent
+> _"By shamelessly merchandising birdless bushes, promoters have in recent
 > years moved billions of dollars from the pockets of the public to their
 > own purses (and to those of their friends and associates). The fact is
 > that a bubble market has allowed the creation of bubble companies, entities
@@ -137,7 +137,7 @@ not merely irrational exuberance but active wealth transfer:
 > them. Too often, an IPO, not profits, was the primary goal of a company's
 > promoters. At bottom, the 'business model' for these companies has been
 > the old-fashioned chain letter, for which many fee-hungry investment
-> bankers acted as eager postmen."*
+> bankers acted as eager postmen."_
 
 The chain-letter accusation is precise. A chain-letter scheme produces wealth
 for early participants at the direct expense of later ones, with value
@@ -146,9 +146,9 @@ lifetimes, however high their interim valuations reached, destroyed value.
 Their IPO proceeds represented a transfer from public buyers to founders,
 early investors, and underwriters — not the creation of a new asset.
 
-The 2001 letter makes the structural summary: *"A market that no more than
+The 2001 letter makes the structural summary: _"A market that no more than
 parallels business progress is likely to leave many investors disappointed,
-particularly those relatively new to the game."* The market had been
+particularly those relatively new to the game."_ The market had been
 outperforming business for a decade; that could not continue indefinitely.
 When the re-convergence happened, the participants who had confused market
 performance with business performance suffered the most.
@@ -174,11 +174,11 @@ not a mechanical comparison of ratios. The ratio is a clue, not an answer.
 
 ## The productivity test and macro irrelevance (2013)
 
-The 2013 letter's investment essay restates the investment/speculation distinction through two personal examples — a Nebraska farm bought from the FDIC in 1986 and a New York retail property bought from the RTC in 1993 — and arrives at the same conclusion from a different direction. Both purchases were made at approximately 10% unleveraged current yields. Neither required predicting the macroeconomic environment of the following years. Buffett explicitly notes that he has no memory of the 1987 or 1994 headlines, and that their content was irrelevant to both decisions: *"corn would keep growing in Nebraska and students would flock to NYU."*
+The 2013 letter's investment essay restates the investment/speculation distinction through two personal examples — a Nebraska farm bought from the FDIC in 1986 and a New York retail property bought from the RTC in 1993 — and arrives at the same conclusion from a different direction. Both purchases were made at approximately 10% unleveraged current yields. Neither required predicting the macroeconomic environment of the following years. Buffett explicitly notes that he has no memory of the 1987 or 1994 headlines, and that their content was irrelevant to both decisions: _"corn would keep growing in Nebraska and students would flock to NYU."_
 
-The 2013 formulation of the investment/speculation distinction is the sharpest single-sentence version in the corpus: *"If you instead focus on the prospective price change of a contemplated purchase, you are speculating."* The positive version of the test: investment is focusing exclusively on the future productive output of the asset and asking whether that output, at the purchase price, represents adequate return. Price-change focus — buying because prices have been rising and therefore might continue to rise — is the definition of speculation regardless of the asset class. *"The fact that a given asset has appreciated in the recent past is never a reason to buy it."*
+The 2013 formulation of the investment/speculation distinction is the sharpest single-sentence version in the corpus: _"If you instead focus on the prospective price change of a contemplated purchase, you are speculating."_ The positive version of the test: investment is focusing exclusively on the future productive output of the asset and asking whether that output, at the purchase price, represents adequate return. Price-change focus — buying because prices have been rising and therefore might continue to rise — is the definition of speculation regardless of the asset class. _"The fact that a given asset has appreciated in the recent past is never a reason to buy it."_
 
-The 2013 letter also addresses the practical advice for investors who lack the ability to estimate specific businesses' earning power. The know-nothing investor's correct response is not speculation but passive ownership of a diversified cross-section: *"A low-cost S&P 500 index fund will achieve this goal."* Even more concretely, Buffett's own will instructs the trustee to hold 90% in a very low-cost S&P 500 index fund and 10% in short-term government bonds — the simplest available implementation of the productive-assets preference without requiring any ability to evaluate individual businesses. This advice sits entirely within the investment frame: the index investor is buying a claim on the future productive output of American business, not speculating on price movements.
+The 2013 letter also addresses the practical advice for investors who lack the ability to estimate specific businesses' earning power. The know-nothing investor's correct response is not speculation but passive ownership of a diversified cross-section: _"A low-cost S\&P 500 index fund will achieve this goal."_ Even more concretely, Buffett's own will instructs the trustee to hold 90% in a very low-cost S\&P 500 index fund and 10% in short-term government bonds — the simplest available implementation of the productive-assets preference without requiring any ability to evaluate individual businesses. This advice sits entirely within the investment frame: the index investor is buying a claim on the future productive output of American business, not speculating on price movements.
 
 The macro-irrelevance point merits its own emphasis. Buffett's 54-year record of never foregoing an attractive purchase because of macro or political environment or the views of others is not a coincidence; it is a direct consequence of the investment/speculation distinction. Macro and political environments affect Mr. Market's moods; they do not change the productive output of the farm or the student population at NYU. The investor who uses macro concerns as reasons to avoid purchase at attractive prices is allowing Mr. Market's irrationality to infect his own thinking.
 
@@ -197,8 +197,8 @@ standing [[Active vs Passive Investing]] tension page.
 [[sources/Buffett and Munger Unscripted]] adds three elements to this page.
 
 **Investment defined in one sentence.** At multiple meetings, Buffett reduces
-the definition of investment to its simplest form: *"Investment is about
-valuing businesses — that is all there is to it."* The companion from
+the definition of investment to its simplest form: _"Investment is about
+valuing businesses — that is all there is to it."_ The companion from
 [[Mr. Market]]: everything else — reading the tape, following momentum,
 acting on macro views, tracking institutional positioning — is speculation
 in the technical sense, because it does not bear on the value of the asset.
@@ -227,7 +227,7 @@ toward 1.0 across apparently unrelated assets as liquidity needs dominate.
 The investor who bought two "uncorrelated" assets thinking he had diversified
 his risk may find himself fully correlated when the stress arrives. The
 correct way to diversify is not to seek statistical independence in price
-series, but to own businesses whose *economic* independence is genuine —
+series, but to own businesses whose _economic_ independence is genuine —
 businesses whose earnings drivers are structurally different, not just whose
 recent price paths diverged.
 

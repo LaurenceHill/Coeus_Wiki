@@ -1,11 +1,11 @@
 # Buffett Partnership Letters
 
-**Author:** Warren E. Buffett  
+**Author:** Warren E. Buffett\
 **Period:** 1957–1969 (letters to partners of various predecessor entities,
-consolidated as Buffett Partnership, Ltd. from 1962)  
+consolidated as Buffett Partnership, Ltd. from 1962)\
 **Format:** Semi-annual and annual letters to limited partners; occasional
-special letters on specific positions or decisions  
-**Pages:** approximately 152 (original PDF compilation)  
+special letters on specific positions or decisions\
+**Pages:** approximately 152 (original PDF compilation)\
 **Status in wiki:** ingestion complete; all letters 1957–1969 read
 
 ## What this source is
@@ -18,9 +18,9 @@ more candid about method, more granular about specific positions, and more
 systematic in their framework than the later Berkshire chairman's letters.
 
 The letters serve three roles in the wiki. First, they document the
-*cigar-butt era* — the period in which Buffett was operating in the
+_cigar-butt era_ — the period in which Buffett was operating in the
 Graham-and-Dodd tradition of purely quantitative, statistically cheap
-investments. Second, they document his *transition* from quantitative to
+investments. Second, they document his _transition_ from quantitative to
 qualitative assessment, narrated in his own words from the inside, not
 reconstructed retrospectively. Third, they contain several conceptual
 frameworks — most importantly the Three Investment Categories and the
@@ -65,8 +65,8 @@ Compounding" letter (January 1963) with the Columbus and Mona Lisa
 mathematical illustrations.
 
 **1964–1965:** Berkshire Hathaway first mentioned explicitly as a
-Controls position (acquired November 1962 at \$7.60/share, average cost
-\$14.86). Ground Rules formalised in writing. Ground Rule 7 (the 40%
+Controls position (acquired November 1962 at $7.60/share, average cost
+$14.86). Ground Rules formalised in writing. Ground Rule 7 (the 40%
 concentration ceiling) introduced. True conservatism vs. conventionalism
 distinction developed.
 
@@ -99,8 +99,8 @@ letter contains the first clean public description of Berkshire Hathaway's
 operating businesses — textile (acknowledged as unsatisfactory), National
 Indemnity (excellent), Illinois National Bank and Trust (excellent) — and
 the first statement of the philosophy that will define the Berkshire era:
-*"I think about them as businesses, not 'stocks', and if the business does
-all right over the long term, so will the stock."*
+_"I think about them as businesses, not 'stocks', and if the business does
+all right over the long term, so will the stock."_
 
 ## Concepts introduced in this source
 
@@ -114,7 +114,7 @@ all right over the long term, so will the stock."*
 
 **Existing pages substantially updated from this source:**
 
-- [[Cigar Butt to Compounder]] — Berkshire origin story (\$7.60/share, 1962),
+- [[Cigar Butt to Compounder]] — Berkshire origin story ($7.60/share, 1962),
   Dempster Mill case, the capital-redeployment narrative, "businesses not stocks"
 - [[Concentration]] — Ground Rule 7 (the 40% ceiling), the unnamed 40%
   position, BPL-specific arguments for concentration
@@ -147,7 +147,7 @@ The December 1969 letter is the first explicit statement of the
 
 ## Relationship to other sources in the wiki
 
-The partnership letters are the *earliest* layer of the Buffett corpus — the
+The partnership letters are the _earliest_ layer of the Buffett corpus — the
 foundation on which the Berkshire chairman's letters (1977 onward) were
 built. The partnership era's three investment categories give way to
 Berkshire's simpler (and later largely implicit) framework of buying

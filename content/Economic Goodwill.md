@@ -1,7 +1,7 @@
 # Economic Goodwill
 
 **Source:** [[Berkshire Chairman's Letters]] — 1983 letter, the
-*Goodwill and its Amortization* appendix; reinforced and applied in
+_Goodwill and its Amortization_ appendix; reinforced and applied in
 the 1984 dividend-policy section, the 1985 three-businesses
 discussion, and many subsequent letters.
 
@@ -12,15 +12,15 @@ writing in the Berkshire corpus. Buffett spends roughly a dozen
 pages drawing a sharp distinction between two things that share a
 name and almost nothing else.
 
-*Accounting Goodwill* is the difference between the price paid for a
+_Accounting Goodwill_ is the difference between the price paid for a
 business and the fair value of its identifiable net assets. It is
 required by accounting convention to be carried on the balance sheet
 and amortised against earnings over a stated period (40 years, in
 the 1983 rules; the rule has changed since but the conceptual point
 has not).
 
-*Economic Goodwill* is the present value of the stream of future
-earnings that a business generates *in excess of* what would be
+_Economic Goodwill_ is the present value of the stream of future
+earnings that a business generates _in excess of_ what would be
 required by the capital it employs. It is invisible to the balance
 sheet, often growing while accounting Goodwill is shrinking, and is
 the substance of what makes a great business great.
@@ -37,23 +37,23 @@ the investment decisions are systematically wrong.
 
 Three consequences follow.
 
-The first is *acquisition pricing*. A buyer who refuses to pay
+The first is _acquisition pricing_. A buyer who refuses to pay
 above the tangible-asset book value of a business is implicitly
 treating Economic Goodwill as zero. For See's Candy Shops — which
 Buffett uses as the worked example — the tangible-asset value at
-acquisition was around \$8 million; the price paid was \$25 million;
-the \$17 million Goodwill was, on the books, an accounting hair-shirt
+acquisition was around $8 million; the price paid was $25 million;
+the $17 million Goodwill was, on the books, an accounting hair-shirt
 to be amortised against future earnings. Twenty years later, See's
-was producing roughly \$13 million in pre-tax earnings on essentially
+was producing roughly $13 million in pre-tax earnings on essentially
 the same tangible-asset base. The Economic Goodwill was many
 multiples of the Accounting Goodwill at acquisition, and was
-*growing* while the Accounting Goodwill was being mechanically
+_growing_ while the Accounting Goodwill was being mechanically
 amortised away. A buyer governed by the accounting framework would
 have refused the deal.
 
-The second is *reported-earnings interpretation*. A business with
-substantial Economic Goodwill — See's, the *Buffalo News*, NFM by
-the late 1970s — produces reported earnings that *understate* the
+The second is _reported-earnings interpretation_. A business with
+substantial Economic Goodwill — See's, the _Buffalo News_, NFM by
+the late 1970s — produces reported earnings that _understate_ the
 true earnings power, because amortisation of accounting Goodwill is
 charged against earnings even though no economic asset is actually
 being consumed. The 1983 appendix recommends pulling Goodwill
@@ -63,7 +63,7 @@ adopts in subsequent annual reports, where Goodwill amortisation is
 shown as a separate line item rather than charged against the
 specific business that generated it.
 
-The third is *capital allocation under inflation*. Buffett's most
+The third is _capital allocation under inflation_. Buffett's most
 important insight in the 1983 appendix — and the one that ties this
 page to [[Inflation Tax]] — is that businesses with substantial
 Economic Goodwill have an asymmetric advantage during inflationary
@@ -78,12 +78,12 @@ slowly or not at all. The 1983 letter's compressed line:
 > Goodwill, in inflation, is the gift that keeps on giving.
 
 The 1985 letter quantifies this for Berkshire's three then-largest
-operating businesses (NFM, See's, *News*). Aggregate pre-tax
-earnings rose from about \$8 million fifteen years earlier to \$72
-million in 1985 — *a 9× increase* — while invested capital rose by
-only about \$40 million. The same earnings increase, achieved at
-the average American business's \$5-of-additional-capital-per-\$1-
-of-additional-earnings ratio, would have required over \$300 million
+operating businesses (NFM, See's, _News_). Aggregate pre-tax
+earnings rose from about $8 million fifteen years earlier to $72
+million in 1985 — _a 9× increase_ — while invested capital rose by
+only about $40 million. The same earnings increase, achieved at
+the average American business's $5-of-additional-capital-per-$1-
+of-additional-earnings ratio, would have required over $300 million
 of additional capital. The gap is Economic Goodwill compounding;
 the asymmetry is precisely the one the 1983 appendix described.
 
@@ -99,9 +99,9 @@ See's earning, say, 25% on tangible capital is producing earnings
 that the tangible-capital base alone cannot explain; the excess is
 the visible signature of Economic Goodwill.
 
-The diagnostic does not by itself identify *what* the Goodwill is.
+The diagnostic does not by itself identify _what_ the Goodwill is.
 That requires looking at the business: the See's case is brand
-identity tied to a specific regional consumer experience; the *News*
+identity tied to a specific regional consumer experience; the _News_
 case is dominant local-market position with the resulting
 "bulletin-board" advertiser dependency; the GEICO case (developed
 in later letters) is a structural cost advantage from direct-to-
@@ -112,17 +112,17 @@ The diagnostic also flags the failure mode in reverse. A business
 where the tangible-capital base swells without earnings rising in
 proportion is the opposite case — the textile case Buffett spends
 the 1985 letter dissecting. Burlington Industries committed roughly
-\$3 billion of capital expenditure between 1964 and 1985 and ended
+$3 billion of capital expenditure between 1964 and 1985 and ended
 up, in real terms, with sales-per-share purchasing power one-third
 of what it had been. The Goodwill was negative in any meaningful
 sense, even though accounting conventions never recognised this.
 
 ## The 1983 appendix's larger argument
 
-The appendix is also, less openly, an argument *against* the
+The appendix is also, less openly, an argument _against_ the
 prevailing accounting framework. Buffett's quietly devastating
 observation is that mechanical amortisation of accounting Goodwill
-penalises the very acquisitions that *should* be encouraged
+penalises the very acquisitions that _should_ be encouraged
 (buying high-quality businesses with substantial Economic
 Goodwill at fair prices) and reports them as worse-performing
 than acquisitions that should be discouraged (buying capital-
@@ -181,7 +181,7 @@ investment basis, but the collective effect was that costs fell
 industry-wide and prices fell with them, so no individual investor
 captured the supposed return. Capital expenditure on a tangible
 plant base does not become Economic Goodwill simply by being
-called *strategic*.
+called _strategic_.
 
 It also isn't a guarantee of permanence. Economic Goodwill can
 erode — the 1985 letter's discussion of See's same-store volume

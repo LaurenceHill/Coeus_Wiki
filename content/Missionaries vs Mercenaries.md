@@ -8,8 +8,8 @@ slightly different emphasis, in several shareholder letters
 ## Summary
 
 Bezos's primary heuristic for evaluating leaders, founders, and
-acquisition targets. The question: is this person a *missionary*
-or a *mercenary?* Mercenaries are trying to flip the company,
+acquisition targets. The question: is this person a _missionary_
+or a _mercenary?_ Mercenaries are trying to flip the company,
 optimise the exit, extract value before moving on. Missionaries
 love the product, the customers, and the mission, and are trying
 to build something durable.
@@ -23,7 +23,7 @@ Bezos's framing, in the introduction:
 > money.
 
 The "great paradox" is the core of the heuristic. The
-counter-intuitive empirical claim is that the people *not*
+counter-intuitive empirical claim is that the people _not_
 optimising for money tend to make more of it.
 
 ## Why this isn't just rhetoric
@@ -54,20 +54,20 @@ named:
 ## The Whole Foods example
 
 Bezos uses John Mackey of Whole Foods as a positive example. In
-the introduction: *"Mackey struck him as a missionary, and his
+the introduction: _"Mackey struck him as a missionary, and his
 passion infused the Whole Foods ethos. 'It's a missionary
-company, and he's a missionary guy.'"*
+company, and he's a missionary guy.'"_
 
 The framing came up in the context of Amazon's 2017 acquisition
 of Whole Foods. Bezos was assessing whether to buy a company,
-and the *missionary character of the leader* was a primary
+and the _missionary character of the leader_ was a primary
 input — not just the financials.
 
 ## Bezos on himself
 
 The introduction notes that Bezos applies the same framing to
-his space company Blue Origin: *"this is the most important
-work I'm doing"* — explicit missionary framing for what is, on
+his space company Blue Origin: _"this is the most important
+work I'm doing"_ — explicit missionary framing for what is, on
 any rational financial-return basis, a worse use of his time
 than running Amazon. Bezos accepts the lower expected
 financial return because the work is the point.
@@ -105,19 +105,19 @@ Indicators that lean mercenary:
 
 The signal is not perfect — there are missionary leaders who
 fail and mercenary leaders who succeed. The signal is
-*directionally* useful as one input among many.
+_directionally_ useful as one input among many.
 
 ## Where this connects to Fisher
 
-Fisher's [[Fifteen Points]] point 15 — *integrity of management*
+Fisher's [[Fifteen Points]] point 15 — _integrity of management_
 — is the underlying property the missionary/mercenary
 distinction is trying to surface. Fisher would have phrased
 this differently, but the diagnostic question is the same: is
 this management team aligned with long-term shareholder value,
 or extracting from it?
 
-Fisher's point 14 — *willingness to talk freely about
-problems* — is also closely related. Missionary leaders will
+Fisher's point 14 — _willingness to talk freely about
+problems_ — is also closely related. Missionary leaders will
 discuss what is going wrong because the mission requires
 honest engagement with problems. Mercenary leaders manage
 information for short-term price effects.
@@ -129,7 +129,7 @@ is a portfolio of missionary-led businesses. He doesn't use the
 word, but the [[Cigar Butt to Compounder]] evolution was, in
 part, an evolution toward owning businesses run by people for
 whom the business itself was the point. Sleep's commentary on
-Costco repeatedly emphasises management's *willingness* to keep
+Costco repeatedly emphasises management's _willingness_ to keep
 running the [[Scale Economics Shared]] model in the face of
 margin-extraction pressure. That willingness is missionary
 behaviour.
@@ -142,7 +142,7 @@ optimises for short cycles.
 
 ## Where this connects to Thiel
 
-Thiel's Founder's Paradox chapter in *Zero to One* makes an argument that
+Thiel's Founder's Paradox chapter in _Zero to One_ makes an argument that
 runs parallel to the missionary/mercenary distinction from the opposite angle.
 Thiel's claim is that the most important task in business — creating genuinely
 new value — cannot be reduced to a formula and applied by professional

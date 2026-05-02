@@ -8,10 +8,10 @@ supplements with operational examples.
 ## Summary
 
 Customer Obsession is Bezos's first and defining operating principle. In
-its compressed form, from Amazon's stated Leadership Principles: *"Leaders
+its compressed form, from Amazon's stated Leadership Principles: _"Leaders
 start with the customer and work backwards. They work vigorously to earn
 and keep customer trust. Although leaders pay attention to competitors, they
-obsess over customers."*
+obsess over customers."_
 
 The word "obsession" is Bezos's deliberate choice over "focus" or
 "orientation." Obsession is clinical in its connotation: preoccupied to the
@@ -23,8 +23,8 @@ before they know they need it, and what is preventing them from getting it?
 
 ## Why it matters
 
-Bezos's claim, stated directly in the 2016 letter, is that *"obsessive customer
-focus is by far the most protective of Day 1 vitality."* [[Day 1]] is the
+Bezos's claim, stated directly in the 2016 letter, is that _"obsessive customer
+focus is by far the most protective of Day 1 vitality."_ [[Day 1]] is the
 condition of operating with startup urgency inside a large organisation; the
 four defences against slipping into Day 2 stagnation are customer obsession,
 sceptical view of proxies, eager adoption of external trends, and
@@ -32,13 +32,13 @@ high-velocity decision-making. Customer obsession is listed first because it
 is the foundational input: if the team is genuinely focused on what the
 customer experiences and needs, the other three follow more easily.
 
-The 1998 letter version is more alarming: *"I constantly remind our
+The 1998 letter version is more alarming: _"I constantly remind our
 employees to be afraid, to wake up every morning terrified. Not of our
 competition, but of our customers. Our customers have made our business
 what it is, they are the ones with whom we have a relationship, and they
 are the ones to whom we owe a great obligation. And we consider them to
 be loyal to us — right up until the second that someone else offers them a
-better service."*
+better service."_
 
 The mechanism Bezos is describing: competitive moats built on product,
 technology, or price can be eroded. A moat built on sustained customer trust
@@ -52,12 +52,12 @@ investment, not merely a service quality standard.
 Bezos articulates three stable customer needs in the 2008 letter that he
 treats as permanent:
 
-> *"We have strong conviction that customers value low prices, vast
+> _"We have strong conviction that customers value low prices, vast
 > selection, and fast, convenient delivery and that these needs will
 > remain stable over time. It is difficult for us to imagine that ten years
 > from now, customers will want higher prices, less selection, or slower
 > delivery. Our belief in the durability of these pillars is what gives
-> us the confidence required to invest in strengthening them."*
+> us the confidence required to invest in strengthening them."_
 
 This is the operational version of customer obsession: identify the subset of
 customer needs that are durable and structural (not preferences that shift
@@ -72,8 +72,8 @@ Bezos applies the same logic at the product-and-service level.
 ## The limits of listening
 
 Customer obsession does not mean doing what customers ask. The 2018 letter
-is explicit: *"The biggest needle movers will be things that customers don't
-know to ask for. We must invent on their behalf."* AWS is the canonical
+is explicit: _"The biggest needle movers will be things that customers don't
+know to ask for. We must invent on their behalf."_ AWS is the canonical
 case — no customer asked for it. Market research, had Bezos commissioned
 it in 2002, would not have produced the concept of cloud computing as a
 service.
@@ -103,11 +103,11 @@ customer obsession is translated from intention into engineering decisions.
 ## The customer-obsession trap
 
 Anderson identifies a version of this that merits preserving: many companies
-claim customer obsession but practise what Bezos calls *proxy obsession*.
+claim customer obsession but practise what Bezos calls _proxy obsession_.
 Policies, procedures, and metrics become the actual objects of attention, and
 doing right by the customer gets displaced. An agent who follows the refund
 policy instead of solving the customer's actual problem has replaced the
-principal with the process. Bezos's instruction to *resist proxies* is the
+principal with the process. Bezos's instruction to _resist proxies_ is the
 specific countermeasure: processes are means, not ends, and should be
 overridden when the customer experience demands it.
 
@@ -127,7 +127,7 @@ what they demonstrably want right now — would have argued against each
 of these investments.
 
 The resolution: customer obsession at the level Bezos means it is
-*prospective*, not reactive. The question is not "what does the customer
+_prospective_, not reactive. The question is not "what does the customer
 want at this moment" but "what will best serve the customer over the relevant
 time horizon." This time-horizon extension is why [[Long-Term Thinking]]
 is the adjacent principle.

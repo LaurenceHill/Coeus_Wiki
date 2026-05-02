@@ -1,7 +1,7 @@
 # Berkshire Business Principles
 
-**Source:** [[Berkshire Chairman's Letters]] — 1983 letter (the *Owner's
-Manual*, written for the new shareholders inherited via the Blue Chip
+**Source:** [[Berkshire Chairman's Letters]] — 1983 letter (the _Owner's
+Manual_, written for the new shareholders inherited via the Blue Chip
 merger); extended in the 2005 and 2006 letters on debt discipline,
 moat management, and management succession; 2009 letter, operating
 constraints by inversion; 2010 letter, third component of intrinsic
@@ -69,9 +69,9 @@ the substance is stable. Compressed:
    the marketable-equity portfolios of our insurance subsidiaries.
 6. Accounting consequences will not influence our operating or
    capital-allocation decisions. When acquisition costs are
-   comparable, we much prefer to purchase \$2 of earnings that is
+   comparable, we much prefer to purchase $2 of earnings that is
    not reportable to us under standard accounting principles than
-   to purchase \$1 of earnings that is reportable.
+   to purchase $1 of earnings that is reportable.
 7. We rarely use much debt. When we do borrow, we attempt to
    structure our loans on a long-term, fixed-rate basis.
 8. A managerial wish list will not be filled at shareholder
@@ -107,13 +107,13 @@ compare the original.
 
 The principles do five things at once.
 
-They *set the time horizon*. Principles 3, 9, and 13 all push the
+They _set the time horizon_. Principles 3, 9, and 13 all push the
 holding period out beyond what most public-company shareholders
 expect. The wiki's [[Long-Term Thinking]] page will treat
 the underlying logic in more depth; the manual is its statement of
 operational consequence.
 
-They *constrain capital allocation*. Principles 4–10 are a connected
+They _constrain capital allocation_. Principles 4–10 are a connected
 sequence: prefer direct ownership, use marketable equities where
 direct ownership is unavailable, do not be governed by accounting
 appearance, do not over-leverage, do not pay control premiums for
@@ -125,16 +125,16 @@ recognisable across the corpus and is the operating foundation of
 [[Look-Through Earnings]], [[Acquisition Discipline]], and
 [[Issuance and Buyback Discipline]].
 
-They *commit to candour*. Principles 11 and 12 form a pair: tell the
+They _commit to candour_. Principles 11 and 12 form a pair: tell the
 shareholder what you would want to know if positions were reversed,
 but say nothing about marketable-security activities while they are
 ongoing because saying so destroys their value. The pair is honest
 about what candour can and cannot achieve. The 1985 letter's
 acquisition of Capital Cities/ABC and the WPPSS bond purchases
-illustrate the principle in action — Buffett discusses both *after*
+illustrate the principle in action — Buffett discusses both _after_
 the positions are established, never during the building.
 
-They *bind incentives*. Principle 2 commits Buffett's own net worth
+They _bind incentives_. Principle 2 commits Buffett's own net worth
 to the same outcome as the shareholders'. The 1985 letter develops
 this further with a long discussion of stock options that argues
 fixed-price options paid to managers who do nothing but retain
@@ -147,7 +147,7 @@ gesture; it is the foundation of an incentive system that tries to
 avoid the structural conflicts the manual is alerting shareholders
 to.
 
-They *welcome a particular kind of shareholder*. The 1983 letter
+They _welcome a particular kind of shareholder_. The 1983 letter
 explicitly notes that the manual is a self-selection mechanism:
 shareholders who agree with the principles will hold; those who
 prefer a different approach should sell. The 1983 letter pairs
@@ -162,8 +162,8 @@ It isn't a strategic plan. The principles describe how decisions
 will be made, not what specific businesses Berkshire will own next
 year or in ten years. The 1985 letter's acknowledgement of "a
 somewhat haphazard approach to acquisitions" and Buffett's quip
-that *"we have no master strategy, no corporate planners delivering
-us insights about socioeconomic trends"* sit comfortably with the
+that _"we have no master strategy, no corporate planners delivering
+us insights about socioeconomic trends"_ sit comfortably with the
 manual: the principles are the lens, the opportunities are
 opportunistic.
 
@@ -171,8 +171,8 @@ It isn't a moral statement. The principles are partly aesthetic and
 partly self-interested. Buffett is honest about the self-interest:
 the partnership posture, the candour, the incentive design, are not
 favours to shareholders — they are mechanisms that produce better
-long-term outcomes for owners *including the people running the
-firm*. The aesthetic register (partnership, owner-partner,
+long-term outcomes for owners _including the people running the
+firm_. The aesthetic register (partnership, owner-partner,
 managing partner) does work alongside the economic mechanism, but
 it is not a substitute for it.
 
@@ -186,7 +186,7 @@ operating decisions live in the rest of the letters.
 
 ## The three legitimate uses of debt (2005)
 
-Principle 7 of the Owner's Manual — *"we rarely use much debt"* — is given
+Principle 7 of the Owner's Manual — _"we rarely use much debt"_ — is given
 its most precise operational elaboration in the 2005 letter, when the
 consolidation of MidAmerican Energy onto Berkshire's balance sheet prompted
 Buffett to clarify exactly what Berkshire's debt posture means in practice.
@@ -203,8 +203,8 @@ characteristics are thoroughly understood. The example given is Clayton Homes'
 manufactured-home loan portfolio. Berkshire could alternatively securitise
 these receivables — selling them off-balance-sheet while retaining servicing —
 which would reduce reported debt and accelerate reported earnings. Buffett
-declines this option explicitly: *"we prefer better profits to better
-cosmetics."* The decision not to securitise is itself a statement about
+declines this option explicitly: _"we prefer better profits to better
+cosmetics."_ The decision not to securitise is itself a statement about
 accounting integrity; see [[Earnings Integrity]].
 
 Third, MidAmerican Energy's utility debt. This debt appears on Berkshire's
@@ -230,16 +230,16 @@ commits Berkshire to maximising per-share intrinsic value; the 2005 letter
 specifies how this translates into the day-to-day decisions of subsidiary
 managers.
 
-*"Every day, in countless ways, the competitive position of each of our
+_"Every day, in countless ways, the competitive position of each of our
 businesses grows either weaker or stronger. If we are delighting customers,
 eliminating unnecessary costs and improving our products and services, we gain
 strength. But if we treat customers with indifference or tolerate bloat, our
 businesses will wither. On a daily basis, the effects of our actions are
-imperceptible; cumulatively, though, their consequences are enormous."*
+imperceptible; cumulatively, though, their consequences are enormous."_
 
-The 2005 letter names this cumulative process *"widening the moat"* and
-makes an explicit priority rule: *"when short-term and long-term conflict,
-widening the moat must take precedence."* A management that makes bad
+The 2005 letter names this cumulative process _"widening the moat"_ and
+makes an explicit priority rule: _"when short-term and long-term conflict,
+widening the moat must take precedence."_ A management that makes bad
 decisions to hit quarterly earnings targets and thereby falls behind on costs,
 customer satisfaction, or brand strength has done something no subsequent
 brilliance will fully repair. The 2005 letter gives the auto and airline
@@ -274,16 +274,16 @@ of who will eventually manage Berkshire's investment portfolio is unsolved.
 
 The 2006 letter reports that the board met in October 2006 specifically to
 discuss CIO succession and agreed to hire a younger person or persons whose
-qualifications would include: *"genetically programmed to recognize and avoid
-serious risks, including those never before encountered"*; *"temperament,
+qualifications would include: _"genetically programmed to recognize and avoid
+serious risks, including those never before encountered"_; _"temperament,
 independent thinking, emotional stability, and a keen understanding of both
-human and institutional behavior."* The emphasis on temperament over
+human and institutional behavior."_ The emphasis on temperament over
 analytical ability is characteristic of the Owner's Manual posture: Berkshire
 is looking for someone who will manage the capital the same way the manual
 describes, rather than a technically brilliant person whose temperament
 creates new risks.
 
-*Update from 2010:* The 2010 letter reports that Todd Combs was hired as
+_Update from 2010:_ The 2010 letter reports that Todd Combs was hired as
 Berkshire's first CIO successor — a younger investor whose record and
 temperament matched the criteria the board had articulated in 2006. The
 hiring of a single person rather than multiple is noted as a first step
@@ -299,7 +299,7 @@ First, Berkshire will not invest in businesses whose futures cannot be evaluated
 
 Second, Berkshire will never become dependent on the kindness of strangers. Leveraged entities routinely assume that they will be able to refinance obligations as they mature, and usually they can — until the credit market closes without warning. Berkshire structures its affairs so that a severe financial crisis cannot compel it to sell assets at distressed prices or seek external capital on unfavourable terms. This is not conservatism for its own sake but a precondition for acting as a capital supplier rather than a capital supplicant when crises occur. See [[Leverage and Liquidity]] for the full treatment.
 
-Third, Berkshire does not meddle in the operations of its subsidiaries. The operating managers run their businesses. Berkshire allocates capital generated by those businesses. This division of labour is not a management philosophy but an operating constraint: Berkshire headquarters, with its handful of staff, is not equipped to run dozens of different businesses. The decentralised model is the only model that scales to Berkshire's size without degrading the quality of individual operating decisions. The 2010 biennial memo summarises the instruction: *"hire well, manage little."*
+Third, Berkshire does not meddle in the operations of its subsidiaries. The operating managers run their businesses. Berkshire allocates capital generated by those businesses. This division of labour is not a management philosophy but an operating constraint: Berkshire headquarters, with its handful of staff, is not equipped to run dozens of different businesses. The decentralised model is the only model that scales to Berkshire's size without degrading the quality of individual operating decisions. The 2010 biennial memo summarises the instruction: _"hire well, manage little."_
 
 Fourth, Berkshire does not woo Wall Street. No analyst meetings, no earnings guidance, no investor relations machinery designed to manage expectations. The only shareholder communication is the annual letter and the annual meeting. This constraint removes a category of distortion that afflicts most public companies: the temptation to manage reported results toward quarterly consensus estimates rather than for long-term economic value. See [[Earnings Integrity]] for the accounting consequences of this distortion.
 
@@ -309,7 +309,7 @@ Taken together, the four negatives define a posture that is unusual enough to co
 
 The 2010 letter adds a dimension to the intrinsic value framework that the Owner's Manual and earlier letters had not made explicit. Buffett identifies three components of intrinsic value rather than two.
 
-The first two are familiar: investments per share (the value of the equity portfolio, fixed-income holdings, and cash that the operating businesses have not consumed) and operating earnings per share (the normalised earning power of the non-investment businesses). The third, identified explicitly in 2010, is *the efficacy with which retained earnings will be deployed in the future*. A business that earns \$1 billion annually and retains all of it is not equivalent to another business with the same earnings and retention policy if the first deploys retained capital at 20% returns and the second at 5%.
+The first two are familiar: investments per share (the value of the equity portfolio, fixed-income holdings, and cash that the operating businesses have not consumed) and operating earnings per share (the normalised earning power of the non-investment businesses). The third, identified explicitly in 2010, is _the efficacy with which retained earnings will be deployed in the future_. A business that earns $1 billion annually and retains all of it is not equivalent to another business with the same earnings and retention policy if the first deploys retained capital at 20% returns and the second at 5%.
 
 The historical illustration Buffett offers is Sears and Montgomery Ward versus Sam Walton. Both the established retailers and the Walton upstart were in the same business during the post-war period. The established businesses retained earnings; their retained earnings produced modest incremental returns. Walton retained earnings that produced the dominant American retailer of the late twentieth century. The per-share earnings in any given year would not have told an investor much about this difference — the distinction resided in the quality of reinvestment, which is a qualitative assessment rather than an accounting figure.
 
@@ -321,7 +321,7 @@ The 2014 letter's "Next 50 Years" section elaborates the Owner's Manual principl
 
 The CEO criteria, stated in the 2014 letter: rational, calm, and decisive; possessing broad understanding of business and good insights into human behaviour; knowing one's limits ("I'm no genius, but I'm smart in spots and I stay around those spots" — Tom Watson Sr. of IBM); "all in for the company, not for himself"; immune to ego-driven pay comparisons with peers; capable of fighting off the [[ABCs of Business Decay]]; and possessing the "tone at the top" necessary to maintain Berkshire's culture. Character, in Buffett's framing, is not a soft criterion alongside analytical ability — it is the primary one. A CEO motivated by peer-compensation comparison will accept bureaucracy that inflates his organisation's prestige. A CEO who cannot face uncomfortable truths will drift toward arrogance. The structural protections of decentralisation and autonomy reduce the risk but cannot substitute for the CEO's character.
 
-Financial staying power, as articulated in 2014, rests on three pillars: first, a large and reliable stream of earnings from a diversified array of businesses; second, massive liquid assets (at minimum \$20 billion, never pledged or encumbered in ways that could create sudden demands); and third, no significant near-term cash requirements — specifically, no short-term debt maturities of size and no derivative contracts requiring large potential collateral calls. The 2014 letter names the third pillar as the one most often neglected: companies that would easily meet pillars one and two still fail when they assume refinancing will always be available for maturing short-term obligations. September 2008 demonstrated what happens when that assumption proves false.
+Financial staying power, as articulated in 2014, rests on three pillars: first, a large and reliable stream of earnings from a diversified array of businesses; second, massive liquid assets (at minimum $20 billion, never pledged or encumbered in ways that could create sudden demands); and third, no significant near-term cash requirements — specifically, no short-term debt maturities of size and no derivative contracts requiring large potential collateral calls. The 2014 letter names the third pillar as the one most often neglected: companies that would easily meet pillars one and two still fail when they assume refinancing will always be available for maturing short-term obligations. September 2008 demonstrated what happens when that assumption proves false.
 
 ## Munger's system: the 15-point taxonomy (2014)
 
@@ -343,20 +343,20 @@ Munger's Vice Chairman essay in the 2014 annual report is the most complete exte
 14. Little debt outstanding; virtually perfect creditworthiness under all conditions; easy cash availability.
 15. Always user-friendly to a prospective seller of a large business; prompt attention; complete confidentiality.
 
-Munger's diagnosis of why the system worked is worth noting separately: Buffett's decision to limit his activities to a few kinds and to maximise his attention to them for fifty years was, in Munger's word, a *lollapalooza*. The comparison is to John Wooden concentrating virtually all playing time on his seven best players. Munger also identifies the biggest category of Berkshire mistakes as errors of omission — not buying Walmart when it was "sure to work out enormously well." The net worth shortfall from missed purchases he estimates at least \$50 billion.
+Munger's diagnosis of why the system worked is worth noting separately: Buffett's decision to limit his activities to a few kinds and to maximise his attention to them for fifty years was, in Munger's word, a _lollapalooza_. The comparison is to John Wooden concentrating virtually all playing time on his seven best players. Munger also identifies the biggest category of Berkshire mistakes as errors of omission — not buying Walmart when it was "sure to work out enormously well." The net worth shortfall from missed purchases he estimates at least $50 billion.
 
 ## Two strings to our bow: the controlled/non-controlled architecture (2020)
 
 The 2020 letter provides the most explicit single-letter articulation of
 what distinguishes Berkshire's structure from both a classic conglomerate
-and a pure holding company. Buffett names it *"two strings to our bow"*:
+and a pure holding company. Buffett names it _"two strings to our bow"_:
 
 The first string is controlled businesses — subsidiaries where Berkshire
 owns 100% or a controlling interest. At these companies, Berkshire directs
 capital allocation and selects the CEO. The operating decisions are
 delegated entirely to the subsidiary's management; only capital flows and
-leadership selection are centrally managed. *"Our tolerance for personal
-misconduct is zero"* is the one non-delegable standard.
+leadership selection are centrally managed. _"Our tolerance for personal
+misconduct is zero"_ is the one non-delegable standard.
 
 The second string is non-controlled businesses — publicly-traded stocks
 held through Berkshire's insurance subsidiaries. Here Berkshire is a
@@ -372,22 +372,22 @@ used two techniques that Berkshire explicitly avoided: promotional
 accounting (treating acquisitions in ways that flattered reported earnings
 regardless of economic reality) and issuing their own stock as currency
 for acquisitions when their shares were richly priced — what Buffett
-elsewhere calls *"counterfeit money."* The classic conglomerate's game
+elsewhere calls _"counterfeit money."_ The classic conglomerate's game
 was to issue overvalued stock to buy real businesses, thereby translating
 a high P/E into acquisitions that appeared to increase reported earnings
 per share. The structure worked as long as the stock stayed high and the
 accounting remained unchallenged. When either failed, the model collapsed.
 
-Berkshire's alternative: *"We will simply do what makes sense for
-shareholders."* No monthly earnings reports; no quarterly number to hit;
+Berkshire's alternative: _"We will simply do what makes sense for
+shareholders."_ No monthly earnings reports; no quarterly number to hit;
 no acquisitions rationalised by earnings-per-share arithmetic when the
 intrinsic-value test fails. The principles are identical to the 1983
 Owner's Manual restated through the lens of what the conglomerate model
 did wrong.
 
 The 2021 letter extends the same point with the formulation that
-distinguishes business quality from stock-picking discipline: *"We are
-not stock-pickers; we are business-pickers."* Whether Berkshire owns 100%
+distinguishes business quality from stock-picking discipline: _"We are
+not stock-pickers; we are business-pickers."_ Whether Berkshire owns 100%
 or 5% of a business, the analytical standard is identical — is this a
 business with durable competitive advantages and trustworthy management,
 held at a reasonable price? The distinction between the two strings is
@@ -397,9 +397,9 @@ operational, not analytical.
 
 The 2023 letter contains two candid admissions that belong alongside the Owner's Manual's commitment to telling shareholders what you would want to know if positions were reversed.
 
-The first concerns Berkshire Hathaway Energy. Forest fire liabilities in certain states have exposed BHE to confiscatory regulatory outcomes — a risk that Buffett acknowledges was not properly anticipated at the time of BHE's original acquisition. *"The regulatory compact has been broken in a few states"* is his characterisation. Where regulators allow utilities to earn insufficient returns and then impose unlimited liability for third-party damages, the investment calculus changes fundamentally. Buffett names the error directly: *"a costly mistake in not anticipating adverse regulatory returns."* This is not hedged or obscured. It is presented as an error of the same kind as the ConocoPhillips purchase — an unforced mistake in assessing a business's structural characteristics — and addressed on the same candour standard.
+The first concerns Berkshire Hathaway Energy. Forest fire liabilities in certain states have exposed BHE to confiscatory regulatory outcomes — a risk that Buffett acknowledges was not properly anticipated at the time of BHE's original acquisition. _"The regulatory compact has been broken in a few states"_ is his characterisation. Where regulators allow utilities to earn insufficient returns and then impose unlimited liability for third-party damages, the investment calculus changes fundamentally. Buffett names the error directly: _"a costly mistake in not anticipating adverse regulatory returns."_ This is not hedged or obscured. It is presented as an error of the same kind as the ConocoPhillips purchase — an unforced mistake in assessing a business's structural characteristics — and addressed on the same candour standard.
 
-The second concerns BNSF. Buffett notes that the railroad's pre-tax margin has slipped relative to its three major competitors since the 2010 acquisition and acknowledges \$22 billion of excess capital expenditure over depreciation across fourteen years — an "ouch" in his characterisation. The BNSF balance sheet carries \$70 billion, but the replacement value of the railroad is more than \$500 billion, embedding substantial value that accounting cannot capture. That embedded value does not, however, excuse the operating underperformance. *"A century from now, BNSF will continue to be a major asset for both its owners and its country. But it has disappointed us."* The second sentence is as important as the first.
+The second concerns BNSF. Buffett notes that the railroad's pre-tax margin has slipped relative to its three major competitors since the 2010 acquisition and acknowledges $22 billion of excess capital expenditure over depreciation across fourteen years — an "ouch" in his characterisation. The BNSF balance sheet carries $70 billion, but the replacement value of the railroad is more than $500 billion, embedding substantial value that accounting cannot capture. That embedded value does not, however, excuse the operating underperformance. _"A century from now, BNSF will continue to be a major asset for both its owners and its country. But it has disappointed us."_ The second sentence is as important as the first.
 
 Both admissions are consistent with the Owner's Manual's principle 11 — tell shareholders what you would want to know if positions were reversed — but they are unusual in public-company reporting precisely because most CEOs find language to soften or defer acknowledgement of structural underperformance.
 
@@ -409,13 +409,13 @@ The 2024 letter opens with a meditation on error that amounts to a policy statem
 
 The principle Buffett articulates — drawn from Tom Murphy, one of the business executives he most admired — is "praise by name, criticize by category." Individuals who perform well are identified; failures are described by type rather than by person. This is a management practice with a moral logic: it allows honest public acknowledgement of what went wrong without making a person the target of shareholder or media attention for decisions made under genuine uncertainty.
 
-The cardinal sin is not making mistakes — it is delaying their correction. Munger's term for this was *"thumb-sucking."* Problems cannot be wished away; they require action, however uncomfortable. Buffett's enumeration is specific: during 2019–2023 he used the words "mistake" or "error" sixteen times in his letters. He then notes that many large companies have not used either word at all over the same period. The comparison is not accidental — it is a statement about accountability culture that distinguishes Berkshire from most public companies.
+The cardinal sin is not making mistakes — it is delaying their correction. Munger's term for this was _"thumb-sucking."_ Problems cannot be wished away; they require action, however uncomfortable. Buffett's enumeration is specific: during 2019–2023 he used the words "mistake" or "error" sixteen times in his letters. He then notes that many large companies have not used either word at all over the same period. The comparison is not accidental — it is a statement about accountability culture that distinguishes Berkshire from most public companies.
 
-*"CEOs who fool themselves will eventually fool their shareholders."* The sentence states the self-interest case for candour: managers who construct flattering narratives about their mistakes lose the ability to see those mistakes clearly, which means they cannot correct them, which means the mistakes compound. The incentive for candour is therefore not just ethical but analytical.
+_"CEOs who fool themselves will eventually fool their shareholders."_ The sentence states the self-interest case for candour: managers who construct flattering narratives about their mistakes lose the ability to see those mistakes clearly, which means they cannot correct them, which means the mistakes compound. The incentive for candour is therefore not just ethical but analytical.
 
 ## School-blindness in CEO selection (2024)
 
-The 2024 letter adds a specific criterion to the CEO selection framework that prior letters had not stated so directly: *"I never look at where a candidate has gone to school. Never!"*
+The 2024 letter adds a specific criterion to the CEO selection framework that prior letters had not stated so directly: _"I never look at where a candidate has gone to school. Never!"_
 
 The examples are pointed. Pete Liegl, who built Forest River from a small Indiana manufacturer into a recreational vehicle powerhouse and delivered exceptional returns to Berkshire for nineteen years, attended school in the Midwest. Bill Gates dropped out of Harvard. Ben Rosner — a retail genius who ran a business for Buffett and Munger — never went past sixth grade. The implicit argument is that the capacity for extraordinary business performance is widely distributed in the population, not concentrated in the graduates of prestigious institutions. Selection criteria that filter on credential rather than on demonstrated capability exclude the Pete Liegl cohort systematically.
 
@@ -423,9 +423,9 @@ Buffett's formulation is careful: he is not arguing that formal education is val
 
 ## Greg Abel: succession made explicit (2024)
 
-Prior letters had established the succession architecture — CEO candidates identified (2005), Todd Combs as first CIO hire (2010), Abel and Jain as Vice Chairmen (2018). The 2024 letter is the most direct statement yet: *"At 94, it won't be long before Greg Abel replaces me as CEO and will be writing the annual letters."*
+Prior letters had established the succession architecture — CEO candidates identified (2005), Todd Combs as first CIO hire (2010), Abel and Jain as Vice Chairmen (2018). The 2024 letter is the most direct statement yet: _"At 94, it won't be long before Greg Abel replaces me as CEO and will be writing the annual letters."_
 
-The framing is notable for what it includes. Abel is described as sharing Berkshire's creed that the annual report is what the CEO owes to owners — not a marketing document but a genuine account of what you own and how we think. The succession is therefore not only operational (Abel will run the company) but cultural (Abel will maintain the communication standard). The 2024 letter's opening commitment to the *"report"* framing — *"we believe we owe you additional commentary about what you own and how we think"* — serves double duty as both the letter's own practice and the characterisation of what Abel has been prepared to continue.
+The framing is notable for what it includes. Abel is described as sharing Berkshire's creed that the annual report is what the CEO owes to owners — not a marketing document but a genuine account of what you own and how we think. The succession is therefore not only operational (Abel will run the company) but cultural (Abel will maintain the communication standard). The 2024 letter's opening commitment to the _"report"_ framing — _"we believe we owe you additional commentary about what you own and how we think"_ — serves double duty as both the letter's own practice and the characterisation of what Abel has been prepared to continue.
 
 ## Contradictions
 
@@ -440,7 +440,7 @@ apparent than real once Bezos's framework is fully unpacked. The
 [[Listen vs Invent]] contradiction page may pull at the
 same thread.
 
-## Annual meeting additions: right owners, capacity to suffer, no monthly P&L
+## Annual meeting additions: right owners, capacity to suffer, no monthly P\&L
 
 [[sources/Buffett and Munger Unscripted]] adds three annual meeting
 formulations that illuminate the Berkshire operating model.
@@ -478,11 +478,11 @@ shareholders who can redeem cannot maintain the same posture. The adversity
 that would force a competitor to make a bad decision is an opportunity for
 Berkshire to make a good one.
 
-**No monthly P&L.** Berkshire subsidiaries do not submit monthly P&L
+**No monthly P\&L.** Berkshire subsidiaries do not submit monthly P\&L
 reports to Omaha. Managers report what they want to report, when they want
 to report it, in whatever format they choose. Buffett's argument: monthly
 reporting would create pressure to manage monthly numbers, which is the
-beginning of the accounting corruption documented in [[concepts/Earnings
+beginning of the accounting corruption documented in \[\[concepts/Earnings
 Integrity]]. The result of not managing monthly is that managers focus on
 what actually matters — competitive position, customer satisfaction,
 long-term investment — rather than on hitting a number that will change
@@ -491,7 +491,7 @@ again in 30 days.
 This is a deliberate inversion of standard corporate oversight practice.
 Most parent companies demand monthly, weekly, and sometimes daily reporting.
 Berkshire demands almost none. The trust is earned at hiring; the performance
-is assessed on multi-year results. The no-monthly-P&L policy is therefore
+is assessed on multi-year results. The no-monthly-P\&L policy is therefore
 both a cultural signal (we trust you) and a management design choice (we
 refuse to create the incentives that would make dishonesty tempting).
 
@@ -499,7 +499,7 @@ refuse to create the incentives that would make dishonesty tempting).
 
 - [[Berkshire Chairman's Letters]]
 - [[sources/Buffett and Munger Unscripted]] — restaurant metaphor, capacity
-  to suffer, no monthly P&L
+  to suffer, no monthly P\&L
 - [[Look-Through Earnings]]
 - [[Acquisition Discipline]]
 - [[Concentration]]

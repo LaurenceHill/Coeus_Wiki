@@ -3,7 +3,7 @@
 **Source:** [[sources/Poor Charlie's Almanack]] — stated most explicitly in
 Talk 4 ("Practical Thought About Practical Thought?", 1996) and Talk 10
 (USC Gould School of Law, 2007); the Harvard commencement speech (Talk 1,
-1986) is the earliest application without naming it; appears in every talk in
+1986\) is the earliest application without naming it; appears in every talk in
 the Almanack as a structural habit of mind. Related to Munger's first talk
 ("prescription for misery") and to the algebraic tradition of Carl Jacobi.
 
@@ -111,8 +111,8 @@ destroy value. Knowing the mechanisms is the precondition for avoiding them.
 In the USC Law commencement address, Munger states the most demanding
 application of inversion to opinion formation:
 
-*"I feel that I am not entitled to have an opinion unless I can state the
-arguments against my position better than the people who are in opposition."*
+_"I feel that I am not entitled to have an opinion unless I can state the
+arguments against my position better than the people who are in opposition."_
 
 This is inversion applied to the intellectual process itself. Before holding
 any strong view, deliberately construct the strongest possible case against it.

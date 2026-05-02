@@ -9,8 +9,8 @@ version of what Anderson rebrands as [[Successful Failure]].
 Bezos's explicit asymmetric-payoff argument: in business, returns
 are long-tailed, which means a small number of large wins finance
 a large number of failed experiments. The math, in Bezos's own
-formulation: *given a 10% chance of a 100× payoff, take that bet
-every time, even though you'll be wrong nine times out of ten.*
+formulation: _given a 10% chance of a 100× payoff, take that bet
+every time, even though you'll be wrong nine times out of ten._
 
 The 2015 letter contains the canonical baseball metaphor. In
 baseball, the maximum payoff per swing is four runs (a grand
@@ -32,8 +32,8 @@ is sharper in three ways:
   tolerance, which loses the math.
 - **The claim is about portfolio behaviour, not individual
   failure.** Bezos isn't celebrating individual failures. He's
-  describing the *expected-value math of running a portfolio
-  of asymmetric bets*. The emotional reframe of "successful
+  describing the _expected-value math of running a portfolio
+  of asymmetric bets_. The emotional reframe of "successful
   failure" is Anderson's; the underlying claim is statistical.
 - **The big winners are the point.** Bezos names them — AWS,
   Marketplace, Prime — as the three pillars whose returns
@@ -43,8 +43,8 @@ is sharper in three ways:
 
 The corrected reading: this isn't a principle about being
 comfortable with failure. It's a principle about being willing
-to take bets that are *individually likely to fail* because the
-*portfolio's expected value* is dominated by the rare large
+to take bets that are _individually likely to fail_ because the
+_portfolio's expected value_ is dominated by the rare large
 win.
 
 ## Why most companies don't do this
@@ -99,10 +99,10 @@ Sleep doesn't use this exact framing for his own portfolio
 decisions, but he applies essentially the same logic when
 holding companies that run this strategy. Sleep's willingness to
 hold Amazon through years of negative-margin reinvestment was
-predicated on understanding that the *portfolio of bets*
+predicated on understanding that the _portfolio of bets_
 internal to Amazon had the asymmetric-payoff structure Bezos was
-describing. Sleep was effectively investing *in Bezos's
-willingness to do this*, which is a different thesis from
+describing. Sleep was effectively investing _in Bezos's
+willingness to do this_, which is a different thesis from
 investing in Amazon's current operating metrics.
 
 ## Where this contradicts Fisher
@@ -111,10 +111,10 @@ This is one of the points where Fisher and Bezos genuinely
 diverge — not in the sense of disagreement, but in the sense of
 operating at different points in the value chain.
 
-Fisher's first Don't is *don't buy into promotional companies*
+Fisher's first Don't is _don't buy into promotional companies_
 — companies running asymmetric bets without a profitable core
-to absorb the failures. Bezos is running asymmetric bets *from
-within* a profitable core. The two are compatible: Fisher would
+to absorb the failures. Bezos is running asymmetric bets _from
+within_ a profitable core. The two are compatible: Fisher would
 not have told an investor to buy Amazon in 1999 (when the core
 wasn't yet profitable enough to absorb the experiments), but
 might have approved by 2010 (when AWS had become a third
@@ -126,14 +126,14 @@ The contradiction page [[Bet on Big Ideas vs Don't Buy Promotional Companies]] d
 
 It isn't permission to make speculative bets without a thesis.
 The "10% chance" in Bezos's formulation requires honest
-estimation. A bet that the analyst *says* has a 10% chance of
+estimation. A bet that the analyst _says_ has a 10% chance of
 working but actually has a 1% chance is not the same kind of
 bet. The math depends on the probabilities being roughly
 right.
 
 It also isn't permission to bet the firm. Bezos is explicit
 about the three pillars (AWS, Marketplace, Prime) being the
-*reason* the strategy worked at scale. Without a profitable
+_reason_ the strategy worked at scale. Without a profitable
 core, the failed experiments accumulate into ruin.
 
 ## Related

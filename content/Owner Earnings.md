@@ -31,8 +31,8 @@ would have appeared had Berkshire not acquired it) and Company N ("new"
 Scott Fetzer as reported after Berkshire's acquisition premium triggered
 purchase-price accounting adjustments).
 
-Company O shows reported earnings of \$40.2 million. Company N shows
-\$28.6 million. Both companies are identical in every economic sense —
+Company O shows reported earnings of $40.2 million. Company N shows
+$28.6 million. Both companies are identical in every economic sense —
 same sales, same wages, same taxes, same competitive position. The
 difference is purely accounting: the acquisition premium required
 write-ups of inventory and fixed assets, producing larger depreciation
@@ -46,7 +46,7 @@ identical for both companies, because their actual competitive and capital
 requirements are identical. Under current conditions, Buffett estimates that
 the maintenance capital expenditure requirement (c) is approximately equal
 to historical-cost depreciation (b), which means owner earnings are close
-to the Company O reported earnings of \$40.2 million. The owner who reads
+to the Company O reported earnings of $40.2 million. The owner who reads
 the Company N GAAP number and concludes the business is worth less
 than Company O has been misled by accounting, not informed by economics.
 
@@ -74,7 +74,7 @@ late 1980s to EBDIT — Earnings Before Depreciation, Interest, and Taxes
 At 95% of American businesses, capital expenditures approximating
 depreciation are a necessity as real as wages. A high school dropout, Buffett
 observes, knows that a car loan requires income covering interest, operating
-expenses, *and* realistic depreciation. An LBO promoter, apparently, does not.
+expenses, _and_ realistic depreciation. An LBO promoter, apparently, does not.
 
 ## The estimation problem
 
@@ -99,10 +99,10 @@ competitive, you can't reliably value it.
 
 Most of the popular commentary on owner earnings focuses on situations
 where (b) exceeds (c) — where GAAP depreciation overstates the real
-reinvestment requirement and owner earnings are *higher* than GAAP
+reinvestment requirement and owner earnings are _higher_ than GAAP
 earnings. The Scott Fetzer case is exactly this. But Buffett is equally
 careful to note the more common and more dangerous situation: most
-businesses need to spend *more* than (b) just to hold their ground.
+businesses need to spend _more_ than (b) just to hold their ground.
 
 When (c) exceeds (b), GAAP earnings overstate owner earnings, often
 substantially. The oil industry example Buffett gives: major oil companies
@@ -118,8 +118,8 @@ them is being ignored.
 ## The tooth fairy and the prepaid-wages analogy (2000, 2002)
 
 The 2000 letter delivers the most compact formulation of the EBITDA critique:
-*"References to EBITDA make us shudder — does management think the tooth
-fairy pays for capital expenditures?"* This restates the cash-flow fallacy in
+_"References to EBITDA make us shudder — does management think the tooth
+fairy pays for capital expenditures?"_ This restates the cash-flow fallacy in
 a single question.
 
 The 2002 letter provides the analytical elaboration that explains precisely
@@ -127,23 +127,23 @@ why the fallacy is not merely imprecision but systematic distortion in the
 wrong direction. Depreciation, Buffett argues, is actually a particularly
 front-loaded cost — the cash goes out first, before any benefit arrives:
 
-> *"Imagine, if you will, that at the beginning of this year a company paid
+> _"Imagine, if you will, that at the beginning of this year a company paid
 > all of its employees for the next ten years of their service (in the way
 > they would lay out cash for a fixed asset to be useful for ten years). In
 > the following nine years, compensation would be a 'non-cash' expense — a
 > reduction of a prepaid compensation asset established this year. Would
 > anyone care to argue that the recording of the expense in years two through
-> ten would be simply a bookkeeping formality?"*
+> ten would be simply a bookkeeping formality?"_
 
-The analogy is structurally exact. A company that buys a machine for \$1
+The analogy is structurally exact. A company that buys a machine for $1
 million today has already paid the cash; the subsequent depreciation charges
 are the accounting recognition of a cost that occurred at acquisition, not
 new costs. Adding those charges back to earnings implies that the original
 cash outlay was free — which is false. The 2002 letter also flags the
-FlightSafety illustration: the company spends \$162 million on simulators
-against an annual depreciation charge of \$95 million — capex running at 1.7×
-the depreciation charge. Anyone adding back the \$95 million depreciation to
-reach "cash flow" is ignoring a net cash drain of \$67 million annually
+FlightSafety illustration: the company spends $162 million on simulators
+against an annual depreciation charge of $95 million — capex running at 1.7×
+the depreciation charge. Anyone adding back the $95 million depreciation to
+reach "cash flow" is ignoring a net cash drain of $67 million annually
 relative to what GAAP depreciation implies, even before growth capex is
 considered.
 
@@ -153,7 +153,7 @@ Owner earnings is a more precise formulation than free cash flow as
 Bezos defines it in the [[Free Cash Flow Over Earnings]] page. Bezos's
 preferred metric — operating cash flow less purchases of fixed assets —
 is directionally the same discipline: it rejects GAAP earnings in favour of
-cash economics. But Bezos's FCF number uses *total* capital expenditure,
+cash economics. But Bezos's FCF number uses _total_ capital expenditure,
 not the maintenance-versus-growth decomposition Buffett insists upon.
 In a high-reinvestment business like Amazon, total capex includes large
 amounts of growth capex that are not (c) in Buffett's sense — they are
@@ -171,14 +171,14 @@ of owner earnings in practice through the See's Candies case study.
 
 **The capital efficiency numbers stated plainly.** At multiple meetings Buffett
 gives the See's figures in a form that makes the owner-earnings concept
-concrete. At acquisition in 1972: approximately \$30 million revenues and
-approximately \$7–9 million in tangible net assets. (The 1991 Chairman's
-Letter specifies "tangible net worth of \$7 million"; Buffett at annual
-meetings has cited approximately \$9 million in tangible assets — the
+concrete. At acquisition in 1972: approximately $30 million revenues and
+approximately $7–9 million in tangible net assets. (The 1991 Chairman's
+Letter specifies "tangible net worth of $7 million"; Buffett at annual
+meetings has cited approximately $9 million in tangible assets — the
 difference likely reflects net worth vs. gross tangible assets, or
-measurement date.) By the time revenues had grown to roughly \$300
-million: approximately \$40 million tangible net assets required. Cumulative
-pre-tax profits extracted over the holding period: more than \$1.5 billion.
+measurement date.) By the time revenues had grown to roughly $300
+million: approximately $40 million tangible net assets required. Cumulative
+pre-tax profits extracted over the holding period: more than $1.5 billion.
 
 The arithmetic of owner earnings at its best: every dollar of incremental
 revenue over the holding period required essentially no additional capital
@@ -188,9 +188,9 @@ owner earnings equal or exceed reported earnings because maintenance capex
 is minimal and growth capex is effectively zero.
 
 **The royalty formulation.** Buffett's most precise description of what
-a great business actually *is* from an owner-earnings perspective:
+a great business actually _is_ from an owner-earnings perspective:
 
-*"See's is essentially a royalty on somebody else's sales during inflation."*
+_"See's is essentially a royalty on somebody else's sales during inflation."_
 
 A royalty stream is the limiting case of the owner-earnings concept: pure
 income with no capital requirement. See's is not quite a royalty — it has
@@ -218,7 +218,7 @@ of that, often 30–60% or more, on their tangible equity bases. The
 differential is not explained by superior management alone; it is structural,
 embedded in the competitive advantage that makes the business resistant to
 competitive attack. This is why the owner-earnings concept must be applied
-to *tangible* equity, not to accounting book value that includes goodwill
+to _tangible_ equity, not to accounting book value that includes goodwill
 from past acquisitions — goodwill inclusion would artificially flatten the
 return comparison and obscure which businesses are genuinely extraordinary.
 

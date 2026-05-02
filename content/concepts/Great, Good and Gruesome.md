@@ -12,11 +12,11 @@ The taxonomy cuts through a great deal of valuation noise. Revenue growth, brand
 
 ## The three categories
 
-**Great businesses** earn very high returns on capital and require little or no incremental capital to grow. Buffett's primary illustration is See's Candy, acquired in 1972 for \$25 million. By 2007, See's was earning \$82 million pre-tax on roughly \$40 million of net tangible assets. Over 35 years, it had required only \$32 million of additional capital — yet had produced \$1.35 billion of cumulative pre-tax earnings. That \$1.35 billion was entirely available for Berkshire to redeploy elsewhere. See's grew by raising prices and widening its brand, not by consuming capital. The return on incremental investment is effectively uncapped because incremental investment is barely required.
+**Great businesses** earn very high returns on capital and require little or no incremental capital to grow. Buffett's primary illustration is See's Candy, acquired in 1972 for $25 million. By 2007, See's was earning $82 million pre-tax on roughly $40 million of net tangible assets. Over 35 years, it had required only $32 million of additional capital — yet had produced $1.35 billion of cumulative pre-tax earnings. That $1.35 billion was entirely available for Berkshire to redeploy elsewhere. See's grew by raising prices and widening its brand, not by consuming capital. The return on incremental investment is effectively uncapped because incremental investment is barely required.
 
-Buffett's near-miss with See's is itself instructive. As he recounted in the 1991 letter: *"Charlie and I, not yet fully appreciative of the value of an economic franchise, looked at the company's mere \$7 million of tangible net worth and said \$25 million was as high as we would go (and we meant it). Fortunately, the sellers accepted our offer."* Had the deal fallen through, the cost to Berkshire would have been the entire \$1.35 billion of cumulative earnings — and growing still. At annual meetings Buffett has been blunter about how close the miss actually was: *"If they'd asked \$100,000 more for See's, we'd have walked away. That's how dumb we were."* The near-miss is documented in two places in this wiki with complementary detail: [[concepts/See's Candies as Teaching Business]] covers the full learning chain the acquisition set in motion.
+Buffett's near-miss with See's is itself instructive. As he recounted in the 1991 letter: _"Charlie and I, not yet fully appreciative of the value of an economic franchise, looked at the company's mere $7 million of tangible net worth and said $25 million was as high as we would go (and we meant it). Fortunately, the sellers accepted our offer."_ Had the deal fallen through, the cost to Berkshire would have been the entire $1.35 billion of cumulative earnings — and growing still. At annual meetings Buffett has been blunter about how close the miss actually was: _"If they'd asked $100,000 more for See's, we'd have walked away. That's how dumb we were."_ The near-miss is documented in two places in this wiki with complementary detail: [[concepts/See's Candies as Teaching Business]] covers the full learning chain the acquisition set in motion.
 
-**Good businesses** earn attractive returns on capital but must reinvest substantial sums to grow. FlightSafety is Buffett's example. The business earns good returns, but simulators are expensive: since Berkshire's acquisition, FlightSafety has invested \$1.635 billion in capital expenditures. Those investments earn good returns, but the earnings cannot simply be harvested and redeployed the way See's earnings can. The business grows by consuming capital, and the owner must keep funding that consumption to capture the growth.
+**Good businesses** earn attractive returns on capital but must reinvest substantial sums to grow. FlightSafety is Buffett's example. The business earns good returns, but simulators are expensive: since Berkshire's acquisition, FlightSafety has invested $1.635 billion in capital expenditures. Those investments earn good returns, but the earnings cannot simply be harvested and redeployed the way See's earnings can. The business grows by consuming capital, and the owner must keep funding that consumption to capture the growth.
 
 Good businesses are worth owning, but they occupy a structurally different position from great ones. The capital they need tends to offset the compounding advantage — the owner must put money in to get money out, rather than simply collecting the surplus that flows from a business that runs itself.
 
@@ -24,7 +24,7 @@ Good businesses are worth owning, but they occupy a structurally different posit
 
 ## What it does
 
-The taxonomy converts a qualitative observation — "this is a good business" — into an analytical discipline. It forces the question: good at what? A business that grows earnings impressively may be destroying value if it requires \$2 of capital for every \$1 of additional earnings it produces. A business that appears to stagnate may be creating extraordinary value if it demands no capital and generates cash freely.
+The taxonomy converts a qualitative observation — "this is a good business" — into an analytical discipline. It forces the question: good at what? A business that grows earnings impressively may be destroying value if it requires $2 of capital for every $1 of additional earnings it produces. A business that appears to stagnate may be creating extraordinary value if it demands no capital and generates cash freely.
 
 The framework relates directly to [[Owner Earnings]]: what matters is not reported earnings but cash that can actually be taken out of the business or reinvested elsewhere without impairing future earnings. Great businesses have owner earnings that approximate or exceed reported earnings, because they require little capex beyond maintenance. Gruesome businesses have owner earnings that fall far short of reported earnings, because growth capex is massive and unavoidable.
 
@@ -36,13 +36,13 @@ Buffett's earlier work distinguishes [[Franchise vs Business Economics]] — bus
 
 The annual meetings in [[sources/Buffett and Munger Unscripted]] provide a
 different vocabulary for the same taxonomy. Buffett's most-used image at
-meetings: a great business is a *castle* surrounded by a *moat*. The castle
+meetings: a great business is a _castle_ surrounded by a _moat_. The castle
 is the economic franchise — the superior returns on capital. The moat is
 whatever keeps competitors from replicating those returns: brand, switching
 costs, network effects, regulatory position, cost advantages.
 
-The key instruction, repeated at multiple meetings: *"I want the moat to get
-wider every year."* A stable moat is acceptable; a widening moat is what
+The key instruction, repeated at multiple meetings: _"I want the moat to get
+wider every year."_ A stable moat is acceptable; a widening moat is what
 produces the compounding that makes great businesses so valuable over time.
 A narrowing moat is an existential threat that no amount of capital or
 management talent can fully compensate for. The investor's primary task
@@ -50,9 +50,9 @@ with an existing holding is not to re-analyse the current economics but to
 assess whether the moat is widening, stable, or narrowing.
 
 **The pricing power test.** Buffett's simplest articulation of moat quality:
-*"If you had to raise prices 10% tomorrow, what would happen to your business?"*
+_"If you had to raise prices 10% tomorrow, what would happen to your business?"_
 A business that can raise prices without losing meaningful volume has a moat.
-A business where *any* price increase triggers customer defection has no moat
+A business where _any_ price increase triggers customer defection has no moat
 regardless of its current profitability. See's Candies is the teaching case —
 it has raised prices reliably for decades with little demand destruction.
 A "prayer session" business (Buffett's phrase) must hold its breath before
@@ -82,7 +82,7 @@ without self-destruction.
 
 ## Contradictions
 
-The framework creates a mild tension with [[Long-Term Thinking]] as framed by Sleep, who argues that the best businesses often *choose* to reinvest heavily to strengthen their competitive positions — Scale Economics Shared being the archetype. Sleep's compounders look somewhat like Buffett's "good" category: attractive returns but ongoing capital consumption. The resolution is that reinvestment by choice into a business with high and rising returns on that capital is categorically different from reinvestment by necessity into a business earning low returns on it. Sleep's ideal is a business that could harvest cash freely but strategically chooses not to; Buffett's taxonomy is about what happens when that choice is removed.
+The framework creates a mild tension with [[Long-Term Thinking]] as framed by Sleep, who argues that the best businesses often _choose_ to reinvest heavily to strengthen their competitive positions — Scale Economics Shared being the archetype. Sleep's compounders look somewhat like Buffett's "good" category: attractive returns but ongoing capital consumption. The resolution is that reinvestment by choice into a business with high and rising returns on that capital is categorically different from reinvestment by necessity into a business earning low returns on it. Sleep's ideal is a business that could harvest cash freely but strategically chooses not to; Buffett's taxonomy is about what happens when that choice is removed.
 
 ## Related
 

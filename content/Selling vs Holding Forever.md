@@ -22,15 +22,15 @@ prospective return on equity of the underlying business remains satisfactory,
 and management remains competent and honest. These are roughly Fisher's
 first two reasons to sell — in negative form. What Buffett explicitly rejects
 is Fisher's third reason: the discovery of a clearly better opportunity.
-"We are quite content to hold any security indefinitely, so long as [those
+"We are quite content to hold any security indefinitely, so long as \[those
 two conditions hold]." This convergence with Sleep's position, reached
 independently by a different route, strengthens the case against using
 Fisher's third reason as a trigger.
 
 ## The two positions
 
-**Fisher's three reasons to sell** (from *Common Stocks and Uncommon
-Profits*, summarised in the wiki as [[When to Sell]]) are: first,
+**Fisher's three reasons to sell** (from _Common Stocks and Uncommon
+Profits_, summarised in the wiki as [[When to Sell]]) are: first,
 the original analysis was wrong and the business was never as good as
 assessed; second, the business has genuinely deteriorated and no longer
 meets the criteria that justified purchase; third, a clearly better

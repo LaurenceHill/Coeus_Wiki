@@ -8,7 +8,7 @@
 Bezos's stated approach to product and business design: start with
 the customer experience you want to deliver and work backward to
 the technology, capabilities, or skills required to deliver it.
-Contrasted explicitly with the *skills-forward* approach, which
+Contrasted explicitly with the _skills-forward_ approach, which
 asks "we are really good at X, what else can we do with X?"
 
 Bezos's argument is that skills-forward is "useful and rewarding"
@@ -61,7 +61,7 @@ The discipline is harder than it sounds because it requires:
 
 Working backward is operationalised partly through Amazon's
 [[Six-Page Narratives]] — specifically through the practice of
-writing the press release and FAQ for a product *before* the
+writing the press release and FAQ for a product _before_ the
 product is built. The press release describes the customer
 experience and the value proposition in concrete terms; the
 FAQ anticipates customer questions and concerns. Both force
@@ -88,8 +88,8 @@ the easier alternative.
 ## Where this connects to Fisher
 
 Fisher's [[Scuttlebutt]] is a working-backward research
-method. The investor starts from the question *what would it
-take to confirm that this company is genuinely outstanding?*
+method. The investor starts from the question _what would it
+take to confirm that this company is genuinely outstanding?_
 and works backward to the specific people who need to be
 talked to: competitors, suppliers, customers, ex-employees.
 The skills-forward analogue would be reading whatever's
@@ -103,7 +103,7 @@ backward, or only claiming to:
 
 - Are recent product or category decisions traceable to a
   specific customer experience the company wanted to
-  deliver, *or* to existing capabilities the company was
+  deliver, _or_ to existing capabilities the company was
   trying to monetise?
 - When the company entered new domains, did it visibly
   acquire new skills it didn't previously have?
@@ -113,7 +113,7 @@ backward, or only claiming to:
 
 A company truly working backward will fail the
 "capability extension" pattern — its expansions will be
-*discontinuous* with its existing skills, because the customer
+_discontinuous_ with its existing skills, because the customer
 experience demanded skills the company didn't have. Most
 companies that claim to work backward actually do
 capability-driven expansion and apply working-backward

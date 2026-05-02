@@ -5,7 +5,7 @@ Don'ts for Investors"; Chapter 9, "Five More Don'ts for Investors"
 
 ## Summary
 
-Fisher devotes two chapters of *Common Stocks and Uncommon Profits* to
+Fisher devotes two chapters of _Common Stocks and Uncommon Profits_ to
 ten specific mistakes that investors repeat with sufficient regularity that
 they deserve explicit prohibition rather than merely implicit discouragement.
 The Don'ts are not abstract principles; each is grounded in Fisher's
@@ -39,7 +39,7 @@ portfolio strategy, which is discussed in detail in [[Bet on Big Ideas vs Don't 
 are compatible but operating from different positions: Fisher is describing
 the company that runs speculative bets without a profitable core to absorb
 the failures; Bezos is describing the company that runs speculative bets
-*from within* a profitable core. Fisher's Don't is directed at companies in
+_from within_ a profitable core. Fisher's Don't is directed at companies in
 the former position. For the investor, the diagnostic question is whether the
 losses reflect bounded experiments being financed by a genuinely excellent
 core business, or whether they reflect promotional activity without
@@ -90,8 +90,8 @@ self-critical about it. The investor who believes a stock is worth holding for
 many years because the underlying business is excellent should not routinely
 miss purchases because she placed limit orders a fraction of a point below
 the market and the stock never reached them. Fisher illustrates this with the
-case of a client who refused to pay \$34¾ for a stock he could have bought
-at \$34½, watched it rise more than 50% over the following weeks, and then
+case of a client who refused to pay $34¾ for a stock he could have bought
+at $34½, watched it rise more than 50% over the following weeks, and then
 never had the opportunity to buy it back at anything close to his original
 limit. The potential gain from minor price negotiations is trivially small
 compared to the potential loss from failing to establish a position in a
@@ -202,6 +202,6 @@ Don'ts are tools for then acting on the analysis correctly.
 - [[Bet on Big Ideas vs Don't Buy Promotional Companies]] — the
   tension between Don't #1 and Bezos's asymmetric-bet strategy
 - [[Financial Community Appraisal]] — the mechanism that makes Don'ts
-  #4, #8, and #10 important
+  \#4, #8, and #10 important
 - [[When to Sell]] — the three legitimate reasons to sell; the Don'ts
   clarify what are not legitimate reasons

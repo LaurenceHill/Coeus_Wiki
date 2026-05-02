@@ -2,14 +2,14 @@
 
 **Type:** Primary source — investment methodology
 **Author:** Philip A. Fisher
-**Published:** 1958 (Part One); collected edition with *Conservative Investors
-Sleep Well* (1975) and *Developing an Investment Philosophy* (1979)
-published by Wiley as *Common Stocks and Uncommon Profits and Other
-Writings*
+**Published:** 1958 (Part One); collected edition with _Conservative Investors
+Sleep Well_ (1975) and _Developing an Investment Philosophy_ (1979)
+published by Wiley as _Common Stocks and Uncommon Profits and Other
+Writings_
 
 ## What it is
 
-*Common Stocks and Uncommon Profits* is the book in which Fisher set out
+_Common Stocks and Uncommon Profits_ is the book in which Fisher set out
 the research and evaluation framework he had developed over his first two
 decades as an investment counsellor in San Francisco. It arrived in 1958,
 sold steadily on word of mouth, and eventually attracted the attention of
@@ -20,11 +20,11 @@ growth-company analysis: the Fifteen Points checklist and the Scuttlebutt
 method.
 
 The Wiley collected edition that constitutes the primary source for this wiki
-contains three separate works. Part One is the original *Common Stocks and
-Uncommon Profits* (1958). Part Two is *Conservative Investors Sleep Well*
+contains three separate works. Part One is the original _Common Stocks and
+Uncommon Profits_ (1958). Part Two is _Conservative Investors Sleep Well_
 (1975), which refactors the same framework into a four-dimension structure
 better suited to the institutional audience Fisher was increasingly writing
-for. Part Three is *Developing an Investment Philosophy* (1979), an
+for. Part Three is _Developing an Investment Philosophy_ (1979), an
 autobiographical essay in which Fisher recounts the formative experiences
 behind the framework — the bank job in 1928, the Food Machinery
 Corporation investment during the Depression, the Texas Instruments and
@@ -32,8 +32,8 @@ Motorola purchases in 1955, and the broader lessons about market timing,
 in-and-out trading, and the fallacy of the Efficient Market Hypothesis that
 he arrived at over fifty years of practice.
 
-Note: this volume does **not** contain *Paths to Wealth Through Common
-Stocks* (1960), which is a separate Fisher book. Wiki stubs for
+Note: this volume does **not** contain _Paths to Wealth Through Common
+Stocks_ (1960), which is a separate Fisher book. Wiki stubs for
 [[Alert Corporate Management]], [[Stocks and Inflation]], and
 [[Institutional Buying]] derive from that separate work and will remain
 stubs until that source is provided.

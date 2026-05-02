@@ -1,10 +1,10 @@
 # Poor Charlie's Almanack
 
-**Full title:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*
+**Full title:** _Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger_
 **Editor:** Peter D. Kaufman
 **First published:** 2005; revised and expanded editions through 2023
 **Character:** Primary source — Munger's own words across eleven talks delivered
-1986–2007, plus biographical essays, Mungerisms, and Q&A sessions
+1986–2007, plus biographical essays, Mungerisms, and Q\&A sessions
 
 ## Summary
 
@@ -23,7 +23,7 @@ and applied systematically as a checklist. This claim is not made abstractly. It
 is demonstrated on live problems: the USC commencement case study works
 through microeconomics and psychology to explain Wal-Mart; the Coca-Cola
 thought experiment (Talk 4) uses Pavlovian conditioning, social proof, and
-scale economics to derive a \$2 trillion business plan from first principles.
+scale economics to derive a $2 trillion business plan from first principles.
 
 ## The eleven talks
 
@@ -58,9 +58,9 @@ annum advantage from holding vs. trading).
 The five problem-solving notions: (1) decide big "no-brainer" questions first;
 (2) numerical fluency; (3) [[concepts/Inversion]]; (4) multidisciplinary
 elementary wisdom; (5) lollapalooza effects. Then the Coca-Cola thought
-experiment: starting with \$2 million in Atlanta in 1884, demonstrate how
+experiment: starting with $2 million in Atlanta in 1884, demonstrate how
 combining Pavlovian conditioning, operant conditioning, social proof, and
-scale economics would produce a \$2 trillion business by 2034. The
+scale economics would produce a $2 trillion business by 2034. The
 demonstration simultaneously shows how psychology explains Coke's success
 and how academia fails to explain it.
 
@@ -162,32 +162,32 @@ financial disasters, and missed opportunities — is enormous.
 
 ## Key quotations
 
-*"You need a latticework of mental models in your head. And you hang your
+_"You need a latticework of mental models in your head. And you hang your
 actual experience and your vicarious experience (that you get from reading
 and so forth) on this latticework of powerful models. And, with that system,
-things gradually get to fit together in a way that enhances cognition."*
+things gradually get to fit together in a way that enhances cognition."_
 — Talk 2 (USC, 1994)
 
-*"It is not enough to think problems through forward. You must also think in
+_"It is not enough to think problems through forward. You must also think in
 reverse, much like the rustic who wanted to know where he was going to die
-so that he'd never go there."*
+so that he'd never go there."_
 — Talk 4 (1996)
 
-*"I could improve your ultimate financial welfare by giving you a ticket with
+_"I could improve your ultimate financial welfare by giving you a ticket with
 only twenty slots in it so that every investment decision you make will punch
-a hole in the card."*
+a hole in the card."_
 — Talk 2 (USC, 1994)
 
-*"We don't leap seven-foot fences. Instead, we look for one-foot fences with
-big rewards on the other side."*
+_"We don't leap seven-foot fences. Instead, we look for one-foot fences with
+big rewards on the other side."_
 — Talk 3 (Stanford Law, 1996)
 
-*"You're much more likely to do well if you start out to do something feasible
-instead of something that isn't feasible."*
+_"You're much more likely to do well if you start out to do something feasible
+instead of something that isn't feasible."_
 — Talk 2 (USC, 1994)
 
-*"I am not entitled to have an opinion unless I can state the arguments against
-my position better than the people who are in opposition."*
+_"I am not entitled to have an opinion unless I can state the arguments against
+my position better than the people who are in opposition."_
 — Talk 10 (USC Law, 2007)
 
 ## Related

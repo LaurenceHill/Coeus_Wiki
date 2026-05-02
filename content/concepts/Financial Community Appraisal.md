@@ -1,15 +1,15 @@
 # Financial Community Appraisal
 
-**Source:** [[Common Stocks and Uncommon Profits]] — Part Two (*Conservative
-Investors Sleep Well*), Chapters 4–6; Part Three, "Is the Market Efficient?"
+**Source:** [[Common Stocks and Uncommon Profits]] — Part Two (_Conservative
+Investors Sleep Well_), Chapters 4–6; Part Three, "Is the Market Efficient?"
 and the Raychem Corporation case study; extended in [[Paths to Wealth Through Common Stocks]] — Part I.E and Part II
 
 ## Summary
 
 Fisher's central claim about stock prices, stated as a rule in Part Two:
-*"Every significant price move of any individual common stock in relation
+_"Every significant price move of any individual common stock in relation
 to stocks as a whole occurs because of a changed appraisal of that stock by
-the financial community."* This is not merely an observation about market
+the financial community."_ This is not merely an observation about market
 psychology. It is Fisher's complete theory of what determines the relative
 price of any given stock at any given moment — and therefore what the
 investor must understand to find stocks that are genuinely cheap or genuinely
@@ -96,9 +96,9 @@ this situation.
 ## Company G and the 400% gain
 
 Fisher's illustration of a correctly re-rated company: Company G was
-regarded as ordinary, earning \$1 per share and trading at ten times earnings.
+regarded as ordinary, earning $1 per share and trading at ten times earnings.
 Over two years, through a combination of new products and improved
-margins, the company grew earnings to \$1.82 while competitors in the same
+margins, the company grew earnings to $1.82 while competitors in the same
 industry showed declining profits. The financial community re-appraised the
 company, the P/E moved from 10x to 22x, and the stock rose 400%. The
 underlying business improvements had been in progress for some time
@@ -145,23 +145,23 @@ a very high P/E fail to materialise.
 
 ## The captive balloon model
 
-In *Paths to Wealth Through Common Stocks*, Fisher refines the mechanics of how the appraisal works through the image of a captive balloon. The price of a stock at any moment resembles a balloon tethered not to the ground but to a moving line — the line of intrinsic value. As the company's earning power and underlying prospects improve, the intrinsic value line rises; if they deteriorate, it falls. At any given moment, the psychological attitudes of the financial community — mass enthusiasm, fear, or indifference — cause the price to float anywhere from well above the intrinsic value line to well below it. But the tether holds: the price can never permanently escape the line. Sooner or later it is pulled back.
+In _Paths to Wealth Through Common Stocks_, Fisher refines the mechanics of how the appraisal works through the image of a captive balloon. The price of a stock at any moment resembles a balloon tethered not to the ground but to a moving line — the line of intrinsic value. As the company's earning power and underlying prospects improve, the intrinsic value line rises; if they deteriorate, it falls. At any given moment, the psychological attitudes of the financial community — mass enthusiasm, fear, or indifference — cause the price to float anywhere from well above the intrinsic value line to well below it. But the tether holds: the price can never permanently escape the line. Sooner or later it is pulled back.
 
 Fisher is careful to acknowledge that intrinsic value cannot be pinpointed precisely — it is, in his words, "a broad line, not a number." Comparing a company with others of similar growth rate and quality can establish a range, but not an exact figure. For rapidly growing companies commanding high P/E ratios, the difficulty is greater still, because so much of the value depends on how long an abnormal growth rate will persist, and the further one projects into the future the wider the margin of error becomes. His practical instruction: if a stock is within 25–30% of a reasonable estimate of intrinsic value and the underlying growth is genuine, the precision problem is not material. The danger is paying prices several times real worth — the territory where psychological overenthusiasm has stretched the balloon so far from the intrinsic value line that the tether snaps.
 
 ## P/E ratio alone tells you nothing
 
-Building on the captive balloon model, Fisher makes an argument in *Paths to Wealth* that corrects a common misreading of his framework. Whether a stock is selling at a low P/E ratio or a high one has nothing by itself to do with whether it is cheap or expensive. The vastly different quality and growth prospects of different companies fully justify wide variations in P/E ratios. The only thing that matters is whether the *facts* warrant the current ratio.
+Building on the captive balloon model, Fisher makes an argument in _Paths to Wealth_ that corrects a common misreading of his framework. Whether a stock is selling at a low P/E ratio or a high one has nothing by itself to do with whether it is cheap or expensive. The vastly different quality and growth prospects of different companies fully justify wide variations in P/E ratios. The only thing that matters is whether the _facts_ warrant the current ratio.
 
 This has two practical implications that the appraisal framework produces. A stock selling at a very high P/E ratio may still be materially undervalued if the financial community has yet to recognise the full extent of the company's growth trajectory — the balloon is below the intrinsic value line despite being nominally "expensive." Conversely, a stock at a very low P/E ratio may be precisely appropriately priced or even overpriced if its economics are poor and the financial community is already too optimistic about its limited prospects. The investor's task is to assess whether the current appraisal appropriately reflects the facts, not to use the P/E ratio as a shortcut.
 
 ## P/E expansion and the institutional acceptance cycle
 
-The *Paths to Wealth* treatment of [[Institutional Buying]] provides a structural mechanism that explains the most dramatic form of Financial Community Appraisal change: the transition from an unapproved to an institutionally accepted stock. Fisher illustrates with a detailed example of a fictional but realistic company (Pioneer Metals Corporation) that begins as an obscure small fabricator and ends as a recognised institutional holding. 
+The _Paths to Wealth_ treatment of [[Institutional Buying]] provides a structural mechanism that explains the most dramatic form of Financial Community Appraisal change: the transition from an unapproved to an institutionally accepted stock. Fisher illustrates with a detailed example of a fictional but realistic company (Pioneer Metals Corporation) that begins as an obscure small fabricator and ends as a recognised institutional holding.
 
-The arithmetic Fisher develops: in a company that doubles its earnings *and* has its P/E ratio expand from 12x to 24x as institutional recognition is earned, the investor captures a 4x gain where a pure earnings analysis would suggest only a 2x gain. The P/E expansion is, in Fisher's phrase, "the most overlooked source of major investment gain" — and it is produced by a change in Financial Community Appraisal, not by a change in the underlying business. The underlying business provides the ground for the appraisal shift; but the shift itself is a psychological and institutional event.
+The arithmetic Fisher develops: in a company that doubles its earnings _and_ has its P/E ratio expand from 12x to 24x as institutional recognition is earned, the investor captures a 4x gain where a pure earnings analysis would suggest only a 2x gain. The P/E expansion is, in Fisher's phrase, "the most overlooked source of major investment gain" — and it is produced by a change in Financial Community Appraisal, not by a change in the underlying business. The underlying business provides the ground for the appraisal shift; but the shift itself is a psychological and institutional event.
 
-This is the positive version of the risk hierarchy: the Company G example earlier in this page illustrates a single re-rating event. The Pioneer Metals / institutional acceptance cycle shows how a company can undergo a *series* of re-rating events over a decade or more, each one driven by a wider circle of financial community participants recognising what was always there in the underlying facts.
+This is the positive version of the risk hierarchy: the Company G example earlier in this page illustrates a single re-rating event. The Pioneer Metals / institutional acceptance cycle shows how a company can undergo a _series_ of re-rating events over a decade or more, each one driven by a wider circle of financial community participants recognising what was always there in the underlying facts.
 
 A Boston trust company quote Fisher records captures the priority well: "Management is 90 per cent, the industry is 9 per cent, and all other factors are 1 per cent." The statement is not mathematically exact, but it correctly identifies that Financial Community Appraisal of a company is primarily a question about management — and that the investor who can correctly assess management quality before the financial community has formalised that assessment is positioned to capture the appraisal correction as it occurs.
 
@@ -176,14 +176,14 @@ this is empirical rather than theoretical.
 The Raychem Corporation: in 1975–76, Raychem was hit by two setbacks
 — the failure of a major research project (the Stilan polymer) and a planned
 management reorganisation that temporarily reduced earnings. The stock
-fell from over \$42 to approximately \$15. The Raychem management was
+fell from over $42 to approximately $15. The Raychem management was
 forthcoming about both developments, explaining the temporary nature of
 the earnings impact to any investor who asked. On January 26, 1978, at a
 public meeting attended by representatives of all interested institutions and
 brokers, senior management laid out in unusual detail the company's
 prospects, problems, and current status. Over the following year or two,
 earnings grew exactly as described at that meeting, and the stock more than
-doubled from the meeting-day price of \$23. Yet in the weeks immediately
+doubled from the meeting-day price of $23. Yet in the weeks immediately
 following the meeting, the stock showed no particular movement. Investors
 who were present, who heard the same presentation, and who had access to
 the same information the management provided, did not act on it — because

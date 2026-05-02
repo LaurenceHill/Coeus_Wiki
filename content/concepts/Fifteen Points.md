@@ -53,7 +53,7 @@ relation to its size?**
 Research effectiveness is not the same as research spending. Fisher wants to
 know whether the research department produces commercially viable
 products efficiently, not merely whether it is large. He notes that some
-companies with large R&D budgets produce relatively little of commercial
+companies with large R\&D budgets produce relatively little of commercial
 value, while others produce disproportionately with modest outlays. The
 relationship between the research department and the commercial side of
 the business — whether scientists are thinking about markets as well as
@@ -217,7 +217,7 @@ Both conditions must be satisfied.
 
 ## Relationship to the Four Dimensions
 
-Part Two of the source (*Conservative Investors Sleep Well*) refactors the
+Part Two of the source (_Conservative Investors Sleep Well_) refactors the
 Fifteen Points into four dimensions without substantively changing the
 underlying thinking. Points 1, 3, 4, 5, 6, and 10 map broadly onto the first
 dimension (operating excellence). Points 7, 8, 9, 12, 14, and 15 map onto

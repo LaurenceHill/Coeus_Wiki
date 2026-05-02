@@ -36,8 +36,8 @@ Three structural reasons in the 2017 letter:
 
 ## The teachable-standards argument
 
-The 2017 letter is structured around the question: *can high
-standards be taught?* Bezos's answer is yes, but the teaching
+The 2017 letter is structured around the question: _can high
+standards be taught?_ Bezos's answer is yes, but the teaching
 operates through three components:
 
 1. **Recognition** of the standard. People can usually recognise
@@ -61,7 +61,7 @@ care of itself if the first two are in place.
 ## What "narrative" actually means
 
 The memos are not bullet points expanded into sentences. They
-are *narratively structured*: an argument with a thesis,
+are _narratively structured_: an argument with a thesis,
 supporting reasoning, anticipated objections, and a conclusion.
 The structure forces:
 
@@ -85,7 +85,7 @@ coaching them right."
 
 For new product proposals, Amazon's working-backward
 ([[Working Backward]]) discipline uses a specific narrative
-form: the team writes the *press release* and *FAQ* for the
+form: the team writes the _press release_ and _FAQ_ for the
 product before building it. The press release describes the
 customer experience and value proposition concretely. The FAQ
 anticipates the questions customers and reviewers will ask.

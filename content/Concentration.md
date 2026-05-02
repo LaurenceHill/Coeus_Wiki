@@ -24,7 +24,7 @@ The same letter gives the worked example: a SAFECO Corporation purchase
 sufficient in size that it would have been a top-five Berkshire
 position if the equity portfolio had been smaller. The point is not
 that the SAFECO position was unusually large in absolute terms but
-that the size was *deliberate* — chosen to reflect conviction, not
+that the size was _deliberate_ — chosen to reflect conviction, not
 constrained by a diversification rule.
 
 ## Ground Rule 7: the 40% ceiling (1965)
@@ -94,7 +94,7 @@ concentration captures returns that diversification dilutes.
 
 The framing is not about risk indifference. The 1978 letter is careful
 that concentration is paired with the four-criteria filter — the policy
-is to concentrate in *high-quality* positions, not in any positions
+is to concentrate in _high-quality_ positions, not in any positions
 that happen to look interesting. Concentration without the filter is
 gambling; the filter without concentration is wasted analytical work.
 
@@ -123,26 +123,26 @@ when concentration is and is not the right policy. The distinction
 turns on whether the investor can genuinely evaluate the economics of
 specific businesses.
 
-For the *know-nothing investor* — one who *"does not understand the
-economics of specific businesses"* but believes it is in their interest
+For the _know-nothing investor_ — one who _"does not understand the
+economics of specific businesses"_ but believes it is in their interest
 to be a long-term owner of American industry — the correct strategy is
-to own a large number of equities and space out purchases. *"By
+to own a large number of equities and space out purchases. _"By
 periodically investing in an index fund, for example, the know-nothing
 investor can actually out-perform most investment professionals.
 Paradoxically, when 'dumb' money acknowledges its limitations, it ceases
-to be dumb."* For this investor, diversification is not a compromise;
+to be dumb."_ For this investor, diversification is not a compromise;
 it is the correct policy.
 
-For the *know-something investor* — one who can *"understand business
+For the _know-something investor_ — one who can _"understand business
 economics and to find five to ten sensibly-priced companies that possess
-important long-term competitive advantages"* — concentration is not
-merely permissible; it is the logical implication. *"Conventional
+important long-term competitive advantages"_ — concentration is not
+merely permissible; it is the logical implication. _"Conventional
 diversification makes no sense for you. It is apt simply to hurt your
 results and increase your risk. I cannot understand why an investor of
 that sort elects to put money into a business that is his 20th favourite
 rather than simply adding that money to his top choices — the businesses
 he understands best and that present the least risk, along with the
-greatest profit potential."*
+greatest profit potential."_
 
 The 20th-favourite formulation is the most precise version of the
 concentration argument. The investor who spreads across 20 positions
@@ -154,12 +154,12 @@ understanding than position 1, adding to position 1 is both less risky
 diversification, for this investor, is not prudence; it is
 analytical inconsistency.
 
-The 1993 letter also specifies when *broad* diversification does make
-sense — including for the know-something investor: *"Of course, some
+The 1993 letter also specifies when _broad_ diversification does make
+sense — including for the know-something investor: _"Of course, some
 investment strategies — for instance, our efforts in arbitrage over
 the years — require wide diversification. If significant risk exists in
 a single transaction, overall risk should be reduced by making that
-purchase one of many mutually-independent commitments."* The
+purchase one of many mutually-independent commitments."_ The
 diversification principle applies when individual-position risk cannot
 be independently analysed to a high degree of confidence. The casino
 analogy: a casino with a favourable roulette wheel wants many small bets,
@@ -174,11 +174,11 @@ The 1980 and 1981 letters extend the framing in a way the 1978 letter
 left implicit. Berkshire's concentrated positions are typically
 non-controlling — fractional ownership in companies whose management
 Berkshire did not hire and cannot dismiss. The 1981 letter makes the
-case that this *non-control* is, on average, an economic advantage:
-*"we generally have been able to correct such mistakes far more
+case that this _non-control_ is, on average, an economic advantage:
+_"we generally have been able to correct such mistakes far more
 quickly in the case of non-controlled businesses (marketable
 securities) than in the case of controlled subsidiaries. Lack of
-control, in effect, often has turned out to be an economic plus."*
+control, in effect, often has turned out to be an economic plus."_
 
 The implication is that concentration plus non-control plus a willingness
 to sell when the analysis is wrong is operationally easier than
@@ -190,7 +190,7 @@ private equity owner — is running a different and harder game.
 
 The 1984 letter restates the concentration policy in the context of
 the WPPSS bond purchase and adds a structural condition the 1978
-letter had left implicit. *"We remain unconventional in the degree
+letter had left implicit. _"We remain unconventional in the degree
 to which we concentrate the investments of our insurance companies,
 including those in WPPSS bonds. This concentration makes sense only
 because our insurance business is conducted from a position of
@@ -199,22 +199,22 @@ comparable degree of concentration (or anything close to it) would
 be totally inappropriate. Their capital positions are not strong
 enough to withstand a big error, no matter how attractive an
 investment opportunity might appear when analyzed on the basis of
-probabilities."*
+probabilities."_
 
 The lesson is that concentration is not a self-sufficient policy.
 It is a policy that requires a financial structure that can
 withstand the inevitable times when concentrated bets are wrong.
-The 1984 letter is unusually direct: *"With our financial strength
+The 1984 letter is unusually direct: _"With our financial strength
 we can own large blocks of a few securities that we have thought
 hard about and bought at attractive prices. … Over time our policy
 of concentration should produce superior results, though these will
 be tempered by our large size. When this policy produces a really
 bad year, as it must, at least you will know that our money was
-committed on the same basis as yours."*
+committed on the same basis as yours."_
 
-The same letter gives the most-quoted compressed image: *"If you
+The same letter gives the most-quoted compressed image: _"If you
 have a harem of forty women, you never get to know any of them
-very well."* The image (Billy Rose's, not Buffett's own) is doing
+very well."_ The image (Billy Rose's, not Buffett's own) is doing
 two things. It's arguing that depth-of-understanding is what
 concentration buys, and that the same finite analytical effort
 spread across forty positions delivers shallow knowledge of all
@@ -228,8 +228,8 @@ The 1984 letter also extends concentration explicitly to bond
 investments. The WPPSS purchase is concentrated — Berkshire's
 position represented less than 3% of bonds outstanding, but it was
 a major fraction of Berkshire's bond portfolio and the analysis
-was treated with the rigour of an equity acquisition: *"we extend
-this business-valuation approach even to bond purchases."* The
+was treated with the rigour of an equity acquisition: _"we extend
+this business-valuation approach even to bond purchases."_ The
 generalisation is that concentration is a posture toward asset
 ownership, not a category-specific portfolio rule. Equities,
 bonds, controlled subsidiaries — all are treated as fractional
@@ -237,14 +237,14 @@ purchases of underlying businesses, sized to conviction within the
 constraint of financial strength.
 
 The 1984 letter also explains the institutional barrier to the
-policy: *"most managers have very little incentive to make the
+policy: _"most managers have very little incentive to make the
 intelligent-but-with-some-chance-of-looking-like-an-idiot
 decision. Their personal gain/loss ratio is all too obvious: if
 an unconventional decision works out well, they get a pat on the
 back and, if it works out poorly, they get a pink slip. (Failing
 conventionally is the route to go; as a group, lemmings may have a
 rotten image, but no individual lemming has ever received bad
-press.)"* The Buffett position — that with 47% of Berkshire's
+press.)"_ The Buffett position — that with 47% of Berkshire's
 stock, the Buffett-Munger pair is structurally insulated from this
 incentive — is the explicit answer. Concentration is available to
 those whose career risk is aligned with their portfolio risk, and
@@ -296,15 +296,15 @@ tradition, and where their reasoning parts company.
 
 ## Thiel's power law reinforcement
 
-Thiel's power law chapter in *Zero to One* arrives at the same conclusion
+Thiel's power law chapter in _Zero to One_ arrives at the same conclusion
 from a venture capital portfolio perspective. VC returns follow a power law
 rather than a normal distribution: the best investment in a successful fund
 outperforms all other investments combined. The practical implication Thiel
 draws is not more diversification but less — a venture investor should focus
 on companies with the potential to return the entire fund, since spreading
 effort across marginal candidates dilutes both analytical quality and position
-size in the winners. *"You can't trust a diversified portfolio of startups
-because the entire category has already been diversified away."*
+size in the winners. _"You can't trust a diversified portfolio of startups
+because the entire category has already been diversified away."_
 
 The generalisation Thiel explicitly makes from portfolio to career and life
 choices maps the Buffett concentration argument onto a broader domain: life

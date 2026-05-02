@@ -12,13 +12,13 @@ across generations. The argument is not rhetorical patriotism — it is a
 quantified claim about what long-term ownership of American businesses has
 delivered and why it is likely to continue delivering.
 
-The anchor figure: \$114.75, invested in a no-fee S&P 500 index fund in
+The anchor figure: $114.75, invested in a no-fee S\&P 500 index fund in
 March 1942 when Buffett made his first stock purchase at age eleven, would
-have been worth \$606,811 on 31 January 2019, dividends reinvested. That is
-a gain of 5,288-fold over 77 years. A tax-exempt institution investing \$1
-million in 1942 would have grown it to approximately \$5.3 billion. The same
+have been worth $606,811 on 31 January 2019, dividends reinvested. That is
+a gain of 5,288-fold over 77 years. A tax-exempt institution investing $1
+million in 1942 would have grown it to approximately $5.3 billion. The same
 institution paying only 1% of assets annually to "helpers" — investment
-managers and consultants — would have received \$2.65 billion instead. That
+managers and consultants — would have received $2.65 billion instead. That
 one-percentage-point annual drag, compounded over 77 years at the actual
 return of 11.8% reduced to 10.8%, cuts the terminal wealth roughly in half.
 The cost of the helpers, modest-sounding in isolation, is enormous across
@@ -26,25 +26,25 @@ time.
 
 ## The gold comparison
 
-The same \$114.75 invested in 3¼ ounces of gold in 1942 would have been
-worth approximately \$4,200 in 2019 — less than 1% of what the S&P index
+The same $114.75 invested in 3¼ ounces of gold in 1942 would have been
+worth approximately $4,200 in 2019 — less than 1% of what the S\&P index
 fund returned. This comparison matters because the gold argument in 1942
 seemed plausible: the country had just entered a war, the national debt was
 growing, currency risk was real. The rational case for gold as "protection"
 was available. The rational case turned out to be incorrect by a factor
 greater than 140.
 
-Buffett's framing is sharp: *"Those who regularly preach doom because of
+Buffett's framing is sharp: _"Those who regularly preach doom because of
 government budget deficits — as I regularly did myself for many years —
 might note that our country's national debt has increased roughly 400-fold
 during the last of my 77-year periods. That's 40,000%! Suppose you had
 foreseen this increase and panicked at the prospect of runaway deficits and
 a worthless currency. To 'protect' yourself, you might have eschewed stocks
-and opted instead to buy 3¼ ounces of gold with your \$114.75. And what would
+and opted instead to buy 3¼ ounces of gold with your $114.75. And what would
 that supposed protection have delivered? You would now have an asset worth
-about \$4,200 — less than 1% of what would have been realised from a simple
+about $4,200 — less than 1% of what would have been realised from a simple
 unmanaged investment in American business. The magical metal was no match
-for the American mettle."*
+for the American mettle."_
 
 The comparison encapsulates a central tension in investing: the risk that
 feels most salient (currency debasement, government overreach) is rarely the
@@ -85,12 +85,12 @@ the moment, appeared threatening. Macro-level political anxiety has
 consistently been a poor reason to withdraw from ownership of productive
 American businesses.
 
-Buffett acknowledges a corollary that restrains triumphalism: *"Charlie and
+Buffett acknowledges a corollary that restrains triumphalism: _"Charlie and
 I happily acknowledge that much of Berkshire's success has simply been a
 product of what I think should be called The American Tailwind. It is beyond
 arrogance for American businesses or individuals to boast that they have
 'done it alone.' The tidy rows of simple white crosses at Normandy should
-shame those who make such claims."*
+shame those who make such claims."_
 
 ## What it means for the investor
 
@@ -120,68 +120,68 @@ helpers extract that drag.
 
 The 2022 letter offers an unusual proof of the tailwind argument from the
 direction of taxation. During the decade ending in 2021, Berkshire paid
-\$32 billion in federal corporate income taxes — almost exactly one-tenth
+$32 billion in federal corporate income taxes — almost exactly one-tenth
 of one percent of all money the Treasury collected from all sources over
 that period. Put differently: if there were roughly 1,000 American
 companies matching Berkshire's tax contribution, no other businesses and
 none of the country's 131 million households would have needed to pay
 any federal taxes at all.
 
-This is presented not as boasting but as gratitude. *"We owe the country
+This is presented not as boasting but as gratitude. _"We owe the country
 no less: America's dynamism has made a huge contribution to whatever
 success Berkshire has achieved — a contribution Berkshire will always
-need."* The taxes paid are evidence of the productive capacity that the
+need."_ The taxes paid are evidence of the productive capacity that the
 tailwind created; the tailwind is precisely what allowed a textile company
 transformed into a conglomerate to compound at 19.8% annually for 58 years.
 
 The 2022 letter also contains Buffett's most compressed formulation of
-the forward-looking tailwind case: *"I have been investing for 80 years
+the forward-looking tailwind case: _"I have been investing for 80 years
 — more than one-third of our country's lifetime. Despite our citizens'
 penchant — almost enthusiasm — for self-criticism and self-doubt, I have
 yet to see a time when it made sense to make a long-term bet against
 America. And I doubt very much that any reader of this letter will have
-a different experience in the future."*
+a different experience in the future."_
 
-The formulation *"more than one-third of our country's lifetime"* anchors
+The formulation _"more than one-third of our country's lifetime"_ anchors
 the argument in lived experience rather than theory: this is not a
 prediction about the next 80 years derived from a model, but a statement
 about what 80 years of continuous observation has produced as a conclusion.
 
 ## The "never bet against America" refrain (2020–2021)
 
-The 2020 and 2021 letters both use the phrase *"never bet against
-America"* in contexts designed to address investor anxiety during the
+The 2020 and 2021 letters both use the phrase _"never bet against
+America"_ in contexts designed to address investor anxiety during the
 COVID-19 period. The 2021 letter returns to the Cities Service example
 from the 2019 letter: Buffett made his first stock purchase on 11 March
 1942, three months after Pearl Harbor, when the Dow had closed at 99. The
 correct course was to invest, not to withdraw, in a period of acute
-national crisis. The 77-year outcome — the same \$114.75 compounding to
-\$606,811 — was the answer.
+national crisis. The 77-year outcome — the same $114.75 compounding to
+$606,811 — was the answer.
 
 The 2020 letter supplements this with a structural argument: Berkshire's
-four "jewels" (insurance float, BNSF, Apple, BHE) and \$154 billion in
+four "jewels" (insurance float, BNSF, Apple, BHE) and $154 billion in
 domestic fixed assets make it simultaneously the largest owner of fixed
 assets of any American company and deeply embedded in the country's
-infrastructure. *"The babies being born in America today are the luckiest
-crop in history."*
+infrastructure. _"The babies being born in America today are the luckiest
+crop in history."_
 
 ## The record-shattering tax payment and the capitalism argument (2024)
 
-The 2024 letter extends the tailwind argument into new empirical territory. In 2024, Berkshire paid \$26.8 billion in federal income taxes — the largest single-year corporate tax payment in American history, approximately 5% of all corporate income tax collected by the US Treasury. By way of scale: a company sending the Treasury a \$1 million cheque every twenty minutes, without pause, throughout all 366 days of 2024, would still have finished the year in arrears.
+The 2024 letter extends the tailwind argument into new empirical territory. In 2024, Berkshire paid $26.8 billion in federal income taxes — the largest single-year corporate tax payment in American history, approximately 5% of all corporate income tax collected by the US Treasury. By way of scale: a company sending the Treasury a $1 million cheque every twenty minutes, without pause, throughout all 366 days of 2024, would still have finished the year in arrears.
 
 This figure is the capstone of the sixty-year compounding story. In 1965, Berkshire paid no income tax at all — an embarrassment that had prevailed for nearly a decade. The business was headed, as Buffett puts it, "for the ash can." Sixty years later the same company, still trading under the Berkshire Hathaway name, had become the Treasury's single largest corporate contributor. The journey was made possible by one policy: shareholders forgoing dividends, reinvesting rather than consuming, and allowing the compounding to run.
 
-Buffett's address to the Treasury at the letter's close has an unusual moral register: *"So thank you, Uncle Sam. Someday your nieces and nephews at Berkshire hope to send you even larger payments than we did in 2024. Spend it wisely. Take care of the many who, for no fault of their own, get the short straws in life. They deserve better. And never forget that we need you to maintain a stable currency."*
+Buffett's address to the Treasury at the letter's close has an unusual moral register: _"So thank you, Uncle Sam. Someday your nieces and nephews at Berkshire hope to send you even larger payments than we did in 2024. Spend it wisely. Take care of the many who, for no fault of their own, get the short straws in life. They deserve better. And never forget that we need you to maintain a stable currency."_
 
-The 2024 letter also provides the most succinct statement of the capitalism argument underlying the tailwind thesis. The mechanism Buffett describes is savings deployed productively: Americans who consistently saved and deployed capital wisely generated the output growth that transformed four million colonial-era citizens into the most productive economy in history. Berkshire's shareholders participated in a *"very minor way"* by forgoing dividends — electing to reinvest rather than consume — and the cumulative result, modest at first, eventually *"mushroomed, reflecting the mixture of a sustained culture of savings, combined with the magic of long-term compounding."*
+The 2024 letter also provides the most succinct statement of the capitalism argument underlying the tailwind thesis. The mechanism Buffett describes is savings deployed productively: Americans who consistently saved and deployed capital wisely generated the output growth that transformed four million colonial-era citizens into the most productive economy in history. Berkshire's shareholders participated in a _"very minor way"_ by forgoing dividends — electing to reinvest rather than consume — and the cumulative result, modest at first, eventually _"mushroomed, reflecting the mixture of a sustained culture of savings, combined with the magic of long-term compounding."_
 
-The 60-year record through 2024: 19.9% CAGR versus the S&P's 10.4%; overall gain of 5,502,284% versus 39,054%. The 2022 letter had reported 19.8% and 4,384,748%; the incremental improvement confirms the record is durable rather than a statistical artefact of any single period.
+The 60-year record through 2024: 19.9% CAGR versus the S\&P's 10.4%; overall gain of 5,502,284% versus 39,054%. The 2022 letter had reported 19.8% and 4,384,748%; the incremental improvement confirms the record is durable rather than a statistical artefact of any single period.
 
 ## Caveats
 
 The tailwind is a historical observation, not a guaranteed permanent feature.
-Buffett is clear that *"over the next 77 years, however, the major source of
-our gains will almost certainly be provided by The American Tailwind"* — but
+Buffett is clear that _"over the next 77 years, however, the major source of
+our gains will almost certainly be provided by The American Tailwind"_ — but
 the hedge "almost certainly" is meaningful. The argument rests on a
 continuation of the productive reinvestment dynamic that built the record.
 Structural changes that permanently impair that dynamic — confiscatory

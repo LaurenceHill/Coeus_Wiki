@@ -2,7 +2,7 @@
 
 **Type:** Secondary source
 **Author:** Steve Anderson, 2019
-**Full title:** *The Bezos Letters: 14 Principles to Grow Your Business Like Amazon*
+**Full title:** _The Bezos Letters: 14 Principles to Grow Your Business Like Amazon_
 **Primary source:** [[Invent and Wander]] — Jeff Bezos's own writing is the
 authoritative text. Read Anderson alongside it, not instead of it.
 
@@ -50,7 +50,7 @@ and Henry Ford — which is occasionally useful for cross-referencing.
 ## What it is not good for
 
 Anderson is a synthesiser, not an analyst. His commentary tells you
-*what* Bezos did more reliably than it tells you *why* it worked or where
+_what_ Bezos did more reliably than it tells you _why_ it worked or where
 the approach would break down. The wiki's [[Anderson on Bezos vs Bezos on Bezos]] page documents the most important divergences: where
 Anderson's framing oversimplifies, inverts emphasis, or loses the
 precision of the original. The most important case is [[Successful Failure]] versus [[Big Winners Pay for Many Experiments]]: Anderson
@@ -59,9 +59,9 @@ tolerance, while Bezos's primary framing is explicitly mathematical —
 asymmetric expected-value arithmetic, not cultural permission to fail.
 
 A second divergence: Anderson's Test → Build → Accelerate → Scale cycle
-implies that wandering is a *phase* (the Test cycle) that precedes
+implies that wandering is a _phase_ (the Test cycle) that precedes
 execution. Bezos's [[Wandering]] concept holds the opposite: wandering
-runs *permanently* alongside efficiency, in different parts of the
+runs _permanently_ alongside efficiency, in different parts of the
 organisation, on different timescales. Anderson's framework makes
 wandering look like a startup activity; Bezos frames it as a permanent
 organisational discipline even at trillion-dollar scale.

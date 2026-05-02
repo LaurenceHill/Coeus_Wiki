@@ -12,14 +12,14 @@ for how to get there?). The framework yields four quadrants: definite
 optimism, definite pessimism, indefinite pessimism, and indefinite optimism.
 
 The framework's diagnostic power is in identifying what Thiel calls
-*indefinite optimism* as the dominant and increasingly dysfunctional worldview
+_indefinite optimism_ as the dominant and increasingly dysfunctional worldview
 of contemporary America. Indefinite optimists expect good outcomes but have
 no specific vision of how to produce them; they therefore default to process
 over substance, optionality over commitment, and portfolio-building over
 focused creation. Thiel's argument is that indefinite optimism is internally
-incoherent: *"Progress isn't held back by some difference between corporate
+incoherent: _"Progress isn't held back by some difference between corporate
 greed and nonprofit goodness; instead we're held back by the sameness of
-both."* Improvement requires intention. A company, like a person, cannot
+both."_ Improvement requires intention. A company, like a person, cannot
 benefit from macro-scale optimism unless it has micro-scale plans.
 
 ## The four quadrants
@@ -61,46 +61,46 @@ embody indefinite optimism.
 
 The pathological expression of indefinite optimism runs through every domain:
 
-*Finance.* Money compounds without any plan for what to do with it. Founders
+_Finance._ Money compounds without any plan for what to do with it. Founders
 sell companies and hand the proceeds to banks, who diversify them into
 institutional portfolios, which own companies that generate free cash flows
 that are then returned to shareholders — at no point does anyone in the chain
 know what to do with the money in the real economy. In an indefinite world,
 money becomes an end in itself rather than a means to create something.
 
-*Politics.* Politicians track public opinion in real time and tailor their
+_Politics._ Politicians track public opinion in real time and tailor their
 positions accordingly. Government shifts from executing definite plans
 (atomic programmes, lunar exploration) to providing insurance — Medicare,
 Social Security, transfer payments. Entitlement spending eclipses
 discretionary spending because definite plans require deciding what to build,
 and nobody will commit to anything specific.
 
-*Philosophy.* Rawls and Nozick — the dominant political philosophers of
+_Philosophy._ Rawls and Nozick — the dominant political philosophers of
 the late 20th century — are both indefinite optimists. Rawls fantasises about
 an "inherently stable" society from behind a "veil of ignorance"; Nozick
 permits any voluntary exchange but specifies no positive vision. Both focus
 on process. Arguing over process has become a way to endlessly defer making
 concrete plans.
 
-*Biotech.* Researchers experiment with things that might work rather than
+_Biotech._ Researchers experiment with things that might work rather than
 refining definite theories. Drug discovery is probabilistic by design —
 searching through molecular combinations at random rather than targeting
 specific mechanisms. Eroom's Law (the number of drugs approved per billion
-dollars spent on R&D halves every nine years since 1950) is the quantitative
+dollars spent on R\&D halves every nine years since 1950) is the quantitative
 result of this approach.
 
 ## The design imperative
 
-Thiel's proposed alternative is *design over chance*. The greatest thing Steve
+Thiel's proposed alternative is _design over chance_. The greatest thing Steve
 Jobs designed was not any individual product but his business: Apple imagined
 and executed definite multi-year plans to create new products and distribute
 them. Forget minimum viable products — from the beginning, Jobs saw that
 you can change the world through careful planning, not by listening to focus
 group feedback or copying others.
 
-*"Leanness is a methodology, not a goal. Making small changes to things that
+_"Leanness is a methodology, not a goal. Making small changes to things that
 already exist might lead you to a local maximum, but it won't help you find
-the global maximum."*
+the global maximum."_
 
 The distinction between definite and indefinite planning also explains
 something puzzling about private company valuations. Founders only sell

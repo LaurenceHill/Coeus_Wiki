@@ -1,17 +1,17 @@
 # Buffett and Munger Unscripted
 
-**Full title:** *Buffett and Munger Unscripted: Wit, Wisdom, and Investing
-Insights from 30 Years of Berkshire Hathaway Annual Meetings*
+**Full title:** _Buffett and Munger Unscripted: Wit, Wisdom, and Investing
+Insights from 30 Years of Berkshire Hathaway Annual Meetings_
 **Author:** Alex W. Morris
 **Published:** 2024
 **Character:** Secondary source — compiled and curated excerpts from 31 years
-of Berkshire Hathaway annual meeting Q&A (1994–2024), organised thematically
+of Berkshire Hathaway annual meeting Q\&A (1994–2024), organised thematically
 into 13 parts
 
 ## Summary
 
 The most systematically organised public record of Buffett and Munger's
-thinking across three decades of candid shareholder Q&A. Where the Chairman's
+thinking across three decades of candid shareholder Q\&A. Where the Chairman's
 Letters are polished annual reports addressed to owner-partners, these
 transcripts are unscripted — the same frameworks under pressure of live
 questioning, repeated, refined, and occasionally contradicted across 31 years.
@@ -38,7 +38,7 @@ two decades).
 Graham to Fisher to quality businesses.
 
 **Part 2 — Valuation:** Intrinsic value as DCF of future cash flows; owner
-earnings; the Coca-Cola \$40 (1919) compounding calculation; why valuation
+earnings; the Coca-Cola $40 (1919) compounding calculation; why valuation
 cannot be reduced to a formula; interest rates as gravity to asset prices.
 
 **Part 3 — Capital Allocation:** See's Candies as the teaching business;
@@ -75,16 +75,16 @@ important-but-unknowable; interest rates as gravity; inflation hedges ranked;
 gold critique; zero interest rates; LTCM Russian roulette analysis.
 
 **Part 11 — See's Candies / Coca-Cola / Brands:** Full teaching chain;
-near-miss anecdote ("\$100K more, we'd have walked"); \$9M → \$40M tangible
-asset efficiency; \$1.5B+ pre-tax taken out; Coke \$40 (1919) compounding;
+near-miss anecdote ("$100K more, we'd have walked"); $9M → $40M tangible
+asset efficiency; $1.5B+ pre-tax taken out; Coke $40 (1919) compounding;
 "royalty on somebody else's sales during inflation"; Gillette 1939 radio.
 
 **Part 12 — GEICO:** State Farm origin story; two key variables (PIFs +
 underwriting profit per policy); telematics lesson; "4× stockholder capital
-behind each \$1 of premium"; Ben Graham's GEICO as >50% lifetime returns.
+behind each $1 of premium"; Ben Graham's GEICO as >50% lifetime returns.
 
 **Part 13 — Other Topics:** Best years (50% annual, 1950–60); derivatives;
-short selling; airlines (history + COVID); banking (Wells Fargo at \$9);
+short selling; airlines (history + COVID); banking (Wells Fargo at $9);
 Henry Singleton; private equity J-curve abuse; index funds.
 
 **Appendix — National Indemnity 25-year data:** Underwriting margin detail
@@ -94,11 +94,13 @@ markets; five best margin years = five highest volume years.
 ## What this source adds to the wiki
 
 **Novel concepts (pages created from this source):**
+
 - [[concepts/Important and Knowable]] — the macro-filtering framework
 - [[concepts/See's Candies as Teaching Business]] — the full learning chain
 
 **Heavily reinforced concepts (significant updates from this source):**
-- [[concepts/Insurance Float]] — \$164B (2022)/\$171B (2024) float arc, NICO data, Gen Re, Ajit
+
+- [[concepts/Insurance Float]] — $164B (2022)/$171B (2024) float arc, NICO data, Gen Re, Ajit
 - [[concepts/Incentive-Caused Bias]] — stock options, EBITDA corruption
 - [[concepts/Earnings Integrity]] — EBITDA four-meeting critique, goodwill
 - [[concepts/Circle of Competence]] — edge awareness, tech misses/gets
@@ -113,8 +115,8 @@ markets; five best margin years = five highest volume years.
 
 ## On using this source
 
-Annual meeting transcripts reward attention to *how many years* a point is
-made, not just *that* it is made. When Buffett and Munger return to the same
+Annual meeting transcripts reward attention to _how many years_ a point is
+made, not just _that_ it is made. When Buffett and Munger return to the same
 criticism across four separate meetings spanning nearly two decades (as with
 EBITDA), the repetition itself is data about conviction.
 
@@ -125,42 +127,42 @@ relevant wiki pages.
 
 ## Key quotations
 
-*"The most important thing in insurance is underwriting discipline. We'd
-rather shrink 80% than write business at inadequate prices."*
+_"The most important thing in insurance is underwriting discipline. We'd
+rather shrink 80% than write business at inadequate prices."_
 — Buffett on National Indemnity
 
-*"Ignorance removal is the main thing we've done at Berkshire."*
+_"Ignorance removal is the main thing we've done at Berkshire."_
 — Buffett on See's Candies and business education
 
-*"If they'd asked \$100,000 more for See's, we'd have walked away. That's
-how dumb we were."*
+_"If they'd asked $100,000 more for See's, we'd have walked away. That's
+how dumb we were."_
 — Buffett on the 1972 acquisition
 
-*"EBITDA is earnings before interest, taxes, depreciation, amortisation —
-in other words, before all the bad stuff."*
+_"EBITDA is earnings before interest, taxes, depreciation, amortisation —
+in other words, before all the bad stuff."_
 — Munger (multiple meetings, 1998–2017)
 
-*"When you play Russian roulette, it works 83.3% of the time. But 83.3% is
+_"When you play Russian roulette, it works 83.3% of the time. But 83.3% is
 not good enough when you get no benefit from the risk and you can lose
-everything."*
+everything."_
 — Buffett on LTCM
 
-*"Macro is important, but it's not knowable. We focus on things that are
-both important and knowable."*
+_"Macro is important, but it's not knowable. We focus on things that are
+both important and knowable."_
 — Buffett/Munger on economic forecasting
 
-*"We've never been good at [market timing]. We bought \$16 billion at
+_"We've never been good at \[market timing]. We bought $16 billion at
 terrible prices in September 2008. We missed March 2009. We missed
-March 2020."*
+March 2020."_
 — Buffett
 
-*"Ben Graham made more than 50% of his lifetime investment returns from a
+_"Ben Graham made more than 50% of his lifetime investment returns from a
 single growth stock — GEICO. Buying one undervalued great company turns out
-to be a very good thing."*
+to be a very good thing."_
 — Buffett
 
-*"Just keep trying to think things through and not do too many stupid things.
-Sooner or later you have a lollapalooza."*
+_"Just keep trying to think things through and not do too many stupid things.
+Sooner or later you have a lollapalooza."_
 — Munger (final quote in book)
 
 ## Related

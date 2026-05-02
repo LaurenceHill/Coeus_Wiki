@@ -1,7 +1,7 @@
 # Advantages of Scale
 
 **Source:** [[sources/Poor Charlie's Almanack]] — Talk 2 ("A Lesson on
-Elementary Worldly Wisdom," USC Marshall, 1994); extended in the Q&A of
+Elementary Worldly Wisdom," USC Marshall, 1994); extended in the Q\&A of
 Talk 3 (Stanford Law, 1996). See also [[Scale Economics Shared]] for the
 investor's perspective on the same phenomenon from [[Nomad Partnership Letters]].
 
@@ -44,10 +44,10 @@ that is otherwise equally competent.
 Large businesses can obtain advertising at lower cost per unit of exposure and
 often have access to the best available inventory on the best available terms.
 
-Munger's specific example: Procter & Gamble. Because P&G spends so much
+Munger's specific example: Procter & Gamble. Because P\&G spends so much
 on television advertising, it can hire the best agencies, negotiate the best
 rates, and get its commercials into the best time slots. A smaller competitor
-with the same product, spending a fraction of P&G's budget, pays more per
+with the same product, spending a fraction of P\&G's budget, pays more per
 impression and gets less impact. Over time this is not a small disadvantage;
 it becomes structural.
 

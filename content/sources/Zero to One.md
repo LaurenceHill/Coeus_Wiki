@@ -4,7 +4,7 @@
 
 ## What it is
 
-*Zero to One: Notes on Startups, or How to Build the Future* began as detailed
+_Zero to One: Notes on Startups, or How to Build the Future_ began as detailed
 lecture notes taken by Blake Masters in Peter Thiel's 2012 Stanford class on
 startups. Thiel is the co-founder of PayPal and Palantir and an early investor
 in Facebook; he writes from a position of both practitioner experience and
@@ -28,8 +28,8 @@ historical moment that produced new dogmas as limiting as the ones they
 replaced. The book's value is not in confirming received wisdom about
 startups but in questioning the foundations of that wisdom.
 
-For this wiki's purposes, *Zero to One* is the most systematic treatment of
-*how* a business with durable competitive advantages gets built, as opposed
+For this wiki's purposes, _Zero to One_ is the most systematic treatment of
+_how_ a business with durable competitive advantages gets built, as opposed
 to the investor literature (Fisher, Sleep, Buffett) which focuses on how to
 identify and hold such businesses once they exist. The two perspectives are
 complementary and mutually illuminating.
@@ -39,7 +39,7 @@ complementary and mutually illuminating.
 **The monopoly thesis (Chapters 3–5).** The book's central argument:
 competition destroys profits; monopoly is the condition of every successful
 business. The useful distinction is not competition vs. monopoly in the
-abstract but *creative* monopoly (earned by genuine innovation) vs. extractive
+abstract but _creative_ monopoly (earned by genuine innovation) vs. extractive
 rent-collection. A durable monopoly typically rests on some combination of
 four characteristics: proprietary technology at least 10× better than any
 substitute, network effects, economies of scale, and branding — but the
@@ -48,10 +48,10 @@ smallest market you can dominate completely, then expand to adjacent markets.
 See [[Creative Monopoly]] for the full treatment.
 
 **Definite vs indefinite optimism (Chapter 6).** A 2×2 framework: the future
-can be *definite* (you have a plan) or *indefinite* (you expect progress without
+can be _definite_ (you have a plan) or _indefinite_ (you expect progress without
 a plan), and you can be optimistic or pessimistic about it. The dominant
-worldview of contemporary American finance and culture is *indefinite
-optimism* — expect good outcomes, keep options open, diversify, iterate,
+worldview of contemporary American finance and culture is _indefinite
+optimism_ — expect good outcomes, keep options open, diversify, iterate,
 process over substance. Thiel argues this is internally incoherent: progress
 does not happen without intention. A startup is the domain in which
 definite optimism can be practised at human scale. See
@@ -95,7 +95,7 @@ problem, not an afterthought.
 
 **Man and machine (Chapter 12).** Computers are complements for humans,
 not substitutes. The most valuable businesses of the next decades will be
-built by entrepreneurs who use technology to *empower* people rather than
+built by entrepreneurs who use technology to _empower_ people rather than
 replace them. The PayPal fraud-detection system (Igor) is the worked
 example: neither human analysts alone nor automated algorithms alone could
 stop adaptive fraudsters; the man-machine hybrid could.
@@ -126,7 +126,7 @@ monopoly taxonomy, the power law chapter, and the cleantech post-mortem,
 which provide analytically useful frameworks rather than just contrarian
 provocation.
 
-Read it alongside [[Franchise vs Business Economics]] and [[Scale Economics
+Read it alongside [[Franchise vs Business Economics]] and \[\[Scale Economics
 Shared]]: the investor and operator perspectives on competitive advantage
 illuminate each other. The planning-vs-iteration tension with Bezos's
 [[Working Backward]] and [[Two-Way Doors]] is real but should not be

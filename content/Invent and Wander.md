@@ -11,10 +11,10 @@ recruiting, decision-making).
 ## Why this source matters
 
 For anyone reading [[The Bezos Letters]] (Anderson, 2019) as a guide
-to Bezos's thinking, *Invent and Wander* is the primary source the
+to Bezos's thinking, _Invent and Wander_ is the primary source the
 secondary should be checked against. Anderson reprinted only the 1997
 and 2018 letters in full and built his "14 Growth Principles"
-framework as a synthesis across the others. *Invent and Wander*
+framework as a synthesis across the others. _Invent and Wander_
 gives the unmediated text of every letter plus material Anderson
 didn't have access to or didn't include.
 
@@ -56,8 +56,8 @@ quality of a life is determined by what is chosen rather than what
 is inherited. See [[Gifts vs Choices]].
 
 This isn't an investment-philosophy text in the conventional sense.
-But it is the closest Bezos comes to articulating the *why* under
-the *how*, and a serious reader should not skip it.
+But it is the closest Bezos comes to articulating the _why_ under
+the _how_, and a serious reader should not skip it.
 
 ## Structural notes
 
@@ -87,8 +87,8 @@ Anderson's "Test → Build → Accelerate → Scale" framing obscures:
    sustained results, and partly the company's actual cost of
    capital changing.
 2. **The themes recur but the emphasis shifts.** [[Customer Obsession]] is in every letter. [[Long-Term Thinking]] is in
-   every letter. [[Day 1]] is in every letter. But the *operating
-   problems* the letters address change — early letters focus on
+   every letter. [[Day 1]] is in every letter. But the _operating
+   problems_ the letters address change — early letters focus on
    building infrastructure; middle letters on Marketplace and
    Prime; later letters on AWS, machine learning, and the
    challenge of remaining inventive at scale.
@@ -97,7 +97,7 @@ Anderson's "Test → Build → Accelerate → Scale" framing obscures:
    2016–2019) read more like reflections on culture, decision-
    making, and the metaphysics of large organisations. The
    "wandering" framing of 2018 would have felt out of place in
-   2001.
+   2001\.
 
 ## How to read this alongside the existing wiki
 

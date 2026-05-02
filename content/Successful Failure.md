@@ -15,19 +15,19 @@ strengthened NASA's subsequent programme. Anderson extends this to
 Amazon: a failed experiment that produces learning is a better outcome than
 not experimenting at all.
 
-Anderson's version of the doctrine: *"If he tries something and it works,
+Anderson's version of the doctrine: _"If he tries something and it works,
 that's great. But if he tries something and it doesn't work, he looks for ways
-not only to make it work but to make it worth it."* The canonical examples
+not only to make it work but to make it worth it."_ The canonical examples
 are Amazon Auctions (failed, led to Marketplace), zShops (failed, led to
 Marketplace), and the Fire Phone (failed, but the engineering team and
 learnings migrated to Echo and Alexa).
 
 The core claim: an organisation that is too risk-averse to tolerate failed
 experiments becomes incapable of the large bets that generate outsized
-returns. Bezos: *"companies that don't continue to experiment, companies
+returns. Bezos: _"companies that don't continue to experiment, companies
 that don't embrace failure, they eventually get in a desperate position where
 the only thing they can do is a Hail Mary bet at the very end of their
-corporate existence."*
+corporate existence."_
 
 ## Where Anderson's framing holds
 
@@ -49,15 +49,15 @@ asymmetric expected returns.
 The primary-source treatment in [[Big Winners Pay for Many Experiments]]
 is sharper in two ways that Anderson's cultural framing elides.
 
-First, Bezos's original frame is explicitly mathematical. *Given a 10% chance
-of a 100× payoff, take that bet every time.* The emphasis is not on being
-comfortable with failure — it is on understanding that the *portfolio's*
+First, Bezos's original frame is explicitly mathematical. _Given a 10% chance
+of a 100× payoff, take that bet every time._ The emphasis is not on being
+comfortable with failure — it is on understanding that the _portfolio's_
 expected value is dominated by rare large wins, and that refusing the bets
 because they individually fail most of the time is misapplied arithmetic.
 Anderson's reframe of this as a cultural mindset loses the mathematical
 rigour and makes the doctrine sound more like an attitude than a calculation.
 
-Second, Bezos's emphasis in the primary source is on the *winners*, not the
+Second, Bezos's emphasis in the primary source is on the _winners_, not the
 failures. AWS, Marketplace, and Prime are the subject of the 2015 letter's
 argument; the Fire Phone is the footnote. Anderson's structure — opening the
 chapter with the Fire Phone write-off — inverts this emphasis and makes the

@@ -26,23 +26,23 @@ Genuinely conservative behaviour is making an independent judgment about
 intrinsic value and acting on it — regardless of whether the resulting
 portfolio looks like everyone else's. A portfolio filled with statistically
 cheap, unfashionable, low-profile businesses, held at significant
-discounts to conservatively estimated intrinsic value, is *more
-conservative* in the meaningful sense than a portfolio of large, well-
+discounts to conservatively estimated intrinsic value, is _more
+conservative_ in the meaningful sense than a portfolio of large, well-
 known companies held at or above their intrinsic value. The first
 portfolio has a genuine margin of safety. The second has social
 protection for its owner but limited economic protection for the capital.
 
 ## The precise distinction
 
-Buffett's formulation in the 1965 letter: *"We define 'conservative' as
+Buffett's formulation in the 1965 letter: _"We define 'conservative' as
 being unlikely to suffer permanent capital loss. A business purchased
 at half its conservatively appraised value is conservative even if it
 has a short history and low earnings. A business purchased at twice its
 value is unconservative even if it has a long history of earnings
-growth."*
+growth."_
 
 The relevant question is not whether a position looks safe to an observer
-but whether it *is* safe as an economic matter. Safety is a function of
+but whether it _is_ safe as an economic matter. Safety is a function of
 the relationship between price and value, not of the familiarity of the
 issuer or the quality of its recent earnings record. A well-known company
 with a strong earnings history, purchased at a very high multiple of
@@ -90,7 +90,7 @@ material capital.
 
 Munger's framework in [[sources/Psychology of Human Misjudgment]] provides
 the mechanism underlying the conventional/conservative confusion. Tendency
-#15 (Social-Proof Tendency) is the force that makes conventional behaviour
+\#15 (Social-Proof Tendency) is the force that makes conventional behaviour
 attractive: in conditions of uncertainty, people look to the behaviour of
 others as evidence about what is correct. If other informed professionals
 are holding IBM, the social proof is that IBM is the correct holding —
@@ -124,7 +124,7 @@ failure is more visible and more consequential to the overall result.
 An investor who understands the genuine conservatism distinction will
 reach a different conclusion: a portfolio of five positions, each held
 at a meaningful discount to independently assessed intrinsic value, is
-*more* conservative than a portfolio of fifty positions held at or near
+_more_ conservative than a portfolio of fifty positions held at or near
 fair value. The diversified portfolio has the appearance of safety but
 offers limited economic protection; its positions have been bid up by
 the crowd to a point where the margin of safety is thin. The concentrated
@@ -166,7 +166,7 @@ The margin of safety has changed form but not function.
 
 Two failure modes follow from the conventional/conservative confusion.
 
-The first is the investor who confuses *unfamiliarity* with *risk*.
+The first is the investor who confuses _unfamiliarity_ with _risk_.
 Unfamiliar companies, operating in industries they haven't followed, or
 purchased at price levels that look alarming relative to recent earnings,
 are avoided because they feel risky — not because they are risky in
@@ -174,7 +174,7 @@ economic terms. This investor ends up systematically overpaying for
 familiarity and underpaying for genuine but obscure value.
 
 The second failure mode is the reverse: the investor who confuses
-*contrarianism* with *conservatism*. Buying an unloved company is not
+_contrarianism_ with _conservatism_. Buying an unloved company is not
 inherently conservative; it is conservative only if the price paid is
 below independently assessed intrinsic value. An unloved company at a
 full price is neither conservative nor contrarian — it is just a company

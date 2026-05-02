@@ -12,21 +12,21 @@ most corporate acquisitions destroy value, and what the rare
 exceptions look like. It is structured around two parables and two
 worked categories.
 
-The first parable is the toad and the princess. *"Many managements
+The first parable is the toad and the princess. _"Many managements
 apparently were overexposed in impressionable childhood years to the
 story in which the imprisoned handsome prince is released from a
 toad's body by a kiss from a beautiful princess. Consequently, they
 are certain their managerial kiss will do wonders for the
-profitability of Company T(arget)."* The 1981 letter notes that *"in
+profitability of Company T(arget)."_ The 1981 letter notes that _"in
 other words, investors can always buy toads at the going price for
 toads. If investors instead bankroll princesses who wish to pay
 double for the right to kiss the toad, those kisses had better pack
-some real dynamite."* The empirical claim, drawn from observation
+some real dynamite."_ The empirical claim, drawn from observation
 across the 1970s, is that the dynamite almost never arrives:
-*"we've observed many kisses but very few miracles."*
+_"we've observed many kisses but very few miracles."_
 
-The second parable is Noah's. *"We neglected the Noah principle:
-predicting rain doesn't count, building arks does."* Buffett applies
+The second parable is Noah's. _"We neglected the Noah principle:
+predicting rain doesn't count, building arks does."_ Buffett applies
 this to himself — Berkshire understood the economics of
 inflation-resistant businesses but did not act often enough on that
 understanding. Knowing what to do is not equivalent to doing it.
@@ -36,17 +36,17 @@ understanding. Knowing what to do is not equivalent to doing it.
 The 1981 letter offers three unspoken drivers of the typical
 high-premium takeover.
 
-The first is animal spirits. *"Leaders, business or otherwise, seldom
+The first is animal spirits. _"Leaders, business or otherwise, seldom
 are deficient in animal spirits and often relish increased activity
 and challenge. At Berkshire, the corporate pulse never beats faster
-than when an acquisition is in prospect."* Buffett includes Berkshire
+than when an acquisition is in prospect."_ Buffett includes Berkshire
 in the diagnosis; the appetite is universal, the discipline is what
 distinguishes good acquirers.
 
-The second is the size yardstick. *"Most organizations, business or
+The second is the size yardstick. _"Most organizations, business or
 otherwise, measure themselves, are measured by others, and compensate
 their managers far more by the yardstick of size than by any other
-yardstick."* The 1981 letter notes that Fortune 500 managers
+yardstick."_ The 1981 letter notes that Fortune 500 managers
 typically know their rank on the size list but not on the
 profitability list. What gets measured shapes what gets pursued; what
 gets pursued shapes which acquisitions get done.
@@ -65,12 +65,12 @@ are dazzling rather than destructive.
 
 Category 1 is the acquirer who has specialised in
 inflation-resistant businesses. The 1981 letter's two tests for
-membership: *"(1) an ability to increase prices rather easily (even
+membership: _"(1) an ability to increase prices rather easily (even
 when product demand is flat and capacity is not fully utilized)
 without fear of significant loss of either market share or unit
 volume, and (2) an ability to accommodate large dollar volume
 increases in business (often produced more by inflation than by real
-growth) with only minor additional investment of capital."* The
+growth) with only minor additional investment of capital."_ The
 letter notes that businesses meeting both tests are rare and
 competition for them is now fierce — the asymmetry is real but the
 free lunch is mostly gone.
@@ -80,15 +80,15 @@ who can identify a misclassified prince in toad form and recover the
 underlying value. The 1981 letter names Ben Heineman at Northwest
 Industries, Henry Singleton at Teledyne, Erwin Zaban at National
 Service Industries, and especially Tom Murphy at Capital Cities
-Communications. The list is short for a reason. *"From both direct
+Communications. The list is short for a reason. _"From both direct
 and vicarious experience, we recognize the difficulty and rarity of
 these executives' achievements. (So do they; these champs have made
 very few deals in recent years, and often have found repurchase of
 their own shares to be the most sensible employment of corporate
-capital.)"*
+capital.)"_
 
 The wiki should preserve Buffett's explicit self-classification:
-*"Your Chairman, unfortunately, does not qualify for Category 2."*
+_"Your Chairman, unfortunately, does not qualify for Category 2."_
 This matters analytically. The investor or operator who admires the
 Singleton/Murphy track record and infers they can replicate it is
 making the same mistake as the princess kissing the toad — assuming
@@ -99,15 +99,15 @@ membership is observable only in retrospect, and most claimants fail.
 
 The 1981 letter's preferred path is neither full ownership nor
 managerial heroism but fractional purchase of well-run businesses at
-attractive prices. *"Currently, we find values most easily obtained
+attractive prices. _"Currently, we find values most easily obtained
 through the open-market purchase of fractional positions in companies
 with excellent business franchises and competent, honest managements.
 We never expect to run these companies, but we do expect to profit
-from them."* The 1981 letter formalises a comparative advantage from
-this approach: *"we generally have been able to correct such mistakes
+from them."_ The 1981 letter formalises a comparative advantage from
+this approach: _"we generally have been able to correct such mistakes
 far more quickly in the case of non-controlled businesses (marketable
 securities) than in the case of controlled subsidiaries. Lack of
-control, in effect, often has turned out to be an economic plus."*
+control, in effect, often has turned out to be an economic plus."_
 
 This argument links the 1981 letter directly to [[Concentration]]
 and [[Look-Through Earnings]]. Concentrated fractional positions in
@@ -119,12 +119,12 @@ optionality that empirically does not pay off.
 ## The walk-away discipline
 
 The 1981 letter contains a crisp worked example of acquisition
-discipline. *"During 1981 we came quite close to a major purchase
+discipline. _"During 1981 we came quite close to a major purchase
 involving both a business and a manager we liked very much. However,
 the price finally demanded, considering alternative uses for the
 funds involved, would have left our owners worse off than before the
 purchase. The empire would have been larger, but the citizenry would
-have been poorer."* The walk-away is held up not as virtuous restraint
+have been poorer."_ The walk-away is held up not as virtuous restraint
 but as the only logical outcome once the arithmetic is done. The
 imagined alternative — pay up, expand the empire, harm the
 shareholders — is presented as the failure mode the discipline exists
@@ -145,15 +145,15 @@ unprecedented for a public-company chairman: a printed
 will consider. The 1982 list — refined slightly each year through
 the 1980s and beyond — has six items:
 
-1. Large purchases (initially at least \$5 million of after-tax
-   earnings; raised in the 1985 letter to \$10 million).
-2. Demonstrated consistent earning power. *"Future projections are
-   of little interest to us, nor are 'turn-around' situations."*
+1. Large purchases (initially at least $5 million of after-tax
+   earnings; raised in the 1985 letter to $10 million).
+2. Demonstrated consistent earning power. _"Future projections are
+   of little interest to us, nor are 'turn-around' situations."_
 3. Businesses earning good returns on equity while employing
    little or no debt.
 4. Management in place — Berkshire cannot supply it.
-5. Simple businesses — *"if there's lots of technology, we won't
-   understand it."*
+5. Simple businesses — _"if there's lots of technology, we won't
+   understand it."_
 6. An offering price (no exploratory conversations without one).
 
 Item 2 is the discipline against the managerial-kiss myth, written
@@ -166,14 +166,14 @@ deal sourcing: discussing terms before there is a price to anchor
 them on.
 
 The 1985 letter adds three things to the standing ad. It raises
-the minimum profit threshold to \$10 million, reflecting Berkshire's
+the minimum profit threshold to $10 million, reflecting Berkshire's
 growing capital base. It opens the door to stock-funded
-transactions — *"will consider issuance of stock when we receive
-as much in intrinsic business value as we give"* — under the
+transactions — _"will consider issuance of stock when we receive
+as much in intrinsic business value as we give"_ — under the
 discipline laid out in [[Issuance and Buyback Discipline]]. And it
-explicitly excludes unfriendly takeovers and *"auction-like
-sales"* and *"the ever-popular (among brokers) 'I'm-sure-something-
-will-work-out-if-you-people-get-to-know-each-other'."* The latter
+explicitly excludes unfriendly takeovers and _"auction-like
+sales"_ and _"the ever-popular (among brokers) 'I'm-sure-something-
+will-work-out-if-you-people-get-to-know-each-other'."_ The latter
 exclusion is the discipline against the soft-deal version of
 animal spirits, where no specific terms are on the table but the
 chemistry is supposed to produce a deal.
@@ -182,12 +182,12 @@ The 1985 Scott & Fetzer acquisition is the worked example of the
 ad in action. Buffett saw the company's name in the newspaper after
 its planned ESOP sale fell through; wrote a short letter to Ralph
 Schey on October 10; met Schey for dinner in Chicago on October
-22; signed an acquisition contract the following week. *"We have
+22; signed an acquisition contract the following week. _"We have
 no master strategy, no corporate planners delivering us insights
 about socioeconomic trends, and no staff to investigate a
 multitude of ideas presented by promoters and intermediaries.
 Instead, we simply hope that something sensible comes along —
-and, when it does, we act."* The discipline does not require a
+and, when it does, we act."_ The discipline does not require a
 strategy; it requires a filter and a willingness to act fast when
 something passes it.
 
@@ -201,23 +201,23 @@ The dominant acquisition decision-making error is using earnings-per-
 share or book value per share as the test rather than intrinsic value
 per share. The MBA student / day labourer analogy makes the absurdity
 explicit: a first-year MBA student with no current income who merged
-his economic interests with a day labourer's *"share-for-share"* would
+his economic interests with a day labourer's _"share-for-share"_ would
 find his near-term earnings boosted enormously. The merger would still
-be foolish. *"In corporate transactions, it's equally silly for the
+be foolish. _"In corporate transactions, it's equally silly for the
 would-be purchaser to focus on current earnings when the prospective
 acquiree has either different prospects, different amounts of non-
-operating assets, or a different capital structure."* The correct test
+operating assets, or a different capital structure."_ The correct test
 is always whether the transaction increases intrinsic value per share.
 See [[Intrinsic Value vs Book Value]].
 
 The 1994 letter adds Peter Drucker's diagnosis of why the EPS test
-persists: *"I will tell you a secret: Dealmaking beats working.
+persists: _"I will tell you a secret: Dealmaking beats working.
 Dealmaking is exciting and fun, and working is grubby. Running
 anything is primarily an enormous amount of grubby detail work...
 dealmaking is romantic, sexy. That's why you have deals that make no
-sense."* John Medlin of Wachovia characterised the serial acquirer
-differently: doing enough bad deals is *"running a chain letter in
-reverse."* The acquirer's shareholders lose incrementally with each
+sense."_ John Medlin of Wachovia characterised the serial acquirer
+differently: doing enough bad deals is _"running a chain letter in
+reverse."_ The acquirer's shareholders lose incrementally with each
 transaction; the seller's shareholders win; the investment bankers and
 advisors win on every deal regardless of outcome.
 
@@ -226,8 +226,8 @@ subsidiaries cannot deploy advantageously: managers are charged a high
 rate for incremental capital they use and credited at an equally high
 rate for capital they return to headquarters. The result is that it is
 in every manager's financial interest to send excess cash to Omaha.
-*"The product of this money's-not-free approach is definitely visible
-at Scott Fetzer"* — earnings grew from \$40M in 1986 to \$79M in 1994
+_"The product of this money's-not-free approach is definitely visible
+at Scott Fetzer"_ — earnings grew from $40M in 1986 to $79M in 1994
 while capital employed stayed modest. See [[Owner Earnings]].
 
 ## The 1995 extension: no strategic plan as competitive advantage
@@ -235,27 +235,27 @@ while capital employed stayed modest. See [[Owner Earnings]].
 The 1995 letter makes explicit what the earlier letters imply: having
 no strategic plan is an acquisition advantage, not a handicap.
 Acquisition-oriented companies with strategic plans feel a compulsion
-to *"proceed in an ordained direction (a course leading almost
-invariably to silly purchase prices)."* Berkshire's discipline is
-different: *"we simply decide what makes sense for our owners. In
+to _"proceed in an ordained direction (a course leading almost
+invariably to silly purchase prices)."_ Berkshire's discipline is
+different: _"we simply decide what makes sense for our owners. In
 doing that, we always mentally compare any move we are contemplating
 with dozens of other opportunities open to us, including the purchase
 of small pieces of the best businesses in the world via the stock
-market."*
+market."_
 
 This comparison — full acquisitions against passive fractional
 investments — is a discipline that expansion-oriented managers seldom
 use. The manager focused on growth will not compare acquiring a
 mediocre business at a full price against adding to a wonderful
 business at an attractive price via the open market. Buffett does.
-*"Our practice of making this comparison — acquisitions against passive
+_"Our practice of making this comparison — acquisitions against passive
 investments — is a discipline that managers focused simply on expansion
-seldom use."*
+seldom use."_
 
 The 1995 letter also notes that sellers sometimes choose Berkshire for
-reasons beyond price: *"sellers sometimes care about placing their
+reasons beyond price: _"sellers sometimes care about placing their
 companies in a corporate home that will both endure and provide
-pleasant, productive working conditions for their managers."* The
+pleasant, productive working conditions for their managers."_ The
 no-integration, manager-autonomy model is itself a source of deal
 flow — it attracts sellers who care about outcomes other than price
 maximisation, which often means they are willing to deal with Berkshire
@@ -270,16 +270,16 @@ become the buyer of choice not merely because it pays fair prices but because
 sellers who care about the fate of what they have built find Berkshire's
 promises credible in a way that other acquirers' promises are not.
 
-The argument runs: *"When a business masterpiece has been created by a
+The argument runs: _"When a business masterpiece has been created by a
 lifetime — or several lifetimes — of unstinting care and exceptional talent,
 it should be important to the owner what corporation is entrusted to carry on
-its history."* The 2000 acquisitions — Justin Industries, Ben Bridge Jeweler,
+its history."_ The 2000 acquisitions — Justin Industries, Ben Bridge Jeweler,
 Shaw Industries, Benjamin Moore Paint — were all situations where the sellers
 cared about what came next.
 
-Buffett uses a deliberately elevated analogy: *"How much better it is for the
+Buffett uses a deliberately elevated analogy: _"How much better it is for the
 'painter' of a business Rembrandt to personally select its permanent home
-than to have a trust officer or uninterested heirs auction it off."* The
+than to have a trust officer or uninterested heirs auction it off."_ The
 auctioneer maximises the selling price; the painter-owner optimises for
 something more: that the business remains true to what it was built to be.
 Berkshire's structural features — permanent ownership, no-integration policy,
@@ -310,25 +310,25 @@ ISCAR is an Israeli manufacturer of small, consumable cutting tools used in
 conjunction with large machine tools. Eitan Wertheimer introduced the company
 to Buffett in a one-and-a-quarter page letter in October 2005. The letter did
 not begin with financial statistics; it described a business, identified the
-family's succession challenge, and proposed that *"Berkshire Hathaway would be
-the ideal home for ISCAR."* Buffett met the management team in November; a few
-hours convinced him that, if a deal were possible, *"we would be teaming up
+family's succession challenge, and proposed that _"Berkshire Hathaway would be
+the ideal home for ISCAR."_ Buffett met the management team in November; a few
+hours convinced him that, if a deal were possible, _"we would be teaming up
 with extraordinarily talented managers who could be trusted to run the business
 after a sale with all of the energy and dedication that they had exhibited
-previously."* Berkshire purchased 80% for \$4 billion in July 2006; the
+previously."_ Berkshire purchased 80% for $4 billion in July 2006; the
 Wertheimer family retained 20%.
 
 The business description Buffett offers is intentionally modest about its
-underlying character: *"It's a business without magic except for that imparted
-by the people who run it."* The qualification is important. ISCAR is not a
+underlying character: _"It's a business without magic except for that imparted
+by the people who run it."_ The qualification is important. ISCAR is not a
 franchise in the classic Buffett sense — no powerful brand, no network effect,
 no regulatory moat. Its competitive position rests entirely on the quality of
 its engineers and operators and on the relationship those people have built
 with their customers. The moat is human, and it is durable precisely because
 it is hard to replicate quickly.
 
-The business model the 2006 letter highlights is the enablement model: *"ISCAR
-makes money because it enables its customers to make more money."* ISCAR's
+The business model the 2006 letter highlights is the enablement model: _"ISCAR
+makes money because it enables its customers to make more money."_ ISCAR's
 small, consumable cutting tools reduce machine downtime and improve precision,
 making its customers' expensive machine tools more productive. The value
 proposition is measurable and customer-centric — not "our tools are cheaper"
@@ -337,11 +337,11 @@ Berkshire's preference for businesses with pricing power rooted in genuine
 value delivered rather than market position inherited.
 
 The TTI acquisition from the same year reinforces the permanent-home lesson
-from a different angle. Paul Andrews, who built TTI from \$112,000 to \$1.3
-billion in 35 years, rejected both a strategic buyer — whose *"pursuit of
-synergies"* would have dismantled what Andrews had built — and a private equity
-firm, which *"would very likely load the company with debt and then flip it as
-soon as possible."* Andrews chose Berkshire because Berkshire would leave the
+from a different angle. Paul Andrews, who built TTI from $112,000 to $1.3
+billion in 35 years, rejected both a strategic buyer — whose _"pursuit of
+synergies"_ would have dismantled what Andrews had built — and a private equity
+firm, which _"would very likely load the company with debt and then flip it as
+soon as possible."_ Andrews chose Berkshire because Berkshire would leave the
 operation intact and provide permanent ownership. The seller-preference dynamic
 here is not primarily about price but about outcome.
 
@@ -352,14 +352,14 @@ firms — rebranded as "private equity" — that clarifies what Berkshire's
 acquisition model is not.
 
 The name change from "leveraged buyout operators" to "private equity" is
-described as Orwellian: *"a name that turns the facts upside-down: A purchase
+described as Orwellian: _"a name that turns the facts upside-down: A purchase
 of a business by these firms almost invariably results in dramatic reductions
 in the equity portion of the acquiree's capital structure compared to that
-previously existing."* Several companies purchased two to three years earlier
+previously existing."_ Several companies purchased two to three years earlier
 were, by 2008, in mortal danger because of the debt loaded onto them.
-Critically, *"the private-equity firms... are not rushing in to inject the
+Critically, _"the private-equity firms... are not rushing in to inject the
 equity their wards now desperately need. Instead, they're keeping their
-remaining funds very private."*
+remaining funds very private."_
 
 The contrast with Berkshire's model is complete. Berkshire's commitments to
 sellers are: keep our promises; avoid leveraging up acquired businesses; grant
@@ -380,7 +380,7 @@ It is not a claim that all acquisitions destroy value. The 1981
 letter is explicit that some have been dazzling — Category 1
 acquirers and Category 2 superstars exist, and their records prove
 the principle is not "no acquisitions are good." The argument is
-that the *typical* acquisition fails the real-economics test, and
+that the _typical_ acquisition fails the real-economics test, and
 that the markers of the rare exceptions are visible in advance:
 specialisation in inflation-resistant economics or a track record of
 genuine managerial conversion.
@@ -402,7 +402,7 @@ high-conviction asymmetries while maintaining strict discipline
 about the many candidates that look promising but fail the real
 test. The 1981 Buffett distinction between predicting rain and
 building arks is the same disciplinary move as the Bezos line about
-needing to *act* asymmetrically when the right opportunity arrives.
+needing to _act_ asymmetrically when the right opportunity arrives.
 
 ## Where this connects to Sleep
 
@@ -429,9 +429,9 @@ visible in the headline return figure; the tendency to use subscription-line
 credit (short-term borrowing) to smooth the J-curve and inflate IRR; and
 the use of leverage as a substitute for business quality improvement.
 
-Munger's most direct formulation at meetings: *"There's a lot of lying going
+Munger's most direct formulation at meetings: _"There's a lot of lying going
 on in private equity — not enough to land anyone in jail, but enough to
-mislead investors."* The lying he describes is the selective presentation of
+mislead investors."_ The lying he describes is the selective presentation of
 returns, the obscuring of fees, and the relabelling of leverage-driven gains
 as operational improvements. The model is not uniformly bad — some private
 equity operators genuinely improve businesses — but the fee structure creates

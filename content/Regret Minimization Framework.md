@@ -9,8 +9,8 @@ quoted Bezos passages and is curiously absent from
 ## Summary
 
 A mental tool for high-stakes decisions: project yourself forward to
-old age — Bezos uses age 80 — and ask, *which choice will leave me
-with fewer regrets?* The reframe replaces a near-term cost-benefit
+old age — Bezos uses age 80 — and ask, _which choice will leave me
+with fewer regrets?_ The reframe replaces a near-term cost-benefit
 analysis (which is biased toward the safe option, because the costs
 are vivid and the benefits are speculative) with a long-horizon
 identity question (which is biased toward the meaningful option,
@@ -58,8 +58,8 @@ Three behavioural mechanisms underneath the framework:
 - Decisions where the personal-meaning dimension is real, not
   rationalised. Founding a company, switching careers, marrying,
   major moves.
-- Situations where the *cost of trying and failing* is bounded
-  but the *cost of not trying* compounds.
+- Situations where the _cost of trying and failing_ is bounded
+  but the _cost of not trying_ compounds.
 
 **Doesn't apply, or applies less well:**
 
@@ -79,11 +79,11 @@ Three behavioural mechanisms underneath the framework:
 
 ## Connection to Munger's inversion
 
-Munger's standard move is to ask *how would I fail?* and avoid
-that. Bezos's framework is a related inversion: ask *what would I
-regret?* and avoid that. They're not identical — Munger's is
+Munger's standard move is to ask _how would I fail?_ and avoid
+that. Bezos's framework is a related inversion: ask _what would I
+regret?_ and avoid that. They're not identical — Munger's is
 about avoiding folly in the present; Bezos's is about avoiding
-the specific folly of *not trying* when trying was the right
+the specific folly of _not trying_ when trying was the right
 move. Both work by approaching the decision from the failure
 side rather than the success side.
 
@@ -95,10 +95,10 @@ the "don't fail to do something brave" failures.
 
 [[Destination Analysis]] and the regret-minimization framework
 are operating on the same temporal asymmetry from different
-sides. Sleep is asking *where will the business be in twenty
-years?* and using the answer to evaluate a present-day
-investment decision. Bezos was asking *where will I be at age
-80?* and using the answer to evaluate a present-day life
+sides. Sleep is asking _where will the business be in twenty
+years?_ and using the answer to evaluate a present-day
+investment decision. Bezos was asking _where will I be at age
+80?_ and using the answer to evaluate a present-day life
 decision. In both cases the long-horizon view collapses
 short-term distortions that would otherwise dominate.
 
@@ -112,8 +112,8 @@ framework rewards self-knowledge, not pre-commitment to a
 particular outcome.
 
 It also isn't an investing framework. Bezos is using it for a
-career decision, and the projection to age 80 is about *life
-trajectory*, not portfolio strategy. The investing analogue
+career decision, and the projection to age 80 is about _life
+trajectory_, not portfolio strategy. The investing analogue
 ([[Destination Analysis]], [[Long-Term Thinking]]) operates
 on similar temporal logic but with different inputs.
 

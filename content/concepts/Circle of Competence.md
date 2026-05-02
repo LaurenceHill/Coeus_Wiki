@@ -8,7 +8,7 @@ Part 8 (Circle of Competence), drawn from multiple annual meetings 1994–2024
 
 Circle of competence is Buffett's term for the domain of businesses an investor genuinely understands. The concept is not about how large a circle you have — it is about knowing precisely where its boundaries lie. An investor who accurately maps what he understands and refuses to stray beyond it will consistently outperform one who mistakes a broad reading of the financial press for actual business understanding.
 
-The 1996 letter puts it plainly: *"You don't have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital."*
+The 1996 letter puts it plainly: _"You don't have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital."_
 
 ## What it does
 
@@ -18,28 +18,28 @@ The circle connects directly to the distinction between the know-something inves
 
 ## The two-course curriculum
 
-The 1996 letter offers a deliberately deflating prescription for what investing education actually requires: *"Investment students need only two well-taught courses — How to Value a Business, and How to Think About Market Prices."*
+The 1996 letter offers a deliberately deflating prescription for what investing education actually requires: _"Investment students need only two well-taught courses — How to Value a Business, and How to Think About Market Prices."_
 
-Beta, efficient markets, modern portfolio theory, option pricing, emerging markets — Buffett says you may in fact be *better off* knowing nothing of these. The implication is that academic finance has packaged complexity as sophistication, when the practical task is simpler: understand a business well enough to know approximately what it is worth, and understand market prices well enough not to be swayed by their noise. Everything else is distraction.
+Beta, efficient markets, modern portfolio theory, option pricing, emerging markets — Buffett says you may in fact be _better off_ knowing nothing of these. The implication is that academic finance has packaged complexity as sophistication, when the practical task is simpler: understand a business well enough to know approximately what it is worth, and understand market prices well enough not to be swayed by their noise. Everything else is distraction.
 
 ## The ten-year test
 
-A companion heuristic: *"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."* This is not primarily a statement about holding period — it is a diagnostic for genuine understanding. If you cannot construct a plausible picture of a business a decade from now, you have not understood it well enough to own it at all. The test forces a separation between businesses whose competitive position can be assessed with reasonable confidence and those where you are essentially guessing. The former belong inside the circle; the latter do not, regardless of how attractive the price might appear.
+A companion heuristic: _"If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."_ This is not primarily a statement about holding period — it is a diagnostic for genuine understanding. If you cannot construct a plausible picture of a business a decade from now, you have not understood it well enough to own it at all. The test forces a separation between businesses whose competitive position can be assessed with reasonable confidence and those where you are essentially guessing. The former belong inside the circle; the latter do not, regardless of how attractive the price might appear.
 
 ## The failure mode it prevents
 
 The failure mode is action in the zone of uncertainty dressed up as conviction. This is different from ordinary mistake-making. Within your circle, mistakes are possible but correctable — you will learn from them because the subject matter is within your reach. Outside your circle, mistakes are structural: you cannot learn from them properly because you lacked the framework to evaluate the decision in the first place. The distinction matters because investor psychology tends to construct post-hoc narratives that obscure this difference.
 
-Buffett's USAir investment — disclosed and self-criticised in the 1996 letter — is a cautionary illustration. He was "beguiled by the company's long history of profitable operations" and overlooked the decisive structural point: a cost structure inherited from the regulated era would be inadequate in a deregulated environment. The business was arguably outside his circle. *"If history supplied all of the answers, the Forbes 400 would consist of librarians."*
+Buffett's USAir investment — disclosed and self-criticised in the 1996 letter — is a cautionary illustration. He was "beguiled by the company's long history of profitable operations" and overlooked the decisive structural point: a cost structure inherited from the regulated era would be inadequate in a deregulated environment. The business was arguably outside his circle. _"If history supplied all of the answers, the Forbes 400 would consist of librarians."_
 
 ## The Noah Rule: knowing is not enough (2001)
 
 The 1999 letter makes the circle-of-competence argument concrete in the
-context of technology stocks. *"Our problem — which we can't solve by
+context of technology stocks. _"Our problem — which we can't solve by
 studying up — is that we have no insights into which participants in the tech
 field possess a truly durable competitive advantage. If we have a strength,
 it is in recognising when we are operating well within our circle of
-competence and when we are approaching the perimeter."* The passage is
+competence and when we are approaching the perimeter."_ The passage is
 notable because it treats circle-of-competence awareness as an active skill
 rather than a passive constraint: knowing where the boundary is requires
 ongoing calibration, not just initial mapping.
@@ -48,8 +48,8 @@ The 2001 letter introduces the sharpest extension of the concept in the
 corpus: the Noah Rule. In the aftermath of September 11th, Buffett
 acknowledges that he knew Berkshire was taking on uncapped terrorism risk at
 General Re without adequate pricing. He knew the risk existed but did not
-convert that knowledge into action. *"I violated the Noah rule: Predicting
-rain doesn't count; building arks does."*
+convert that knowledge into action. _"I violated the Noah rule: Predicting
+rain doesn't count; building arks does."_
 
 The implication for the circle of competence is precise: being within your
 circle is a necessary condition for good decisions, but not a sufficient one.
@@ -70,11 +70,11 @@ unusually candid illustration of the same failure from a different direction.
 Munger at annual meetings provides the sharpest single-sentence formulation
 of what circle of competence actually requires:
 
-*"If you have doubts about whether something is in your circle, it isn't."*
+_"If you have doubts about whether something is in your circle, it isn't."_
 
 And its corollary:
 
-*"It's not a competency if you don't know the edge of it."*
+_"It's not a competency if you don't know the edge of it."_
 
 These are not the same point. The first is a decision rule: uncertainty about
 inclusion is itself evidence of exclusion. The second is an epistemological
@@ -85,16 +85,16 @@ competence — he possesses knowledge that might extend further than it does,
 and he doesn't know where it stops.
 
 The practical implication is uncomfortable: every investor who claims a circle
-of competence should be able to name the *edge cases* — the businesses that
+of competence should be able to name the _edge cases_ — the businesses that
 are on the boundary and about which he is genuinely uncertain. If no such
 cases exist in his mental map, he has not done the mapping work.
 
 ## Change as threat, not opportunity
 
-One of the most consistent themes across 30 years of annual meeting Q&A is
+One of the most consistent themes across 30 years of annual meeting Q\&A is
 Buffett and Munger's view of rapid technological or market change: it is
-almost always a *threat* to existing competitive advantages rather than an
-*opportunity* for the investor. The circle of competence implication is
+almost always a _threat_ to existing competitive advantages rather than an
+_opportunity_ for the investor. The circle of competence implication is
 direct — fast-changing industries are harder to put inside a circle because
 the circle's contents keep shifting.
 
@@ -109,7 +109,7 @@ one.
 This is not a counsel against investing in technology — Apple, for example,
 became one of Berkshire's largest positions. It is a counsel against
 confusing familiarity with a technology product (using an iPhone) with
-understanding the *business* of that company within a competitive landscape
+understanding the _business_ of that company within a competitive landscape
 that is stable enough to project.
 
 ## Smart-once versus stay-smart businesses
@@ -148,7 +148,7 @@ analysis. These get filed, not discarded — circumstances change, and a
 business in the "too hard" pile in one decade may move to the "in" pile as
 the competitive position stabilises.
 
-The critical move in this framework is *not* trying to promote "too hard"
+The critical move in this framework is _not_ trying to promote "too hard"
 businesses into "in" by working harder. The work needed to understand a
 business that is genuinely at the boundary of competence is often more than
 the expected reward justifies, and the risk of self-deception increases with
@@ -159,7 +159,7 @@ effort. It is often better to pass entirely than to reach.
 The annual meetings are candid about Berkshire's specific technology
 misses and the reasoning behind them.
 
-**Google:** Buffett was present for GEICO's experience paying \$10–11 per
+**Google:** Buffett was present for GEICO's experience paying $10–11 per
 click for search-engine advertising that worked extraordinarily well.
 He met the Google founders. He still did not buy — he could not satisfy
 himself that he understood the durability of the competitive position a
@@ -180,7 +180,7 @@ understood retail; he did not anticipate that a single competitor could do to
 all of retail what Walmart had done to general merchandise.
 
 **Apple:** The successful technology investment Buffett makes most explicitly
-was *not* a technology analysis — it was a consumer behaviour and ecosystem
+was _not_ a technology analysis — it was a consumer behaviour and ecosystem
 analysis. He assessed: how attached are iPhone users to their phones? What
 is the switching cost? How much of a user's life runs through this device?
 These are questions about consumer psychology and habit formation, not
@@ -194,7 +194,7 @@ position in corporate IT infrastructure — a domain where his circle was thinne
 Apple was analysed as a consumer brand with unusual switching costs — a domain
 where his circle included deep prior work on Coca-Cola, See's, and similar
 businesses. The lesson is not that consumer is always in the circle and
-enterprise is not; it is that the same *label* (technology) can cover
+enterprise is not; it is that the same _label_ (technology) can cover
 radically different underlying analytical questions.
 
 **Industry growth ≠ investment returns.** A recurring annual meeting
@@ -203,8 +203,8 @@ from nothing in 1900 to an enormous fraction of the global economy by 1960.
 There were thousands of auto companies. A long-term investor in "autos" who
 held a diversified basket would likely have lost money, because most
 entrants failed and the competitive destruction was savage. The same logic
-applied to airlines, which Buffett repeats: *"Orville Wright was the first man
-to fly a sustained, controlled flight. He should have been shot."* (The joke
+applied to airlines, which Buffett repeats: _"Orville Wright was the first man
+to fly a sustained, controlled flight. He should have been shot."_ (The joke
 being: airlines have destroyed most of the capital invested in them since 1903.)
 Industry growth is a necessary but not sufficient condition for investment
 returns; the question is always whether any durable competitive position

@@ -15,9 +15,9 @@ The 2022 letter contains the most concentrated direct quotation of Charlie
 Munger's thinking in the Berkshire corpus. Under the heading "Nothing Beats
 Having a Great Partner," Buffett reproduces a dozen or so aphorisms from a
 "very recent podcast," calling them the closest thing he can offer to Munger
-in compressed form: *"What it takes me a page to explain, he sums up in a
+in compressed form: _"What it takes me a page to explain, he sums up in a
 sentence. His version, moreover, is always more clearly reasoned and also more
-artfully — some might add bluntly — stated."*
+artfully — some might add bluntly — stated."_
 
 The collection is not a systematic treatise. It is a distillation of a
 distinctive intellectual posture: patient, rational, inverting, adaptive,
@@ -25,14 +25,14 @@ and ruthlessly focused on avoiding the fool's mistakes more than chasing the
 genius's gains. Each aphorism holds a mental model; together they form a
 recognisable framework.
 
-Buffett adds one rule of his own at the section's close: *"Find a very smart
+Buffett adds one rule of his own at the section's close: _"Find a very smart
 high-grade partner — preferably slightly older than you — and then listen very
-carefully to what he says."*
+carefully to what he says."_
 
 ## Rationality and clear seeing
 
-*"If you don't see the world the way it is, it's like judging something
-through a distorted lens."*
+_"If you don't see the world the way it is, it's like judging something
+through a distorted lens."_
 
 This is Munger's foundational epistemic claim. The precondition for good
 decision-making is accurate perception, and accurate perception is not
@@ -42,8 +42,8 @@ distort the picture. The investor who does not work actively to see clearly
 will compound the errors of his biases rather than the returns of his
 businesses.
 
-*"If you don't care whether you are rational or not, you won't work on it.
-Then you will stay irrational and get lousy results."*
+_"If you don't care whether you are rational or not, you won't work on it.
+Then you will stay irrational and get lousy results."_
 
 Munger treats rationality as a skill that must be cultivated deliberately,
 not a trait that the intelligent automatically possess. The will to improve
@@ -57,9 +57,9 @@ at the investment-decision level.
 
 ## Inversion
 
-*"All I want to know is where I'm going to die, so I'll never go there. And
+_"All I want to know is where I'm going to die, so I'll never go there. And
 a related thought: Early on, write your desired obituary — and then behave
-accordingly."*
+accordingly."_
 
 The first sentence is Munger's most quoted formulation of inversion as a
 problem-solving method: rather than ask "how do I succeed?", ask "what are
@@ -75,8 +75,8 @@ work backward. This is the same structure as Bezos's [[Regret Minimization Frame
 
 ## Patience
 
-*"The world is full of foolish gamblers, and they will not do as well as the
-patient investor."*
+_"The world is full of foolish gamblers, and they will not do as well as the
+patient investor."_
 
 This is the investment-specific version of the patience argument. The foolish
 gamblers are not criminals — they simply have the wrong time horizon, the
@@ -88,8 +88,8 @@ often nothing: the businesses compound, the ownership accrues, the
 reinvestment continues. See [[Patience as Competitive Advantage]] for Sleep's
 extended treatment of this edge.
 
-*"Patience can be learned. Having a long attention span and the ability to
-concentrate on one thing for a long time is a huge advantage."*
+_"Patience can be learned. Having a long attention span and the ability to
+concentrate on one thing for a long time is a huge advantage."_
 
 This is a less common formulation: patience as a learnable skill rather than
 a fixed personality trait. It also frames the advantage precisely — not
@@ -100,8 +100,8 @@ peer activity).
 
 ## Learning and adaptation
 
-*"You can learn a lot from dead people. Read of the deceased you admire and
-detest."*
+_"You can learn a lot from dead people. Read of the deceased you admire and
+detest."_
 
 This encodes two separate instructions. The first is the value of historical
 breadth: people who built great businesses and those who destroyed them both
@@ -116,12 +116,12 @@ have in common? What cognitive or character patterns showed up repeatedly?
 The [[ABCs of Business Decay]] is one organised answer to this question in
 Buffett's corpus.
 
-*"You have to keep learning if you want to become a great investor. When the
-world changes, you must change."*
+_"You have to keep learning if you want to become a great investor. When the
+world changes, you must change."_
 
-*"Warren and I hated railroad stocks for decades, but the world changed and
+_"Warren and I hated railroad stocks for decades, but the world changed and
 finally the country had four huge railroads of vital importance to the American
-economy. We were slow to recognize the change, but better late than never."*
+economy. We were slow to recognize the change, but better late than never."_
 
 These two are a pair: the principle, then the personal confession that
 illustrates it. The railroad example is characteristically self-deprecating —
@@ -133,8 +133,8 @@ the adaptive version of the rationality argument.
 
 ## Business quality and the long-run
 
-*"A great company keeps working after you are not; a mediocre company won't
-do that."*
+_"A great company keeps working after you are not; a mediocre company won't
+do that."_
 
 This is the most compressed statement in the corpus of the quality asymmetry
 between great and mediocre businesses. A great business — one with structural
@@ -147,8 +147,8 @@ is the primary argument for paying a premium for quality: the premium is
 returned many times over in the holding period that does not require active
 management. See [[Great, Good and Gruesome]] for the formal taxonomy.
 
-*"Warren and I don't focus on the froth of the market. We seek out good
-long-term investments and stubbornly hold them for a long time."*
+_"Warren and I don't focus on the froth of the market. We seek out good
+long-term investments and stubbornly hold them for a long time."_
 
 The word "stubbornly" is doing precise work. The typical investor faces
 continuous pressure to act — on quarterly earnings, analyst downgrades,
@@ -162,9 +162,9 @@ arguments for premature exit. The Coke and American Express cases in
 
 ## Market mechanics: the weighing machine
 
-*"Ben Graham said, 'Day to day, the stock market is a voting machine; in the
+_"Ben Graham said, 'Day to day, the stock market is a voting machine; in the
 long term it's a weighing machine.' If you keep making something more
-valuable, then some wise person is going to notice it and start buying."*
+valuable, then some wise person is going to notice it and start buying."_
 
 Munger cites Graham's formulation and draws the implication explicitly: the
 patient investor who is right about the business value does not need to be
@@ -177,9 +177,9 @@ mechanism by which those opportunities resolve.
 
 ## Leverage and concentration
 
-*"There is no such thing as a 100% sure thing when investing. Thus, the use
+_"There is no such thing as a 100% sure thing when investing. Thus, the use
 of leverage is dangerous. A string of wonderful numbers times zero will always
-equal zero. Don't count on getting rich twice."*
+equal zero. Don't count on getting rich twice."_
 
 This is the zero-multiplier argument in its most compressed form — five
 sentences that capture the full [[Leverage and Liquidity]] framework.
@@ -187,11 +187,11 @@ Leverage converts a sequence of positive outcomes into a sequence that
 terminates at zero whenever a sufficiently large negative outcome occurs.
 Since sufficiently large negative outcomes do occur (four 37–59% Berkshire
 price declines in 53 years), anyone using leverage against equities is
-accepting the possibility of zero. *"Don't count on getting rich twice"*
+accepting the possibility of zero. _"Don't count on getting rich twice"_
 is the practical instruction: if you have built wealth, the correct
 response is to hold it unlevered, not to risk it for more.
 
-*"You don't, however, need to own a lot of things in order to get rich."*
+_"You don't, however, need to own a lot of things in order to get rich."_
 
 The obverse of the diversification argument. Widely held view among
 professionals is that diversification reduces risk — and for the investor
@@ -203,7 +203,7 @@ section.
 
 ## Partnership
 
-*"Warren, think more about it. You're smart and I'm right."*
+_"Warren, think more about it. You're smart and I'm right."_
 
 Buffett presents this as Munger's decision-clincher — a sentence that has
 worked on him for decades. It functions on multiple levels. Literally,
@@ -212,9 +212,9 @@ and is asking Buffett to do the work to get there rather than simply
 disagree. As a description of intellectual partnership, it captures the
 dynamic that made Berkshire unusual: two people who think differently,
 trust each other enough to push back directly, and treat disagreement as
-useful rather than threatening. Buffett's reciprocal instruction: *"Find a
+useful rather than threatening. Buffett's reciprocal instruction: _"Find a
 very smart high-grade partner — preferably slightly older than you — and
-then listen very carefully to what he says."*
+then listen very carefully to what he says."_
 
 ## The Architect: Munger's tribute (2023)
 
@@ -224,9 +224,9 @@ The division of labour Buffett describes is architectural in the literal sense: 
 
 The specific moment Buffett identifies as the origin of that framework is a conversation in 1965. Munger's advice was direct: forget about buying another distressed business like Berkshire Hathaway; instead, buy wonderful businesses at fair prices and abandon the Graham methodology. This was not a small adjustment. Graham's method — buying statistically cheap, selling at fair value — had made Buffett successful by the standards of the 1950s and early 1960s. Munger was asking him to discard the entire framework, not refine it. The advice was correct, and Buffett took it. The cigar-butt era ended; the compounder era began. See [[Cigar Butt to Compounder]] for the full treatment of the transition and [[Buffett's Four Criteria]] for the criteria that replaced Graham's approach.
 
-What distinguishes this passage from the standard partnership narrative is the quality of intellectual deference Buffett describes. Munger did not simply offer an opinion — he argued with conviction and then, once Buffett had been persuaded, yielded operational control completely: *"Even when he knew he was right, he gave me the reins."* This combination — conviction in the analysis, deference in the execution — is characteristically Munger. He trusted Buffett's general contracting precisely because Buffett understood the blueprint.
+What distinguishes this passage from the standard partnership narrative is the quality of intellectual deference Buffett describes. Munger did not simply offer an opinion — he argued with conviction and then, once Buffett had been persuaded, yielded operational control completely: _"Even when he knew he was right, he gave me the reins."_ This combination — conviction in the analysis, deference in the execution — is characteristically Munger. He trusted Buffett's general contracting precisely because Buffett understood the blueprint.
 
-The 2023 tribute also contains a formulation that ties together the patience, quality, and concentration arguments that appear throughout the corpus: *"Mistakes fade away; winners can forever blossom."* This is the asymmetry argument from [[Compounding and Retained Earnings]] — weeds wither, flowers bloom — applied to the career as a whole. A portfolio manager who makes many mediocre decisions and a handful of great ones will find that the great ones compound so powerfully as to render the mediocre ones irrelevant over time. The converse does not hold: mistakes do not compound into disaster at the same rate, provided they do not involve permanent capital loss.
+The 2023 tribute also contains a formulation that ties together the patience, quality, and concentration arguments that appear throughout the corpus: _"Mistakes fade away; winners can forever blossom."_ This is the asymmetry argument from [[Compounding and Retained Earnings]] — weeds wither, flowers bloom — applied to the career as a whole. A portfolio manager who makes many mediocre decisions and a handful of great ones will find that the great ones compound so powerfully as to render the mediocre ones irrelevant over time. The converse does not hold: mistakes do not compound into disaster at the same rate, provided they do not involve permanent capital loss.
 
 ## The Poor Charlie's Almanack framework: five problem-solving notions
 
@@ -240,7 +240,7 @@ underpin the rest of the talks.
 **1. Decide the big "no-brainer" questions first.** Before engaging the hard
 parts of any problem, identify the questions whose answers are obvious and
 whose implications are large. In the Coca-Cola thought experiment: it is
-immediately obvious that a generic beverage will never reach \$2 trillion, so
+immediately obvious that a generic beverage will never reach $2 trillion, so
 the first move must be to build a protected trademark. That single decision
 shapes everything else. The technique prevents analytic effort from being
 wasted on refinements when the major structural choices are still open.
@@ -251,7 +251,7 @@ phrase, "like a one-legged man in an ass-kicking contest." The Coca-Cola
 thought experiment demonstrates this: Munger immediately calculates how
 many eight-ounce servings of water are consumed globally each day, what
 fraction Coke could realistically capture, and what profit-per-serving would
-be required to reach \$2 trillion. The numerical check disciplines the analysis
+be required to reach $2 trillion. The numerical check disciplines the analysis
 and catches inconsistencies early.
 
 **3. Invert always.** See the full treatment at [[concepts/Inversion]]. After
@@ -296,8 +296,8 @@ partially convey.
 
 **The latticework of theory.** Tendency #24 (Reason-Respecting) explains why
 the framework is organised as it is. Munger argues that learning is most
-effectively retained and used when it is hung on *"a latticework of theory
-answering the question: Why?"* This is the reason the checklist approach
+effectively retained and used when it is hung on _"a latticework of theory
+answering the question: Why?"_ This is the reason the checklist approach
 works: not merely listing things to check, but understanding the mechanism
 behind each check. The aphorism "If you don't see the world the way it is,
 it's like judging something through a distorted lens" points at the outcome;
@@ -306,10 +306,10 @@ and their mechanisms.
 
 **The checklist as operating procedure.** Use-It-or-Lose-It Tendency (#19)
 explains why the framework must be practised actively. Skills that are not
-exercised atrophy. Munger's explicit instruction: *"It is also essential for
+exercised atrophy. Munger's explicit instruction: _"It is also essential for
 a thinking man to assemble his skills into a checklist that he routinely
 uses. Any other mode of operation will cause him to miss much that is
-important."* The aircraft simulator is the model — not a one-time study but
+important."_ The aircraft simulator is the model — not a one-time study but
 a continuous practice that prevents the degradation of rarely-used but
 critical skills.
 
@@ -323,7 +323,7 @@ tendency: an investor who knows about incentive-caused bias but not about
 how it combines with social proof and authority-misinfluence will
 underestimate the magnitude of failures it can produce.
 
-The most consequential single tendency for investors is #1: [[Incentive-
+The most consequential single tendency for investors is #1: \[\[Incentive-
 Caused Bias]]. People of normal decency, driven by the incentive structures
 around them, drift into harmful behaviour while sincerely believing they
 are acting correctly. This is the mechanism behind the Institutional
@@ -334,7 +334,7 @@ describes throughout the speech.
 ## Caveats
 
 The 2022 letter presents these as aphorisms from a podcast, not as a
-systematic framework. The full framework is in [[Psychology of Human
+systematic framework. The full framework is in \[\[Psychology of Human
 Misjudgment]], now ingested into this wiki. This page records what appeared
 in the Berkshire letters; the source page contains the systematic treatment.
 
@@ -372,7 +372,7 @@ Berkshire corpus. This page is an entry point, not a complete account.
 - [[Mr. Market]] — the voting machine / weighing machine framework
 - [[Denial, Anchoring, Drift]] — Sleep's catalogue of the same cognitive
   errors Munger's rationality argument targets; maps onto Tendencies #11,
-  #5, and #16
+  \#5, and #16
 - [[ABCs of Business Decay]] — the organised failure-mode analysis; the
   inversion method applied to businesses
 - [[Compounding and Retained Earnings]] — the case study that the patience

@@ -6,10 +6,10 @@ passage gives the book its title.
 
 ## Summary
 
-Bezos's argument that *guided non-linear exploration* is an
+Bezos's argument that _guided non-linear exploration_ is an
 essential complement to efficient, plan-driven execution. Both
 modes are required; neither is sufficient on its own. Wandering
-is *not* random — it's directed by hunch, intuition, and
+is _not_ random — it's directed by hunch, intuition, and
 conviction that the eventual prize is large enough to justify
 some inefficiency in the path.
 
@@ -30,7 +30,7 @@ The canonical Bezos formulation:
 ## The AWS argument
 
 The 2018 letter uses AWS as the central illustration. Bezos's
-direct framing: *"No one asked for AWS. No one."* The world
+direct framing: _"No one asked for AWS. No one."_ The world
 was ready and hungry for the offering but didn't know it.
 Amazon "had a hunch, followed our curiosity, took the
 necessary financial risks, and began building — reworking,
@@ -40,9 +40,9 @@ proceeded."
 This matters because it complicates the simpler story Anderson
 tells in [[The Bezos Letters]] — that [[Customer Obsession]]
 means listening to customers. Bezos is explicit that listening
-isn't enough: *"the biggest needle movers will be things that
+isn't enough: _"the biggest needle movers will be things that
 customers don't know to ask for. We must invent on their
-behalf."* The discipline is to combine listening (which is
+behalf."_ The discipline is to combine listening (which is
 necessary) with inventing on behalf of customers (which is also
 necessary).
 
@@ -57,7 +57,7 @@ aimless exploration. The wandering is constrained by:
   directions are worth exploring.
 - **A budget.** Wandering happens within a defined investment
   envelope. AWS, Kindle, and the Fire Phone all had
-  significant budgets but they were *budgets*, not unlimited
+  significant budgets but they were _budgets_, not unlimited
   permission.
 - **Iteration tolerance.** The team accepts that the path
   will involve "reworking, experimenting, and iterating
@@ -110,8 +110,8 @@ something.
 
 Anderson's "Test → Build → Accelerate → Scale" cycle in
 [[The Bezos Letters]] doesn't capture wandering well. Anderson
-treats experimentation as a *phase* (the Test phase, before
-Build) rather than a *mode* that runs alongside execution
+treats experimentation as a _phase_ (the Test phase, before
+Build) rather than a _mode_ that runs alongside execution
 indefinitely. Bezos's actual framing is that wandering and
 efficiency operate in parallel, in different parts of the
 organisation, on different timescales — not that wandering

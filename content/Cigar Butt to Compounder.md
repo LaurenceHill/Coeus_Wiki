@@ -49,15 +49,15 @@ as businesses trading at prices a private buyer would not pay in a normal
 arms-length transaction. The analytical work was almost entirely
 quantitative: asset values, net working capital, earnings power relative
 to tangible book, liquidation proceeds. The qualitative question —
-*what kind of business is this* — was secondary to *how far below its
-intrinsic value is it trading*.
+_what kind of business is this_ — was secondary to _how far below its
+intrinsic value is it trading_.
 
 **Dempster Mill Manufacturing (1961–1963)** is the paradigm case of the
 approach extended to a control situation. Dempster was a Nebraska farm
 implement and water supply company. Buffett accumulated a controlling
 interest at a price below book value, then brought in Harry Bottle as
 manager to restructure the business from the inside. Bottle's work was
-comprehensive: inventory cut from \$4 million to \$1 million, marginal
+comprehensive: inventory cut from $4 million to $1 million, marginal
 product lines eliminated, receivables reduced, non-essential assets
 liquidated. The capital freed by this restructuring was redeployed into
 marketable securities managed by Buffett. The result was a business that
@@ -66,8 +66,8 @@ compounded at much higher rates elsewhere. Dempster is the cleanest
 available demonstration of what the Controls category could achieve when
 the cigar-butt approach was combined with genuine operational improvement.
 
-**Berkshire Hathaway** was first purchased in November 1962 at \$7.60/share
-(average cost across the full position: \$14.86/share). It was originally
+**Berkshire Hathaway** was first purchased in November 1962 at $7.60/share
+(average cost across the full position: $14.86/share). It was originally
 a Generals position — a statistically cheap textile manufacturer trading
 below its private-market value — and over time became a control. The
 textile business was a pure cigar-butt: capital-intensive, facing
@@ -82,19 +82,19 @@ into higher-returning businesses. National Indemnity Company (insurance)
 and Illinois National Bank and Trust of Rockford, Illinois (banking) were
 the first beneficiaries of this redeployment. By the time of the
 December 1969 dissolution letter, Buffett described the textile operation
-plainly: *"The textile operation currently employs about \$16 per share
+plainly: _"The textile operation currently employs about $16 per share
 in capital and, while I think it has made some progress relative to the
-textile industry generally, cannot be judged a satisfactory business."*
-Yet he continued to operate it: *"I like the textile operating people —
+textile industry generally, cannot be judged a satisfactory business."_
+Yet he continued to operate it: _"I like the textile operating people —
 they have worked hard to improve the business under difficult conditions
 — and, despite the poor return, we expect to continue the textile
-operation as long as it produces near current levels."*
+operation as long as it produces near current levels."_
 
 The December 1969 letter contains the first public statement of what
 becomes the Berkshire era's governing philosophy. Describing his intentions
 for Berkshire and Diversified Retailing to his departing partners, Buffett
-wrote: *"I think about them as businesses, not 'stocks', and if the
-business does all right over the long term, so will the stock."* The
+wrote: _"I think about them as businesses, not 'stocks', and if the
+business does all right over the long term, so will the stock."_ The
 sentence is the hinge between the two eras. In the partnership, the
 operational mode was to find statistical cheapness and wait for
 recognition; in the Berkshire era, the operational mode is to find
@@ -110,8 +110,8 @@ to pursue short-term results in ways he does not want to participate in;
 (3) the partnership's capital is now too large to exploit many of the
 small cigar-butt opportunities that had driven early returns; (4) his own
 motivations and interests are shifting. On the qualitative-vs-quantitative
-spectrum he describes explicitly in the letter: *"I now place a higher
-weight on the quality of the business and the management than I used to."*
+spectrum he describes explicitly in the letter: _"I now place a higher
+weight on the quality of the business and the management than I used to."_
 The shift is not complete — the partnership continued to hold statistical
 bargains through dissolution — but its direction is clear.
 
@@ -155,31 +155,31 @@ the most compelling case study for the compounder thesis in the entire
 corpus — a twenty-year track record available for inspection.
 
 Blue Chip Stamps (then a Berkshire affiliate) purchased See's Candy
-in January 1972. The asking price was \$40 million for full ownership;
-with \$10 million of excess cash, the true price was \$30 million.
-See's had tangible net worth of only \$7 million. Buffett and Munger
-argued the price down to \$25 million — *"not yet fully appreciative
-of the value of an economic franchise."* The sellers accepted.
+in January 1972. The asking price was $40 million for full ownership;
+with $10 million of excess cash, the true price was $30 million.
+See's had tangible net worth of only $7 million. Buffett and Munger
+argued the price down to $25 million — _"not yet fully appreciative
+of the value of an economic franchise."_ The sellers accepted.
 
-Over the next twenty years: sales grew from \$29 million to \$196
-million; pre-tax profits grew from \$4.2 million to \$42.4 million; and
-the additional capital required to run the business was only \$18
-million (from \$7 million of net worth at purchase to \$25 million in
-1991). The remaining \$410 million of pre-tax profits were distributed
+Over the next twenty years: sales grew from $29 million to $196
+million; pre-tax profits grew from $4.2 million to $42.4 million; and
+the additional capital required to run the business was only $18
+million (from $7 million of net worth at purchase to $25 million in
+1991\). The remaining $410 million of pre-tax profits were distributed
 to Berkshire for redeployment elsewhere.
 
 The arithmetic is the clearest available illustration of why the
 compounder thesis wins over long periods. A cigar-butt purchase at a
 30% discount and a rapid recovery might produce 43% in a year. But
 See's, purchased at a premium to tangible book and held without
-selling, produced a return on the original \$25 million purchase price
+selling, produced a return on the original $25 million purchase price
 that compounded at a rate that dwarfs any one-puff cigar. The business
 grew its earnings roughly 10-fold while requiring almost no additional
 capital to do so — which is the definition of a franchise-calibre
 compounder.
 
-Buffett identifies the analytical foundation of the purchase: *"We saw
-that the business had untapped pricing power."* Annual price increases
+Buffett identifies the analytical foundation of the purchase: _"We saw
+that the business had untapped pricing power."_ Annual price increases
 at See's were accepted by customers year after year without volume
 loss, because See's customers perceived no adequate substitute for
 See's chocolate in the relevant geography. The pricing power was
@@ -188,10 +188,10 @@ that structure before the market had capitalised it — and before
 Buffett himself fully appreciated the vocabulary to describe it —
 was the core of the analytical work.
 
-The letter also gives the operational mechanism: *"For an increase in
+The letter also gives the operational mechanism: _"For an increase in
 profits to be evaluated properly, it must be compared with the
 incremental capital investment required to produce it. On this score,
-See's has been astounding."* This is the compounder test in its
+See's has been astounding."_ This is the compounder test in its
 operational form — the same question Fisher asks about [[Fifteen Points]]
 and Sleep asks through the [[Robustness Ratio]]: not whether earnings
 are growing, but whether they are growing in excess of the capital

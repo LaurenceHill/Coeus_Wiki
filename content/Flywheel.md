@@ -2,7 +2,7 @@
 
 **Source:** [[The Bezos Letters]] (Anderson, Chapter 6); [[Invent and Wander]]
 — referenced across multiple letters from 1997 onward. The concept
-originates in Jim Collins's *Good to Great* (2001); Amazon's specific
+originates in Jim Collins's _Good to Great_ (2001); Amazon's specific
 flywheel was sketched by Collins in collaboration with Bezos at an Amazon
 executive retreat shortly before publication.
 
@@ -38,9 +38,9 @@ the entire system accelerates.
 ## Why the flywheel matters as a decision tool
 
 Bezos uses the flywheel not only as a descriptive framework but as a filter
-for investment decisions. From the 2014 letter: *"FBA [Fulfilled by Amazon]
+for investment decisions. From the 2014 letter: _"FBA \[Fulfilled by Amazon]
 completes the circle: Marketplace pumps energy into Prime, and Prime pumps
-energy into Marketplace."* The question applied to any potential investment
+energy into Marketplace."_ The question applied to any potential investment
 is: does this turn one or more spokes of the flywheel? If not, it is a
 distraction, regardless of its standalone profitability.
 
@@ -57,12 +57,12 @@ inconsistent with the framework.
 
 ## The flywheel and the dreamy business test
 
-Bezos identifies a related but distinct filter for *new* business ventures.
+Bezos identifies a related but distinct filter for _new_ business ventures.
 From the 2014 letter, a dreamy business offering has four characteristics:
 customers love it; it can grow to very large size; it has strong returns on
 capital; and it is durable in time. AWS, Marketplace, and Prime all pass
-this test. Physical retail failed it in 2006 — *"we don't know how to do it
-with low capital and high returns"* — but passed it by 2017 once the
+this test. Physical retail failed it in 2006 — _"we don't know how to do it
+with low capital and high returns"_ — but passed it by 2017 once the
 Amazon Go technology existed. The flywheel and the dreamy-business test
 work together: the flywheel describes the existing system; the dreamy-business
 test is applied to candidate additions.
@@ -97,8 +97,8 @@ Sleep called it something different.
 The flywheel is not a guarantee of success, and it is not self-activating.
 The initial effort to get the flywheel moving is substantial: Amazon lost
 money for years before the loop had enough momentum to become self-
-sustaining. The flywheel is a description of *what happens when the system
-works*, not a method for making it work in the first place.
+sustaining. The flywheel is a description of _what happens when the system
+works_, not a method for making it work in the first place.
 
 The flywheel also doesn't capture everything important about a business.
 It says nothing about management quality, capital allocation, or the

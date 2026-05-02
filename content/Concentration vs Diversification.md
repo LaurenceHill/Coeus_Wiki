@@ -40,7 +40,7 @@ dilutes the edge along with the risk.
 
 The 1991 letter adds John Maynard Keynes as a witness for the same
 position. Keynes wrote to a business associate, F. C. Scott, on
-August 15, 1934: *"As time goes on, I get more and more convinced
+August 15, 1934: _"As time goes on, I get more and more convinced
 that the right method in investment is to put fairly large sums into
 enterprises which one thinks one knows something about and in the
 management of which one thoroughly believes. It is a mistake to think
@@ -49,7 +49,7 @@ about which one knows little and has no reason for special
 confidence... One's knowledge and experience are definitely limited
 and there are seldom more than two or three enterprises at any given
 time in which I personally feel myself entitled to put full
-confidence."* The argument is structurally identical to Buffett's:
+confidence."_ The argument is structurally identical to Buffett's:
 the constraint on concentration is analytical capacity, and spreading
 beyond what that capacity covers does not produce safety, it produces
 an illusion of safety.

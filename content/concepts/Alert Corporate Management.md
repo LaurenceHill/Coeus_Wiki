@@ -4,13 +4,13 @@
 
 ## Summary
 
-Fisher's concept is a warning, not a recommendation. When a business earns high returns on a small asset base, alert managers at *other* companies will notice and evaluate whether they can enter the field and capture a share of those returns. If there are no genuine barriers preventing them from doing so, they will enter, and competition will erode the high margins that made the business attractive in the first place. The low asset base, far from being a mark of capital efficiency to be celebrated, is a danger signal indicating that the moat may be shallow.
+Fisher's concept is a warning, not a recommendation. When a business earns high returns on a small asset base, alert managers at _other_ companies will notice and evaluate whether they can enter the field and capture a share of those returns. If there are no genuine barriers preventing them from doing so, they will enter, and competition will erode the high margins that made the business attractive in the first place. The low asset base, far from being a mark of capital efficiency to be celebrated, is a danger signal indicating that the moat may be shallow.
 
 The investor who finds a high-earning, low-asset business should therefore ask not "how wonderful that they need little capital to earn these returns" but "why haven't competitors entered already, and will they?" Only if the answer to that question is satisfactory — genuine barriers exist — should the asset structure be disregarded.
 
 ## The mechanism
 
-Fisher introduces this concept at the opening of Part II in the context of dismissing asset value as a useful investment criterion. He has already argued in *Common Stocks and Uncommon Profits* that assets behind a share have little to do with its market value, because investors buy earnings power rather than liquidation value. Here he qualifies that dismissal with a specific exception.
+Fisher introduces this concept at the opening of Part II in the context of dismissing asset value as a useful investment criterion. He has already argued in _Common Stocks and Uncommon Profits_ that assets behind a share have little to do with its market value, because investors buy earnings power rather than liquidation value. Here he qualifies that dismissal with a specific exception.
 
 A business with high earnings relative to its assets is, from the perspective of an outside manager contemplating expansion, an unusually attractive target for entry. The high return signals a profitable market; the low capital requirement signals that entry is relatively cheap. These two features together make the business maximally attractive to competitors. The logic runs: if earning high returns requires little capital, then many potential entrants have the capital to enter. The competitive response is therefore faster and more numerous than it would be for a capital-intensive industry where entry requires hundreds of millions of dollars of investment before any revenue is earned.
 

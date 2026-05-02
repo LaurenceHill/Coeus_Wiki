@@ -26,7 +26,7 @@ The practical claim: approximately 80–90 models, drawn from the main
 academic disciplines and learned only in their essential forms, carry about
 90% of the intellectual freight one needs in life. These models are not hard to
 acquire. What is hard — and what most educated people never do — is
-acquiring them from *across* disciplines rather than going deeper and deeper
+acquiring them from _across_ disciplines rather than going deeper and deeper
 into a single one.
 
 ## The mechanism
@@ -71,9 +71,9 @@ Talk 5 (Harvard Law, 1998) states the educational standard the latticework
 requires. Effective pilot training has six elements:
 
 1. Formal education wide enough to cover practically everything useful
-2. All knowledge raised to practice-based *fluency*, not merely test-passing
+2. All knowledge raised to practice-based _fluency_, not merely test-passing
    ability — including handling two or three intertwined hazards simultaneously
-3. Forward *and* reverse thinking, practiced deliberately
+3. Forward _and_ reverse thinking, practiced deliberately
 4. Training time allocated by importance — what matters most gets the most
    coverage
 5. Mandatory checklist routines
@@ -118,7 +118,7 @@ Munger does not give an exhaustive list, but the talks collectively point to:
 Munger states in Talk 2 that the models he finds most useful number roughly
 80–90, and that mastering even the most important ones from each discipline
 takes far less time than a full degree in that discipline requires. The key is to
-learn the *essential* idea in the *most useful* form — not to become a
+learn the _essential_ idea in the _most useful_ form — not to become a
 professional in every field.
 
 The analogy he uses is Ben Franklin: a man who, largely through self-
@@ -136,7 +136,7 @@ same outcome, the result is non-linear and often extreme. A single cause
 produces a modest effect. Three or four causes acting in concert produce
 something that appears out of proportion to any individual factor.
 
-Munger's Coca-Cola thought experiment (Talk 4) demonstrates this. The \$2
+Munger's Coca-Cola thought experiment (Talk 4) demonstrates this. The $2
 trillion result comes not from any single clever idea but from the combination
 of Pavlovian conditioning (brand association), operant conditioning (the
 product's actual rewards), social proof (ubiquity generating social proof),

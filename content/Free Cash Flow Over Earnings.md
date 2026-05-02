@@ -9,17 +9,17 @@ secondary commentary.
 
 Bezos's stated headline financial metric for Amazon is free cash flow per
 share, not earnings per share. The 2004 letter opens with the definition:
-*"Our ultimate financial measure, and the one we most want to drive over
-the long-term, is free cash flow per share."* Free cash flow is defined in
+_"Our ultimate financial measure, and the one we most want to drive over
+the long-term, is free cash flow per share."_ Free cash flow is defined in
 the same letter as net cash provided by operating activities less purchases
 of fixed assets, including capitalised internal-use software and website
 development — the items that appear on the statements of cash flows.
 
 The decision to report and manage against this metric rather than GAAP
 earnings is explicit and deliberate. The 1997 letter states the trade-off
-directly: *"When forced to choose between optimising the appearance of
+directly: _"When forced to choose between optimising the appearance of
 our GAAP accounting and maximising the present value of future cash
-flows, we'll take the cash flows."* This preference is not incidental — it
+flows, we'll take the cash flows."_ This preference is not incidental — it
 follows directly from Amazon's [[Long-Term Thinking]] posture and its
 willingness to invest at rates that depress reported earnings while
 compounding underlying business value.
@@ -61,9 +61,9 @@ measurement principle that operates alongside the free-cash-flow preference:
 when data and anecdote conflict, the anecdote usually contains signal about
 a flaw in the measurement, not an exception to the data.
 
-Bezos's formulation, from a 2018 forum at SMU: *"What I have noticed is
+Bezos's formulation, from a 2018 forum at SMU: _"What I have noticed is
 that when the anecdotes and the data disagree, the anecdotes are usually
-right. There's something wrong with the way you're measuring it."* This
+right. There's something wrong with the way you're measuring it."_ This
 is an unusually specific claim. It inverts the default assumption of
 data-first management: rather than dismissing the anecdote when it
 conflicts with the metric, Bezos uses the conflict as a signal that the
@@ -122,7 +122,7 @@ at Amazon, total capex includes enormous amounts of growth investment in
 fulfilment capacity, AWS infrastructure, and logistics that are not
 maintenance spending at all; they are discretionary bets on future scale. A
 strict owner earnings calculation for Amazon during its high-growth years
-would show *higher* owner earnings than Bezos's FCF number, because the
+would show _higher_ owner earnings than Bezos's FCF number, because the
 maintenance capex required to hold the current competitive position was a
 fraction of total capex.
 
@@ -145,8 +145,8 @@ heavy reinvestment mode, where the gap between current GAAP earnings
 and future cash-generating capacity is widest and most consequential.
 
 It is also not permission to ignore profitability. The 1997 letter states
-that Amazon will *"balance our focus on growth with emphasis on long-term
-profitability and capital management."* The metric choice is about
+that Amazon will _"balance our focus on growth with emphasis on long-term
+profitability and capital management."_ The metric choice is about
 choosing the right time horizon and the right accounting lens — not about
 excusing indefinite losses. Amazon's cost-consciousness culture, referenced
 across multiple letters as a hard constraint, is the complement: FCF

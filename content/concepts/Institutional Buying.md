@@ -36,7 +36,7 @@ The danger is when a company begins to lose the qualities that put it on stilts.
 
 Fisher's investment thesis follows directly from this structure. The highest-risk, highest-return position is owning a company before it earns institutional acceptance — a medium-sized, rapidly growing company with outstanding management that is beginning to prove itself but has not yet been identified by the major institutional buyers. Such a company is available at a low P/E ratio reflecting its unrecognised status. As the company continues to grow and its management quality becomes apparent, two things happen simultaneously: earnings rise, and the P/E ratio expands toward institutional norms. The investor who bought before this recognition captures both gains.
 
-Fisher gives the example numerically: a company with \$2 in earnings selling at 12x earns 5 years later at \$4 per share. The earnings alone would push the stock from 24 to 48. But if in those five years the company gained institutional acceptance and its P/E expanded from 12x to 24x, the stock goes not to 48 but to 96. The investor has quadrupled his investment from a doubling of earnings.
+Fisher gives the example numerically: a company with $2 in earnings selling at 12x earns 5 years later at $4 per share. The earnings alone would push the stock from 24 to 48. But if in those five years the company gained institutional acceptance and its P/E expanded from 12x to 24x, the stock goes not to 48 but to 96. The investor has quadrupled his investment from a doubling of earnings.
 
 This is not a strategy available to everyone. It requires the analytical skill to identify the exceptional management early — which is exactly the skill the [[Fifteen Points]] and [[Scuttlebutt]] method are designed to develop. Fisher is explicit that finding these situations is not easy; he is equally explicit that the reward justifies the difficulty.
 
@@ -48,7 +48,7 @@ His reasoning: the very fact that a stock has earned institutional acceptance us
 
 ## Relationship to Financial Community Appraisal
 
-The Institutional Buying concept is a structural explanation for the mechanism behind [[Financial Community Appraisal]]. The Appraisal concept (from *Common Stocks and Uncommon Profits*) argues that stock prices are driven by the financial community's appraisal of a company, its industry, and the market — not directly by the underlying facts. The Institutional Buying chapter explains *why* that appraisal is sticky, why it concentrates on a narrow set of companies, and why the P/E divergence between approved and unapproved stocks can persist for years. The two concepts should be read together.
+The Institutional Buying concept is a structural explanation for the mechanism behind [[Financial Community Appraisal]]. The Appraisal concept (from _Common Stocks and Uncommon Profits_) argues that stock prices are driven by the financial community's appraisal of a company, its industry, and the market — not directly by the underlying facts. The Institutional Buying chapter explains _why_ that appraisal is sticky, why it concentrates on a narrow set of companies, and why the P/E divergence between approved and unapproved stocks can persist for years. The two concepts should be read together.
 
 ## Related
 

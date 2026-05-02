@@ -5,15 +5,15 @@ section (Graham quotation); 1992 letter, "Common Stock Investments"
 section (named as cornerstone of investment success); 1997 letter,
 "Common Stock Investments" section (fat-pitch discipline; current
 price levels eroding the margin). Graham's original formulation is in
-*The Intelligent Investor* (1949); the concept is also developed in
-*Security Analysis* (Graham and Dodd, 1934).
+_The Intelligent Investor_ (1949); the concept is also developed in
+_Security Analysis_ (Graham and Dodd, 1934).
 
 ## Summary
 
-Buffett's 1990 letter quotes Ben Graham: *"Confronted with a challenge
+Buffett's 1990 letter quotes Ben Graham: _"Confronted with a challenge
 to distill the secret of sound investment into three words, we venture
-the motto, Margin of Safety."* Buffett adds: *"Forty-two years after
-reading that, I still think those are the right three words."* The
+the motto, Margin of Safety."_ Buffett adds: _"Forty-two years after
+reading that, I still think those are the right three words."_ The
 context is the junk bond collapse of 1990, where capital structures
 had been assembled that mathematically guaranteed failure even under
 favourable operating assumptions. The margin-of-safety principle, had
@@ -21,11 +21,11 @@ it been applied, would have prohibited the construction of those
 structures at their inception.
 
 The 1992 letter names the principle more directly as a positive
-investment discipline: *"We insist on a margin of safety in our
+investment discipline: _"We insist on a margin of safety in our
 purchase price. If we calculate the value of a common stock to be
 only slightly higher than its price, we're not interested in buying.
 We believe this margin-of-safety principle, so strongly emphasized by
-Ben Graham, to be the cornerstone of investment success."*
+Ben Graham, to be the cornerstone of investment success."_
 
 The core idea is simple: buy at a price sufficiently below intrinsic
 value that errors in the intrinsic value calculation — which are
@@ -38,8 +38,8 @@ the estimated value; its purpose is to absorb estimation error.
 The margin-of-safety principle solves the problem that all intrinsic
 value calculations are approximate. The 1992 letter is clear on this:
 even experienced and intelligent analysts can go wrong in estimating
-future cash flows. *"An analyst — even one who is experienced and
-intelligent — can easily go wrong in estimating future 'coupons.'"*
+future cash flows. _"An analyst — even one who is experienced and
+intelligent — can easily go wrong in estimating future 'coupons.'"_
 Given that estimation error is irreducible, the investor who requires
 a gap between price and estimated value before buying is protected
 against a range of adverse outcomes. The investor who buys at
@@ -61,18 +61,18 @@ margin varies by the reliability of the underlying estimate. The
 1992 letter identifies two mechanisms for managing estimation
 uncertainty:
 
-First, stick to businesses that are *understandable* — ones that
-are relatively simple and stable in character. *"If a business is
+First, stick to businesses that are _understandable_ — ones that
+are relatively simple and stable in character. _"If a business is
 complex or subject to constant change, we're not smart enough to
-predict future cash flows."* Restricting the investable universe
+predict future cash flows."_ Restricting the investable universe
 to businesses where the analyst has genuine confidence in the
 estimate reduces the magnitude of the margin required. The circle
 of competence constraint and the margin-of-safety requirement
 are complements.
 
-Second, require a meaningful gap when buying. *"If we calculate
+Second, require a meaningful gap when buying. _"If we calculate
 the value of a common stock to be only slightly higher than its
-price, we're not interested in buying."* The instruction is
+price, we're not interested in buying."_ The instruction is
 conservative: a near-miss is not an investment opportunity, because
 the estimation error on a complex valuation can easily swallow a
 small gap.
@@ -92,12 +92,12 @@ insufficient.
 The 1990 letter's use of the principle in the junk bond discussion
 extends it beyond individual securities to capital structures as a
 whole. A business financed with so much debt that interest charges
-consume nearly all revenues under *favourable* operating assumptions
+consume nearly all revenues under _favourable_ operating assumptions
 has no margin of safety in its financial structure — any deviation
 from the assumed operating scenario produces default. Buffett uses
-the dagger-on-the-steering-wheel metaphor: *"The roads of business
+the dagger-on-the-steering-wheel metaphor: _"The roads of business
 are riddled with potholes; a plan that requires dodging them all is
-a plan for disaster."*
+a plan for disaster."_
 
 This is the same principle applied at the firm level rather than the
 investor level. The investor requires a gap between purchase price and
@@ -112,25 +112,25 @@ absorbed without consequence.
 ## The fat-pitch discipline (1997)
 
 The 1997 letter provides a practical complement to the margin-of-safety
-principle: the Ted Williams framework for waiting. Williams, in *The Science
-of Hitting*, divided the strike zone into 77 cells the size of a baseball.
+principle: the Ted Williams framework for waiting. Williams, in _The Science
+of Hitting_, divided the strike zone into 77 cells the size of a baseball.
 Swinging only at balls in his best cell allowed him to bat .400; reaching
 for pitches in the worst corner — the low outside — dropped the average to
-.230. *"In other words, waiting for the fat pitch would mean a trip to the
-Hall of Fame; swinging indiscriminately would mean a ticket to the minors."*
+.230. _"In other words, waiting for the fat pitch would mean a trip to the
+Hall of Fame; swinging indiscriminately would mean a ticket to the minors."_
 
 The application is direct: the margin-of-safety requirement is operationalised
 by not swinging at pitches on the lower outside corner. Buffett is explicit
 that in 1997, most investment opportunities fell into that category —
 prices were elevated enough that the expected return from committing fresh
-capital was compressed. The correct response is inaction. *"Unlike Ted, we
+capital was compressed. The correct response is inaction. _"Unlike Ted, we
 can't be called out if we resist three pitches that are barely in the strike
 zone; nevertheless, just standing there, day after day, with my bat on my
-shoulder is not my idea of fun."*
+shoulder is not my idea of fun."_
 
-The 1997 letter also notes that today's prices have *"materially eroded
+The 1997 letter also notes that today's prices have _"materially eroded
 the 'margin of safety' that Ben Graham identified as the cornerstone of
-intelligent investing."* This is not a prediction about future price
+intelligent investing."_ This is not a prediction about future price
 movements — Buffett is careful to disclaim any view on that — but a
 statement about the current state of the gap between prices and estimated
 intrinsic values. A diminished margin of safety means that less error is

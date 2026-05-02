@@ -186,19 +186,19 @@ in [[Selling vs Holding Forever]].
 illustrations of patience as a competitive advantage in practice.
 
 **NICO's 85% contraction: patience as underwriting weapon.** National
-Indemnity Company shrank its premium volume from a peak of roughly \$366
-million in 1986 to approximately \$54 million by 1999 — an 85% contraction.
+Indemnity Company shrank its premium volume from a peak of roughly $366
+million in 1986 to approximately $54 million by 1999 — an 85% contraction.
 The contraction was not a business failure; it was a deliberate refusal to
 write insurance at prices that did not compensate for the risk. Buffett's
-summary: *"The most important thing in insurance is underwriting discipline.
-We'd rather shrink 80% than write business at inadequate prices."*
+summary: _"The most important thing in insurance is underwriting discipline.
+We'd rather shrink 80% than write business at inadequate prices."_
 
 The competitive advantage of this patience was revealed when the insurance
 market hardened: NICO had the capacity to write large volumes at excellent
 prices precisely because it had not compromised its underwriting standards
 during the soft market. Competitors who had maintained volume by cutting
 prices were now underreserved and unable to write new business aggressively.
-NICO's patience had become a strategic asset — *capacity to suffer* that
+NICO's patience had become a strategic asset — _capacity to suffer_ that
 translated directly into market share and margins when conditions improved.
 
 The NICO no-layoff policy reinforced this patience. By committing to
@@ -215,7 +215,7 @@ bought at prices that offered good value relative to intrinsic value, even
 if markets fell further afterwards.
 
 The patience framework applies here: the attempt to time the bottom is a
-form of market prediction (important but unknowable — see [[concepts/Important
+form of market prediction (important but unknowable — see \[\[concepts/Important
 and Knowable]]). The patient alternative is to be ready to act when
 opportunities present value, without requiring a forecast of when prices
 will stop falling. This is not the same as "buy and hold regardless of price"

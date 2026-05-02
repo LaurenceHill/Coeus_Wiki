@@ -28,7 +28,7 @@ A chart reproduced in the 2012 letter (from the Franklin Institute's
 1927 recommendation of Ford for the Elliott Cresson Medal) shows
 production volume rising from zero to just over two million cars per
 annum between 1908 and 1924, while the price to consumers fell from
-roughly \$950 to roughly \$300. Ford did not extract the scale benefit
+roughly $950 to roughly $300. Ford did not extract the scale benefit
 as margin; he lowered prices, which expanded the addressable market,
 which allowed further scale, which supported further price reductions.
 
@@ -77,9 +77,9 @@ letter that Amazon represents the same structural model applied to
 an internet platform: lower prices, faster delivery, broader selection
 — each improvement made possible by scale — attract more customers,
 whose purchases fund further infrastructure investment, which enables
-further price reductions. Bezos is quoted in the 2012 letter: *"I
+further price reductions. Bezos is quoted in the 2012 letter: _"I
 can't imagine that in ten years from now customers are going to say:
-I really love Amazon, but I wish their prices were a little higher."*
+I really love Amazon, but I wish their prices were a little higher."_
 The stability of the customer preference is a statement about the
 durability of the model.
 
@@ -153,7 +153,7 @@ not a certainty.
 ## Why the model supports long-run survival: the scaling laws foundation
 
 Sleep's June 2007 interim letter introduces a parallel from biology — Geoff West's work
-on scaling laws at the Santa Fe Institute — that explains *why* Scale Economics Shared
+on scaling laws at the Santa Fe Institute — that explains _why_ Scale Economics Shared
 is not merely an attractive business model but a structurally long-lived one. The
 biological argument is that an organism's longevity is determined by the relationship
 between its skeletal architecture and its metabolic efficiency: larger animals burn less
@@ -171,15 +171,15 @@ uniform across geographies because it is fixed in a web site rather than depende
 local staff and property, has a simple one.
 
 Scale Economics Shared is the business model with the most favourable power law,
-in Sleep's analysis, precisely because the mechanism of scaling *is* the mechanism of
+in Sleep's analysis, precisely because the mechanism of scaling _is_ the mechanism of
 moat-widening. Each cycle of lower prices → more volume → greater purchasing power
 → further price reductions widens the competitive gap rather than merely sustaining it.
 This is the mouse-to-elephant journey where size itself is the defence.
 
 The scaling laws analysis also clarifies the danger of "harvesting" — extracting margin
 from customers rather than sharing scale gains. Sleep's 2005 "Measuring the Moat"
-appendix is explicit: *"Too much, however, and the moat is drained with negative
-consequences for longevity."* Costco's discipline of keeping margins structurally low is
+appendix is explicit: _"Too much, however, and the moat is drained with negative
+consequences for longevity."_ Costco's discipline of keeping margins structurally low is
 not generosity; it is the mechanism that preserves the skeletal integrity of the model. See
 [[Scaling Laws]] for the full biological and investor argument.
 
@@ -198,7 +198,7 @@ maps precisely onto Sleep's observation that the model is not
 industry-specific but is most visible where marginal cost structures allow
 cost advantages to be meaningful.
 
-Thiel's Amazon analysis in *Zero to One* is consistent with Sleep's, though
+Thiel's Amazon analysis in _Zero to One_ is consistent with Sleep's, though
 Thiel frames it as a monopoly-building exercise and Sleep frames it as a
 scale-economics-shared compounding cycle. The two framings are describing the
 same mechanism from different perspectives: Thiel from the founder's vantage

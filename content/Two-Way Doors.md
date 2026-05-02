@@ -10,19 +10,19 @@ Bezos divides all decisions into two categories:
 
 **Type 1 decisions** (one-way doors): consequential and irreversible, or
 nearly so. If you walk through and don't like what you see, you cannot return
-to where you were before. These require *methodical, careful, slow deliberation
-with great consultation*.
+to where you were before. These require _methodical, careful, slow deliberation
+with great consultation_.
 
 **Type 2 decisions** (two-way doors): reversible and changeable. If the
 decision turns out to be wrong, you can reopen the door and try again. These
-should be *made quickly by high-judgment individuals or small groups*.
+should be _made quickly by high-judgment individuals or small groups_.
 
 The diagnostic problem Bezos identifies in the 2015 letter is not the
 difficulty of the individual decision categories — it is the systematic
 misclassification that afflicts large organisations. As companies grow, they
 tend to treat most decisions as Type 1 even when they are Type 2. The result:
-*"slowness, unthoughtful risk aversion, failure to experiment sufficiently,
-and consequently diminished invention."*
+_"slowness, unthoughtful risk aversion, failure to experiment sufficiently,
+and consequently diminished invention."_
 
 ## The mechanism of miscategorisation
 
@@ -80,8 +80,8 @@ migrated to Echo and Alexa.
 
 ## Relationship to [[Disagree and Commit]]
 
-Two-Way Doors describes the *nature* of a decision. [[Disagree and Commit]]
-describes the *process* by which decisions are made and executed in the
+Two-Way Doors describes the _nature_ of a decision. [[Disagree and Commit]]
+describes the _process_ by which decisions are made and executed in the
 presence of disagreement. They operate in sequence: first, establish what
 kind of decision this is (Type 1 or Type 2), then apply the appropriate
 deliberation depth, then — when the decision must be made — commit to it
