@@ -71,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex({ renderEngine: "katex" }), // disabled — no math notation in this wiki; prevents $ currency signs being misread as math delimiters
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

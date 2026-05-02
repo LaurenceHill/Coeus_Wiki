@@ -1,6 +1,9 @@
 # Institutional Imperative
 
-**Source:** [[Berkshire Chairman's Letters]] — 1989 letter, "Mistakes of
+**Source:** [[sources/Buffett Partnership Letters]] — October 1967 letter
+for the earliest observation of the imperative from the outside (performance
+hysteria and institutional short-termism as an environmental force);
+[[Berkshire Chairman's Letters]] — 1989 letter, "Mistakes of
 the First Twenty-five Years" section; extended in 1994 letter,
 "Compensation" section; 1997 and 1998 letters, acquisition discussion
 sections; 2002 letter, "Corporate Governance" section; 2003 and 2004
@@ -72,6 +75,55 @@ companies rises, boards ratchet it upward regardless of performance. The
 benchmark that produces the imitation is not competitive advantage but
 social legitimacy: we act this way because others are acting this way, which
 demonstrates that acting this way is acceptable.
+
+## The 1967 precursor: performance hysteria observed from outside
+
+The Berkshire letters name and systematise the institutional imperative
+in 1989. But Buffett had identified the same force — and described its
+consequences in the investment environment — more than twenty years
+earlier, from the perspective of someone observing institutional
+behaviour rather than analysing it from within a corporation.
+
+The October 1967 partnership letter gives four reasons for reducing the
+partnership's performance target. The second reason is the most
+prescient: *"the securities markets are not the same as they were thirty
+or even fifteen years ago. When I first started, the market was
+dominated by individuals, and the occasional institution. Today the
+market is dominated by institutional money — pension funds, mutual
+funds, insurance companies — and these institutions have, by and large,
+adopted a remarkably similar approach to their investment activities."*
+
+The approach Buffett describes is a textbook example of what manifestation
+(4) of the institutional imperative will later formally identify as
+mindless imitation: *"The big investment institutions are setting up
+operations, and the big mutual fund companies are talking about 'performance'
+— the ability to outperform the Dow in the short term. Short-term oriented
+investment activity on the part of large institutions in the stock market
+is not a new development. But it now dominates the market, and I believe
+it is destroying much of the long-term orientation that made the market
+profitable for the careful investor in earlier periods."*
+
+The 1967 letter observes that this environment made the returns Buffett
+had achieved in the 1950s and early 1960s harder to replicate — not
+because Buffett's analytical method had become less sound, but because
+the institutional herding had reduced the supply of statistically cheap
+positions that method was designed to exploit. Other institutional buyers,
+under pressure to show short-term performance, had bid up the same cheap
+situations that once sat undisturbed. The logic is an early version of
+the insight that structural short-termism among institutional investors
+is an opportunity for genuinely patient investors — a theme Sleep will
+develop systematically in the [[Patience as Competitive Advantage]] pages
+two decades later.
+
+Buffett's conclusion from the 1967 observation: this is part of why he
+is reducing his target and — two years later — dissolving the partnership.
+He is not willing to participate in what the institutional market has
+become. The willingness to stop rather than adapt to a lower-quality
+environment is itself an application of the true conservatism principle:
+conventional behaviour (keep running the fund, adapt to the market
+environment) would be to continue; genuinely conservative behaviour is
+to recognise that the conditions that justified the original method have
+deteriorated and to act accordingly.
 
 ## The capital allocation connection
 
@@ -271,9 +323,9 @@ your treasure is, there will your heart be also."* Applied to directors: the
 relevant question is not whether a director receives consulting fees, legal
 fees, or supply-contract revenues *from this company*, but whether the
 director fee income itself constitutes "treasure." A director whose annual
-board income is $100,000 and whose total annual income is $110,000 is
-dependent in a way that matters; a director whose board income is $100,000
-out of $3 million of total income is not dependent in any meaningful sense.
+board income is \$100,000 and whose total annual income is \$110,000 is
+dependent in a way that matters; a director whose board income is \$100,000
+out of \$3 million of total income is not dependent in any meaningful sense.
 The formal "independence" label has confused the measurement instrument with
 the quantity being measured.
 
@@ -282,7 +334,7 @@ does not name. Buffett recounts having first-hand knowledge of a major
 acquisition proposal — favoured by management, blessed by the company's
 investment banker, offered at a price above the company's recent trading
 range — that was blocked by a subset of directors who each received
-approximately $100,000 annually in board and committee fees. The non-managing
+approximately \$100,000 annually in board and committee fees. The non-managing
 directors blocking the deal owned little stock except for shares received from
 the company; their open-market purchases had been nominal even though the
 stock had long traded below the acquisition price. In other words, these
@@ -292,12 +344,12 @@ same meeting at which the acquisition was rejected, the board voted itself a
 significant increase in directors' fees.
 
 *"I don't know which directors opposed letting shareholders see the offer. But
-I do know that $100,000 is an important portion of the annual income of some
+I do know that \$100,000 is an important portion of the annual income of some
 of those deemed 'independent,' clearly meeting the Matthew 6:21 definition of
 'treasure.' If the deal had gone through, these fees would have ended."*
 
 Berkshire's own board, by contrast, meets all four tests Buffett considers
-meaningful: every director is a member of a family owning at least $4 million
+meaningful: every director is a member of a family owning at least \$4 million
 of company stock; none of those shares were acquired through options or
 grants; no director receives committee, consulting, or board fees that are
 more than a tiny portion of their annual income; and no directors' and
@@ -313,19 +365,19 @@ Inc. and receives options on 1% of the company.
 
 Fred's rational self-interest under a fixed-price ten-year option is to skip
 dividends entirely and use all of Stagnant's earnings to repurchase shares.
-The arithmetic: assume Stagnant earns $1 billion annually on $10 billion of
-net worth, or $10 per share on 100 million shares. Over ten years of
+The arithmetic: assume Stagnant earns \$1 billion annually on \$10 billion of
+net worth, or \$10 per share on 100 million shares. Over ten years of
 retained earnings and repurchases at a constant P/E of 10, the share count
-falls to 38.7 million and earnings per share rise to $25.80. The stock
-appreciates 158%. Fred collects $158 million on his 1% option — *"despite
+falls to 38.7 million and earnings per share rise to \$25.80. The stock
+appreciates 158%. Fred collects \$158 million on his 1% option — *"despite
 the business itself improving not at all."* More strikingly, Fred could have
-made more than $100 million even if Stagnant's earnings *fell* 20% during
+made more than \$100 million even if Stagnant's earnings *fell* 20% during
 the period.
 
 Fred can also enrich himself by deploying retained earnings into
 disappointing projects: even if the initiatives produce only a 5% return,
 the retained capital drives up the option value. At a constant P/E of 10,
-Fred still pockets $63 million. His shareholders are poorer; the option
+Fred still pockets \$63 million. His shareholders are poorer; the option
 has delivered apparent "alignment."
 
 The mathematical problem is conceptually simple: a fixed-price option gives
@@ -389,7 +441,7 @@ mechanism distinct from, but continuous with, the 2002 boardroom
 atmosphere critique.
 
 The 2019 argument begins with director incentives. Directors are
-typically paid $250,000 to $300,000 annually or more in cash and stock —
+typically paid \$250,000 to \$300,000 annually or more in cash and stock —
 a sum that, for many, constitutes a significant portion of their
 household income. This creates an obvious interest in maintaining the
 directorial relationship. The people most likely to become directors, and
@@ -430,15 +482,18 @@ prestige, and the social connections have the wrong ones.
 ## The connection to Munger's psychology
 
 The institutional imperative overlaps significantly with several of the
-psychological tendencies Munger documents in "The Psychology of Human
-Misjudgment." Manifestation (3) — studies supporting leadership's cravings
-— is a case of incentive-caused bias: the analysts preparing the studies are
-paid by people whose craving they are supporting. Manifestation (4) —
-mindless imitation — overlaps with social proof and the lollapalooza effect
-when multiple forces (incentive, social proof, authority) point in the same
-direction simultaneously. The imperative as a whole is what happens when
-these psychological tendencies are organised at the institutional level rather
-than operating on individuals in isolation.
+psychological tendencies Munger documents in [[Psychology of Human
+Misjudgment]]. Manifestation (3) — studies supporting leadership's cravings
+— is a case of [[Incentive-Caused Bias]]: the analysts preparing the studies
+are paid by people whose craving they are supporting, and incentive-caused
+bias predicts that even decent analysts will subconsciously shade their work
+toward the preferred conclusion. Manifestation (4) — mindless imitation —
+is Social-Proof Tendency (#15): when every peer company is making
+acquisitions, the social proof communicated is that acquisition is the correct
+course. When multiple forces (incentive, social proof, authority) align
+simultaneously, the result is what Munger calls the [[Lollapalooza Effect]]:
+the combined pressure is extreme and largely unpredictable from examining any
+single force in isolation.
 
 The [[Denial, Anchoring, Drift]] page in this wiki captures a related set of
 slow-moving errors in individual investment decisions. The institutional
@@ -448,9 +503,72 @@ conflicts with current commitments, operating at the organisational level
 and amplified by the sycophancy of people whose incentives align with the
 leader's preferences.
 
+## Annual meeting additions: sycophancy, derivative exit, seamless web
+
+[[sources/Buffett and Munger Unscripted]] adds three annual meeting
+formulations to this page.
+
+**The sycophant CEO problem.** A recurring theme across many meetings:
+the institutional imperative operates most powerfully when a CEO is
+surrounded by people whose careers depend on agreeing with him. Buffett's
+formulation: the most dangerous board is one filled with people who owe
+their positions to the CEO and who will never challenge the CEO's judgment.
+This is not a character criticism of the directors — it is a structural
+observation. An advisor whose income depends on the executive's goodwill
+cannot give independent advice, no matter how honest their intentions.
+
+The sycophancy problem compounds the imperative: once a leader has
+surrounded himself with agreement, the institutional forces that push
+toward bad decisions (following industry norms, pursuing acquisitions,
+expanding for its own sake) face no internal resistance. The result is
+organisations that drift toward whatever the CEO wants to do, dressed in
+the language of whatever rationale the advisors can construct to support it.
+See [[concepts/Incentive-Caused Bias]] for the underlying mechanism.
+
+**The derivative book exit.** Buffett has described at annual meetings the
+experience of exiting General Re's derivative book after the acquisition.
+It took years. The positions could not be unwound quickly without material
+market impact. The counterparties had to be negotiated with individually.
+The accounting — mark-to-model — meant the book's reported value did not
+reflect the actual cost of exit. The institutional imperative insight:
+the people who built the book had organisational incentives to maintain it
+(their compensation was tied to the book's mark-to-model value); exiting
+required overcoming those incentives from above, which is precisely what
+the institutional imperative says is difficult.
+
+The derivative exit is a case study in how the imperative embeds itself in
+institutional structures (a book of contracts, each requiring bilateral
+agreement to unwind) that then resist change independent of any individual's
+preferences. The contracts themselves were the institutional inertia.
+
+**The seamless web of trust.** Buffett at annual meetings returns repeatedly
+to the concept of what makes Berkshire's operating model work: a culture
+in which managers behave well without monitoring because the culture itself
+selects for and reinforces trustworthy behaviour. His phrase: *"a seamless
+web of deserved trust."* This is the positive version of the institutional
+imperative: just as organisations can embed and propagate bad behaviour
+through structural incentives, they can embed and propagate good behaviour
+through the same mechanisms.
+
+The operational implication: Berkshire does not rely on compliance systems,
+detailed oversight, or elaborate governance mechanisms to ensure subsidiary
+managers behave ethically. It relies on hiring well, on the culture signal
+from Omaha, and on the reputational consequences of betrayal. The seamless
+web is maintained not by rules but by the self-reinforcing nature of a
+trustworthy culture — which attracts more trustworthy people and repels
+those who would game the rules.
+
 ## Related
 
 - [[Berkshire Chairman's Letters]]
+- [[sources/Buffett and Munger Unscripted]] — sycophancy problem, derivative
+  book exit, seamless web of trust
+- [[Psychology of Human Misjudgment]] — Munger's systematic framework;
+  the formal psychological foundations of the imperative
+- [[Incentive-Caused Bias]] — the mechanism behind Manifestation (3);
+  the Westinghouse and auditor-capture cases
+- [[Lollapalooza Effect]] — what happens when the imperative's forces all
+  align simultaneously; the acquisition-disaster pattern
 - [[Berkshire Business Principles]] — Buffett's structural response to
   the imperative at Berkshire
 - [[Acquisition Discipline]] — the imperative is why acquirers overpay;
@@ -463,7 +581,5 @@ leader's preferences.
   investor's version of the same organisational tendency
 - [[Mr. Market]] — the imperative produces companies that deserve low
   prices; Mr. Market occasionally misprices even those
-- [[Issuance and Buyback Discipline]] — the capital-charge principle
-  extends to Berkshire's own shares; the same symmetry requirement applies
 - [[Investment Risk vs Beta]] — factor three in the real-risk framework
   (management alignment) is directly addressed by the compensation design

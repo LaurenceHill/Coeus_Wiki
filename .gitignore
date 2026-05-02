@@ -17,10 +17,6 @@ raw/
 .obsidian/
 
 # Operational meta-files — local only
-CLAUDE.md
-FIRST_RUN.md
-INGEST_RUN.md
-RESUME.md
-log.md
-PUBLISH.md
-migrate_to_quartz.sh
+
+# Operational meta-files folder — local only
+_admin/

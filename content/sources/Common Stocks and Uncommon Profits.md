@@ -160,5 +160,4 @@ does not add material beyond what is in the text.
   the case for focus
 - [[Selling vs Holding Forever]] — the holding philosophy; Fisher is the
   primary source
-- [[Paths to Wealth Through Common Stocks]] — the separate Fisher book;
-  not yet ingested
+- [[Paths to Wealth Through Common Stocks]] — the separate Fisher book

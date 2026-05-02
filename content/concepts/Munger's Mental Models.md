@@ -1,9 +1,13 @@
 # Munger's Mental Models
 
-**Source:** [[Berkshire Chairman's Letters]] — 2022 letter, "Nothing Beats
+**Sources:** [[Berkshire Chairman's Letters]] — 2022 letter, "Nothing Beats
 Having a Great Partner" section; Buffett's own note added at the section's
 close; 2023 letter, "Charlie Munger — The Architect of Berkshire Hathaway"
-tribute
+tribute. [[sources/Psychology of Human Misjudgment]] — Munger's 2005 revised
+speech, the systematic foundation of the framework described here.
+[[sources/Poor Charlie's Almanack]] — the eleven talks, 1986–2007, where the
+framework is applied and demonstrated at length; see especially the five
+problem-solving notions (Talk 4) and the latticework concept (Talk 2).
 
 ## Summary
 
@@ -224,14 +228,115 @@ What distinguishes this passage from the standard partnership narrative is the q
 
 The 2023 tribute also contains a formulation that ties together the patience, quality, and concentration arguments that appear throughout the corpus: *"Mistakes fade away; winners can forever blossom."* This is the asymmetry argument from [[Compounding and Retained Earnings]] — weeds wither, flowers bloom — applied to the career as a whole. A portfolio manager who makes many mediocre decisions and a handful of great ones will find that the great ones compound so powerfully as to render the mediocre ones irrelevant over time. The converse does not hold: mistakes do not compound into disaster at the same rate, provided they do not involve permanent capital loss.
 
+## The Poor Charlie's Almanack framework: five problem-solving notions
+
+The 2022 aphorisms and the psychological system are the best-known
+Munger frameworks in this wiki. The Almanack adds a third layer: a set of
+five generalised problem-solving procedures that Munger applies to every
+serious analytical problem. These appear most explicitly in Talk 4 of the
+Almanack ("Practical Thought About Practical Thought?", 1996) and
+underpin the rest of the talks.
+
+**1. Decide the big "no-brainer" questions first.** Before engaging the hard
+parts of any problem, identify the questions whose answers are obvious and
+whose implications are large. In the Coca-Cola thought experiment: it is
+immediately obvious that a generic beverage will never reach \$2 trillion, so
+the first move must be to build a protected trademark. That single decision
+shapes everything else. The technique prevents analytic effort from being
+wasted on refinements when the major structural choices are still open.
+
+**2. Apply numerical fluency.** Without the ability to work comfortably with
+numbers — compound interest, probability, scale — you are, in Munger's
+phrase, "like a one-legged man in an ass-kicking contest." The Coca-Cola
+thought experiment demonstrates this: Munger immediately calculates how
+many eight-ounce servings of water are consumed globally each day, what
+fraction Coke could realistically capture, and what profit-per-serving would
+be required to reach \$2 trillion. The numerical check disciplines the analysis
+and catches inconsistencies early.
+
+**3. Invert always.** See the full treatment at [[concepts/Inversion]]. After
+building the positive case, ask: what must be avoided at all costs? The Coke
+thought experiment produces four specific inversions: avoid aftertaste that
+limits per-sitting consumption; avoid losing trademark control; avoid envy
+by plainly deserving success; avoid sudden large flavour changes. The New
+Coke fiasco — which threatened Coke's most valuable trademark — is Munger's
+proof that the positive analysis alone was insufficient.
+
+**4. Apply elementary multidisciplinary wisdom.** The analysis must draw from
+multiple disciplines — psychology (Pavlovian and operant conditioning),
+economics (scale advantages), chemistry (flavour science), history (how
+durable brands were built). The latticework is the precondition; without it
+the analyst sees only the part of the problem that falls within his own
+speciality. See [[concepts/Latticework of Mental Models]] for the full account.
+
+**5. Look for lollapalooza effects.** The biggest results come not from any
+single factor but from large combinations of factors acting in the same
+direction. In the Coke analysis: operant conditioning × Pavlovian conditioning
+× social proof × scale economics × global ubiquity = an autocatalytic reaction
+that becomes self-reinforcing. The analyst who looks for individual causes
+will underestimate both the strength of the result and the difficulty of
+replication.
+
+These five notions are not domain-specific to investment. They are a general
+analytical procedure applicable to business problems, educational design,
+policy questions, and personal decisions. The Almanack demonstrates their
+use on the Coca-Cola problem as a teaching exercise; the procedure itself is
+what Munger considers the transmissible insight.
+
+## The psychological system: the foundation beneath the aphorisms
+
+The 2022 aphorisms are the surface expression of a systematic framework
+Munger spent several decades constructing. The framework's fullest statement
+is [[Psychology of Human Misjudgment]] — the 2005 revised speech in which
+Munger catalogues twenty-five psychological tendencies that cause intelligent,
+decent people to think and act badly.
+
+The framework has three architectural features that the aphorisms only
+partially convey.
+
+**The latticework of theory.** Tendency #24 (Reason-Respecting) explains why
+the framework is organised as it is. Munger argues that learning is most
+effectively retained and used when it is hung on *"a latticework of theory
+answering the question: Why?"* This is the reason the checklist approach
+works: not merely listing things to check, but understanding the mechanism
+behind each check. The aphorism "If you don't see the world the way it is,
+it's like judging something through a distorted lens" points at the outcome;
+the twenty-five tendencies catalogue the specific types of lens distortion
+and their mechanisms.
+
+**The checklist as operating procedure.** Use-It-or-Lose-It Tendency (#19)
+explains why the framework must be practised actively. Skills that are not
+exercised atrophy. Munger's explicit instruction: *"It is also essential for
+a thinking man to assemble his skills into a checklist that he routinely
+uses. Any other mode of operation will cause him to miss much that is
+important."* The aircraft simulator is the model — not a one-time study but
+a continuous practice that prevents the degradation of rarely-used but
+critical skills.
+
+**The Lollapalooza Effect as the system's culmination.** The twenty-fifth
+tendency — described in detail at [[Lollapalooza Effect]] — is the most
+original idea in the speech and the one Munger considered most neglected. It
+describes what happens when multiple tendencies align simultaneously: the
+outcome is extreme, non-linear, and unpredictable from examining any tendency
+in isolation. This is why the full system matters more than any single
+tendency: an investor who knows about incentive-caused bias but not about
+how it combines with social proof and authority-misinfluence will
+underestimate the magnitude of failures it can produce.
+
+The most consequential single tendency for investors is #1: [[Incentive-
+Caused Bias]]. People of normal decency, driven by the incentive structures
+around them, drift into harmful behaviour while sincerely believing they
+are acting correctly. This is the mechanism behind the Institutional
+Imperative Buffett documents, behind the accounting distortions catalogued
+in Earnings Integrity, and behind the advisor-capture problems Munger
+describes throughout the speech.
+
 ## Caveats
 
 The 2022 letter presents these as aphorisms from a podcast, not as a
-systematic framework. Munger's complete intellectual architecture is in
-his own speeches and writings, most accessibly in *Poor Charlie's Almanack*
-(published independently of the Berkshire corpus and not yet ingested into
-this wiki). The page records what appeared in the Berkshire letters; readers
-wanting the full framework should go to that source.
+systematic framework. The full framework is in [[Psychology of Human
+Misjudgment]], now ingested into this wiki. This page records what appeared
+in the Berkshire letters; the source page contains the systematic treatment.
 
 The aphorisms also stand on a body of reasoning that the letters only
 partially contain. The zero-multiplier argument is fully developed in
@@ -241,6 +346,21 @@ Berkshire corpus. This page is an entry point, not a complete account.
 
 ## Related
 
+- [[sources/Poor Charlie's Almanack]] — the primary source for the five
+  problem-solving notions and the latticework concept
+- [[concepts/Latticework of Mental Models]] — the full treatment of the
+  multidisciplinary framework; the structural argument for why the models
+  must be held in combination rather than in isolation
+- [[concepts/Inversion]] — Munger's most reliably applied technique; "invert,
+  always invert"; the rustic's prescription and the iron opinion standard
+- [[concepts/Advantages of Scale]] — the microeconomic layer of the
+  latticework; Munger's taxonomy of scale mechanism types
+- [[sources/Psychology of Human Misjudgment]] — Munger's systematic framework;
+  the full list of 25 tendencies with their mechanisms and antidotes
+- [[concepts/Lollapalooza Effect]] — the most original concept in the framework;
+  how confluences of tendencies produce extreme outcomes
+- [[concepts/Incentive-Caused Bias]] — Tendency #1 and its investing implications;
+  the most consequential single tendency for investors and managers
 - [[Berkshire Chairman's Letters]]
 - [[Leverage and Liquidity]] — the full treatment of the zero-multiplier
   and leverage arguments
@@ -251,7 +371,8 @@ Berkshire corpus. This page is an entry point, not a complete account.
   "a great company keeps working after you are not"
 - [[Mr. Market]] — the voting machine / weighing machine framework
 - [[Denial, Anchoring, Drift]] — Sleep's catalogue of the same cognitive
-  errors Munger's rationality argument targets
+  errors Munger's rationality argument targets; maps onto Tendencies #11,
+  #5, and #16
 - [[ABCs of Business Decay]] — the organised failure-mode analysis; the
   inversion method applied to businesses
 - [[Compounding and Retained Earnings]] — the case study that the patience

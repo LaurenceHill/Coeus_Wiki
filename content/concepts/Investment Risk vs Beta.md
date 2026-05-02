@@ -274,6 +274,45 @@ uncertainty, market volatility — was not the risk that actually destroyed
 wealth. The risk that destroyed wealth was failing to own productive assets
 at all, or holding nominal instruments in an inflationary environment.
 
+## Annual meeting additions: derivatives as systemic risk, and sigma events
+
+[[sources/Buffett and Munger Unscripted]] adds a systemic dimension to the
+investment risk argument that is less prominent in the Chairman's Letters.
+
+**Derivatives as systemic risk amplifiers.** The five-factor framework in
+the 1993 letter treats risk at the individual security or company level.
+The annual meetings extend the argument to systemic risk: large, complex
+derivative books create correlated exposures across institutions that are
+not visible in any individual institution's balance sheet. When stress
+events occur, correlations that models assumed to be low or zero spike
+toward 1.0, and institutions that appeared to be independently safe become
+interdependent in their failure modes. This is not individual investment
+risk; it is systemic risk that can destroy otherwise-sound investments by
+disrupting the financial system itself.
+
+Buffett's application of the real-risk framework: the risk that matters in
+a systemic crisis is not the individual position's beta — it is the risk
+that the counterparty network surrounding a position collapses. In 2008,
+fundamentally sound businesses that had nothing to do with subprime mortgages
+experienced credit seizure because the financial institutions serving them
+were insolvent. Beta measured against the prior period's daily movements was
+useless as a predictor of this risk; it had no model for the systemic channel.
+
+**Sigma events in markets are not rare.** A recurring annual meeting point:
+financial markets produce events that models describe as 25-standard-deviation
+occurrences far more frequently than any normal distribution would predict.
+The implication is that risk models built on historical distributions
+systematically underestimate tail exposure — which means that leverage that
+looks "safe" based on historical data is not safe in practice. This connects
+directly to the LTCM case (see [[concepts/Leverage and Liquidity]]): their
+models said the 1998 event was essentially impossible; it happened.
+
+The practical investment risk implication: any strategy that would be
+destroyed by a 5-sigma event should be treated as having meaningful
+probability of such destruction, even if the historical record says
+the probability is infinitesimal. The correct risk discount for these
+strategies is much larger than historical data suggests.
+
 ## Related
 
 - [[Berkshire Chairman's Letters]] — primary source (1993 letter, 2006 letter, 2008 letter, 2010 letter)
@@ -298,3 +337,8 @@ at all, or holding nominal instruments in an inflationary environment.
   to the Helper system: 47 years of outperformance charging almost no fees
 - [[American Tailwind]] — the 77-year empirical record that validates the
   consumption-risk framework; equities vs. gold and bonds over long horizons
+- [[sources/Buffett and Munger Unscripted]] — derivatives systemic risk,
+  sigma events, LTCM as case study
+- [[concepts/Leverage and Liquidity]] — LTCM and the sigma-event argument
+- [[concepts/Important and Knowable]] — tail distributions are important
+  but not reliably knowable from historical data

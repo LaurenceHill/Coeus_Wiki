@@ -54,7 +54,7 @@ book value is *one input* into intrinsic value, useful as a sanity
 check and as a long-term track of capital preserved or destroyed,
 but useless as a substitute for the larger judgement. The 1985
 letter's discussion of the textile-machinery auction — equipment
-with a book value of $866,000 sold for less than the cost of removal
+with a book value of \$866,000 sold for less than the cost of removal
 — is the extreme illustration: book value can be substantial when
 intrinsic value is zero. The reverse is equally common: businesses
 like See's where intrinsic value has compounded far beyond the book
@@ -76,7 +76,7 @@ business fails. The textile case shows this is not generally true.
 For commodity businesses with industry-wide overcapacity, the
 liquidation value of plant and equipment can be a fraction of book.
 Burlington Industries, which Buffett uses as the 1985 case study,
-spent $3 billion of capital expenditure between 1964 and 1985 trying
+spent \$3 billion of capital expenditure between 1964 and 1985 trying
 to remain competitive in textiles, ending up with sales-per-share
 purchasing power one-third of what it had been twenty years earlier
 in real terms. The capital was on the books; it was not, in any
@@ -131,7 +131,7 @@ The 1985 letter contains the most-quoted application of the
 distinction: the discussion of the *Washington Post Company*. WPC
 was bought in mid-1973 at not more than one-quarter of its
 then-per-share intrinsic business value. The market valuation
-($100 million) and the intrinsic-value estimate ($400–500 million)
+(\$100 million) and the intrinsic-value estimate (\$400–500 million)
 were both visible to the same set of investors. The advantage,
 Buffett writes, *"was attitude: we had learned from Ben Graham that
 the key to successful investing was the purchase of shares in good
@@ -185,13 +185,13 @@ the investment was poor. *"In all cases, what is clear is that book value
 is meaningless as an indicator of intrinsic value."*
 
 The Scott Fetzer case is the most concrete numerical illustration.
-Berkshire purchased Scott Fetzer in early 1986 for $315.2 million when
-its book value was $172.6 million — paying a $142.6 million premium in
+Berkshire purchased Scott Fetzer in early 1986 for \$315.2 million when
+its book value was \$172.6 million — paying a \$142.6 million premium in
 the belief that intrinsic value was close to double book. Over the
-following nine years, book value fell from $172.6 million to $94 million
+following nine years, book value fell from \$172.6 million to \$94 million
 as goodwill charges progressively reduced the carrying value on
 Berkshire's books. Over the same period, earnings nearly doubled: from
-$40.3 million in 1986 to $79.3 million in 1994. The carrying value
+\$40.3 million in 1986 to \$79.3 million in 1994. The carrying value
 halved while the economic value grew substantially.
 
 *"Clearly, the intrinsic value of the business has consistently grown,
@@ -269,7 +269,7 @@ groves" — and subtracting the deferred tax liability on unrealised gains
 in the equity portfolio.
 
 The first and most valuable grove is the collection of wholly-owned
-non-insurance businesses. These earned $16.8 billion after tax in 2018,
+non-insurance businesses. These earned \$16.8 billion after tax in 2018,
 and Buffett describes the relevant measure as earnings remaining *after*
 all income taxes, interest, management compensation (cash and stock-based),
 restructuring costs, depreciation, amortisation, and headquarters
@@ -277,17 +277,17 @@ overhead — a figure he explicitly contrasts with the adjusted EBITDA
 presentation common elsewhere.
 
 The second grove is the equity portfolio of marketable securities, worth
-approximately $173 billion at year-end 2018, with a deferred tax liability
-of roughly $14.7 billion embedded within it.
+approximately \$173 billion at year-end 2018, with a deferred tax liability
+of roughly \$14.7 billion embedded within it.
 
 The third grove is a set of partly-owned businesses accounted for under the
 equity method — principally Kraft Heinz (26.7%), Berkadia and Electric
 Transmission Texas (50% each), and Pilot Flying J (38.6%).
 
-The fourth grove is Berkshire's cash and fixed-income holdings: $112 billion
-in Treasury bills and equivalents, plus $20 billion in other fixed-income,
+The fourth grove is Berkshire's cash and fixed-income holdings: \$112 billion
+in Treasury bills and equivalents, plus \$20 billion in other fixed-income,
 at year-end 2018. Buffett designates a portion of this as permanently
-untouchable — at least $20 billion is pledged as a permanent liquidity
+untouchable — at least \$20 billion is pledged as a permanent liquidity
 reserve. See [[Leverage and Liquidity]].
 
 The fifth grove is the insurance float. Float appears as a liability on the
@@ -316,7 +316,7 @@ in an intellectual contest than to have opponents who have been
 taught that thinking is a waste of energy?"* — but the disagreement
 is real and is the foundation of the active-vs-passive investing
 contradiction. A future contradiction page on
-[[Active vs Passive Investing]] (planned) is the natural home for
+[[Active vs Passive Investing]] is the natural home for
 the academic side of this argument.
 
 The Sleep position in the [[Nomad Partnership Letters]]

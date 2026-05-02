@@ -90,8 +90,8 @@ self-critical about it. The investor who believes a stock is worth holding for
 many years because the underlying business is excellent should not routinely
 miss purchases because she placed limit orders a fraction of a point below
 the market and the stock never reached them. Fisher illustrates this with the
-case of a client who refused to pay $34¾ for a stock he could have bought
-at $34½, watched it rise more than 50% over the following weeks, and then
+case of a client who refused to pay \$34¾ for a stock he could have bought
+at \$34½, watched it rise more than 50% over the following weeks, and then
 never had the opportunity to buy it back at anything close to his original
 limit. The potential gain from minor price negotiations is trivially small
 compared to the potential loss from failing to establish a position in a

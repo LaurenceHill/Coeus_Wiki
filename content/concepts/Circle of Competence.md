@@ -1,7 +1,8 @@
 # Circle of Competence
 
 **Source:** [[Berkshire Chairman's Letters]] — 1996 letter; extended
-in 1999 and 2001 letters
+in 1999 and 2001 letters; [[sources/Buffett and Munger Unscripted]] —
+Part 8 (Circle of Competence), drawn from multiple annual meetings 1994–2024
 
 ## Summary
 
@@ -64,13 +65,162 @@ Sleep-side catalogue of how investors who genuinely understand a situation
 still fail to act on it. Buffett's self-criticism in the 2001 letter is an
 unusually candid illustration of the same failure from a different direction.
 
+## Edge awareness: Munger's formulation
+
+Munger at annual meetings provides the sharpest single-sentence formulation
+of what circle of competence actually requires:
+
+*"If you have doubts about whether something is in your circle, it isn't."*
+
+And its corollary:
+
+*"It's not a competency if you don't know the edge of it."*
+
+These are not the same point. The first is a decision rule: uncertainty about
+inclusion is itself evidence of exclusion. The second is an epistemological
+claim: competence is defined by boundary awareness, not by knowledge depth.
+An investor who can evaluate a business perfectly well within a limited domain
+but cannot say where that domain ends does not actually possess a circle of
+competence — he possesses knowledge that might extend further than it does,
+and he doesn't know where it stops.
+
+The practical implication is uncomfortable: every investor who claims a circle
+of competence should be able to name the *edge cases* — the businesses that
+are on the boundary and about which he is genuinely uncertain. If no such
+cases exist in his mental map, he has not done the mapping work.
+
+## Change as threat, not opportunity
+
+One of the most consistent themes across 30 years of annual meeting Q&A is
+Buffett and Munger's view of rapid technological or market change: it is
+almost always a *threat* to existing competitive advantages rather than an
+*opportunity* for the investor. The circle of competence implication is
+direct — fast-changing industries are harder to put inside a circle because
+the circle's contents keep shifting.
+
+The formulation: in a stable industry, understanding the competitive position
+today gives a reasonable approximation of the competitive position in ten
+years. In a fast-changing industry, the analysis must be redone continuously,
+which means the work is never finished and the advantage of deep prior
+knowledge erodes quickly. The investor who understood the newspaper business
+in 1980 had, by 2000, not a ten-year-old insight but a dangerously outdated
+one.
+
+This is not a counsel against investing in technology — Apple, for example,
+became one of Berkshire's largest positions. It is a counsel against
+confusing familiarity with a technology product (using an iPhone) with
+understanding the *business* of that company within a competitive landscape
+that is stable enough to project.
+
+## Smart-once versus stay-smart businesses
+
+A related distinction made at meetings: some businesses require you to be
+smart once — to identify a durable competitive advantage that does not require
+continuous re-analysis. Others require you to stay smart continuously — to
+keep tracking a fast-moving competitive landscape just to maintain
+understanding, let alone an edge.
+
+The canonical smart-once business: a network television affiliate in the
+1970s. Once you understood the regulatory moat and local monopoly on eyeballs,
+the business would hold its economics for a decade without further analysis.
+
+The canonical stay-smart business: retailing. Buffett has repeatedly said he
+has never been able to understand what will be the winning retail format a
+decade from now. Retailers who look durable can be disrupted rapidly by a
+new format; the competitive landscape is in continuous flux. Sears looked
+unassailable and then Walmart appeared. Walmart looked unassailable and then
+Amazon appeared. In retailing, the circle must be continuously reworked.
+
+## The three-box framework
+
+At multiple meetings, Buffett describes a three-category sorting system for
+investment ideas:
+
+**In** — businesses he understands and whose economics can be assessed with
+confidence. These are the only ones worth spending serious analytical time on.
+
+**Out** — businesses he does not understand and knows he does not understand.
+No time needed; move on.
+
+**Too hard** — businesses where understanding might be achievable with more
+work, or where the competitive dynamics are genuinely uncertain even after
+analysis. These get filed, not discarded — circumstances change, and a
+business in the "too hard" pile in one decade may move to the "in" pile as
+the competitive position stabilises.
+
+The critical move in this framework is *not* trying to promote "too hard"
+businesses into "in" by working harder. The work needed to understand a
+business that is genuinely at the boundary of competence is often more than
+the expected reward justifies, and the risk of self-deception increases with
+effort. It is often better to pass entirely than to reach.
+
+## Technology case studies: misses and the one hit
+
+The annual meetings are candid about Berkshire's specific technology
+misses and the reasoning behind them.
+
+**Google:** Buffett was present for GEICO's experience paying \$10–11 per
+click for search-engine advertising that worked extraordinarily well.
+He met the Google founders. He still did not buy — he could not satisfy
+himself that he understood the durability of the competitive position a
+decade out. With hindsight it was clearly within reach, but at decision time
+he called it outside his circle. Munger's retrospective: "stupidity."
+
+**Walmart:** Buffett has described the Walmart miss as a "total cinch" —
+meaning he understood the business, saw it was extraordinary, and failed to
+act because the price seemed slightly high at the moment of consideration.
+This is a different error from a circle-of-competence failure; it is a
+[[Patience as Competitive Advantage]] failure. He understood Walmart but
+didn't buy at what turned out to be a trivially high price.
+
+**Amazon:** The Amazon miss Buffett characterises as a failure of imagination
+rather than analysis — "a miracle" in the sense that he had never seen a
+business execute at that pace across so many domains simultaneously. He
+understood retail; he did not anticipate that a single competitor could do to
+all of retail what Walmart had done to general merchandise.
+
+**Apple:** The successful technology investment Buffett makes most explicitly
+was *not* a technology analysis — it was a consumer behaviour and ecosystem
+analysis. He assessed: how attached are iPhone users to their phones? What
+is the switching cost? How much of a user's life runs through this device?
+These are questions about consumer psychology and habit formation, not
+about processor architecture or software engineering. The circle that included
+Apple was not a technology circle; it was a consumer-franchise circle.
+
+**IBM vs. Apple as different decision types.** Buffett has explicitly contrasted
+his IBM analysis (which did not work out) and his Apple analysis. IBM was
+analysed as an enterprise technology company — a question about competitive
+position in corporate IT infrastructure — a domain where his circle was thinner.
+Apple was analysed as a consumer brand with unusual switching costs — a domain
+where his circle included deep prior work on Coca-Cola, See's, and similar
+businesses. The lesson is not that consumer is always in the circle and
+enterprise is not; it is that the same *label* (technology) can cover
+radically different underlying analytical questions.
+
+**Industry growth ≠ investment returns.** A recurring annual meeting
+observation that anchors the technology discussion: the auto industry grew
+from nothing in 1900 to an enormous fraction of the global economy by 1960.
+There were thousands of auto companies. A long-term investor in "autos" who
+held a diversified basket would likely have lost money, because most
+entrants failed and the competitive destruction was savage. The same logic
+applied to airlines, which Buffett repeats: *"Orville Wright was the first man
+to fly a sustained, controlled flight. He should have been shot."* (The joke
+being: airlines have destroyed most of the capital invested in them since 1903.)
+Industry growth is a necessary but not sufficient condition for investment
+returns; the question is always whether any durable competitive position
+exists within the growing industry that an investor can identify and own.
+
 ## Related
 
 - [[Berkshire Chairman's Letters]]
-- [[Investment Risk vs Beta]]
+- [[sources/Buffett and Munger Unscripted]]
+- [[concepts/Investment Risk vs Beta]]
 - [[Concentration]]
 - [[Buffett's Four Criteria]]
 - [[Margin of Safety]]
 - [[Franchise vs Business Economics]]
 - [[Destination Analysis]]
 - [[Fifteen Points]]
+- [[Patience as Competitive Advantage]]
+- [[concepts/Important and Knowable]] — macro-level application of the same
+  filter: what is in the circle of what can be known about the world?

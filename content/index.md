@@ -1,6 +1,6 @@
-# Wiki: Investing Frameworks Across Five Sources
+# Wiki: Investing Frameworks Across Ten Sources
 
-A cross-referenced wiki built from five primary sources, organised so that
+A cross-referenced wiki built from primary sources, organised so that
 shared ideas, genuine differences, and the occasional contradiction are easy
 to find. Links use `[[brackets]]` and resolve to files of the same name in
 this directory tree.
@@ -20,6 +20,23 @@ this directory tree.
   (ingestion complete; 1977–2024 letters read)
 - [[Zero to One]] — Peter Thiel with Blake Masters, 2014
   (ingestion complete)
+- [[sources/Psychology of Human Misjudgment]] — Charlie Munger's 2005
+  revised speech; systematic catalogue of 25 psychological tendencies;
+  the fullest statement of the Munger framework (ingestion complete)
+- [[sources/Buffett Partnership Letters]] — Warren E. Buffett, 1957–1969;
+  twelve years of partnership letters documenting the cigar-butt era,
+  the three investment categories, and the transition to qualitative
+  compounders; 31.6% CAGR vs 9.1% Dow over twelve years (ingestion complete)
+- [[sources/Poor Charlie's Almanack]] — Charlie Munger, edited by Peter
+  Kaufman, 2005; eleven talks 1986–2007; the latticework of mental models,
+  five problem-solving notions, Advantages of Scale, Inversion, and the
+  Coca-Cola lollapalooza thought experiment as the primary positive-lollapalooza
+  case; Talk 11 is the same text as Psychology of Human Misjudgment (ingestion complete)
+- [[sources/Buffett and Munger Unscripted]] — Alex W. Morris, 2024; secondary
+  source compiling 31 years of Berkshire annual meeting Q&A (1994–2024),
+  organised thematically into 13 parts; richest single source for NICO
+  discipline, See's teaching chain, EBITDA critique, LTCM case, and the
+  Important-and-Knowable macro framework (ingestion complete)
 
 ## Concepts
 
@@ -31,12 +48,17 @@ this directory tree.
   by the market's appraisal of the company, industry, and market-as-a-whole;
   the fourth dimension of conservative investment
 - [[Scale Economics Shared]] — Sleep's central business-model archetype
+- [[Scaling Laws]] — Sleep's biological framework for why simple-skeleton businesses
+  survive long enough to compound; Kleiber's Law applied to business longevity (manual
+  input — Laurence)
 - [[Robustness Ratio]] — Sleep's measure of moat strength
 - [[Destination Analysis]] — Sleep's terminal-state framing of business value
 - [[Working Backward]] — Bezos's customer-back design discipline
 - [[Buffett's Four Criteria]] — Buffett's compressed selection framework (1977; reinforced 1978, 1982)
 - [[Tailwinds vs Headwinds]] — Buffett's argument for industry choice over operator skill (1977; reinforced 1978–1985)
-- [[Concentration]] — Buffett's policy of large positions in a small number of well-understood businesses (1978; financial-strength prerequisite added 1984)
+- [[concepts/Buffett's Three Investment Categories]] — Generals (undervalued passive positions), Workouts (event-driven arbitrage), Controls (influence positions); four-way refinement by 1966; the taxonomy of the partnership era (1957–1969)
+- [[concepts/True Conservatism vs Conventionalism]] — genuine safety (price below intrinsic value) vs. the appearance of safety (owning what institutions own); the most underrated distinction in the early Buffett corpus
+- [[Concentration]] — Buffett's policy of large positions in a small number of well-understood businesses (Ground Rule 7: 40% ceiling, 1965; restated 1978; financial-strength prerequisite added 1984)
 - [[Acquisition Discipline]] — Buffett on toads, princesses, and the two categories of acquirers worth admiring (1981; published-criteria filter from 1982)
 - [[Economic Goodwill]] — the difference between accounting Goodwill and the stream of excess earnings a great business produces (1983 appendix; 1985 reinforcement)
 - [[Intrinsic Value vs Book Value]] — what has been put in versus what can be taken out (1983; reinforced 1984–1985)
@@ -55,12 +77,18 @@ this directory tree.
 - [[Investment vs Speculation]] — Aesop's birds-in-the-bush formula; investment is what an asset produces vs what the next buyer pays; growth as a valuation component not a style (1999)
 - [[Gotrocks Family and Frictional Costs]] — Buffett's allegory for how financial intermediaries extract aggregate investor returns; four layers of Helpers; Newton's Fourth Law; 2-and-20 arithmetic (2005–2006)
 - [[Great, Good and Gruesome]] — Buffett's three-category business quality taxonomy: savings-account analogy; See's as the Great exemplar; FlightSafety as Good; airlines as Gruesome (2007)
-- [[Leverage and Liquidity]] — Buffett's "Life and Debt" framework: zero-multiplier argument; credit as oxygen; $10B floor / $20B customary cash; crisis capital deployment (2010)
+- [[Leverage and Liquidity]] — Buffett's "Life and Debt" framework: zero-multiplier argument; credit as oxygen; \$10B floor / \$20B customary cash; crisis capital deployment (2010)
 - [[concepts/Investment Categories]] — Buffett's three-category taxonomy: currency-based instruments (most dangerous), non-productive assets, and productive assets; why equities beat gold and bonds over long periods (2011)
 - [[concepts/ABCs of Business Decay]] — Arrogance, Bureaucracy, Complacency: the three forces that erode durable businesses; Berkshire's structural antidotes; only a vigilant CEO can prevent them (2014)
-- [[concepts/American Tailwind]] — Buffett's 2018 essay: $114.75 invested in the S&P in 1942 worth $606,811 by 2019 (5,288x); gold over the same period worth $4,200; the structural case for owning productive American businesses across generations
+- [[concepts/American Tailwind]] — Buffett's 2018 essay: \$114.75 invested in the S&P in 1942 worth \$606,811 by 2019 (5,288x); gold over the same period worth \$4,200; the structural case for owning productive American businesses across generations
 - [[concepts/Compounding and Retained Earnings]] — Buffett's 2019 and 2022 account of how retained earnings compound invisibly; the Coca-Cola and American Express case study; "the weeds wither away as the flowers bloom"
-- [[concepts/Munger's Mental Models]] — Charlie Munger's 2022 aphorism collection: inversion, patience, zero-multiplier, voting/weighing machine, and the partnership principle
+- [[concepts/Munger's Mental Models]] — Charlie Munger's 2022 aphorism collection: inversion, patience, zero-multiplier, voting/weighing machine, and the partnership principle; supplemented with the psychological system from [[sources/Psychology of Human Misjudgment]] and the five problem-solving notions from [[sources/Poor Charlie's Almanack]]
+- [[concepts/Lollapalooza Effect]] — Munger's Tendency #25: non-linear confluences of multiple psychological tendencies producing extreme outcomes; includes the Coca-Cola thought experiment as the positive lollapalooza case (Talk 4)
+- [[concepts/Incentive-Caused Bias]] — Munger's Tendency #1: decent people in bad incentive structures drift into harmful behaviour while rationalising it; includes the Federal Express example, the California workers' comp case, and the Salomon general counsel failure
+- [[concepts/Latticework of Mental Models]] — Munger's central framework: ~80–90 models from many disciplines arranged so they interact; the bridge analogy; pilot training standard; lollapalooza as the primary reason the latticework produces non-linear results; self-teaching programme
+- [[concepts/Advantages of Scale]] — Munger's five-category microeconomic taxonomy: geometric advantages; advertising scale (P&G, Wrigley); informational advantages; social proof (Coke); purchasing advantages (Wal-Mart); the Sears case study and "surfing" concept
+- [[concepts/Important and Knowable]] — Buffett/Munger's two-by-two macro filter: focus only on what is both important and knowable; macro as important-but-unknowable; interest rates as gravity; inflation hedges ranked; LTCM as knowability failure (2024 annual meetings synthesis)
+- [[concepts/See's Candies as Teaching Business]] — the acquisition that changed Berkshire's investment framework; ignorance removal; \$9M → \$40M tangible assets, \$1.5B+ pre-tax extracted; royalty ideal; learning chain to Coca-Cola; regional limitations; pricing power test (2024 annual meetings synthesis)
 
 ### Holding and selling
 
@@ -73,7 +101,11 @@ this directory tree.
 ### Behaviour and avoiding folly
 
 - [[Five Don'ts and Five More Don'ts]] — Fisher's behavioural rules
-- [[Denial, Anchoring, Drift]] — Sleep's three insidious mistakes
+- [[Denial, Anchoring, Drift]] — Sleep's three insidious mistakes; maps to Munger's Tendencies #11, #5, and #16
+- [[concepts/Lollapalooza Effect]] — when multiple psychological tendencies align simultaneously; produces non-linear, extreme outcomes; includes positive lollapalooza (Coca-Cola thought experiment)
+- [[concepts/Incentive-Caused Bias]] — the most consequential single tendency for investors; structural incentives corrupt judgement without dishonest intent; Federal Express and workers' comp case studies
+- [[concepts/Latticework of Mental Models]] — Munger's framework for how 80–90 models from multiple disciplines produce results that no single model can; the checklist as operating procedure; ideological distorter warning
+- [[concepts/Inversion]] — "Invert, always invert" (Jacobi); four applications: prescriptions for misery, the Coca-Cola reality check, what reliably destroys investment wealth, the iron prescription for opinion formation; the asymmetry of failure vs success space
 - [[Regret Minimization Framework]] — Bezos's high-stakes decision tool
 - [[Big Winners Pay for Many Experiments]] — Bezos's asymmetric-payoff math
 - [[Successful Failure]] — Anderson's secondary-source reframing of the above
@@ -104,7 +136,7 @@ this directory tree.
   companies provide genuine inflation protection; ownership of assets is not enough
 - [[Institutional Buying]] — structural concentration of institutional demand
   on a small number of stocks; the stilts dynamic and the edge-of-acceptance opportunity
-- [[Cigar Butt to Compounder]] — Sleep's evolution, mirroring Buffett's
+- [[Cigar Butt to Compounder]] — Buffett's partnership era as the cigar-butt phase; Sleep's parallel evolution; Berkshire origin at \$7.60/share (1962) to permanent compounder
 - [[Inflation Tax]] — Buffett's investor's-misery-index argument (1979–1981)
 
 ## Contradictions and tensions
@@ -137,7 +169,7 @@ page is preserved as a record of how the idea has been transmitted.
   [[Five Don'ts and Five More Don'ts]], [[When to Sell]],
   [[Growth vs Value False Dichotomy]].
 - **Studying business quality:** [[Scale Economics Shared]],
-  [[Robustness Ratio]], [[Flywheel]], [[Customer Obsession]],
+  [[Scaling Laws]], [[Robustness Ratio]], [[Flywheel]], [[Customer Obsession]],
   [[Fifteen Points]], [[Financial Community Appraisal]].
 - **Studying time horizon:** [[Destination Analysis]],
   [[Long-Term Thinking]], [[Patience as Competitive Advantage]],
@@ -149,3 +181,8 @@ page is preserved as a record of how the idea has been transmitted.
 - **Studying character and culture:** [[Missionaries vs Mercenaries]],
   [[Gifts vs Choices]], [[Day 1]], [[Six-Page Narratives]],
   [[Alert Corporate Management]], [[Denial, Anchoring, Drift]].
+- **Studying the Buffett evolution (cigar-butt to compounder):**
+  [[sources/Buffett Partnership Letters]],
+  [[concepts/Buffett's Three Investment Categories]],
+  [[concepts/True Conservatism vs Conventionalism]],
+  [[Cigar Butt to Compounder]], [[Concentration]], [[Margin of Safety]].

@@ -68,7 +68,7 @@ Aesop framework makes the attack precise:
 This is not a rhetorical point. Growth requires capital to produce, and the
 test for whether that growth is worth paying for is whether the discounted
 value of the additional cash flows exceeds the capital invested to produce
-them. A business that requires $1 of reinvestment for every $0.90 of future
+them. A business that requires \$1 of reinvestment for every \$0.90 of future
 value it creates destroys value by growing, even when reported earnings are
 rising. The Aesop framework surfaces this because it forces the question of
 how many birds will ultimately emerge, not merely how fast the flock is
@@ -190,11 +190,52 @@ that the investment/speculation distinction therefore collapses — every
 buyer is paying fair value for the available information. Buffett treats this
 as empirically wrong. The Cinderella phenomenon, birdless bushes, and the
 IBT are all evidence that price and value diverge, sometimes wildly. See the
-standing [[Active vs Passive Investing]] tension page (planned).
+standing [[Active vs Passive Investing]] tension page.
+
+## Annual meeting additions: definitional clarity and the Aesop extension
+
+[[sources/Buffett and Munger Unscripted]] adds three elements to this page.
+
+**Investment defined in one sentence.** At multiple meetings, Buffett reduces
+the definition of investment to its simplest form: *"Investment is about
+valuing businesses — that is all there is to it."* The companion from
+[[Mr. Market]]: everything else — reading the tape, following momentum,
+acting on macro views, tracking institutional positioning — is speculation
+in the technical sense, because it does not bear on the value of the asset.
+The practical test: can you write down a specific estimate of the value of
+this business, and is the current price offering you a margin of safety
+relative to that estimate? If yes, you are investing. If you are buying
+because someone else will pay more, you are speculating.
+
+**Aesop extended: counting birds requires knowing the bush.** The Aesop
+framework (a bird in the hand is worth two in the bush; investment is
+knowing how many birds are in the bush, when they will emerge, and what
+interest rate to use) assumes the investor can estimate the number of birds.
+The annual meetings are explicit about what "knowing the bush" requires:
+understanding the competitive position of the business, the durability of
+its economics, and the reinvestment rates available for the birds that emerge.
+The Aesop framework fails if the investor cannot honestly assess these things —
+which brings it back to [[concepts/Circle of Competence]]. Aesop's question
+(how many birds?) is only answerable within your circle.
+
+**Economic correlations as a danger.** A recurring annual meeting caution:
+investors who construct portfolios based on historical asset-class correlations
+are measuring speculative relationships, not investment relationships. The
+correlation between two stocks over the prior decade is not a guide to their
+future value relationship. In a true stress event, correlations often move
+toward 1.0 across apparently unrelated assets as liquidity needs dominate.
+The investor who bought two "uncorrelated" assets thinking he had diversified
+his risk may find himself fully correlated when the stress arrives. The
+correct way to diversify is not to seek statistical independence in price
+series, but to own businesses whose *economic* independence is genuine —
+businesses whose earnings drivers are structurally different, not just whose
+recent price paths diverged.
 
 ## Related
 
 - [[Berkshire Chairman's Letters]]
+- [[sources/Buffett and Munger Unscripted]] — investment defined, Aesop
+  extended, economic correlations danger
 - [[Intrinsic Value vs Book Value]] — the owner-earnings input to the
   Aesop calculation
 - [[Owner Earnings]] — what "birds" actually means for an operating business

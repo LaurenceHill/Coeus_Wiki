@@ -33,12 +33,12 @@ estimated from publicly available financial data.
 
 The mechanism is straightforward: a competitor trying to take market
 share from a scale-economics-shared business must match its customer
-value proposition. If the business saves customers $6 for every $1
-it earns for shareholders, the competitor must provide $6 of value
-for every $1 it hopes to earn — an implausible ongoing subsidy for
-most well-capitalised challengers. A business saving customers $1 for
-every $1 it earns is far easier to undercut, because a competitor
-only has to match the $1 of customer savings.
+value proposition. If the business saves customers \$6 for every \$1
+it earns for shareholders, the competitor must provide \$6 of value
+for every \$1 it hopes to earn — an implausible ongoing subsidy for
+most well-capitalised challengers. A business saving customers \$1 for
+every \$1 it earns is far easier to undercut, because a competitor
+only has to match the \$1 of customer savings.
 
 The ratio also reveals something that conventional financial metrics
 obscure. A business with low reported margins may be extremely robust
@@ -51,12 +51,12 @@ a scale-equivalent competitor could close.
 
 **Costco** is Sleep's canonical high-ratio business. At the time of
 the letter, Costco was estimated to save its members approximately
-$9–10 billion annually relative to what they would pay at comparable
+\$9–10 billion annually relative to what they would pay at comparable
 retailers. Costco's annual earnings attributable to shareholders were
-approximately $1.5 billion. The Robustness Ratio was therefore
+approximately \$1.5 billion. The Robustness Ratio was therefore
 approximately 6:1. Sleep's interpretation: to displace Costco, a
-competitor would need to offer its customers $6 of savings for every
-$1 of profit it hoped to earn. Given that building equivalent scale
+competitor would need to offer its customers \$6 of savings for every
+\$1 of profit it hoped to earn. Given that building equivalent scale
 takes years and sustained losses, the practical barrier is very high.
 
 **GEICO** is Sleep's lower-ratio example. GEICO operates as the

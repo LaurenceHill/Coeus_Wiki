@@ -1,6 +1,10 @@
 # Concentration
 
-**Source:** [[Berkshire Chairman's Letters]] — 1978 letter, "Insurance
+**Source:** [[sources/Buffett Partnership Letters]] — Ground Rule 7
+(the 40% ceiling) formalised in the 1965 annual letter; in practice
+throughout 1957–1969; the unnamed 40% position of 1966–1967 as the most
+vivid applied case;
+[[Berkshire Chairman's Letters]] — 1978 letter, "Insurance
 Investments" section (first canonical statement); reinforced across
 later letters. Extended in 1993 letter with know-something / know-nothing
 investor distinction.
@@ -22,6 +26,54 @@ position if the equity portfolio had been smaller. The point is not
 that the SAFECO position was unusually large in absolute terms but
 that the size was *deliberate* — chosen to reflect conviction, not
 constrained by a diversification rule.
+
+## Ground Rule 7: the 40% ceiling (1965)
+
+The earliest formal statement of Buffett's concentration policy is in
+the partnership's Ground Rules — the document given to every new limited
+partner explaining how the partnership operated and what principles
+governed it. Ground Rule 7, formalised in the 1965 letter, states that
+the partnership will hold no more than 40% of its capital in a single
+security.
+
+The ceiling is striking: most institutional managers consider a 5–10%
+position large, and a 15% position exceptional. A ceiling of 40% implies
+not just willingness but genuine practice of very large individual
+positions. The rule sets an upper limit rather than a target, but the
+implication is that Buffett was comfortable with positions that were, by
+conventional standards, extreme.
+
+The 1966 and 1967 letters document the practical application. Buffett
+describes an unnamed security that represents approximately 40% of
+partnership capital — "our largest position," which he characterises
+as being in the "Generals — Relatively Undervalued" sub-category. The
+business is not statistically cheap by asset value but is dramatically
+undervalued relative to its earning power, its competitive position, and
+a sensible comparison with a similar business. The position produces
+extraordinary returns for the partnership. Although Buffett declines to
+name the company (consistent with his practice of not disclosing
+positions in public letters while accumulating or exiting), the
+description and timing are consistent with American Express, which had
+been depressed in price following the Salad Oil scandal of 1963 and
+which represents the classic case of a franchise-quality business
+temporarily mispriced due to a non-recurring event.
+
+The 40% rule does two things simultaneously. First, it acknowledges
+that concentrating more than 40% in any one security creates a level of
+single-position risk that is not compensated by the additional expected
+return — even for Buffett, there is a ceiling beyond which concentration
+becomes imprudent. Second, it signals that positions up to 40% are
+acceptable when conviction and margin of safety are both high. This is
+a very different starting assumption from the conventional practice
+of treating a 10% position as bold.
+
+Ground Rule 7 also reflects the [[True Conservatism vs Conventionalism]]
+argument from the same era: a genuinely conservative position is one
+with a large margin of safety, not one that looks small and diversified.
+A 40% position in a business purchased at 50 cents on the dollar is more
+conservative in economic terms than a 2% position in a business purchased
+at fair value. The concentration is the form; the margin of safety is
+the substance.
 
 ## Why it matters
 
@@ -265,6 +317,14 @@ stocks, business relationships, or endeavours.
 
 ## Related
 
+- [[sources/Buffett Partnership Letters]] — Ground Rule 7 and the
+  partnership-era 40% position; the earliest formal concentration policy
+- [[concepts/True Conservatism vs Conventionalism]] — the genuine-safety
+  argument for why large positions in high-margin-of-safety situations are
+  more conservative than small positions in fairly-priced businesses
+- [[concepts/Buffett's Three Investment Categories]] — the category
+  framework within which the concentration policy was applied; the 40%
+  position was in the Generals — Relatively Undervalued sub-category
 - [[Berkshire Chairman's Letters]]
 - [[Buffett's Four Criteria]]
 - [[Tailwinds vs Headwinds]]

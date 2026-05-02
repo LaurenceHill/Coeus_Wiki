@@ -78,11 +78,11 @@ The 1984 letter develops the buyback case in two parts.
 The *arithmetic part* is straightforward: when a company buys back
 shares at, say, fifty cents on the dollar of intrinsic value, every
 remaining share's claim on that intrinsic value increases. The
-remaining shareholders get $2 of value for $1 of cash deployed —
+remaining shareholders get \$2 of value for \$1 of cash deployed —
 a return better than almost any acquisition will produce. The 1984
 letter notes that *"corporate acquisition programs almost never do
 as well and, in a discouragingly large number of cases, fail to
-get anything close to $1 of value for each $1 expended."* The
+get anything close to \$1 of value for each \$1 expended."* The
 acquisition compared with the buyback is therefore frequently a
 worse deal in cash-on-cash terms before the strategic narrative is
 even introduced.
@@ -116,8 +116,8 @@ business value compounded; per-share business value compounded
 faster than the underlying business value because of the buybacks
 (the same total business value spread over fewer shares); and
 the discount-to-intrinsic-value narrowed as the market eventually
-re-rated the company. Berkshire's $10.6 million 1973 investment
-became a yearend-1985 holding worth $221 million including the
+re-rated the company. Berkshire's \$10.6 million 1973 investment
+became a yearend-1985 holding worth \$221 million including the
 proportionate-redemption proceeds. The intrinsic-value
 compounding was the largest contributor; the buybacks
 significantly amplified it; the re-rating ran ahead in the late
@@ -148,7 +148,7 @@ is an iron rule, not an abstraction.
 
 The discipline applies equally to share-issuance for capital-
 raising rather than acquisition. The 1985 letter's discussion of
-the insurance industry's $3 billion of capital raises in 1985 is
+the insurance industry's \$3 billion of capital raises in 1985 is
 sympathetic — those raises were made at advantageous conditions
 because tight insurance pricing supported book values that were
 attractive relative to the share-issuance prices. Share-issuance
@@ -219,7 +219,7 @@ than separately. Most acquirers who issue shares are tacitly conceding point
 The 2001 letter provides the clearest positive example of what genuine
 ownership alignment looks like in practice. When Berkshire acquired MiTek,
 55 members of the MiTek management team were invited to buy 10% of the
-company, each putting up a minimum of $100,000 in personal cash — many
+company, each putting up a minimum of \$100,000 in personal cash — many
 borrowed to participate.
 
 Buffett notes the contrast with a standard option arrangement in a single
@@ -246,15 +246,15 @@ structurally divergent.
 
 The 2007 letter offers the most expensive personal illustration in the corpus
 of what issuing undervalued stock costs. In 1993 Berkshire acquired Dexter
-Shoe, paying $433 million in Berkshire stock. The shoe business subsequently
+Shoe, paying \$433 million in Berkshire stock. The shoe business subsequently
 became worthless — killed by foreign competition. But the disaster does not
 end there.
 
 The Berkshire shares issued to fund the purchase continued to appreciate after
-the deal. By 2007, those shares were worth approximately $3.5 billion — more
+the deal. By 2007, those shares were worth approximately \$3.5 billion — more
 than eight times the nominal acquisition price. Buffett's 2007 verdict: *"To
 date, Dexter is the worst deal that I've made."* The loss is not merely the
-$433 million spent on a business that went to zero. It is the $3.5 billion
+\$433 million spent on a business that went to zero. It is the \$3.5 billion
 of compounding Berkshire value that was handed to the Dexter sellers and that
 left the Berkshire register permanently.
 
@@ -275,9 +275,9 @@ The argument runs in two directions. When the acquirer's stock trades below
 intrinsic value, using it as acquisition currency is a mistake: *"you simply
 can't exchange an undervalued stock for a fully-valued one without hurting
 your shareholders."* The Company A / Company B illustration makes this
-concrete: if both companies' shares trade at $80 against intrinsic value of
-$100, and Company A offers 1.25 shares for each Company B share, it is
-giving $125 of intrinsic value to receive $100 of intrinsic value. The target's
+concrete: if both companies' shares trade at \$80 against intrinsic value of
+\$100, and Company A offers 1.25 shares for each Company B share, it is
+giving \$125 of intrinsic value to receive \$100 of intrinsic value. The target's
 shareholders end up owning 55.6% of the combined entity despite equal starting
 values — a pure transfer from A's shareholders to B's.
 
@@ -290,11 +290,11 @@ afford to overpay because they are, in effect, using counterfeit money."* The
 the historical example.
 
 For BNSF specifically, Berkshire issued approximately 95,000 shares — 6.1% of
-those previously outstanding — for 40% of the $100 per share deal price,
+those previously outstanding — for 40% of the \$100 per share deal price,
 with the remainder in cash. Buffett acknowledges the partial stock issuance
 was a compromise: if Berkshire shares traded below intrinsic value (as he
 believed), issuing them at all was a cost. The justification was the
-opportunity — deploying $22 billion of cash into a business Berkshire
+opportunity — deploying \$22 billion of cash into a business Berkshire
 understood well, at a price that was fair without being cheap — was large
 enough to accept the partial stock payment as a necessary cost. But: *"If we
 had needed to use more stock to make the acquisition, it would in fact have
@@ -312,30 +312,30 @@ ask the barber whether you need a haircut.'"*
 
 ## The IBM buyback counter-intuition (2011)
 
-The 2011 letter contains the clearest statement of why long-term shareholders should *want* a company they own to buy back shares at low prices rather than high ones. Buffett uses IBM as the worked example. If IBM spends $50 billion on buybacks over five years at an average price of $200, it retires 250 million shares and Berkshire's ownership stake in a smaller share count rises. If the price averages $300, IBM retires only 167 million shares and Berkshire's stake grows less. In the fifth year, assuming the same earnings, Berkshire's share would be $100 million higher under the "disappointing" low-price scenario — and eventually worth roughly $1.5 billion more.
+The 2011 letter contains the clearest statement of why long-term shareholders should *want* a company they own to buy back shares at low prices rather than high ones. Buffett uses IBM as the worked example. If IBM spends \$50 billion on buybacks over five years at an average price of \$200, it retires 250 million shares and Berkshire's ownership stake in a smaller share count rises. If the price averages \$300, IBM retires only 167 million shares and Berkshire's stake grows less. In the fifth year, assuming the same earnings, Berkshire's share would be \$100 million higher under the "disappointing" low-price scenario — and eventually worth roughly \$1.5 billion more.
 
 The logic generalises: *"If you are going to be a net buyer of stocks in the future, either directly with your own money or indirectly (through your ownership of a company that is repurchasing shares), you are hurt when stocks rise. You benefit when stocks swoon."* Buffett traces his own conversion to this view to Chapter 8 of Ben Graham's *The Intelligent Investor*: *"Immediately the scales fell from my eyes, and low prices became my friend."* The emotional resistance — most shareholders take comfort in rising prices — is the specific behavioural error the IBM example is designed to correct. Talking up the stock of a company one owns while that company is conducting buybacks is actively harmful to long-term holders, not helpful.
 
 ## Repurchase limit and the 2012 refinement
 
-The 2011 letter announced Berkshire would repurchase its own shares at up to 110% of book value. The brief window of purchases — $67 million before the price rose above the limit — demonstrated the discipline was genuine. The 2012 letter raised the limit to 120% after concluding that 110% was too conservative: intrinsic value exceeded book value by a sufficient margin that purchases up to 120% still represented genuine value creation for continuing shareholders. The 2012 letter also clarified the first law of capital allocation: *"what is smart at one price is dumb at another."* The limit is not a formula but a judgment anchored to intrinsic value; if intrinsic value were to deteriorate, the limit would need revisiting. And the minimum liquidity threshold — $20 billion in cash equivalents — acts as an absolute constraint: Berkshire will not repurchase shares if doing so would breach this floor.
+The 2011 letter announced Berkshire would repurchase its own shares at up to 110% of book value. The brief window of purchases — \$67 million before the price rose above the limit — demonstrated the discipline was genuine. The 2012 letter raised the limit to 120% after concluding that 110% was too conservative: intrinsic value exceeded book value by a sufficient margin that purchases up to 120% still represented genuine value creation for continuing shareholders. The 2012 letter also clarified the first law of capital allocation: *"what is smart at one price is dumb at another."* The limit is not a formula but a judgment anchored to intrinsic value; if intrinsic value were to deteriorate, the limit would need revisiting. And the minimum liquidity threshold — \$20 billion in cash equivalents — acts as an absolute constraint: Berkshire will not repurchase shares if doing so would breach this floor.
 
 ## The three-partner arithmetic (2016)
 
 The 2016 letter provides the simplest illustration Buffett ever gave of
 why repurchase price relative to intrinsic value is the only test that
-matters. Three equal partners each own a third of a business worth $3,000
-in total — each partner's share is thus worth $1,000.
+matters. Three equal partners each own a third of a business worth \$3,000
+in total — each partner's share is thus worth \$1,000.
 
 If one partner wishes to sell and the remaining two agree to buy out the
-departing partner's interest at $900 — a 10% discount to intrinsic value —
-each staying partner ends up owning half of a $3,000 business after paying
-$450. Their position is worth $1,500, up from $1,000. The transaction is a
+departing partner's interest at \$900 — a 10% discount to intrinsic value —
+each staying partner ends up owning half of a \$3,000 business after paying
+\$450. Their position is worth \$1,500, up from \$1,000. The transaction is a
 gift to those who stay.
 
-If the same buyout is done at $1,100 — a 10% premium to intrinsic value —
-each staying partner ends up owning half of a $3,000 business after paying
-$550. Their position is worth $1,500 but cost them $1,100 combined for the
+If the same buyout is done at \$1,100 — a 10% premium to intrinsic value —
+each staying partner ends up owning half of a \$3,000 business after paying
+\$550. Their position is worth \$1,500 but cost them \$1,100 combined for the
 retained half, a clear loss.
 
 *"The math is not complicated, and the lesson applies to all buybacks: What
@@ -402,7 +402,7 @@ the net effect on Berkshire shareholders' indirect ownership of Apple's
 earnings was compounded twice — once at the Apple level and once at the
 Berkshire level.
 
-The 2021 letter's formulation: Berkshire spent $51.7 billion on its own
+The 2021 letter's formulation: Berkshire spent \$51.7 billion on its own
 repurchases over two years, retiring approximately 9% of the shares
 previously outstanding. This was not idle capital; it was a direct
 investment in Berkshire's own businesses at a price Buffett judged to be
@@ -463,6 +463,52 @@ declining merely accelerate the decline relative to the share
 count. The discipline assumes the rest of the [[Berkshire Business Principles]] are operating; it does not substitute for
 them.
 
+## Annual meeting additions: stop-loss absurdity, Coke dilution math, put options
+
+[[sources/Buffett and Munger Unscripted]] adds three formulations on
+issuance and buyback discipline not in the Chairman's Letters.
+
+**The stop-loss absurdity.** A recurring annual meeting argument against
+stop-loss rules as applied to stock positions. If you own a business at
+\$100 and it falls to \$80, the stop-loss rule says sell. But if the business
+has not changed — if the fall is Mr. Market being depressed rather than
+the business deteriorating — then the rational response is to buy more, not
+to sell. The stop-loss rule inverts the correct logic. Buffett's formulation:
+imagine if a grocery store raised its prices every time demand increased and
+cut them every time demand decreased — it would be considered irrational.
+Yet this is exactly what the stop-loss investor does with stocks. The issuance
+and buyback discipline is the institutional version of this insight: buy
+when cheap, sell when expensive, not the reverse.
+
+**Coca-Cola dilution math: worked through.** At several meetings, Buffett
+has walked through the arithmetic of what Coca-Cola's share issuance for
+management compensation cost existing shareholders. The exercise: Coke was
+issuing shares for executive compensation each year; over a decade, this
+amounted to a meaningful percentage of the share count; each additional share
+diluted the earnings-per-share and intrinsic-value-per-share of existing
+holders. Buffett's objection at Coke board meetings was to the magnitude of
+the dilution, not to the concept of equity compensation. The math he presents
+makes the cost visible in a way that the accounting statement does not —
+because the options were not expensed (see [[concepts/Earnings Integrity]])
+and the dilution appeared only in the share count rather than in the income
+statement. The worked arithmetic is the practical demonstration of why
+the options-expensing battle mattered: the cost was real, but the accounting
+made it invisible.
+
+**Put options on Berkshire shares.** Buffett has noted at meetings that
+Berkshire has occasionally sold put options on its own stock — an application
+of the buyback discipline in derivatives form. If Berkshire believes its
+shares are undervalued and would be happy to buy them at a given price, it
+can sell a put at that price and collect the premium. If the stock falls to
+the strike price, Berkshire buys shares it was already willing to buy. If
+the stock stays above the strike, Berkshire keeps the premium. This is a
+transaction that only makes sense if management genuinely believes the shares
+are worth more than the strike price; and it is only rational for management
+to believe this if they are focused on intrinsic value rather than share
+price management. The put option strategy is therefore a diagnostic for
+the authenticity of the buyback discipline: managers who do this are putting
+the corporate balance sheet behind their valuation conviction.
+
 ## Contradictions
 
 None internal to the corpus.
@@ -474,7 +520,7 @@ issue-or-buyback decision therefore reduces to a coin flip net
 of transaction costs. The 1984 letter is explicitly amused by
 this position. The disagreement is the same one that shows up in
 [[Intrinsic Value vs Book Value]] and will eventually anchor the
-[[Active vs Passive Investing]] (planned) contradiction page.
+[[Active vs Passive Investing]] contradiction page.
 
 ## Related
 
@@ -485,6 +531,8 @@ this position. The disagreement is the same one that shows up in
 - [[Look-Through Earnings]]
 - [[Buffett's Four Criteria]]
 - [[Active vs Passive Investing]] — planned
-- [[Earnings Integrity]] — the option-expensing problem is the issuance
+- [[concepts/Earnings Integrity]] — the option-expensing problem is the issuance
   discipline's accounting counterpart: both concern the true cost of
   equity transactions to existing shareholders
+- [[sources/Buffett and Munger Unscripted]] — stop-loss absurdity, Coke
+  dilution math worked through, put options on Berkshire shares

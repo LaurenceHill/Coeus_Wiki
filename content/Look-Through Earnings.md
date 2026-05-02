@@ -5,7 +5,7 @@
 formulation); reinforced in 1981 and 1984; 1990 letter names the
 framework explicitly; 1991 and 1992 letters provide the worked tables
 and extend the concept to individual investors; 1996 and 1997 letters
-provide updated totals ($1,522M and $1,930M respectively); 1998 letter
+provide updated totals (\$1,522M and \$1,930M respectively); 1998 letter
 skips the calculation (General Re acquired at year-end, making a
 meaningful figure impractical).
 
@@ -111,8 +111,8 @@ the *incremental* dollar, not the average dollar.
 
 The 1984 letter then offers the bondholder analogy as a way of
 forcing the test into intuitive form. *"Imagine that an investor
-owned a $100 perpetual bond that, at his option, could either pay
-out $10 in cash annually, or alternatively, plow back the $10 at
+owned a \$100 perpetual bond that, at his option, could either pay
+out \$10 in cash annually, or alternatively, plow back the \$10 at
 8% forever."* The analogy makes the retention question sharp: the
 bondholder who lets the issuer reinvest at 8% when 12% is available
 elsewhere is destroying value at the rate of the spread, regardless
@@ -156,8 +156,8 @@ appears explicitly in the corpus. It introduces the formal definition
 and the worked table: Berkshire's share of undistributed operating
 earnings of major investees, less a hypothetical tax, added to
 reported operating earnings. The 1990 calculation yields approximately
-$590 million of look-through earnings for 1990, against $371 million
-of reported operating earnings. The gap — roughly $220 million —
+\$590 million of look-through earnings for 1990, against \$371 million
+of reported operating earnings. The gap — roughly \$220 million —
 represents earnings that were being compounded inside the businesses
 of Berkshire's investees (GEICO, Coca-Cola, Capital Cities/ABC,
 Washington Post, Wells Fargo, and others), not visible in Berkshire's
@@ -189,8 +189,8 @@ earnings. In investing, just as in baseball, to put runs on the
 scoreboard one must watch the playing field, not the scoreboard."*
 
 The 1992 letter provides the most concrete statement of the
-quantitative target: look-through earnings of $604 million in 1992
-must reach more than $1.8 billion by the year 2000 for Berkshire to
+quantitative target: look-through earnings of \$604 million in 1992
+must reach more than \$1.8 billion by the year 2000 for Berkshire to
 meet the 15% annual goal. This gives the framework a specific
 horizon and a specific hurdle, making it actionable rather than
 aspirational. The 1992 letter also adds a caveat against using
@@ -204,23 +204,23 @@ the tool for evaluating delivery without being misled by accounting.
 
 ## The 1996–2002 figures
 
-The 1996 letter reports look-through earnings of $1,522 million (up from
-approximately $1,030 million in 1994, the prior figure given). The 1997
-letter extends the table: look-through earnings of $1,930 million, composed
-of $743 million from major investees' undistributed earnings (American
+The 1996 letter reports look-through earnings of \$1,522 million (up from
+approximately \$1,030 million in 1994, the prior figure given). The 1997
+letter extends the table: look-through earnings of \$1,930 million, composed
+of \$743 million from major investees' undistributed earnings (American
 Express, Coca-Cola, Disney, Freddie Mac, Gillette, Washington Post, Wells
-Fargo) less a $105 million hypothetical tax, added to $1,292 million of
+Fargo) less a \$105 million hypothetical tax, added to \$1,292 million of
 reported operating earnings. The 1998 letter omits the look-through
 calculation because the General Re acquisition closed on December 21 —
 neither a historical nor a pro-forma figure would have been meaningful —
 and the calculation resumes in 1999.
 
-The 1999 letter resumes with look-through earnings of $1,926 million —
+The 1999 letter resumes with look-through earnings of \$1,926 million —
 essentially unchanged from 1997, reflecting some weakness in investee
-results during the intervening years. The 2000 letter reports $2,415 million,
-composed of $740 million from major investees (American Express, Coca-Cola,
-Freddie Mac, Gillette, M&T Bank, Washington Post, Wells Fargo) less a $104
-million hypothetical tax, added to $1,779 million of reported operating
+results during the intervening years. The 2000 letter reports \$2,415 million,
+composed of \$740 million from major investees (American Express, Coca-Cola,
+Freddie Mac, Gillette, M&T Bank, Washington Post, Wells Fargo) less a \$104
+million hypothetical tax, added to \$1,779 million of reported operating
 earnings. The jump from 1999 to 2000 reflects the eight major acquisitions
 completed in 2000 which substantially expanded Berkshire's operating earnings
 base. The 2001 and 2002 letters do not include look-through tables; during
@@ -246,7 +246,7 @@ businesses (see [[Inflation Tax]]).
 It is also not an argument that the look-through quantity is reliably
 measurable. Buffett's 1981 estimate that look-through earnings on four
 holdings (GEICO, General Foods, RJR, Washington Post) would total
-"well over $35 million in 1982" is offered with a caveat that the
+"well over \$35 million in 1982" is offered with a caveat that the
 calculation is approximate. The principle is more important than the
 arithmetic; the arithmetic only matters insofar as it forces the
 investor to reason about underlying economics rather than reported

@@ -69,9 +69,9 @@ the substance is stable. Compressed:
    the marketable-equity portfolios of our insurance subsidiaries.
 6. Accounting consequences will not influence our operating or
    capital-allocation decisions. When acquisition costs are
-   comparable, we much prefer to purchase $2 of earnings that is
+   comparable, we much prefer to purchase \$2 of earnings that is
    not reportable to us under standard accounting principles than
-   to purchase $1 of earnings that is reportable.
+   to purchase \$1 of earnings that is reportable.
 7. We rarely use much debt. When we do borrow, we attempt to
    structure our loans on a long-term, fixed-rate basis.
 8. A managerial wish list will not be filled at shareholder
@@ -309,7 +309,7 @@ Taken together, the four negatives define a posture that is unusual enough to co
 
 The 2010 letter adds a dimension to the intrinsic value framework that the Owner's Manual and earlier letters had not made explicit. Buffett identifies three components of intrinsic value rather than two.
 
-The first two are familiar: investments per share (the value of the equity portfolio, fixed-income holdings, and cash that the operating businesses have not consumed) and operating earnings per share (the normalised earning power of the non-investment businesses). The third, identified explicitly in 2010, is *the efficacy with which retained earnings will be deployed in the future*. A business that earns $1 billion annually and retains all of it is not equivalent to another business with the same earnings and retention policy if the first deploys retained capital at 20% returns and the second at 5%.
+The first two are familiar: investments per share (the value of the equity portfolio, fixed-income holdings, and cash that the operating businesses have not consumed) and operating earnings per share (the normalised earning power of the non-investment businesses). The third, identified explicitly in 2010, is *the efficacy with which retained earnings will be deployed in the future*. A business that earns \$1 billion annually and retains all of it is not equivalent to another business with the same earnings and retention policy if the first deploys retained capital at 20% returns and the second at 5%.
 
 The historical illustration Buffett offers is Sears and Montgomery Ward versus Sam Walton. Both the established retailers and the Walton upstart were in the same business during the post-war period. The established businesses retained earnings; their retained earnings produced modest incremental returns. Walton retained earnings that produced the dominant American retailer of the late twentieth century. The per-share earnings in any given year would not have told an investor much about this difference — the distinction resided in the quality of reinvestment, which is a qualitative assessment rather than an accounting figure.
 
@@ -321,7 +321,7 @@ The 2014 letter's "Next 50 Years" section elaborates the Owner's Manual principl
 
 The CEO criteria, stated in the 2014 letter: rational, calm, and decisive; possessing broad understanding of business and good insights into human behaviour; knowing one's limits ("I'm no genius, but I'm smart in spots and I stay around those spots" — Tom Watson Sr. of IBM); "all in for the company, not for himself"; immune to ego-driven pay comparisons with peers; capable of fighting off the [[ABCs of Business Decay]]; and possessing the "tone at the top" necessary to maintain Berkshire's culture. Character, in Buffett's framing, is not a soft criterion alongside analytical ability — it is the primary one. A CEO motivated by peer-compensation comparison will accept bureaucracy that inflates his organisation's prestige. A CEO who cannot face uncomfortable truths will drift toward arrogance. The structural protections of decentralisation and autonomy reduce the risk but cannot substitute for the CEO's character.
 
-Financial staying power, as articulated in 2014, rests on three pillars: first, a large and reliable stream of earnings from a diversified array of businesses; second, massive liquid assets (at minimum $20 billion, never pledged or encumbered in ways that could create sudden demands); and third, no significant near-term cash requirements — specifically, no short-term debt maturities of size and no derivative contracts requiring large potential collateral calls. The 2014 letter names the third pillar as the one most often neglected: companies that would easily meet pillars one and two still fail when they assume refinancing will always be available for maturing short-term obligations. September 2008 demonstrated what happens when that assumption proves false.
+Financial staying power, as articulated in 2014, rests on three pillars: first, a large and reliable stream of earnings from a diversified array of businesses; second, massive liquid assets (at minimum \$20 billion, never pledged or encumbered in ways that could create sudden demands); and third, no significant near-term cash requirements — specifically, no short-term debt maturities of size and no derivative contracts requiring large potential collateral calls. The 2014 letter names the third pillar as the one most often neglected: companies that would easily meet pillars one and two still fail when they assume refinancing will always be available for maturing short-term obligations. September 2008 demonstrated what happens when that assumption proves false.
 
 ## Munger's system: the 15-point taxonomy (2014)
 
@@ -343,7 +343,7 @@ Munger's Vice Chairman essay in the 2014 annual report is the most complete exte
 14. Little debt outstanding; virtually perfect creditworthiness under all conditions; easy cash availability.
 15. Always user-friendly to a prospective seller of a large business; prompt attention; complete confidentiality.
 
-Munger's diagnosis of why the system worked is worth noting separately: Buffett's decision to limit his activities to a few kinds and to maximise his attention to them for fifty years was, in Munger's word, a *lollapalooza*. The comparison is to John Wooden concentrating virtually all playing time on his seven best players. Munger also identifies the biggest category of Berkshire mistakes as errors of omission — not buying Walmart when it was "sure to work out enormously well." The net worth shortfall from missed purchases he estimates at least $50 billion.
+Munger's diagnosis of why the system worked is worth noting separately: Buffett's decision to limit his activities to a few kinds and to maximise his attention to them for fifty years was, in Munger's word, a *lollapalooza*. The comparison is to John Wooden concentrating virtually all playing time on his seven best players. Munger also identifies the biggest category of Berkshire mistakes as errors of omission — not buying Walmart when it was "sure to work out enormously well." The net worth shortfall from missed purchases he estimates at least \$50 billion.
 
 ## Two strings to our bow: the controlled/non-controlled architecture (2020)
 
@@ -399,7 +399,7 @@ The 2023 letter contains two candid admissions that belong alongside the Owner's
 
 The first concerns Berkshire Hathaway Energy. Forest fire liabilities in certain states have exposed BHE to confiscatory regulatory outcomes — a risk that Buffett acknowledges was not properly anticipated at the time of BHE's original acquisition. *"The regulatory compact has been broken in a few states"* is his characterisation. Where regulators allow utilities to earn insufficient returns and then impose unlimited liability for third-party damages, the investment calculus changes fundamentally. Buffett names the error directly: *"a costly mistake in not anticipating adverse regulatory returns."* This is not hedged or obscured. It is presented as an error of the same kind as the ConocoPhillips purchase — an unforced mistake in assessing a business's structural characteristics — and addressed on the same candour standard.
 
-The second concerns BNSF. Buffett notes that the railroad's pre-tax margin has slipped relative to its three major competitors since the 2010 acquisition and acknowledges $22 billion of excess capital expenditure over depreciation across fourteen years — an "ouch" in his characterisation. The BNSF balance sheet carries $70 billion, but the replacement value of the railroad is more than $500 billion, embedding substantial value that accounting cannot capture. That embedded value does not, however, excuse the operating underperformance. *"A century from now, BNSF will continue to be a major asset for both its owners and its country. But it has disappointed us."* The second sentence is as important as the first.
+The second concerns BNSF. Buffett notes that the railroad's pre-tax margin has slipped relative to its three major competitors since the 2010 acquisition and acknowledges \$22 billion of excess capital expenditure over depreciation across fourteen years — an "ouch" in his characterisation. The BNSF balance sheet carries \$70 billion, but the replacement value of the railroad is more than \$500 billion, embedding substantial value that accounting cannot capture. That embedded value does not, however, excuse the operating underperformance. *"A century from now, BNSF will continue to be a major asset for both its owners and its country. But it has disappointed us."* The second sentence is as important as the first.
 
 Both admissions are consistent with the Owner's Manual's principle 11 — tell shareholders what you would want to know if positions were reversed — but they are unusual in public-company reporting precisely because most CEOs find language to soften or defer acknowledgement of structural underperformance.
 
@@ -437,12 +437,69 @@ parts of [[Invent and Wander]] in places: Bezos's willingness to
 underprice quarterly earnings to fund [[Big Winners Pay for Many Experiments]] cuts against the kind of consistent-earning-power
 preference encoded in principle 4, though the tension is more
 apparent than real once Bezos's framework is fully unpacked. The
-[[Listen vs Invent]] (planned) contradiction page may pull at the
+[[Listen vs Invent]] contradiction page may pull at the
 same thread.
+
+## Annual meeting additions: right owners, capacity to suffer, no monthly P&L
+
+[[sources/Buffett and Munger Unscripted]] adds three annual meeting
+formulations that illuminate the Berkshire operating model.
+
+**The restaurant metaphor: right owners.** Buffett uses a restaurant analogy
+at annual meetings to explain Berkshire's approach to selling businesses.
+A restaurant owner who has built something genuinely good wants, when selling,
+to know that the buyer will maintain the culture, retain the staff, and not
+load the business with debt before flipping it in three years. Berkshire
+positions itself as that buyer — the permanent home, where the manager stays,
+the culture remains, and no private equity exit is planned.
+
+This is not purely altruistic. The right-owner positioning creates a
+sourcing advantage: sellers who care about their businesses bring them to
+Berkshire instead of running a full auction. The permanent-home commitment
+is the mechanism by which Berkshire avoids paying full auction prices.
+The cultural fit is also a screening mechanism: sellers who want to stay
+and run their businesses are more likely to have built something genuinely
+good than those seeking a quick exit.
+
+**Capacity to suffer as competitive advantage.** A phrase Buffett and Munger
+use at meetings to describe what Berkshire's balance sheet and ownership
+structure provide: the ability to absorb periods of poor performance that
+competitors cannot withstand. In insurance, this means writing nothing for
+years when prices are inadequate rather than accepting underpriced business
+to maintain volume. In investing, it means holding through extended periods
+when Mr. Market is pessimistic. In operations, it means not cutting
+investments in business quality during a recession.
+
+The capacity-to-suffer advantage is structural: it derives from permanent
+capital, no outside investors, float that doesn't require mark-to-market
+liquidity, and a management culture that rewards long-term thinking. A
+publicly-held competitor with quarterly earnings pressure and institutional
+shareholders who can redeem cannot maintain the same posture. The adversity
+that would force a competitor to make a bad decision is an opportunity for
+Berkshire to make a good one.
+
+**No monthly P&L.** Berkshire subsidiaries do not submit monthly P&L
+reports to Omaha. Managers report what they want to report, when they want
+to report it, in whatever format they choose. Buffett's argument: monthly
+reporting would create pressure to manage monthly numbers, which is the
+beginning of the accounting corruption documented in [[concepts/Earnings
+Integrity]]. The result of not managing monthly is that managers focus on
+what actually matters — competitive position, customer satisfaction,
+long-term investment — rather than on hitting a number that will change
+again in 30 days.
+
+This is a deliberate inversion of standard corporate oversight practice.
+Most parent companies demand monthly, weekly, and sometimes daily reporting.
+Berkshire demands almost none. The trust is earned at hiring; the performance
+is assessed on multi-year results. The no-monthly-P&L policy is therefore
+both a cultural signal (we trust you) and a management design choice (we
+refuse to create the incentives that would make dishonesty tempting).
 
 ## Related
 
 - [[Berkshire Chairman's Letters]]
+- [[sources/Buffett and Munger Unscripted]] — restaurant metaphor, capacity
+  to suffer, no monthly P&L
 - [[Look-Through Earnings]]
 - [[Acquisition Discipline]]
 - [[Concentration]]
@@ -452,7 +509,9 @@ same thread.
 - [[Long-Term Thinking]]
 - [[Missionaries vs Mercenaries]]
 - [[Invent and Wander]]
-- [[Great, Good and Gruesome]] — the 2007 business-quality taxonomy;
+- [[concepts/Great, Good and Gruesome]] — the 2007 business-quality taxonomy;
   the operating consequence of principle 4 (prefer great businesses)
-- [[Leverage and Liquidity]] — the 2010 debt discipline; financial
+- [[concepts/Leverage and Liquidity]] — the 2010 debt discipline; financial
   expression of principle 7
+- [[Patience as Competitive Advantage]] — capacity to suffer is patience
+  institutionalised at the structural level

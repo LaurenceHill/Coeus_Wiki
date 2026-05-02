@@ -2,7 +2,9 @@
 
 **Source:** [[Nomad Partnership Letters]] — developed across multiple
 letters from 2001 onwards; most directly stated in the 2005 and 2013
-letters.
+letters. The earliest statement of the same idea in the corpus is in
+[[sources/Buffett Partnership Letters]] — Ground Rules (1962–1965) and
+the October 1967 letter on the structural advantage of patient capital.
 
 ## Summary
 
@@ -115,6 +117,35 @@ affects the quality of its management decisions, and that a patient
 shareholder base is a genuine (though hard-to-quantify) contribution
 to the businesses it owns.
 
+## Buffett's parallel: waiting for the fat pitch
+
+The partnership letters contain an extended version of the same argument
+before Sleep formalised it. Buffett's ground rules include an instruction
+that could serve as the entire basis for the patience argument: the
+partnership does not feel compelled to invest capital simply because it
+exists. Undeployed capital is not a problem; it is an option. Deploying
+capital into a mediocre opportunity when a genuinely good one has not
+yet appeared is the error — not the patience itself.
+
+The most vivid formulation in the partnership letters is the baseball
+analogy Buffett uses in multiple forms: the investor, unlike the baseball
+batter, can wait indefinitely for the right pitch. The batter facing a
+3–0 count with a full base must swing at anything in the strike zone or
+risk the called strike. The investor faces no such constraint. There is
+no called third strike in investing. The cost of watching a thousand
+pitches go by without swinging is nothing — while the cost of swinging
+at a bad pitch can be permanent capital loss.
+
+The practical discipline that follows: Buffett describes his posture
+during the late 1960s, when the market had fewer of the statistically
+cheap situations he was equipped to analyse, as one of deliberate
+inactivity. He did not attempt to fill the analytical void with
+lower-conviction positions; he reduced the fund's invested percentage
+and waited. This is the same discipline Sleep describes — the active
+decision not to transact — enacted a generation earlier and in a
+different context. The common element is the refusal to treat
+inactivity as evidence of insufficient effort.
+
 ## Fisher's parallel: the three-year rule
 
 Fisher's framework in [[Common Stocks and Uncommon Profits]] contains a
@@ -149,6 +180,68 @@ treating [[Reinvestment Risk]] as so substantial that "clearly better
 opportunity" is almost never a reliable guide. The tension is examined
 in [[Selling vs Holding Forever]].
 
+## Annual meeting additions: NICO discipline and market timing (1994–2024)
+
+[[sources/Buffett and Munger Unscripted]] provides the most vivid operational
+illustrations of patience as a competitive advantage in practice.
+
+**NICO's 85% contraction: patience as underwriting weapon.** National
+Indemnity Company shrank its premium volume from a peak of roughly \$366
+million in 1986 to approximately \$54 million by 1999 — an 85% contraction.
+The contraction was not a business failure; it was a deliberate refusal to
+write insurance at prices that did not compensate for the risk. Buffett's
+summary: *"The most important thing in insurance is underwriting discipline.
+We'd rather shrink 80% than write business at inadequate prices."*
+
+The competitive advantage of this patience was revealed when the insurance
+market hardened: NICO had the capacity to write large volumes at excellent
+prices precisely because it had not compromised its underwriting standards
+during the soft market. Competitors who had maintained volume by cutting
+prices were now underreserved and unable to write new business aggressively.
+NICO's patience had become a strategic asset — *capacity to suffer* that
+translated directly into market share and margins when conditions improved.
+
+The NICO no-layoff policy reinforced this patience. By committing to
+maintain staff levels regardless of premium volume, NICO removed the
+organisational incentive to generate volume at inadequate prices just to
+keep people employed. The patience was institutionally supported, not merely
+a matter of individual character.
+
+**Picking value, not bottoms.** A consistent annual meeting theme: Buffett
+explicitly does not try to buy at the market bottom. His practice is to buy
+when he finds good value, which may be above the eventual low. The March 2009
+bottom was missed; the March 2020 bottom was missed. What was bought was
+bought at prices that offered good value relative to intrinsic value, even
+if markets fell further afterwards.
+
+The patience framework applies here: the attempt to time the bottom is a
+form of market prediction (important but unknowable — see [[concepts/Important
+and Knowable]]). The patient alternative is to be ready to act when
+opportunities present value, without requiring a forecast of when prices
+will stop falling. This is not the same as "buy and hold regardless of price"
+— it is the position that value-relative-to-price is knowable and worth
+acting on, while market direction is not.
+
+**Insurance patience: writing nothing versus writing wrong.** A recurring
+annual meeting theme about the insurance business: the correct response to
+a soft market is to write nothing, not to write at inadequate prices. This
+seems obvious but is structurally difficult. An insurance company with staff,
+capital, and overhead has enormous organisational pressure to keep the book
+full. Underwriters who decline to write are visibly idle in a way that
+underwriters who write poorly-priced business are not — until the losses
+arrive. The patience required is not a matter of individual character but
+of institutional design. Berkshire's design — no pressure to show volume
+growth, managers rewarded for underwriting profit not premium size,
+permanent capital that can absorb lean periods — is specifically built to
+enable this patience.
+
+**Market timing admissions as patience evidence.** Buffett's candour about
+missing the 2009 and 2020 bottoms is not an argument against patience —
+it is an argument for its scope. He did not try to time those bottoms,
+and he missed them. His conclusion is not "I should time better" but "timing
+is not reliably knowable, and patience in valuation is a better discipline
+than patience waiting for a bottom."
+
 ## Related
 
 - [[Destination Analysis]]
@@ -161,4 +254,11 @@ in [[Selling vs Holding Forever]].
   reasons to exit a position
 - [[Common Stocks and Uncommon Profits]]
 - [[Nomad Partnership Letters]]
+- [[sources/Buffett Partnership Letters]] — the fat pitch analogy; the
+  ground rules' structural protection of patience; the 1967 diagnosis of
+  institutional short-termism as the structural opportunity for patient capital
 - [[Selling vs Holding Forever]]
+- [[sources/Buffett and Munger Unscripted]] — NICO 85% contraction, capacity
+  to suffer, insurance patience, market timing admissions
+- [[concepts/Insurance Float]] — the institutional structure that enables
+  insurance patience: permanent capital, no-layoff policy, underwriting discipline

@@ -129,8 +129,57 @@ opposite of confirmation bias: the explicit search for reasons the
 position should be exited. A position that survives the kill test
 is held with renewed confidence, not complacency.
 
+## The Munger parallel
+
+Sleep arrived at his three failure modes through investment practice;
+Munger arrived at an overlapping set through systematic psychological
+analysis. The correspondences are precise enough to be worth mapping:
+
+**Denial** corresponds to Munger's Tendency #11: Simple, Pain-Avoiding
+Psychological Denial. Munger's formulation: *"The reality is too painful to
+bear, so one distorts the facts until they become bearable."* Sleep's
+description of the investor who expands the investment thesis to accommodate
+disconfirming evidence rather than updating the position is the same
+mechanism applied to portfolio management. The expanding narrative is the
+distortion; the maintained position is the bearable version of a painful
+reality.
+
+**Anchoring** corresponds primarily to Munger's Tendency #5: Inconsistency-
+Avoidance. The brain resists changing prior conclusions — including the
+implicit conclusion embedded in the purchase price that the investment was
+worth what was paid. Munger: *"The human mind tends strongly toward the same
+sort of result [as a human egg after fertilisation] — once one thing gets in,
+there's an automatic shut-off device."* Deprival-Superreaction (#14) also
+contributes: the prospect of crystallising a loss triggers disproportionate
+emotional resistance, making the rational action (adding to a sound position
+at a lower price, or cutting a deteriorated one) feel intolerable.
+
+**Drift** corresponds to Munger's Tendency #16: Contrast-Misreaction. The
+brain registers contrast rather than absolute values, which means that small
+sequential deteriorations — each one presenting low contrast to the prior
+state — fail to trigger re-evaluation. Munger's boiling-frog formulation:
+*"When a man's steps are consecutively taken toward disaster, with each step
+being very small, the brain's Contrast-Misreaction Tendency will often let
+the man go too far toward disaster to be able to avoid it."* A business that
+drifts is a slow-heating pot; the investor who relies on the feel of the
+water rather than a thermometer (a formal re-evaluation of the thesis) will
+notice too late.
+
+The structural antidotes Sleep and Munger converge on are also similar:
+checklists (Munger's primary defence against Availability-Misweighing and
+compound effects), regular forced re-evaluation (Sleep's "kill test"), and
+deliberate attention to disconfirming evidence (Darwin's method, which Munger
+cites as the canonical antidote to Inconsistency-Avoidance). Neither source
+trusts willpower alone; both prescribe procedural disciplines that work even
+when individual psychology is pulling in the wrong direction.
+
 ## Related
 
+- [[Psychology of Human Misjudgment]] — Munger's systematic framework;
+  Tendencies #11, #5, and #16 are the formal analogues of Sleep's three
+  categories
+- [[Lollapalooza Effect]] — what happens when denial, anchoring, and drift
+  all operate simultaneously on the same position
 - [[Patience as Competitive Advantage]]
 - [[Reinvestment Risk]]
 - [[Destination Analysis]]

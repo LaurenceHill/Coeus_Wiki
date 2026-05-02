@@ -125,20 +125,20 @@ The 1991 letter provides the richest worked example of the franchise
 category in the corpus — the twenty-year retrospective on See's
 Candy, purchased in January 1972.
 
-The nominal asking price was $40 million for 100% ownership; with
-excess cash of $10 million, the true offering price was $30 million.
-At the time, See's had tangible net worth of $7 million. *"Charlie
+The nominal asking price was \$40 million for 100% ownership; with
+excess cash of \$10 million, the true offering price was \$30 million.
+At the time, See's had tangible net worth of \$7 million. *"Charlie
 and I, not yet fully appreciative of the value of an economic
-franchise, looked at the company's mere $7 million of tangible net
-worth and said $25 million was as high as we would go (and we meant
+franchise, looked at the company's mere \$7 million of tangible net
+worth and said \$25 million was as high as we would go (and we meant
 it). Fortunately, the sellers accepted our offer."*
 
-Over the twenty years from 1972 to 1991: See's sales grew from $29
-million to $196 million; pre-tax profits grew from $4.2 million to
-$42.4 million; and the net worth required to run the business grew
-only modestly — from $7 million to $25 million, meaning that just
-$18 million of incremental capital had been required over twenty
-years. The remaining $410 million of pre-tax profits were distributed
+Over the twenty years from 1972 to 1991: See's sales grew from \$29
+million to \$196 million; pre-tax profits grew from \$4.2 million to
+\$42.4 million; and the net worth required to run the business grew
+only modestly — from \$7 million to \$25 million, meaning that just
+\$18 million of incremental capital had been required over twenty
+years. The remaining \$410 million of pre-tax profits were distributed
 to Berkshire for deployment elsewhere.
 
 The key insight Buffett identifies as the basis for the purchase:

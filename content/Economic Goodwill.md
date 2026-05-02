@@ -41,10 +41,10 @@ The first is *acquisition pricing*. A buyer who refuses to pay
 above the tangible-asset book value of a business is implicitly
 treating Economic Goodwill as zero. For See's Candy Shops — which
 Buffett uses as the worked example — the tangible-asset value at
-acquisition was around $8 million; the price paid was $25 million;
-the $17 million Goodwill was, on the books, an accounting hair-shirt
+acquisition was around \$8 million; the price paid was \$25 million;
+the \$17 million Goodwill was, on the books, an accounting hair-shirt
 to be amortised against future earnings. Twenty years later, See's
-was producing roughly $13 million in pre-tax earnings on essentially
+was producing roughly \$13 million in pre-tax earnings on essentially
 the same tangible-asset base. The Economic Goodwill was many
 multiples of the Accounting Goodwill at acquisition, and was
 *growing* while the Accounting Goodwill was being mechanically
@@ -79,11 +79,11 @@ slowly or not at all. The 1983 letter's compressed line:
 
 The 1985 letter quantifies this for Berkshire's three then-largest
 operating businesses (NFM, See's, *News*). Aggregate pre-tax
-earnings rose from about $8 million fifteen years earlier to $72
+earnings rose from about \$8 million fifteen years earlier to \$72
 million in 1985 — *a 9× increase* — while invested capital rose by
-only about $40 million. The same earnings increase, achieved at
-the average American business's $5-of-additional-capital-per-$1-
-of-additional-earnings ratio, would have required over $300 million
+only about \$40 million. The same earnings increase, achieved at
+the average American business's \$5-of-additional-capital-per-\$1-
+of-additional-earnings ratio, would have required over \$300 million
 of additional capital. The gap is Economic Goodwill compounding;
 the asymmetry is precisely the one the 1983 appendix described.
 
@@ -112,7 +112,7 @@ The diagnostic also flags the failure mode in reverse. A business
 where the tangible-capital base swells without earnings rising in
 proportion is the opposite case — the textile case Buffett spends
 the 1985 letter dissecting. Burlington Industries committed roughly
-$3 billion of capital expenditure between 1964 and 1985 and ended
+\$3 billion of capital expenditure between 1964 and 1985 and ended
 up, in real terms, with sales-per-share purchasing power one-third
 of what it had been. The Goodwill was negative in any meaningful
 sense, even though accounting conventions never recognised this.

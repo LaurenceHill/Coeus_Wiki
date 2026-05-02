@@ -145,8 +145,8 @@ unprecedented for a public-company chairman: a printed
 will consider. The 1982 list — refined slightly each year through
 the 1980s and beyond — has six items:
 
-1. Large purchases (initially at least $5 million of after-tax
-   earnings; raised in the 1985 letter to $10 million).
+1. Large purchases (initially at least \$5 million of after-tax
+   earnings; raised in the 1985 letter to \$10 million).
 2. Demonstrated consistent earning power. *"Future projections are
    of little interest to us, nor are 'turn-around' situations."*
 3. Businesses earning good returns on equity while employing
@@ -166,7 +166,7 @@ deal sourcing: discussing terms before there is a price to anchor
 them on.
 
 The 1985 letter adds three things to the standing ad. It raises
-the minimum profit threshold to $10 million, reflecting Berkshire's
+the minimum profit threshold to \$10 million, reflecting Berkshire's
 growing capital base. It opens the door to stock-funded
 transactions — *"will consider issuance of stock when we receive
 as much in intrinsic business value as we give"* — under the
@@ -227,7 +227,7 @@ rate for incremental capital they use and credited at an equally high
 rate for capital they return to headquarters. The result is that it is
 in every manager's financial interest to send excess cash to Omaha.
 *"The product of this money's-not-free approach is definitely visible
-at Scott Fetzer"* — earnings grew from $40M in 1986 to $79M in 1994
+at Scott Fetzer"* — earnings grew from \$40M in 1986 to \$79M in 1994
 while capital employed stayed modest. See [[Owner Earnings]].
 
 ## The 1995 extension: no strategic plan as competitive advantage
@@ -315,7 +315,7 @@ the ideal home for ISCAR."* Buffett met the management team in November; a few
 hours convinced him that, if a deal were possible, *"we would be teaming up
 with extraordinarily talented managers who could be trusted to run the business
 after a sale with all of the energy and dedication that they had exhibited
-previously."* Berkshire purchased 80% for $4 billion in July 2006; the
+previously."* Berkshire purchased 80% for \$4 billion in July 2006; the
 Wertheimer family retained 20%.
 
 The business description Buffett offers is intentionally modest about its
@@ -337,7 +337,7 @@ Berkshire's preference for businesses with pricing power rooted in genuine
 value delivered rather than market position inherited.
 
 The TTI acquisition from the same year reinforces the permanent-home lesson
-from a different angle. Paul Andrews, who built TTI from $112,000 to $1.3
+from a different angle. Paul Andrews, who built TTI from \$112,000 to \$1.3
 billion in 35 years, rejected both a strategic buyer — whose *"pursuit of
 synergies"* would have dismantled what Andrews had built — and a private equity
 firm, which *"would very likely load the company with debt and then flip it as
@@ -413,6 +413,73 @@ is itself a competitive advantage that compounds. The Berkshire 1981
 deal that did not happen, and the Nomad positions that did not get
 sold for years, are examples of the same discipline.
 
+## Annual meeting additions: private equity depth, Singleton, and Kraft (1994–2024)
+
+[[sources/Buffett and Munger Unscripted]] extends the acquisition discipline
+argument with several case studies and formulations not in the Chairman's Letters.
+
+**Private equity critique: full treatment.** The 2008 letter contains an initial
+critique of the leveraged buyout model. The annual meetings extend it. Buffett
+and Munger's consistent position across multiple meetings: private equity's
+fee structure (2% management fee plus 20% carry) creates incentives to deploy
+capital quickly and to present IRRs in ways that obscure the J-curve and the
+cost of leverage. Specific problems raised: the J-curve (early returns look
+negative, but the reported IRR at exit excludes this); fee drag that is not
+visible in the headline return figure; the tendency to use subscription-line
+credit (short-term borrowing) to smooth the J-curve and inflate IRR; and
+the use of leverage as a substitute for business quality improvement.
+
+Munger's most direct formulation at meetings: *"There's a lot of lying going
+on in private equity — not enough to land anyone in jail, but enough to
+mislead investors."* The lying he describes is the selective presentation of
+returns, the obscuring of fees, and the relabelling of leverage-driven gains
+as operational improvements. The model is not uniformly bad — some private
+equity operators genuinely improve businesses — but the fee structure creates
+systematic incentives toward appearance management rather than value creation.
+
+**Investment banker idiocy.** A recurrent annual meeting theme: the
+investment banker's role in acquisitions is structurally biased toward
+completion. Bankers are paid only if deals close; their fairness opinions
+are, in Buffett's view, almost always "fair"; and the analysis they present
+is designed to justify the price their client wants to pay rather than to
+determine what the business is actually worth. Munger's standard characterisation:
+investment banking is a profession whose incentives produce systematically
+bad advice for acquirers. This does not mean individual bankers are corrupt —
+it means the structure of the industry produces recommendations that are
+predictably biased in one direction.
+
+**Henry Singleton: the right way to play the game.** The annual meetings
+contain Buffett's most fulsome assessment of Henry Singleton of Teledyne,
+whom Buffett considers one of the greatest capital allocators in American
+business history. Singleton's achievement: he issued Teledyne shares at high
+prices during the conglomerate boom of the 1960s (when the market was paying
+egregious multiples for conglomerates), then repurchased Teledyne shares
+at low prices when the conglomerate model fell out of favour in the 1970s.
+
+Buffett's comment: Singleton was "playing the game of the 1960s" — he
+understood that the market's willingness to pay 40–50x earnings for a
+conglomerate was an opportunity to issue shares and acquire real businesses
+at effective prices far below the market's valuation of those shares. Then,
+when the tide turned, he reversed: buying back shares aggressively when the
+market was pricing them below intrinsic value.
+
+The contrast with ordinary acquisition-hungry managers is total. Singleton
+issued shares when shares were expensive and bought shares when shares were
+cheap. Most managers do the opposite. See [[Issuance and Buyback Discipline]]
+for the full treatment.
+
+**Kraft vs. Heinz: a postmortem.** The Kraft Heinz deal (2015) is one of the
+few Berkshire acquisitions Buffett has explicitly acknowledged as a mistake
+at annual meetings. The postmortem: he overpaid for Kraft; the business had
+less pricing power and more competitive pressure than assessed at the time of
+the deal; and the attempt to reduce costs after the acquisition (led by 3G
+Capital's zero-based budgeting approach) could not offset the top-line
+deterioration. The lesson he draws is consistent with the acquisition
+discipline framework: paying too much for a business that doesn't have the
+pricing power to offset the premium is a durable mistake, regardless of how
+efficient the subsequent management is. Cost-cutting cannot create a moat
+that isn't there.
+
 ## Related
 
 - [[Berkshire Chairman's Letters]]
@@ -425,10 +492,12 @@ sold for years, are examples of the same discipline.
 - [[Issuance and Buyback Discipline]]
 - [[Berkshire Business Principles]]
 - [[Patience as Competitive Advantage]]
-- [[Leverage and Liquidity]] — Berkshire's permanent surplus liquidity
+- [[concepts/Leverage and Liquidity]] — Berkshire's permanent surplus liquidity
   is what enables acting as a capital supplier rather than supplicant
   in crisis acquisitions
-- [[Investment Risk vs Beta]] — the intrinsic-value-per-share test is also
+- [[concepts/Investment Risk vs Beta]] — the intrinsic-value-per-share test is also
   the correct risk measure for capital allocation decisions
 - [[Institutional Imperative]] — compensation alignment as the mechanism
   for keeping managers focused on intrinsic value rather than size
+- [[sources/Buffett and Munger Unscripted]] — private equity J-curve critique,
+  investment banker bias, Henry Singleton, Kraft Heinz postmortem

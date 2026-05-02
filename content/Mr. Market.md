@@ -184,7 +184,7 @@ financial architecture that makes crisis deployment possible.
 
 The 2009 letter also offers the most compressed version of the rain-gold
 maxim: *"When it's raining gold, reach for a bucket, not a thimble."*
-Berkshire deployed $15.5 billion in 25 days during the post-Lehman panic
+Berkshire deployed \$15.5 billion in 25 days during the post-Lehman panic
 — rates available during those days "would have been unavailable in normal
 markets."
 
@@ -212,6 +212,54 @@ Market's episodes — Graham himself, the investors in the
 is the refutation. See [[Financial Community Appraisal]] for Fisher's
 independently developed parallel argument.
 
+## The psychological foundations: why Mr. Market behaves as he does
+
+Graham described Mr. Market behaviourally — he is manic-depressive, he
+swings between euphoria and despair — but did not explain the underlying
+mechanism. Munger's [[Psychology of Human Misjudgment]] provides the
+architecture.
+
+Two tendencies account for the bulk of Mr. Market's moodiness.
+
+**Tendency #14: Deprival-Superreaction.** People respond to losses and
+near-losses with disproportionate emotional force relative to equivalent
+gains. A stock that falls 40% produces panic that far exceeds the
+satisfaction produced by an equivalent rise. This asymmetry is what
+makes falling prices so psychologically unbearable — and, by extension,
+why depressed markets persist longer than rational updating would predict.
+The investor who understands Deprival-Superreaction can reframe the fall
+as a buying opportunity while the average market participant experiences
+it as catastrophe; they are not in the same psychological situation
+even if they are looking at the same price.
+
+**Tendency #15: Social-Proof Tendency.** In conditions of uncertainty,
+people look to the behaviour and beliefs of others as a guide to their
+own. Falling prices imply that other market participants are selling,
+which in itself constitutes evidence — through Social-Proof — that
+selling is the correct action. This is self-reinforcing: the more prices
+fall, the stronger the social-proof signal becomes, the more others sell,
+and the further prices fall. Munger's observation is that this mechanism
+does not require anyone to be consciously irrational; perfectly normal
+people, updating on social evidence as they normally would, can produce
+extreme market dislocations. Mr. Market's "incurable emotional problems"
+are not pathological; they are what Social-Proof Tendency produces when
+applied to asset prices in uncertain conditions.
+
+The combination of the two tendencies — the magnification of losses
+(Deprival-Superreaction) amplified by others' behaviour (Social-Proof)
+— is a mild [[Lollapalooza Effect]]: neither alone would produce the
+magnitude of divergence from intrinsic value that Mr. Market periodically
+delivers. Together they can move prices 30–50% from fair value in either
+direction, as Berkshire's own price history demonstrates across four
+major dislocations since 1970.
+
+The practical implication runs in both directions. The investor who
+understands these mechanisms is less likely to be swept into panic selling
+by Deprival-Superreaction, and less likely to accept social-proof signals
+from falling prices as evidence about underlying business quality. They
+can maintain the independent assessment of intrinsic value that the
+parable requires.
+
 ## The failure mode
 
 The parable has two ways to misapply it. The first is to assume that
@@ -233,6 +281,65 @@ as a reason to hold a deteriorating business is using the parable as
 emotional cover for analytical failure. The parable provides a posture
 toward market prices, not a substitute for re-evaluating the business itself.
 
+## Annual meeting additions: live formulations (1994–2024)
+
+[[sources/Buffett and Munger Unscripted]] provides several formulations of
+the Mr. Market idea that do not appear in the Chairman's Letters.
+
+**The psychotic drunk (2012).** The fullest annual meeting formulation of Mr.
+Market's character: *"Think of the stock market as a very obliging fellow — a
+psychotic drunk who comes to you every day and offers to buy your farm or sell
+you his farm at different prices, and you don't have to listen to him. He's
+the most obliging money-making place in the world. You just don't have to
+respond when he's drunk or psychotic."* The addition of "psychotic" to the
+"manic-depressive" language of the Letters is meaningful — it captures not
+just mood swings but the disconnection from reality that characterises extreme
+market moves. The "most obliging money-making place in the world" framing is
+Buffett's most positive statement about market structure: the mechanism that
+produces irrationality is the same mechanism that produces opportunity.
+
+**Four Berkshire price halvings.** Buffett has noted at meetings that
+Berkshire's own stock has declined by 50% or more on four separate occasions
+during his tenure. His framing: each of these occasions was a market event,
+not a business event. The intrinsic value of Berkshire did not decline by 50%
+in any of those periods; the market price did. The correct response each time
+was to do nothing (or buy more) rather than panic-sell. This is the
+operational proof of the Mr. Market posture: it is easy to state as a
+principle, hard to maintain at 50% down.
+
+**Market timing admissions.** The annual meetings contain Buffett's most
+candid confessions about his own failure to exploit Mr. Market's moods:
+*"We have not been good at timing."* Specific instances: he deployed \$16
+billion at what turned out to be terrible prices in September 2008 (before
+markets fell further); he missed the March 2009 bottom (when prices were
+lower); he missed the March 2020 bottom. The lesson he draws is not "try
+harder to time markets" but "we are not good at timing, we should focus
+on businesses rather than market levels." This is consistent with the Mr.
+Market framework: use price dislocations opportunistically, but don't
+believe you can reliably predict when they will occur or when they will
+reverse. See [[concepts/Important and Knowable]] — market timing is
+important but not knowable.
+
+**"Investment is about valuing businesses — that is all there is to it."**
+One of the clearest single-sentence encapsulations from the meetings.
+The Mr. Market parable is ultimately about directing attention: ignore the
+price ticker and focus on the underlying economics. The price is the output
+of whatever mood Mr. Market happens to be in. The value is what the business
+will earn over its remaining life, discounted appropriately. The entire
+discipline of value investing is contained in the discipline of attending
+to the second and ignoring the first.
+
+**One-legged man in an ass-kicking contest.** Munger's formulation at
+meetings for the competitive position of the continuous learner in financial
+markets: someone who keeps upgrading their mental models has an advantage
+over someone who stopped learning. The image captures the asymmetry — the
+other participants are not bad, they simply have one leg fewer in a contest
+where mobility matters. This is the positive complement to Mr. Market's
+irrationality: what makes Mr. Market exploitable is not that participants
+are foolish, but that the combination of psychological biases, institutional
+constraints, and short-termism leaves systematic opportunity for the patient,
+continuously-improving investor.
+
 ## Contradictions
 
 There is a tension between the Mr. Market framework and the [[Selling vs Holding Forever]] contradiction page. Mr. Market says sell when he is
@@ -247,6 +354,11 @@ positions, Mr. Market's euphoric moods are genuine selling triggers.
 ## Related
 
 - [[Berkshire Chairman's Letters]]
+- [[Psychology of Human Misjudgment]] — Munger's systematic framework;
+  Tendencies #14 (Deprival-Superreaction) and #15 (Social-Proof) are the
+  psychological mechanisms underlying Mr. Market's manic-depressive behaviour
+- [[Lollapalooza Effect]] — the confluence of Deprival-Superreaction and
+  Social-Proof that produces extreme market dislocations
 - [[Financial Community Appraisal]] — Fisher's parallel structural argument
 - [[Selling vs Holding Forever]] — the tension between exploiting Mr.
   Market's euphoria and holding permanently
@@ -263,6 +375,8 @@ positions, Mr. Market's euphoric moods are genuine selling triggers.
   acting at scale when Mr. Market panics
 - [[Investment Categories]] — the 2011 framework explaining why productive
   assets are genuinely safer over long periods despite price volatility
-- [[Investment vs Speculation]] — the distinction between focusing on the
+- [[concepts/Investment vs Speculation]] — the distinction between focusing on the
   asset's productivity (investment) and focusing on Mr. Market's moods
   (speculation)
+- [[sources/Buffett and Munger Unscripted]] — psychotic drunk (2012), four
+  halvings, timing admissions, valuing businesses quote

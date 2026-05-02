@@ -28,7 +28,7 @@ A chart reproduced in the 2012 letter (from the Franklin Institute's
 1927 recommendation of Ford for the Elliott Cresson Medal) shows
 production volume rising from zero to just over two million cars per
 annum between 1908 and 1924, while the price to consumers fell from
-roughly $950 to roughly $300. Ford did not extract the scale benefit
+roughly \$950 to roughly \$300. Ford did not extract the scale benefit
 as margin; he lowered prices, which expanded the addressable market,
 which allowed further scale, which supported further price reductions.
 
@@ -150,6 +150,39 @@ discipline under short-term earnings pressure, or if a competitor
 achieves equivalent scale first. The model is an asymmetric opportunity,
 not a certainty.
 
+## Why the model supports long-run survival: the scaling laws foundation
+
+Sleep's June 2007 interim letter introduces a parallel from biology — Geoff West's work
+on scaling laws at the Santa Fe Institute — that explains *why* Scale Economics Shared
+is not merely an attractive business model but a structurally long-lived one. The
+biological argument is that an organism's longevity is determined by the relationship
+between its skeletal architecture and its metabolic efficiency: larger animals burn less
+energy per unit of mass (Kleiber's Law), but only if their circulatory structure can support
+the increased size. Complexity is the constraint. A mouse heart must work harder not
+because it is a worse heart but because a mouse body cannot accommodate the widening
+blood vessels that allow larger animals to reduce circulatory drag.
+
+The investor translation Sleep draws is precise: a business's ability to grow from mouse
+to elephant depends on whether its basic operating structure — its skeletal structure — can
+support increasing size without fundamental re-engineering. Complexity is the main reason
+firms fail as they try to grow. A high street retailer with variable service quality across
+thousands of locations has a complex skeleton. Amazon, whose customer experience is
+uniform across geographies because it is fixed in a web site rather than dependent on
+local staff and property, has a simple one.
+
+Scale Economics Shared is the business model with the most favourable power law,
+in Sleep's analysis, precisely because the mechanism of scaling *is* the mechanism of
+moat-widening. Each cycle of lower prices → more volume → greater purchasing power
+→ further price reductions widens the competitive gap rather than merely sustaining it.
+This is the mouse-to-elephant journey where size itself is the defence.
+
+The scaling laws analysis also clarifies the danger of "harvesting" — extracting margin
+from customers rather than sharing scale gains. Sleep's 2005 "Measuring the Moat"
+appendix is explicit: *"Too much, however, and the moat is drained with negative
+consequences for longevity."* Costco's discipline of keeping margins structurally low is
+not generosity; it is the mechanism that preserves the skeletal integrity of the model. See
+[[Scaling Laws]] for the full biological and investor argument.
+
 ## Thiel's reinforcing analysis
 
 Thiel's [[Creative Monopoly]] identifies network effects and economies of
@@ -186,6 +219,9 @@ are those benchmarked to short-term earnings comparisons.
 
 ## Related
 
+- [[Scaling Laws]] — the biological and complexity-science foundation
+  for why SES businesses are structurally suited to long-run survival;
+  Kleiber's Law, skeletal structure, and the longevity of compound
 - [[Robustness Ratio]]
 - [[Destination Analysis]]
 - [[Patience as Competitive Advantage]]

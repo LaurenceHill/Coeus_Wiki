@@ -127,7 +127,7 @@ is largely tangible bleeds dollars to the tapeworm year after
 year. A business whose value is largely intangible does not — its
 brand, its distribution relationships, its regulatory position do
 not need replacement-cost capital to maintain their real value.
-The 1983 letter's See's example is the canonical case: $8 million
+The 1983 letter's See's example is the canonical case: \$8 million
 of tangible assets at acquisition produced earnings that grew with
 inflation while the asset base required only modest reinvestment.
 The owner of See's was protected from the inflation tax in a way
@@ -136,11 +136,11 @@ was not.
 
 The 1985 letter's three-businesses table quantifies the protection
 for Berkshire. Aggregate pre-tax earnings at NFM, See's, and the
-*Buffalo News* rose from $8 million fifteen years earlier to $72
+*Buffalo News* rose from \$8 million fifteen years earlier to \$72
 million in 1985 — a ninefold rise — while invested capital rose
-by only about $40 million. The same earnings rise at the average
-American business's $5-of-additional-capital-per-$1-of-additional-
-earnings ratio would have required over $300 million of additional
+by only about \$40 million. The same earnings rise at the average
+American business's \$5-of-additional-capital-per-\$1-of-additional-
+earnings ratio would have required over \$300 million of additional
 capital. The Economic Goodwill compounded; the tangible-capital
 base did not need to. The 1983 inflation argument has, in
 [[Economic Goodwill]], its operational answer: the criterion 2

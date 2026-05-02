@@ -3,7 +3,9 @@
 **Source:** [[Berkshire Chairman's Letters]] — 2005 letter, "How to
 Minimise Investment Returns" section; extended in the 2006 letter;
 The Bet partial results in the 2016 letter and final results in the
-2017 letter.
+2017 letter. [[sources/Poor Charlie's Almanack]] — Talk 2 ("A Lesson on
+Elementary Worldly Wisdom," 1994): the Galbraith bezzle and Munger's
+extension to "febezzlement."
 
 ## Summary
 
@@ -16,7 +18,7 @@ returns, and the intermediaries have been multiplying.
 
 The setup: imagine that all American corporations are permanently owned by a
 single family, the Gotrocks. Generation after generation, the family grows
-richer at the rate the underlying businesses earn — currently about $700
+richer at the rate the underlying businesses earn — currently about \$700
 billion per year after tax. No money is lost to trading, no fees leave the
 family. The aggregate gain is the aggregate business earnings. *"In the
 Gotrocks household everyone grows wealthier at the same pace, and all is
@@ -61,10 +63,10 @@ each year regardless of performance; twenty per cent of profits is taken when
 the manager succeeds. The worked example: a manager who achieves a gross
 return of 10% in a year keeps 3.6 percentage points — two off the top plus
 20% of the residual 8 points — leaving only 6.4 percentage points for the
-investor. On a $3 billion fund, this delivers the manager $108 million, even
+investor. On a \$3 billion fund, this delivers the manager \$108 million, even
 if an index fund returned 15% to investors in the same period and charged a
 token fee. The investor underperforms the market by 8.6 percentage points
-and pays $108 million for the privilege.
+and pays \$108 million for the privilege.
 
 *"The inexorable math of this grotesque arrangement is certain to make the
 Gotrocks family poorer over time than it would have been had it never heard
@@ -125,7 +127,7 @@ The Gotrocks allegory is a theoretical argument. Beginning in the 2016
 letter and concluding in the 2017 letter, Buffett presents a decade-long
 controlled experiment that converts the theory into data.
 
-On 19 December 2007, Buffett made a $500,000 wager with investment firm
+On 19 December 2007, Buffett made a \$500,000 wager with investment firm
 Protégé Partners: a single, virtually cost-free S&P 500 index fund against
 five hand-selected funds-of-funds, each of which in turn held interests in
 more than 200 underlying hedge funds. The 200-plus hedge funds were managed
@@ -182,6 +184,42 @@ the great majority of investment professionals over the long run… Both large
 and small investors should stick with low-cost index funds."* Bogle is
 described as *"a hero to them and to me."*
 
+## Febezzlement: when rising markets conceal the take
+
+Munger's most original extension of the Gotrocks logic appears in Talk 2
+of the Almanack, where he reaches back to John Kenneth Galbraith's 1955
+work *The Great Crash* for the concept of the "bezzle."
+
+Galbraith's insight: embezzlement creates a curious interval of inflated
+happiness. During the period between when money is taken and when the
+theft is discovered, the embezzler feels richer and the victim does not
+yet feel poorer — both parties, simultaneously, believe they own the
+same asset. Net happiness in the world is momentarily above what the
+underlying reality supports. Galbraith called this surplus of illusory
+wealth the "bezzle," and noted that it expands in boom times (when
+controls are relaxed and opportunities multiply) and contracts sharply
+in busts (when discovery arrives).
+
+Munger's extension is named "febezzlement" — the fee-bezzle. The
+mechanism is the same but the agent is different: instead of an
+embezzler, the extractor is the financial intermediary industry. In a
+rising market, investors feel prosperous even as their after-fee returns
+are running substantially below what passive ownership would have
+produced. The fees have been charged; the returns have been reduced; but
+because prices are rising, the investor's account balance is going up
+anyway. The extraction is invisible. Net happiness is inflated above what
+the underlying return reality supports.
+
+The illusion persists as long as markets rise. When markets fall or
+flatten, the drag becomes visible: investors who were paying 2-and-20
+discover that a decade of intermediary fees has consumed what would
+otherwise have been a substantial fraction of their wealth. The
+febezzlement is then recognised — but it cannot be recovered. Munger's
+point is that the Gotrocks allegory is not merely a theoretical argument
+about aggregates; the febezzlement framework explains why the damage
+goes unnoticed and unchallenged for so long. Rising markets are the
+embezzler's alibi.
+
 ## Related
 
 - [[Berkshire Chairman's Letters]]
@@ -199,3 +237,5 @@ described as *"a hero to them and to me."*
 - [[American Tailwind]] — the 77-year compounding argument that puts the
   helper-cost drag in its starkest long-run form: a 1% annual fee halves
   terminal wealth over that horizon
+- [[sources/Poor Charlie's Almanack]] — Talk 2 (febezzlement; Galbraith's
+  bezzle extended to financial intermediary fee drag in bull markets)

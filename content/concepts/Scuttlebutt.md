@@ -143,6 +143,46 @@ specific application differs because Sleep was primarily evaluating
 businesses from the outside while Fisher describes a process that includes
 direct access to management through plant visits and one-on-one meetings.
 
+## Buffett's application: the silver bullet and 20,000 Moody's pages
+
+[[sources/Buffett and Munger Unscripted]] provides two specific
+illustrations of scuttlebutt-style research in Buffett's own practice that
+do not appear in the Chairman's Letters.
+
+**The silver bullet method.** Buffett has described at annual meetings a
+thought experiment he has applied when evaluating a company's competitive
+position: *"If I could only ask one person one question to determine whether
+to invest in this company, what would that question be?"* The discipline
+forces analytical priorities. For a branded consumer goods company, the
+question might be about pricing power. For a financial services firm,
+about the consistency of underwriting discipline over a full cycle. For a
+retailer, about the durability of the cost advantage relative to new entrants.
+
+The silver bullet question is scuttlebutt concentrated to its essence: it
+identifies the single most important fact that would determine whether the
+investment thesis holds, and directs research energy toward verifying or
+falsifying that specific fact rather than producing a comprehensive but
+unfocused research report.
+
+**The 20,000 Moody's pages.** Buffett has described beginning his investment
+career by reading through the entire Moody's Manual — approximately 20,000
+pages — looking for investment ideas. He found many. The exercise illustrates
+a form of scuttlebutt applied to the written record: systematic coverage
+of a large body of data in search of situations where the market's assessment
+is obviously wrong relative to the facts available in the public record.
+The method is not glamorous; it is exhaustive. But it produced actionable
+ideas precisely because most investors don't do it.
+
+**The Harrisburg story.** Among the discoveries in the Moody's Manual
+was a small bond situation in an obscure municipality — the kind of
+security that no analyst covered and no institution cared about, but
+which offered a large discrepancy between stated value and market price.
+Buffett invested and made money. The scuttlebutt lesson: the most
+exploitable mispricings are in places where no one is looking, because
+the attention of the market is the mechanism that corrects mispricings.
+The investors who are willing to cover the ground that others won't
+find the situations others can't.
+
 ## Related
 
 - [[Fifteen Points]] — the evaluation framework scuttlebutt is designed
@@ -158,3 +198,5 @@ direct access to management through plant visits and one-on-one meetings.
   the underlying facts
 - [[Paths to Wealth Through Common Stocks]] — where Fisher acknowledges
   the method's speed limitation and predicts team-based research as its successor
+- [[sources/Buffett and Munger Unscripted]] — silver bullet method,
+  20,000 Moody's pages, Harrisburg story
