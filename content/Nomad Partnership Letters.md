@@ -27,10 +27,10 @@ wanted to do.
 ## Performance record
 
 A dollar invested at inception (September 10th, 2001) had grown to
-$$10.21 before fees, or $$4.93 after fees, by the end of 2013. The
-annualised pre-fee return over the period was 20.8% per annum versus
-6.5% for the MSCI World Index. Net of fees, 18.4% per annum against the
-same benchmark. The best calendar year was 2003 (+79.6%); the worst was
+$$10.21 before fees, or approximately $$8.00 after fees, by the end of
+2013\. The annualised pre-fee return over the period was 20.8% per annum
+versus 6.5% for the MSCI World Index. Net of fees, 18.4% per annum
+against the same benchmark. The best calendar year was 2003 (+79.6%); the worst was
 2008 (–45.3%, against the index's –40.7%). The Partnership closed in
 2014\.
 
